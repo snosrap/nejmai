@@ -1,1 +1,7 @@
-
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "NEJM AI",
+    "home_page_url": "https://ai.nejm.org",
+    "favicon": "https://ai.nejm.org/favicon.ico",
+    "items": []
+}
