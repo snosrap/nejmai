@@ -1,205 +1,205 @@
 {
-    "version": "https://jsonfeed.org/version/1.1",
-    "title": "NEJM AI",
-    "home_page_url": "https://ai.nejm.org",
-    "favicon": "https://ai.nejm.org/favicon.ico",
-    "items": [
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "NEJM AI",
+  "home_page_url": "https://ai.nejm.org",
+  "favicon": "https://ai.nejm.org/favicon.ico",
+  "items": [
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
+      "title": "Artificial Intelligence\u2013Based Copilots to Generate Causal Evidence",
+      "content_text": "A structured approach for leveraging advances in generative artificial intelligence to improve the quality of causal analyses using real-world health data.",
+      "date_published": "2024-11-22T00:00:00+00:00",
+      "authors": [
         {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
-            "title": "Artificial Intelligence\u2013Based Copilots to Generate Causal Evidence",
-            "content_text": "A structured approach for leveraging advances in generative artificial intelligence to improve the quality of causal analyses using real-world health data.",
-            "date_published": "2024-11-22T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "M. Petersen and Others"
-                }
-            ],
-            "tags": [
-                "Perspective"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400727",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/d7a6f4dc-901f-4836-a7fd-66da72295164/aip2400727_f1.gif"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
-            "title": "Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study",
-            "content_text": "Using DAX Copilot did not make clinicians more efficient in EHR use or financial impact, except for time spent in documentation for high DAX users.",
-            "date_published": "2024-11-22T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "T.-L. Liu and Others"
-                }
-            ],
-            "tags": [
-                "Original Article"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400659",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/63d29d81-c77d-4cb6-9629-af6667e46a59/aioa2400659_f1.gif"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
-            "title": "National Use of Artificial Intelligence for Eye Screening in Singapore",
-            "content_text": "Drawing on the experience of the first-ever artificial intelligence software-as-a-medical-device solution successfully approved by regulators and implemented at a country-wide health care system level, this case study discusses a sequential roadmap of lessons learnt in overcoming practical challenges to facilitate the planning of the successful development, adoption, and diffusion of medical AI solutions in health care settings.",
-            "date_published": "2024-11-19T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "D.V. Gunasekeran and Others"
-                }
-            ],
-            "tags": [
-                "Case Study"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400404",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/131c9304-9298-4d69-bda1-7ec5beb45281/aics2400404_f1.gif"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
-            "title": "Mary Steps Out: Capturing Patient Experience through Qualitative and AI Methods",
-            "content_text": "An examination of the inherent experiential gap between researchers and their participants by viewing the problem through the lens of a popular thought experiment involving the perception of color.",
-            "date_published": "2024-11-06T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "V. Renard and Others"
-                }
-            ],
-            "tags": [
-                "Perspective"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400567",
-                    "mime_type": "application/pdf"
-                }
-            ]
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400420",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400420",
-            "title": "Large Language Models for More Efficient Reporting of Hospital Quality Measures",
-            "content_text": "Hospital quality measures are a vital component of a learning health system, yet they remain costly to report, can be statistically underpowered, and suffer from poor interrater reliability. Here, we demonstrate that large language models with interoperable electronic health record data can perform abstractions for complex quality measures that are accurate, consistent, timely, and scalable.",
-            "date_published": "2024-10-21T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "A. Boussina and Others"
-                }
-            ],
-            "tags": [
-                "Case Study"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400420",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/0b4e3f45-2785-4578-b5f5-491c500bb267/aics2400420_f1.gif"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400865",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400865",
-            "title": "PROTEUS: A Prospective RCT Evaluating Use of AI in Stress Echocardiography",
-            "content_text": "The first prospective randomized controlled trial for an artificial intelligence device in stress echocardiography examining the impact on patient outcomes.",
-            "date_published": "2024-10-18T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "R. Upton and Others"
-                }
-            ],
-            "tags": [
-                "Original Article"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400865",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400865_Upton-1729697404220.jpg"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400468",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400468",
-            "title": "AI-Based Anomaly Detection for Clinical-Grade Histopathological Diagnostics",
-            "content_text": "A deep anomaly detection approach for histopathology shows high detection performance for a broad range of diseases (including all cancers) within the long diagnostic tail in gastrointestinal biopsies.",
-            "date_published": "2024-10-18T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "J. Dippel and Others"
-                }
-            ],
-            "tags": [
-                "Original Article"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400468",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/d71cd626-5d9a-43fc-9a63-a7396f3cbc42/aioa2400468_f4.gif"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400661",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400661",
-            "title": "AI for Oncology Drug Data Harmonization \u2014 Amazon versus OpenAI",
-            "content_text": "This case study gives an evaluation of the ability of potentially powerful computational tools available to the drug development community to harmonize real-world oncology data as the foundation for scalable drug development informatics pipelines.",
-            "date_published": "2024-10-18T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "J.G. Ronquillo and Others"
-                }
-            ],
-            "tags": [
-                "Case Study"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400661",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/bdec6b99-06c0-46aa-ad99-67ea6d07b532/aics2400661_f4.gif"
-        },
-        {
-            "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400502",
-            "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400502",
-            "title": "Combining Multiple Large Language Models Improves Diagnostic Accuracy",
-            "content_text": "This study has tested the synthesis of high-accuracy differential diagnoses by aggregating responses from multiple heterogeneous large language models using methods for knowledge aggregation from the field of collective intelligence.",
-            "date_published": "2024-10-17T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "G. Barabucci and Others"
-                }
-            ],
-            "tags": [
-                "Case Study"
-            ],
-            "attachments": [
-                {
-                    "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400502",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://ai.nejm.org/cms/asset/d3c8c271-96c2-43ba-af08-c4a56731c61f/aics2400502_f1.gif"
+          "name": "M. Petersen and Others"
         }
-    ]
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400727",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/d7a6f4dc-901f-4836-a7fd-66da72295164/aip2400727_f1.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
+      "title": "Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study",
+      "content_text": "Using DAX Copilot did not make clinicians more efficient in EHR use or financial impact, except for time spent in documentation for high DAX users.",
+      "date_published": "2024-11-22T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "T.-L. Liu and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400659",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/63d29d81-c77d-4cb6-9629-af6667e46a59/aioa2400659_f1.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
+      "title": "National Use of Artificial Intelligence for Eye Screening in Singapore",
+      "content_text": "Drawing on the experience of the first-ever artificial intelligence software-as-a-medical-device solution successfully approved by regulators and implemented at a country-wide health care system level, this case study discusses a sequential roadmap of lessons learnt in overcoming practical challenges to facilitate the planning of the successful development, adoption, and diffusion of medical AI solutions in health care settings.",
+      "date_published": "2024-11-19T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "D.V. Gunasekeran and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400404",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/131c9304-9298-4d69-bda1-7ec5beb45281/aics2400404_f1.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
+      "title": "Mary Steps Out: Capturing Patient Experience through Qualitative and AI Methods",
+      "content_text": "An examination of the inherent experiential gap between researchers and their participants by viewing the problem through the lens of a popular thought experiment involving the perception of color.",
+      "date_published": "2024-11-06T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "V. Renard and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400567",
+          "mime_type": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400420",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400420",
+      "title": "Large Language Models for More Efficient Reporting of Hospital Quality Measures",
+      "content_text": "Hospital quality measures are a vital component of a learning health system, yet they remain costly to report, can be statistically underpowered, and suffer from poor interrater reliability. Here, we demonstrate that large language models with interoperable electronic health record data can perform abstractions for complex quality measures that are accurate, consistent, timely, and scalable.",
+      "date_published": "2024-10-21T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "A. Boussina and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400420",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/0b4e3f45-2785-4578-b5f5-491c500bb267/aics2400420_f1.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400865",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400865",
+      "title": "PROTEUS: A Prospective RCT Evaluating Use of AI in Stress Echocardiography",
+      "content_text": "The first prospective randomized controlled trial for an artificial intelligence device in stress echocardiography examining the impact on patient outcomes.",
+      "date_published": "2024-10-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "R. Upton and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400865",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400865_Upton-1729697404220.jpg"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400468",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400468",
+      "title": "AI-Based Anomaly Detection for Clinical-Grade Histopathological Diagnostics",
+      "content_text": "A deep anomaly detection approach for histopathology shows high detection performance for a broad range of diseases (including all cancers) within the long diagnostic tail in gastrointestinal biopsies.",
+      "date_published": "2024-10-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J. Dippel and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400468",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/d71cd626-5d9a-43fc-9a63-a7396f3cbc42/aioa2400468_f4.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400661",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400661",
+      "title": "AI for Oncology Drug Data Harmonization \u2014 Amazon versus OpenAI",
+      "content_text": "This case study gives an evaluation of the ability of potentially powerful computational tools available to the drug development community to harmonize real-world oncology data as the foundation for scalable drug development informatics pipelines.",
+      "date_published": "2024-10-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J.G. Ronquillo and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400661",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/bdec6b99-06c0-46aa-ad99-67ea6d07b532/aics2400661_f4.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400502",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400502",
+      "title": "Combining Multiple Large Language Models Improves Diagnostic Accuracy",
+      "content_text": "This study has tested the synthesis of high-accuracy differential diagnoses by aggregating responses from multiple heterogeneous large language models using methods for knowledge aggregation from the field of collective intelligence.",
+      "date_published": "2024-10-17T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "G. Barabucci and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400502",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/d3c8c271-96c2-43ba-af08-c4a56731c61f/aics2400502_f1.gif"
+    }
+  ]
 }
