@@ -8,6 +8,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
       "title": "Artificial Intelligence\u2013Based Copilots to Generate Causal Evidence",
+      "summary": "A structured approach for leveraging advances in generative artificial intelligence to improve the quality of causal analyses using real-world health data.",
       "content_text": "A structured approach for leveraging advances in generative artificial intelligence to improve the quality of causal analyses using real-world health data.",
       "date_published": "2024-11-22T00:00:00+00:00",
       "authors": [
@@ -30,6 +31,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
       "title": "Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study",
+      "summary": "Using DAX Copilot did not make clinicians more efficient in EHR use or financial impact, except for time spent in documentation for high DAX users.",
       "content_text": "Using DAX Copilot did not make clinicians more efficient in EHR use or financial impact, except for time spent in documentation for high DAX users.",
       "date_published": "2024-11-22T00:00:00+00:00",
       "authors": [
@@ -52,6 +54,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
       "title": "National Use of Artificial Intelligence for Eye Screening in Singapore",
+      "summary": "Drawing on the experience of the first-ever artificial intelligence software-as-a-medical-device solution successfully approved by regulators and implemented at a country-wide health care system level, this case study discusses a sequential roadmap of lessons learnt in overcoming practical challenges to facilitate the planning of the successful development, adoption, and diffusion of medical AI solutions in health care settings.",
       "content_text": "Drawing on the experience of the first-ever artificial intelligence software-as-a-medical-device solution successfully approved by regulators and implemented at a country-wide health care system level, this case study discusses a sequential roadmap of lessons learnt in overcoming practical challenges to facilitate the planning of the successful development, adoption, and diffusion of medical AI solutions in health care settings.",
       "date_published": "2024-11-19T00:00:00+00:00",
       "authors": [
@@ -74,6 +77,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
       "title": "Mary Steps Out: Capturing Patient Experience through Qualitative and AI Methods",
+      "summary": "An examination of the inherent experiential gap between researchers and their participants by viewing the problem through the lens of a popular thought experiment involving the perception of color.",
       "content_text": "An examination of the inherent experiential gap between researchers and their participants by viewing the problem through the lens of a popular thought experiment involving the perception of color.",
       "date_published": "2024-11-06T00:00:00+00:00",
       "authors": [
@@ -95,6 +99,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400420",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400420",
       "title": "Large Language Models for More Efficient Reporting of Hospital Quality Measures",
+      "summary": "Hospital quality measures are a vital component of a learning health system, yet they remain costly to report, can be statistically underpowered, and suffer from poor interrater reliability. Here, we demonstrate that large language models with interoperable electronic health record data can perform abstractions for complex quality measures that are accurate, consistent, timely, and scalable.",
       "content_text": "Hospital quality measures are a vital component of a learning health system, yet they remain costly to report, can be statistically underpowered, and suffer from poor interrater reliability. Here, we demonstrate that large language models with interoperable electronic health record data can perform abstractions for complex quality measures that are accurate, consistent, timely, and scalable.",
       "date_published": "2024-10-21T00:00:00+00:00",
       "authors": [
@@ -117,6 +122,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400865",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400865",
       "title": "PROTEUS: A Prospective RCT Evaluating Use of AI in Stress Echocardiography",
+      "summary": "The first prospective randomized controlled trial for an artificial intelligence device in stress echocardiography examining the impact on patient outcomes.",
       "content_text": "The first prospective randomized controlled trial for an artificial intelligence device in stress echocardiography examining the impact on patient outcomes.",
       "date_published": "2024-10-18T00:00:00+00:00",
       "authors": [
@@ -139,6 +145,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400468",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400468",
       "title": "AI-Based Anomaly Detection for Clinical-Grade Histopathological Diagnostics",
+      "summary": "A deep anomaly detection approach for histopathology shows high detection performance for a broad range of diseases (including all cancers) within the long diagnostic tail in gastrointestinal biopsies.",
       "content_text": "A deep anomaly detection approach for histopathology shows high detection performance for a broad range of diseases (including all cancers) within the long diagnostic tail in gastrointestinal biopsies.",
       "date_published": "2024-10-18T00:00:00+00:00",
       "authors": [
@@ -161,6 +168,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400661",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400661",
       "title": "AI for Oncology Drug Data Harmonization \u2014 Amazon versus OpenAI",
+      "summary": "This case study gives an evaluation of the ability of potentially powerful computational tools available to the drug development community to harmonize real-world oncology data as the foundation for scalable drug development informatics pipelines.",
       "content_text": "This case study gives an evaluation of the ability of potentially powerful computational tools available to the drug development community to harmonize real-world oncology data as the foundation for scalable drug development informatics pipelines.",
       "date_published": "2024-10-18T00:00:00+00:00",
       "authors": [
@@ -183,6 +191,7 @@
       "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400502",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400502",
       "title": "Combining Multiple Large Language Models Improves Diagnostic Accuracy",
+      "summary": "This study has tested the synthesis of high-accuracy differential diagnoses by aggregating responses from multiple heterogeneous large language models using methods for knowledge aggregation from the field of collective intelligence.",
       "content_text": "This study has tested the synthesis of high-accuracy differential diagnoses by aggregating responses from multiple heterogeneous large language models using methods for knowledge aggregation from the field of collective intelligence.",
       "date_published": "2024-10-17T00:00:00+00:00",
       "authors": [
