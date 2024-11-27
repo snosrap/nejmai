@@ -5,6 +5,54 @@
   "favicon": "https://jamanetwork.com/favicon.ico",
   "items": [
     {
+      "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/10.1001/jamaophthalmol.2024.4493",
+      "title": "Use of Artificial Intelligence\u2013Based Detection of Diabetic Retinopathy in the US",
+      "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/10.1001/jamaophthalmol.2024.4493",
+      "summary": "JAMA Ophthalmology",
+      "date_published": "2024-10-31T00:00:00+00:00",
+      "content_text": "",
+      "tags": [
+        "Research Letter"
+      ],
+      "authors": [
+        {
+          "name": "Shreya A.\u00a0Shah,\u00a0BS; Jared T.\u00a0Sokol,\u00a0MD,\u00a0MBA; Karen M.\u00a0Wai,\u00a0MD; et\u00a0al."
+        }
+      ]
+    },
+    {
+      "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
+      "title": "Primary Visual Pathway Changes in Individuals With Chronic Mild Traumatic Brain Injury",
+      "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
+      "summary": "JAMA Ophthalmology",
+      "date_published": "2024-11-27T00:00:00+00:00",
+      "content_text": "",
+      "tags": [
+        "Original Investigation"
+      ],
+      "authors": [
+        {
+          "name": "Marselle A.\u00a0Rasdall,\u00a0MD; Chloe Cho,\u00a0BS; Amy N.\u00a0Stahl,\u00a0AuD; et\u00a0al."
+        }
+      ]
+    },
+    {
+      "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826511",
+      "title": "Outdoor Artificial Light at Night and Insomnia-Related Social Media Posts",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826511",
+      "summary": "JAMA Network Open",
+      "date_published": "2024-11-20T00:00:00+00:00",
+      "content_text": "",
+      "tags": [
+        "Original Investigation"
+      ],
+      "authors": [
+        {
+          "name": "Jiahao Duan,\u00a0BS; Qian Li,\u00a0MS; Zhouxin Yin,\u00a0MM; et\u00a0al."
+        }
+      ]
+    },
+    {
       "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2826718",
       "title": "Power of Digital Nudges to Boost Influenza Vaccination Rates",
       "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2826718",
@@ -49,54 +97,6 @@
       "authors": [
         {
           "name": "Sachin D. Shah, MD"
-        }
-      ]
-    },
-    {
-      "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2024.45327",
-      "title": "Demographic and Clinical Characteristics Associated With Veterans\u2019 Digital Needs",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2024.45327",
-      "summary": "JAMA Network Open",
-      "date_published": "2024-11-15T00:00:00+00:00",
-      "content_text": "",
-      "tags": [
-        "Original Investigation"
-      ],
-      "authors": [
-        {
-          "name": "Lauren E. Russell, MPH, MPP; Portia Y. Cornell, PhD; Christopher W. Halladay, ScM; et\u00a0al"
-        }
-      ]
-    },
-    {
-      "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825453",
-      "title": "Maximizing the Ability of Health IT and AI to Improve Patient Safety",
-      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825453",
-      "summary": "JAMA Internal Medicine",
-      "date_published": "2024-10-28T00:00:00+00:00",
-      "content_text": "",
-      "tags": [
-        "Viewpoint"
-      ],
-      "authors": [
-        {
-          "name": "Hardeep Singh, MD, MPH; Dean F. Sittig, PhD; David C. Classen, MD, MS; et\u00a0al"
-        }
-      ]
-    },
-    {
-      "id": "https://jamanetwork.com/journals/jama/fullarticle/2825056",
-      "title": "FTC Regulation of AI-Generated Medical Disinformation",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2825056",
-      "summary": "JAMA",
-      "date_published": "2024-10-16T00:00:00+00:00",
-      "content_text": "",
-      "tags": [
-        "Viewpoint"
-      ],
-      "authors": [
-        {
-          "name": "Claudia E. Haupt, PhD, JSD; Mason Marks, MD, JD"
         }
       ]
     }
