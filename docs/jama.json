@@ -16,11 +16,11 @@
                 }
             ],
             "tags": [
-                "visual system",
-                "vision disorders",
                 "machine learning",
                 "mild traumatic brain injury",
-                "visual pathways"
+                "vision disorders",
+                "visual pathways",
+                "visual system"
             ],
             "attachments": [
                 {
@@ -92,11 +92,11 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "workload",
-                "radiology specialty",
                 "china",
                 "physical and emotional exhaustion state",
-                "radiologist"
+                "radiologist",
+                "radiology specialty",
+                "workload"
             ],
             "attachments": [
                 {
@@ -120,9 +120,9 @@
             ],
             "tags": [
                 "artificial intelligence",
+                "informatics (discipline)",
                 "physical and emotional exhaustion state",
-                "radiologist",
-                "informatics (discipline)"
+                "radiologist"
             ],
             "attachments": [
                 {
@@ -242,13 +242,13 @@
                 }
             ],
             "tags": [
-                "drug resistance",
-                "infection",
-                "sepsis",
-                "gram-negative bacillus",
-                "microbial",
+                "cefepime",
                 "ceftriaxone",
-                "cefepime"
+                "drug resistance",
+                "gram-negative bacillus",
+                "infection",
+                "microbial",
+                "sepsis"
             ],
             "attachments": [
                 {
@@ -271,9 +271,9 @@
                 }
             ],
             "tags": [
-                "triage",
                 "informatics (discipline)",
-                "natural language processing"
+                "natural language processing",
+                "triage"
             ],
             "attachments": [
                 {
@@ -296,11 +296,11 @@
                 }
             ],
             "tags": [
-                "natural language processing",
-                "new york heart association classification",
+                "deep learning",
                 "heart",
                 "heart failure",
-                "deep learning"
+                "natural language processing",
+                "new york heart association classification"
             ],
             "attachments": [
                 {
@@ -323,10 +323,10 @@
                 }
             ],
             "tags": [
-                "proxy",
-                "large language models",
                 "adolescence",
-                "parent"
+                "large language models",
+                "parent",
+                "proxy"
             ],
             "attachments": [
                 {
@@ -372,15 +372,15 @@
                 }
             ],
             "tags": [
-                "arteritic ischemic optic neuropathy",
-                "nonarteritic anterior ischemic optic neuropathy (naion)",
                 "anterior ischemic optic neuropathy",
-                "color",
+                "arteritic ischemic optic neuropathy",
                 "blindness",
-                "eye",
+                "color",
                 "deep learning",
-                "photon correlation spectroscopy",
-                "non-arteritic ischemic optic neuropathy"
+                "eye",
+                "non-arteritic ischemic optic neuropathy",
+                "nonarteritic anterior ischemic optic neuropathy (naion)",
+                "photon correlation spectroscopy"
             ],
             "attachments": [
                 {
@@ -404,8 +404,8 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "diabetic retinopathy",
                 "diabetes mellitus",
+                "diabetic retinopathy",
                 "non-insulin-dependent"
             ],
             "attachments": [
@@ -429,11 +429,11 @@
                 }
             ],
             "tags": [
-                "reasoning",
-                "large language models",
                 "emergency medicine (field)",
+                "family medicine (field)",
                 "internal medicine specialty",
-                "family medicine (field)"
+                "large language models",
+                "reasoning"
             ],
             "attachments": [
                 {
@@ -480,8 +480,8 @@
                 }
             ],
             "tags": [
-                "large language models",
-                "informatics (discipline)"
+                "informatics (discipline)",
+                "large language models"
             ],
             "attachments": [
                 {
@@ -505,8 +505,8 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "medical oncology specialty",
-                "chatbots"
+                "chatbots",
+                "medical oncology specialty"
             ],
             "attachments": [
                 {
@@ -530,8 +530,8 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "medical research activity",
-                "helsinki declaration"
+                "helsinki declaration",
+                "medical research activity"
             ],
             "attachments": [
                 {
@@ -579,13 +579,13 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "large language models",
-                "clinical research",
                 "biomedicine",
+                "clinical research",
+                "large language models",
                 "life cycle stages",
-                "united states food and drug administration",
                 "medical devices",
-                "technology"
+                "technology",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
@@ -730,8 +730,8 @@
             ],
             "tags": [
                 "deep learning",
-                "surgery specialty",
-                "operative surgical procedures"
+                "operative surgical procedures",
+                "surgery specialty"
             ],
             "attachments": [
                 {
@@ -804,9 +804,9 @@
             ],
             "tags": [
                 "artificial intelligence",
+                "dentistry",
                 "health disparity",
-                "oral health",
-                "dentistry"
+                "oral health"
             ],
             "attachments": [
                 {
@@ -830,8 +830,8 @@
             ],
             "tags": [
                 "large language models",
-                "surgery specialty",
-                "operative surgical procedures"
+                "operative surgical procedures",
+                "surgery specialty"
             ],
             "attachments": [
                 {
@@ -879,8 +879,8 @@
                 }
             ],
             "tags": [
-                "large language models",
-                "informatics (discipline)"
+                "informatics (discipline)",
+                "large language models"
             ],
             "attachments": [
                 {
@@ -905,9 +905,9 @@
             "tags": [
                 "artificial intelligence",
                 "best practice",
-                "partnership",
+                "laboratory techniques and procedures",
                 "laboratory test finding",
-                "laboratory techniques and procedures"
+                "partnership"
             ],
             "attachments": [
                 {
@@ -931,11 +931,11 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "statistical",
-                "models",
                 "deep learning",
+                "epoch protocol",
                 "hallucinations",
-                "epoch protocol"
+                "models",
+                "statistical"
             ],
             "attachments": [
                 {
@@ -960,10 +960,10 @@
             "tags": [
                 "artificial intelligence",
                 "chatgpt",
-                "workflow",
                 "communication and information technology",
                 "information sciences",
-                "technology"
+                "technology",
+                "workflow"
             ],
             "attachments": [
                 {
@@ -987,10 +987,10 @@
             ],
             "tags": [
                 "artificial intelligence",
-                "vaping",
-                "weapons",
                 "disinformation",
-                "vaccines"
+                "vaccines",
+                "vaping",
+                "weapons"
             ],
             "attachments": [
                 {
@@ -1013,11 +1013,11 @@
                 }
             ],
             "tags": [
-                "impaired cognition",
                 "alzheimer's disease",
                 "biological markers",
-                "neurodegenerative disorders",
-                "dementia"
+                "dementia",
+                "impaired cognition",
+                "neurodegenerative disorders"
             ],
             "attachments": [
                 {
@@ -1040,15 +1040,15 @@
                 }
             ],
             "tags": [
-                "transfusion threshold",
-                "guidelines",
                 "cardiac surgery procedures",
+                "cardiovascular diseases",
+                "child",
                 "congenital heart disease",
                 "erythrocyte transfusion",
-                "transfusion - action",
-                "child",
+                "guidelines",
                 "hemoglobin",
-                "cardiovascular diseases"
+                "transfusion - action",
+                "transfusion threshold"
             ],
             "attachments": [
                 {
@@ -1096,8 +1096,8 @@
             ],
             "tags": [
                 "large language models",
-                "verification",
-                "professional supervision"
+                "professional supervision",
+                "verification"
             ],
             "attachments": [
                 {
@@ -1120,9 +1120,9 @@
                 }
             ],
             "tags": [
-                "violence",
+                "mental disorders",
                 "psychotic disorders",
-                "mental disorders"
+                "violence"
             ],
             "attachments": [
                 {
@@ -1169,10 +1169,10 @@
                 }
             ],
             "tags": [
-                "guidelines",
-                "primary outcome measure",
+                "clinical trial protocol document",
                 "extension",
-                "clinical trial protocol document"
+                "guidelines",
+                "primary outcome measure"
             ],
             "attachments": [
                 {
@@ -1195,9 +1195,9 @@
                 }
             ],
             "tags": [
+                "child",
                 "child health",
-                "personal satisfaction",
-                "child"
+                "personal satisfaction"
             ],
             "attachments": [
                 {
@@ -1220,13 +1220,13 @@
                 }
             ],
             "tags": [
-                "post-acute covid-19 syndrome",
                 "cognition disorders",
-                "infection",
-                "fatigue",
                 "covid19 (disease)",
+                "fatigue",
+                "infection",
                 "mood swings",
-                "pain"
+                "pain",
+                "post-acute covid-19 syndrome"
             ],
             "attachments": [
                 {
@@ -1250,9 +1250,9 @@
             ],
             "tags": [
                 "health disparity",
+                "health equity",
                 "medicaid",
-                "medicaid expansion",
-                "health equity"
+                "medicaid expansion"
             ],
             "attachments": [
                 {
@@ -1275,13 +1275,13 @@
                 }
             ],
             "tags": [
-                "diabetes mellitus",
                 "adolescence",
+                "child",
+                "diabetes mellitus",
+                "non-insulin-dependent",
                 "prediabetes syndrome",
                 "screening procedure",
-                "united states preventive services task force",
-                "child",
-                "non-insulin-dependent"
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
@@ -1304,16 +1304,16 @@
                 }
             ],
             "tags": [
-                "risk reduction",
-                "parkinson disease",
-                "epilepsy",
+                "advocacy",
                 "caregiver",
                 "consultation",
-                "health disparity",
-                "advocacy",
                 "cost of illness",
-                "world health organization",
-                "nervous system disorder"
+                "epilepsy",
+                "health disparity",
+                "nervous system disorder",
+                "parkinson disease",
+                "risk reduction",
+                "world health organization"
             ],
             "attachments": [
                 {
@@ -1336,13 +1336,13 @@
                 }
             ],
             "tags": [
-                "diabetes mellitus",
-                "primary prevention of cardiovascular disease",
-                "united states preventive services task force",
-                "hydroxymethylglutaryl-coa reductase inhibitors",
                 "cardiovascular diseases",
+                "diabetes mellitus",
+                "heart disease risk factors",
+                "hydroxymethylglutaryl-coa reductase inhibitors",
                 "non-insulin-dependent",
-                "heart disease risk factors"
+                "primary prevention of cardiovascular disease",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
@@ -1365,8 +1365,8 @@
                 }
             ],
             "tags": [
-                "post-acute covid-19 syndrome",
-                "covid19 (disease)"
+                "covid19 (disease)",
+                "post-acute covid-19 syndrome"
             ],
             "attachments": [
                 {
@@ -1389,8 +1389,8 @@
                 }
             ],
             "tags": [
-                "spiritual support",
                 "health outcomes",
+                "spiritual support",
                 "spirituality"
             ],
             "attachments": [
@@ -1414,17 +1414,17 @@
                 }
             ],
             "tags": [
-                "nutrients",
-                "cardiovascular disorder prevention",
-                "mineral supplements",
-                "malignant neoplasms",
                 "beta carotene",
-                "united states preventive services task force",
-                "vitamins",
-                "minerals",
                 "cardiovascular diseases",
+                "cardiovascular disorder prevention",
+                "malignant neoplasms",
+                "mineral supplements",
+                "minerals",
                 "multivitamin preparation",
-                "vitamin e"
+                "nutrients",
+                "united states preventive services task force",
+                "vitamin e",
+                "vitamins"
             ],
             "attachments": [
                 {
@@ -1448,9 +1448,9 @@
             ],
             "tags": [
                 "cutaneous melanoma",
+                "epidemiology",
                 "malignant neoplasms",
-                "melanoma",
-                "epidemiology"
+                "melanoma"
             ],
             "attachments": [
                 {
@@ -1474,14 +1474,14 @@
             ],
             "tags": [
                 "community-based participatory research",
-                "genomics",
                 "early diagnosis",
-                "science of genetics",
-                "posttreatment followup",
-                "health policy",
-                "therapeutic intervention",
+                "equity",
                 "genome",
-                "equity"
+                "genomics",
+                "health policy",
+                "posttreatment followup",
+                "science of genetics",
+                "therapeutic intervention"
             ],
             "attachments": [
                 {
@@ -1528,12 +1528,12 @@
                 }
             ],
             "tags": [
-                "post-traumatic",
-                "stress disorders",
-                "translational research",
                 "cardiovascular diseases",
                 "genome",
-                "heart disease risk factors"
+                "heart disease risk factors",
+                "post-traumatic",
+                "stress disorders",
+                "translational research"
             ],
             "attachments": [
                 {
@@ -1557,12 +1557,12 @@
             ],
             "tags": [
                 "diabetes mellitus",
+                "non-insulin-dependent",
                 "obesity",
-                "prediabetes syndrome",
-                "united states preventive services task force",
-                "screening procedure",
                 "overweight",
-                "non-insulin-dependent"
+                "prediabetes syndrome",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
@@ -1586,10 +1586,10 @@
             ],
             "tags": [
                 "clinical trial protocol document",
-                "extension",
-                "guidelines",
+                "coronavirus pandemic",
                 "covid19 (disease)",
-                "coronavirus pandemic"
+                "extension",
+                "guidelines"
             ],
             "attachments": [
                 {
@@ -1612,11 +1612,11 @@
                 }
             ],
             "tags": [
+                "carcinoma of the large intestine",
                 "colonoscopy",
                 "early detection of colorectal cancer",
-                "united states preventive services task force",
                 "screening procedure",
-                "carcinoma of the large intestine"
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
@@ -1639,12 +1639,12 @@
                 }
             ],
             "tags": [
-                "blood pressure determination",
-                "united states preventive services task force",
-                "screening procedure",
                 "blood pressure",
+                "blood pressure determination",
+                "hypertension screen",
                 "hypertensive disease",
-                "hypertension screen"
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
@@ -1667,14 +1667,14 @@
                 }
             ],
             "tags": [
-                "smoking",
+                "cessation of smoking",
                 "low-dose spiral ct",
                 "lung neoplasm screening",
-                "united states preventive services task force",
+                "malignant neoplasm of lung",
                 "screening procedure",
                 "smoke",
-                "cessation of smoking",
-                "malignant neoplasm of lung"
+                "smoking",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
