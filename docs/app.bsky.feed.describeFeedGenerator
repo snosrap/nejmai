@@ -1,0 +1,8 @@
+{
+  "did": "did:web:snosrap.github.io:nejmai",
+  "feeds": [
+    {
+      "uri": "at://did:plc:ziebgqhkvw6kpdbdqvxrjkmx/app.bsky.feed.generator/3lcc32xa7wv2y"
+    }
+  ]
+}
