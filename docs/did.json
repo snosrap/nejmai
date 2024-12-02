@@ -1,0 +1,13 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:snosrap.github.io:nejmai",
+  "service": [
+    {
+      "id": "#bsky_fg",
+      "serviceEndpoint": "https://snosrap.github.io/nejmai",
+      "type": "BskyFeedGenerator"
+    }
+  ]
+}
