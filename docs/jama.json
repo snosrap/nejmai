@@ -4,38 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827341",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827341",
-            "title": "Implementation of Electronic Triggers to Identify Diagnostic Errors in Emergency Departments",
-            "summary": "This retrospective medical record review study develops and implements a portfolio of electronic triggers and examines their performance for identifying missed opportunities in diagnosis in emergency departments.",
-            "content_html": "<h3>Importance</h3><p>Missed diagnosis can lead to preventable patient harm.</p><h3>Objective</h3><p>To develop and implement a portfolio of electronic triggers (e-triggers) and examine their performance for identifying missed opportunities in diagnosis (MODs) in emergency departments (EDs).</p><h3>Design, Setting, and Participants</h3><p>In this retrospective medical record review study of ED visits at 1321 Veterans Affairs health care sites, rules-based e-triggers were developed and implemented using a national electronic health record repository. These e-triggers targeted 6 high-risk presentations for MODs in treat-and-release ED visits. A high-risk stroke e-trigger was applied to treat-and-release ED visits from January 1, 2016, to December 31, 2020. A symptom-disease dyad e-trigger was applied to visits from January 1, 2018, to December 31, 2019. High-risk abdominal pain, unexpected ED return, unexpected hospital return, and test result e-triggers were applied to visits from January 1, 2019, to December 31, 2019. At least 100 randomly selected flagged records were reviewed by physician reviewers for each e-trigger. Data were analyzed between January 2024 and April 2024.</p><h3>Exposures</h3><p>Treat-and-release ED visits involving high-risk stroke, symptom-disease dyads, high-risk abdominal pain, unexpected ED return, unexpected hospital return, and abnormal test results not followed up after initial ED visit.</p><h3>Main Outcomes and Measures</h3><p>Trained physician reviewers evaluated the presence/absence of MODs at ED visits and recorded data on patient and clinician characteristics, types of diagnostic process breakdowns, and potential harm from MODs.</p><h3>Results</h3><p>The high-risk stroke e-trigger was applied to 8\u202f792\u202f672 treat-and-release ED visits (4\u202f967\u202f283 unique patients); the symptom-disease dyad e-trigger was applied to 3\u202f692\u202f454 visits (2\u202f070\u202f979 patients); and high-risk abdominal pain, unexpected ED return, unexpected hospital return, and test result e-triggers were applied to 1\u202f845\u202f905 visits (1\u202f032\u202f969 patients), overall identifying 203, 1981, 170, 116\u202f785, 14\u202f879, and 2090 trigger-positive records, respectively. Review of 625 randomly selected patient records (mean [SD] age, 62.5 [15.2] years; 553 [88.5%] male) showed the following MOD counts and positive predictive values (PPVs) within each category: 47 MODs (PPV, 47.0%) for stroke, 31 MODs (PPV, 25.8%) for abdominal pain, 11 MODs (PPV, 11.0%) for ED returns, 23 MODs (PPV, 23.0%) for hospital returns, 18 MODs (PPV, 18.0%) for symptom-disease dyads, and 55 MODs (PPV, 52.4%) for test results. Patients with MODs were slightly older than those without (mean [SD] age, 65.6 [14.5] vs 61.2 [15.3] years;<i>P</i>\u2009&lt;\u2009.001). Reviewer agreement was favorable (range, 72%-100%). In 108 of 130 MODs (83.1%; excluding MODs related to the test result e-trigger), the most common diagnostic process breakdown involved the patient-clinician encounter. In 185 total MODs, 20 patients experienced severe harm (10.8%), and 54 patients experienced moderate harm (29.2%).</p><h3>Conclusions and Relevance</h3><p>In this retrospective medical record review study, rules-based e-triggers were useful for post hoc detection of MODs in ED visits. Interventions to target ED work system factors are urgently needed to support patient-clinician encounters and minimize harm from diagnostic errors.</p>",
-            "date_published": "2024-12-02T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
+            "title": "Improving Prognostication in Hypoxic-Ischemic Encephalopathy",
+            "summary": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
+            "content_text": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
+            "date_published": "2024-12-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Viralkumar Vaghani, MBBS, MPH, MS"
+                    "name": "Daniel G. Calame, MD, PhD"
                 }
             ],
             "tags": [
-                "abdominal pain",
-                "abnormal test results",
-                "cerebrovascular accident",
-                "diagnostic errors",
-                "emergency service",
-                "hospital",
-                "ischemic stroke",
-                "laboratory test finding",
-                "microscopic-observation drug-susceptibility assay",
-                "multiple organ failure",
-                "professional portfolio",
-                "veterans"
+                "ischemic-hypoxic encephalopathy",
+                "neurology speciality"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2827341/jamainternal_vaghani_2024_oi_240079_1732209954.74381.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827558/calame_2024_ic_240310_1732641703.73354.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ioi240079f1_1732209954.93995.png?Expires=2147483647&Signature=H6R4QPSzep-jbdm3Y9HOqgRLLrOSi1ecEK9eEWXPmfN9UXcG8R20lI-YKV5OTv-M~yLGhACJPPOsQcPa2ZbF0H02ayg9cwWvMi99G65EE7db1GjReUB1scieAoX5smXeCFj9h-SkALV0kkGZMCu2gTXDdfxWjD65tk~BmFjDimnHh3Tev0ZcUphEZPFMEsN3q9M8bqI74PRcZk5I1ZiF90wDa2v3088N09QbR-NJczV3SBT1Q3d5zd2J2TOfF7Pyb9TGtUqs~u4o0GZ9AA-8prEmPPlLkEmUGljV9mYwOk4F8AnhuPSWYTDTNLr2FGdH9OAPrQgXTqZCSxY9E8qhyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
