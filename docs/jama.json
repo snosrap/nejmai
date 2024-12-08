@@ -4,38 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827341",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827341",
-            "title": "Implementation of Electronic Triggers to Identify Diagnostic Errors in Emergency Departments",
-            "summary": "This retrospective medical record review study develops and implements a portfolio of electronic triggers and examines their performance for identifying missed opportunities in diagnosis in emergency departments.",
-            "content_html": "<h3>Importance</h3><p>Missed diagnosis can lead to preventable patient harm.</p><h3>Objective</h3><p>To develop and implement a portfolio of electronic triggers (e-triggers) and examine their performance for identifying missed opportunities in diagnosis (MODs) in emergency departments (EDs).</p><h3>Design, Setting, and Participants</h3><p>In this retrospective medical record review study of ED visits at 1321 Veterans Affairs health care sites, rules-based e-triggers were developed and implemented using a national electronic health record repository. These e-triggers targeted 6 high-risk presentations for MODs in treat-and-release ED visits. A high-risk stroke e-trigger was applied to treat-and-release ED visits from January 1, 2016, to December 31, 2020. A symptom-disease dyad e-trigger was applied to visits from January 1, 2018, to December 31, 2019. High-risk abdominal pain, unexpected ED return, unexpected hospital return, and test result e-triggers were applied to visits from January 1, 2019, to December 31, 2019. At least 100 randomly selected flagged records were reviewed by physician reviewers for each e-trigger. Data were analyzed between January 2024 and April 2024.</p><h3>Exposures</h3><p>Treat-and-release ED visits involving high-risk stroke, symptom-disease dyads, high-risk abdominal pain, unexpected ED return, unexpected hospital return, and abnormal test results not followed up after initial ED visit.</p><h3>Main Outcomes and Measures</h3><p>Trained physician reviewers evaluated the presence/absence of MODs at ED visits and recorded data on patient and clinician characteristics, types of diagnostic process breakdowns, and potential harm from MODs.</p><h3>Results</h3><p>The high-risk stroke e-trigger was applied to 8\u202f792\u202f672 treat-and-release ED visits (4\u202f967\u202f283 unique patients); the symptom-disease dyad e-trigger was applied to 3\u202f692\u202f454 visits (2\u202f070\u202f979 patients); and high-risk abdominal pain, unexpected ED return, unexpected hospital return, and test result e-triggers were applied to 1\u202f845\u202f905 visits (1\u202f032\u202f969 patients), overall identifying 203, 1981, 170, 116\u202f785, 14\u202f879, and 2090 trigger-positive records, respectively. Review of 625 randomly selected patient records (mean [SD] age, 62.5 [15.2] years; 553 [88.5%] male) showed the following MOD counts and positive predictive values (PPVs) within each category: 47 MODs (PPV, 47.0%) for stroke, 31 MODs (PPV, 25.8%) for abdominal pain, 11 MODs (PPV, 11.0%) for ED returns, 23 MODs (PPV, 23.0%) for hospital returns, 18 MODs (PPV, 18.0%) for symptom-disease dyads, and 55 MODs (PPV, 52.4%) for test results. Patients with MODs were slightly older than those without (mean [SD] age, 65.6 [14.5] vs 61.2 [15.3] years;<i>P</i>\u2009&lt;\u2009.001). Reviewer agreement was favorable (range, 72%-100%). In 108 of 130 MODs (83.1%; excluding MODs related to the test result e-trigger), the most common diagnostic process breakdown involved the patient-clinician encounter. In 185 total MODs, 20 patients experienced severe harm (10.8%), and 54 patients experienced moderate harm (29.2%).</p><h3>Conclusions and Relevance</h3><p>In this retrospective medical record review study, rules-based e-triggers were useful for post hoc detection of MODs in ED visits. Interventions to target ED work system factors are urgently needed to support patient-clinician encounters and minimize harm from diagnostic errors.</p>",
-            "date_published": "2024-12-02T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827333",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827333",
+            "title": "Use of Artificial Intelligence in Peer Review Among Top 100 Medical Journals",
+            "summary": "This cross-sectional study of 100 top medical journals examines policies for use of artificial intelligence (AI) and generative AI in peer review.",
+            "content_text": "This cross-sectional study of 100 top medical journals examines policies for use of artificial intelligence (AI) and generative AI in peer review.",
+            "date_published": "2024-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Viralkumar Vaghani, MBBS, MPH, MS"
+                    "name": "Zhi-Qiang Li, MPH, PhD"
                 }
             ],
             "tags": [
-                "abdominal pain",
-                "abnormal test results",
-                "cerebrovascular accident",
-                "diagnostic errors",
-                "emergency service",
-                "hospital",
-                "ischemic stroke",
-                "laboratory test finding",
-                "microscopic-observation drug-susceptibility assay",
-                "multiple organ failure",
-                "professional portfolio",
-                "veterans"
+                "artificial intelligence",
+                "generative artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2827341/jamainternal_vaghani_2024_oi_240079_1732209954.74381.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827333/li_2024_ld_240237_1732208191.25104.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ioi240079f1_1732209954.93995.png?Expires=2147483647&Signature=H6R4QPSzep-jbdm3Y9HOqgRLLrOSi1ecEK9eEWXPmfN9UXcG8R20lI-YKV5OTv-M~yLGhACJPPOsQcPa2ZbF0H02ayg9cwWvMi99G65EE7db1GjReUB1scieAoX5smXeCFj9h-SkALV0kkGZMCu2gTXDdfxWjD65tk~BmFjDimnHh3Tev0ZcUphEZPFMEsN3q9M8bqI74PRcZk5I1ZiF90wDa2v3088N09QbR-NJczV3SBT1Q3d5zd2J2TOfF7Pyb9TGtUqs~u4o0GZ9AA-8prEmPPlLkEmUGljV9mYwOk4F8AnhuPSWYTDTNLr2FGdH9OAPrQgXTqZCSxY9E8qhyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zld240237f1_1732208191.34104.png?Expires=2147483647&Signature=cMFEtr2dFzRaWIXoqfMHpMIIkIszNddR7jPKaOuWg0AQpj0b77lHRYwttEYqy9v-3c0-ZjrI09NO-QrhJK88Z3RocYN6R3D2bwYS9rmgnCLg1mc~uk9Msiyq60hJlGtPRrEo3nKuvdC40VoQbWFbiAiiMPCkrm4817C4Nekl-w5pCk8GvvE49p8FjaZFBDS2GqC~O99lqMY-aLaCjwqL70-rY3jG21Oui4749aParZHHQrHEANir8dFrNXRa~iRnvNksThUM4Mg6r5sIT7YfaL6HEPVO4oPpGgLSx6UCeBp7q3lUYCWmoLKwtldLmFkRovaSQj2tJqbml9DNwT32eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
