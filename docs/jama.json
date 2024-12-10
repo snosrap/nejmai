@@ -4,42 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827331",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827331",
-            "title": "Evaluating Bias-Mitigated Predictive Models of Perinatal Mood and Anxiety Disorders",
-            "summary": "This diagnostic study assesses whether predictive models of perinatal mood and anxiety disorders that consider model design and are trained on commonly available electronic health record data can mitigate clinical biases embedded in those records and minimize health disparities.",
-            "content_html": "<h3>Importance</h3><p>Machine learning for augmented screening of perinatal mood and anxiety disorders (PMADs) requires thorough consideration of clinical biases embedded in electronic health records (EHRs) and rigorous evaluations of model performance.</p><h3>Objective</h3><p>To mitigate bias in predictive models of PMADs trained on commonly available EHRs.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study collected data as part of a quality improvement initiative from 2020 to 2023 at Cedars-Sinai Medical Center in Los Angeles, California. The study inclusion criteria were birthing patients aged 14 to 59 years with live birth records and admission to the postpartum unit or the maternal-fetal care unit after delivery.</p><h3>Exposure</h3><p>Patient-reported race and ethnicity (7 levels) obtained through EHRs.</p><h3>Main Outcomes and Measures</h3><p>Logistic regression, random forest, and extreme gradient boosting models were trained to predict 2 binary outcomes: moderate to high-risk (positive) screen assessed using the 9-item Patient Health Questionnaire (PHQ-9), and the Edinburgh Postnatal Depression Scale (EPDS). Each model was fitted with or without reweighing data during preprocessing and evaluated through repeated K-fold cross validation. In every iteration, each model was evaluated on its area under the receiver operating curve (AUROC) and on 2 fairness metrics: demographic parity (DP), and difference in false negatives between races and ethnicities (relative to non-Hispanic White patients).</p><h3>Results</h3><p>Among 19\u202f430 patients in this study, 1402 (7%) identified as African American or Black, 2371 (12%) as Asian American and Pacific Islander; 1842 (10%) as Hispanic White, 10\u202f942 (56.3%) as non-Hispanic White, 606 (3%) as multiple races, 2146 (11%) as other (not further specified), and 121 (&lt;1%) did not provide this information. The mean (SD) age was 34.1 (4.9) years, and all patients identified as female. Racial and ethnic minority patients were significantly more likely than non-Hispanic White patients to screen positive on both the PHQ-9 (odds ratio, 1.47 [95% CI, 1.23-1.77]) and the EPDS (odds ratio, 1.38 [95% CI, 1.20-1.57]). Mean AUROCs ranged from 0.610 to 0.635 without reweighing (baseline), and from 0.602 to 0.622 with reweighing. Baseline models predicted significantly greater prevalence of postpartum depression for patients who were not non-Hispanic White relative to those who were (mean DP, 0.238 [95% CI, 0.231-0.244];<i>P</i>\u2009&lt;\u2009.001) and displayed significantly lower false-negative rates (mean difference, \u22120.184 [95% CI, \u22120.195 to \u22120.174];<i>P</i>\u2009&lt;\u2009.001). Reweighing significantly reduced differences in DP (mean DP with reweighing, 0.022 [95% CI, 0.017-0.026];<i>P</i>\u2009&lt;\u2009.001) and false-negative rates (mean difference with reweighing, 0.018 [95% CI, 0.008-0.028];<i>P</i>\u2009&lt;\u2009.001) between racial and ethnic groups.</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of predictive models of postpartum depression, clinical prediction models trained to predict psychometric screening results from commonly available EHRs achieved modest performance and were less likely to widen existing health disparities in PMAD diagnosis and potentially treatment. These findings suggest that is critical for researchers and physicians to consider their model design (eg, desired target and predictor variables) and evaluate model bias to minimize health disparities.</p>",
-            "date_published": "2024-12-03T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827344",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827344",
+            "title": "Creating Diagnostic Tests for Diagnostic Errors",
+            "summary": "The study by Vaghani et al 1 reports the prevalence of diagnostic errors (also known as diagnostic opportunities) among veterans cared for and discharged from a national sample of Veterans Affairs emergency departments (EDs). Cases were identified retrospectively using administrative data, using definitions for high-risk initial ED presentation (high-risk stroke, high-risk abdominal pain), unexpected ED or hospital return, symptom-disease dyads, or abnormal test results not followed up. Once identified, random samples of medical records were then directly examined by physicians to identify diagnostic errors.",
+            "content_text": "The study by Vaghani et al 1 reports the prevalence of diagnostic errors (also known as diagnostic opportunities) among veterans cared for and discharged from a national sample of Veterans Affairs emergency departments (EDs). Cases were identified retrospectively using administrative data, using definitions for high-risk initial ED presentation (high-risk stroke, high-risk abdominal pain), unexpected ED or hospital return, symptom-disease dyads, or abnormal test results not followed up. Once identified, random samples of medical records were then directly examined by physicians to identify diagnostic errors.",
+            "date_published": "2024-12-02T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Emily F. Wong, PhD"
+                    "name": "Andrew D. Auerbach, MD, MPH"
                 }
             ],
             "tags": [
-                "anxiety disorders",
-                "depression",
-                "edinburgh postnatal depression scale (assessment scale)",
-                "false-negative results",
-                "fetus",
-                "health disparity",
-                "machine learning",
-                "mood",
-                "obstetric delivery",
-                "patient health questionnaire",
-                "perinatal",
-                "postpartum",
-                "psychometrics",
-                "puerperium (time period)",
-                "random forest",
-                "screening procedure"
+                "diagnostic errors"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827331/wong_2024_oi_241105_1732208186.97396.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2827344/jamainternal_auerbach_2024_ic_240030_1732209960.41782.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241105t1_1732208187.30854.png?Expires=2147483647&Signature=WRhcLOK6ptHO0EFN9WjNgOhsWgedzhBTx8RrSI5JU27GA7xBHzBL-TyEqeRo5ZDJhIIFCIe7rv5kanenTF7JucDNW4enqKUXqiUcwrSeexoPSXIEQyJSfJV8TquRcRqeHlD2Cr-H3m5dZYICDDmGgUNidEsWtMU68AoQlRag9-hIw9y~aX7RcmgCtRFqUHhrAFAIBBdjKunDHULBKET9sKsdSjvmCbABrBlm1L4rsXli7FNHOOu7~6C-5hLukLzvE6G7eyBgSXPo3BTWUQSXvsUdt2JrV0u9EK7aQw9XWFW~I3hRVoFVNv2sKrJSZHXPPEwyOEFZcQcre~-tx2jaRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
