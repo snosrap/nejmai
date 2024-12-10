@@ -4,27 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827344",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827344",
-            "title": "Creating Diagnostic Tests for Diagnostic Errors",
-            "summary": "The study by Vaghani et al 1 reports the prevalence of diagnostic errors (also known as diagnostic opportunities) among veterans cared for and discharged from a national sample of Veterans Affairs emergency departments (EDs). Cases were identified retrospectively using administrative data, using definitions for high-risk initial ED presentation (high-risk stroke, high-risk abdominal pain), unexpected ED or hospital return, symptom-disease dyads, or abnormal test results not followed up. Once identified, random samples of medical records were then directly examined by physicians to identify diagnostic errors.",
-            "content_text": "The study by Vaghani et al 1 reports the prevalence of diagnostic errors (also known as diagnostic opportunities) among veterans cared for and discharged from a national sample of Veterans Affairs emergency departments (EDs). Cases were identified retrospectively using administrative data, using definitions for high-risk initial ED presentation (high-risk stroke, high-risk abdominal pain), unexpected ED or hospital return, symptom-disease dyads, or abnormal test results not followed up. Once identified, random samples of medical records were then directly examined by physicians to identify diagnostic errors.",
-            "date_published": "2024-12-02T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
+            "title": "Improving Prognostication in Hypoxic-Ischemic Encephalopathy",
+            "summary": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
+            "content_text": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
+            "date_published": "2024-12-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Andrew D. Auerbach, MD, MPH"
+                    "name": "Daniel G. Calame, MD, PhD"
                 }
             ],
             "tags": [
-                "diagnostic errors"
+                "ischemic-hypoxic encephalopathy",
+                "neurology speciality"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2827344/jamainternal_auerbach_2024_ic_240030_1732209960.41782.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827558/calame_2024_ic_240310_1732641703.73354.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
