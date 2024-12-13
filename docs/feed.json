@@ -5,6 +5,28 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
+      "title": "Ethical Use of Artificial Intelligence in Medical Diagnostics Demands a Focus on Accuracy, Not Fairness",
+      "summary": "We argue that in developing and evaluating AI tools for medical diagnostics, rather than focusing on fairness criteria that quantify disparities between protected subpopulations, our first and most important objective should be to track and maximize diagnostic accuracy for all subpopulations.",
+      "content_text": "We argue that in developing and evaluating AI tools for medical diagnostics, rather than focusing on fairness criteria that quantify disparities between protected subpopulations, our first and most important objective should be to track and maximize diagnostic accuracy for all subpopulations.",
+      "date_published": "2024-12-13T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "M.R. Sabuncu, A.Q. Wang, and M. Nguyen"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400672",
+          "mime_type": "application/pdf"
+        }
+      ]
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400555",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400555",
       "title": "Autonomous LLM-Driven Research \u2014 from Data to Human-Verifiable Research Papers",
