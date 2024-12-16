@@ -4,27 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827344",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2827344",
-            "title": "Creating Diagnostic Tests for Diagnostic Errors",
-            "summary": "The study by Vaghani et al 1 reports the prevalence of diagnostic errors (also known as diagnostic opportunities) among veterans cared for and discharged from a national sample of Veterans Affairs emergency departments (EDs). Cases were identified retrospectively using administrative data, using definitions for high-risk initial ED presentation (high-risk stroke, high-risk abdominal pain), unexpected ED or hospital return, symptom-disease dyads, or abnormal test results not followed up. Once identified, random samples of medical records were then directly examined by physicians to identify diagnostic errors.",
-            "content_text": "The study by Vaghani et al 1 reports the prevalence of diagnostic errors (also known as diagnostic opportunities) among veterans cared for and discharged from a national sample of Veterans Affairs emergency departments (EDs). Cases were identified retrospectively using administrative data, using definitions for high-risk initial ED presentation (high-risk stroke, high-risk abdominal pain), unexpected ED or hospital return, symptom-disease dyads, or abnormal test results not followed up. Once identified, random samples of medical records were then directly examined by physicians to identify diagnostic errors.",
-            "date_published": "2024-12-02T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827333",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827333",
+            "title": "Use of Artificial Intelligence in Peer Review Among Top 100 Medical Journals",
+            "summary": "This cross-sectional study of 100 top medical journals examines policies for use of artificial intelligence (AI) and generative AI in peer review.",
+            "content_text": "This cross-sectional study of 100 top medical journals examines policies for use of artificial intelligence (AI) and generative AI in peer review.",
+            "date_published": "2024-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Andrew D. Auerbach, MD, MPH"
+                    "name": "Zhi-Qiang Li, MPH, PhD"
                 }
             ],
             "tags": [
-                "diagnostic errors"
+                "artificial intelligence",
+                "generative artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2827344/jamainternal_auerbach_2024_ic_240030_1732209960.41782.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827333/li_2024_ld_240237_1732208191.25104.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zld240237f1_1732208191.34104.png?Expires=2147483647&Signature=cMFEtr2dFzRaWIXoqfMHpMIIkIszNddR7jPKaOuWg0AQpj0b77lHRYwttEYqy9v-3c0-ZjrI09NO-QrhJK88Z3RocYN6R3D2bwYS9rmgnCLg1mc~uk9Msiyq60hJlGtPRrEo3nKuvdC40VoQbWFbiAiiMPCkrm4817C4Nekl-w5pCk8GvvE49p8FjaZFBDS2GqC~O99lqMY-aLaCjwqL70-rY3jG21Oui4749aParZHHQrHEANir8dFrNXRa~iRnvNksThUM4Mg6r5sIT7YfaL6HEPVO4oPpGgLSx6UCeBp7q3lUYCWmoLKwtldLmFkRovaSQj2tJqbml9DNwT32eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
