@@ -5,6 +5,51 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
+      "title": "Tackling Algorithmic Bias and Promoting Transparency in Health Datasets: The STANDING Together Consensus Recommendations",
+      "summary": "We set out recommendations enabling those creating and/or using health care datasets to identify and transparently acknowledge underlying biases.",
+      "content_text": "We set out recommendations enabling those creating and/or using health care datasets to identify and transparently acknowledge underlying biases.",
+      "date_published": "2024-12-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J.E. Alderman and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401088",
+          "mime_type": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400497",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400497",
+      "title": "How Generalizable Are Foundation Models When Applied to Different Demographic Groups and Settings?",
+      "summary": "An evaluation of the foundational model RETFound on an Asian-specific dataset indicates the challenges foundational AI models face in adapting to diverse demographics, emphasizing the need to include more diverse data and collaborate globally on research.",
+      "content_text": "An evaluation of the foundational model RETFound on an Asian-specific dataset indicates the challenges foundational AI models face in adapting to diverse demographics, emphasizing the need to include more diverse data and collaborate globally on research.",
+      "date_published": "2024-12-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Z. Xiong and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400497",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/a7df80bc-2fdc-4805-abca-a9270bb157ec/aics2400497_f1.gif"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
       "title": "Ethical Use of Artificial Intelligence in Medical Diagnostics Demands a Focus on Accuracy, Not Fairness",
@@ -192,125 +237,6 @@
       ],
       "image": "https://ai.nejm.org/cms/asset/571fe939-b7d3-458d-a92f-1d3e1a00b195/aics2400639_f3.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Generative artificial intelligence (AI) models are increasingly utilized for medical applications. We tested whether such models are prone to human-like cognitive biases when offering medical recommendations. We explored the performance of OpenAI generative pretrained transformer (GPT)-4 and Google Gemini-1.0-Pro with clinical cases that involved 10 cognitive biases and system prompts that created synthetic clinician respondents. Medical recommendations from generative AI were compared with strict axioms of rationality and prior results from clinicians. We found that significant discrepancies were apparent for most biases. For example, surgery was recommended more frequently for lung cancer when framed in survival rather than mortality statistics (framing effect: 75% vs. 12%; P&lt;0.001). Similarly, pulmonary embolism was more likely to be listed in the differential diagnoses if the opening sentence mentioned hemoptysis rather than chronic obstructive pulmonary disease (primacy effect: 100% vs. 26%; P&lt;0.001). In addition, the same emergency department treatment was more likely to be rated as inappropriate if the patient subsequently died rather than recovered (hindsight bias: 85% vs. 0%; P&lt;0.001). One exception was base-rate neglect that showed no bias when interpreting a positive viral screening test (correction for false positives: 94% vs. 93%; P=0.431). The extent of these biases varied minimally with the characteristics of synthetic respondents, was generally larger than observed in prior research with practicing clinicians, and differed between generative AI models. We suggest that generative AI models display human-like cognitive biases and that the magnitude of bias can be larger than observed in practicing clinicians.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400631",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400631",
-      "title": "Rubrics to Prompts: Assessing Medical Student Post-Encounter Notes with AI",
-      "summary": "UT Southwestern Medical Center piloted the prospective deployment of an AI-based automated grading system for medical student post-encounter learner notes during administration of the fall 2023 Objective Structured Clinical Examinations. Using established rubrics, zero-shot GPT-4 with minimal prompt engineering was employed as a first-pass grader. GPT-4 achieved 90% agreement with expert human assessors while dramatically accelerating turnaround time and reducing manual grading effort.",
-      "content_text": "## Abstract\n\nThis case study, conducted at UT Southwestern Medical Center\u2019s Simulation\nCenter, describes the first successful prospective deployment of a generative\nartificial intelligence (AI)\u2013based automated grading system for medical\nstudent post-encounter Objective Structured Clinical Examination (OSCE) notes.\nThe OSCE is a standard approach to measuring the competence of medical\nstudents by their participation in live-action, simulated patient encounters\nwith human actors. The post-encounter learner note is a vital element of the\nOSCE, and accurate assessment of student performance requires specially\ntrained manual evaluators, which imposes significant labor and time\ninvestments. The Simulation Center at UT Southwestern provides a compelling\nplatform for observing the benefits and challenges of AI-based enhancements in\nmedical education at scale. To that end, we prospectively activated a first-\npass AI grading system at the center for 245 (preclerkship) medical students\nparticipating in a 10-station fall 2023 OSCE session. Our inaugural deployment\nof the AI notes grading system reduced human effort by an estimated 91% (as\nmeasured by gradable items) and dramatically reduced turnaround time (from\nweeks to days). Conceived as a zero-shot large language model architecture\nwith minimal prompt engineering, the system requires no prior domain-specific\ntraining data and can be readily adapted for new evaluation rubrics, opening\nthe door to scaling this approach to other institutions. Confidence in our\nzero-shot Generative Pretrained Transformer 4 (GPT-4) framework was\nestablished by pre-deployment of retrospective evaluations. With the OSCE in\nprior years, the system achieved up to 89.7% agreement with human expert\ngraders at the rubric item level (Cohen\u2019s kappa, 0.79) and a Spearman\u2019s\ncorrelation of 0.86 with the total examination score. We also demonstrate that\nlocal, smaller, open-source models (such as Llama-2-7B) can be fine-tuned via\nknowledge distillation from frontier models like GPT-4 to achieve similar\nperformance, thereby indicating important operational implications for\nscalability, data privacy, security, and model control. These achievements\nwere the result of a strategic, multiyear effort to pivot toward AI that was\nbegun prior to ChatGPT\u2019s release. In addition to highlighting the model\u2019s\nperformance and capabilities (including a retrospective analysis of 1124\nstudents, 10,175 post-encounter notes, and 156,978 scored items), we share\nobservations on the development and sign-off prior to the launch of an AI\ndeployment protocol for our program. (Funded by UT Southwestern institutional\nfunds and others.)\n\n",
-      "date_published": "2024-11-25T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "A.R. Jamieson and Others"
-        }
-      ],
-      "tags": [
-        "Case Study"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400631",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/4c3a63dc-ba9b-49b0-9082-dcc67c8bb2bb/aics2400631_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">This case study, conducted at UT Southwestern Medical Center\u2019s Simulation Center, describes the first successful prospective deployment of a generative artificial intelligence (AI)\u2013based automated grading system for medical student post-encounter Objective Structured Clinical Examination (OSCE) notes. The OSCE is a standard approach to measuring the competence of medical students by their participation in live-action, simulated patient encounters with human actors. The post-encounter learner note is a vital element of the OSCE, and accurate assessment of student performance requires specially trained manual evaluators, which imposes significant labor and time investments. The Simulation Center at UT Southwestern provides a compelling platform for observing the benefits and challenges of AI-based enhancements in medical education at scale. To that end, we prospectively activated a first-pass AI grading system at the center for 245 (preclerkship) medical students participating in a 10-station fall 2023 OSCE session. Our inaugural deployment of the AI notes grading system reduced human effort by an estimated 91% (as measured by gradable items) and dramatically reduced turnaround time (from weeks to days). Conceived as a zero-shot large language model architecture with minimal prompt engineering, the system requires no prior domain-specific training data and can be readily adapted for new evaluation rubrics, opening the door to scaling this approach to other institutions. Confidence in our zero-shot Generative Pretrained Transformer 4 (GPT-4) framework was established by pre-deployment of retrospective evaluations. With the OSCE in prior years, the system achieved up to 89.7% agreement with human expert graders at the rubric item level (Cohen\u2019s kappa, 0.79) and a Spearman\u2019s correlation of 0.86 with the total examination score. We also demonstrate that local, smaller, open-source models (such as Llama-2-7B) can be fine-tuned via knowledge distillation from frontier models like GPT-4 to achieve similar performance, thereby indicating important operational implications for scalability, data privacy, security, and model control. These achievements were the result of a strategic, multiyear effort to pivot toward AI that was begun prior to ChatGPT\u2019s release. In addition to highlighting the model\u2019s performance and capabilities (including a retrospective analysis of 1124 students, 10,175 post-encounter notes, and 156,978 scored items), we share observations on the development and sign-off prior to the launch of an AI deployment protocol for our program. (Funded by UT Southwestern institutional funds and others.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400727",
-      "title": "Artificial Intelligence\u2013Based Copilots to Generate Causal Evidence",
-      "summary": "A structured approach for leveraging advances in generative artificial intelligence to improve the quality of causal analyses using real-world health data.",
-      "content_text": "## Abstract\n\nWhile there is growing consensus that real-world data should play a larger\nrole in generating causal evidence for health care, it is less clear whether\nand how AI can help. Current approaches to AI-driven analysis of health data\nare ill-equipped to account for the many threats to causal validity. However,\nthe current human-reliant pipeline for causal analysis also falls short:\nanalyses are complex, require multidisciplinary expertise, and are slow,\nlabor-intensive and error-prone. Here, we speculate how a \u201chuman-in-the-loop\u201d\nAI-based system could help relieve bottlenecks to high-quality causal\nanalyses. We describe how an AI-based causal copilot, leveraging the formal\ninferential structure of the causal road map, could guide and support\nresearchers through a structured process of translating a causal question into\na hypothetical experiment; translating contextual knowledge into transparent\nand well-justified assumptions; designing, testing, and benchmarking a\ncorresponding statistical analysis plan and code (including integration of\nmachine learning on multimodal data); and supporting causal interpretation of\nresults. Such a system could augment the speed and quality with which\nresearchers conduct causal analyses with real-world data, improve transparency\nand verification of analyses and assumptions, and ultimately serve as a basis\nfor point-of-care personalized decision support.\n\n",
-      "date_published": "2024-11-22T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "M. Petersen and Others"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400727",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/0c3dc115-46f7-4b46-bbec-8393aff38ebf/aip2400727_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">While there is growing consensus that real-world data should play a larger role in generating causal evidence for health care, it is less clear whether and how AI can help. Current approaches to AI-driven analysis of health data are ill-equipped to account for the many threats to causal validity. However, the current human-reliant pipeline for causal analysis also falls short: analyses are complex, require multidisciplinary expertise, and are slow, labor-intensive and error-prone. Here, we speculate how a \u201chuman-in-the-loop\u201d AI-based system could help relieve bottlenecks to high-quality causal analyses. We describe how an AI-based causal copilot, leveraging the formal inferential structure of the causal road map, could guide and support researchers through a structured process of translating a causal question into a hypothetical experiment; translating contextual knowledge into transparent and well-justified assumptions; designing, testing, and benchmarking a corresponding statistical analysis plan and code (including integration of machine learning on multimodal data); and supporting causal interpretation of results. Such a system could augment the speed and quality with which researchers conduct causal analyses with real-world data, improve transparency and verification of analyses and assumptions, and ultimately serve as a basis for point-of-care personalized decision support.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400659",
-      "title": "Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study",
-      "summary": "Using DAX Copilot did not make clinicians more efficient in EHR use or financial impact, except for time spent in documentation for high DAX users.",
-      "content_text": "## Abstract\n\n### Background\n\nNuance\u2019s Dragon Ambient eXperience (DAX) Copilot is an artificial intelligence\n(AI)\u2013driven ambient clinical documentation software platform. Atrium Health, a\nlarge multisite academic learning health system, was the first to use DAX\nCopilot. This study evaluates outcomes for participating clinicians after DAX\nimplementation.\n\n### Methods\n\nIn this longitudinal study, 112 primary care clinicians using DAX were\nrecruited between June and August 2023 along with a control group of 103\nclinicians from similar practices not using DAX. Primary outcomes of\nelectronic health record (EHR) use and financial impact were assessed over 180\ndays using linear mixed models. Within the DAX group were two subgroups:\nactive users (who transferred \u226525% of DAX notes) and high users (who\ntransferred \u226560% of DAX notes). We performed exploratory analyses to compare\nthe control group with DAX subgroups, in addition to subgroup analyses\nstratified by patient volume and clinician specialty.\n\n### Results\n\nAfter controlling for length of intervention, age, gender, provider type,\nyears of practice, and baseline outcome, we did not find statistical\nsignificance in the primary analyses of EHR and financial metrics. Exploratory\nanalyses suggested that small decreases in documentation hours could result\nfrom high DAX usage (means ratio [MR] 0.93, 95% confidence interval [CI] 0.88\nto 0.98) and from implementing DAX with low-volume clinicians (MR 0.91, 95% CI\n0.83 to 0.99) and with family medicine clinicians (MR 0.91, 95% CI 0.85 to\n0.98).\n\n### Conclusions\n\nAI-powered ambient clinical documentation software has been promoted as a\npromising strategy to alleviate the documentation burden faced by outpatient\nclinicians. However, our findings suggest that the tool did not make\nclinicians as a group more efficient. Future studies can further investigate\nthe utility of DAX for clinician subgroups and alternative implementations\nwith improved clinical adoption. (Funded by Wake Forest University Health\nSciences; ClinicalTrials.gov number,\n[NCT06329427](http://clinicaltrials.gov/show/NCT06329427).)\n\n",
-      "date_published": "2024-11-22T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "T.-L. Liu and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400659",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/1204c663-315b-4597-b1c5-14e1c31e2cb4/aioa2400659_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Nuance\u2019s Dragon Ambient eXperience (DAX) Copilot is an artificial intelligence (AI)\u2013driven ambient clinical documentation software platform. Atrium Health, a large multisite academic learning health system, was the first to use DAX Copilot. This study evaluates outcomes for participating clinicians after DAX implementation.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">In this longitudinal study, 112 primary care clinicians using DAX were recruited between June and August 2023 along with a control group of 103 clinicians from similar practices not using DAX. Primary outcomes of electronic health record (EHR) use and financial impact were assessed over 180 days using linear mixed models. Within the DAX group were two subgroups: active users (who transferred \u226525% of DAX notes) and high users (who transferred \u226560% of DAX notes). We performed exploratory analyses to compare the control group with DAX subgroups, in addition to subgroup analyses stratified by patient volume and clinician specialty.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">After controlling for length of intervention, age, gender, provider type, years of practice, and baseline outcome, we did not find statistical significance in the primary analyses of EHR and financial metrics. Exploratory analyses suggested that small decreases in documentation hours could result from high DAX usage (means ratio [MR] 0.93, 95% confidence interval [CI] 0.88 to 0.98) and from implementing DAX with low-volume clinicians (MR 0.91, 95% CI 0.83 to 0.99) and with family medicine clinicians (MR 0.91, 95% CI 0.85 to 0.98).</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">AI-powered ambient clinical documentation software has been promoted as a promising strategy to alleviate the documentation burden faced by outpatient clinicians. However, our findings suggest that the tool did not make clinicians as a group more efficient. Future studies can further investigate the utility of DAX for clinician subgroups and alternative implementations with improved clinical adoption. (Funded by Wake Forest University Health Sciences; ClinicalTrials.gov number, <a href=\"http://clinicaltrials.gov/show/NCT06329427\" target=\"_blank\">NCT06329427</a>.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400404",
-      "title": "National Use of Artificial Intelligence for Eye Screening in Singapore",
-      "summary": "Drawing on the experience of the first-ever artificial intelligence software-as-a-medical-device solution successfully approved by regulators and implemented at a country-wide health care system level, this case study discusses a sequential roadmap of lessons learnt in overcoming practical challenges to facilitate the planning of the successful development, adoption, and diffusion of medical AI solutions in health care settings.",
-      "content_text": "## Abstract\n\nDiabetes is a major health care challenge, affecting 10% of the global\npopulation. One third of patients with diabetes have an ocular complication\nknown as diabetic retinopathy (DR). DR progression to manifestations such as\nvision-threatening diabetic retinopathy (VTDR) remains the leading cause of\nblindness in working-aged adults. Yearly DR screening is a universally\nrecommended practice in primary care settings for patients with diabetes, but\nit is often difficult to implement due to a lack of staffing and screening\ncapacity in primary care. This case study highlights our experience with\ndeveloping a medical artificial intelligence (AI) software-as-a-medical-device\n(SaMD) solution for DR screening and implementing it at a national level to\nprovide the capacity needed for DR screening in Singapore. Our approach\ninvolved two broad phases. First, we established a national telemedicine\nscreening program, Singapore Integrated Diabetic Retinopathy Program (SiDRP),\nfor population screening of DR in primary care run by trained, nonclinician\nhuman graders. Second, we deployed a deep learning\u2013based AI solution,\nSingapore Eye Lesion Analyzer (SELENA+), into the SiDRP to scale-up the DR\nscreening process by the human graders. We demonstrated the cost-effectiveness\nof this solution, and obtained medical device regulatory approval for clinical\nuse in health care settings. We report the prospective evaluation of SELENA+\nin SiDRP using real-world pilot data from the first 1712 patients\nconsecutively recruited. Sensitivity and specificity of SELENA+ in detection\nof referable DR cases were 94.7% (95% confidence interval [CI] 88.0% to 98.3%)\nand 82.2% (95% CI 80.8% to 83.5%), respectively. In comparison, sensitivity\nand specificity of human graders were 98.9% (95% CI 94.0% to 99.9%) and 97.2%\n(95% CI 96.6\u201397.8%), respectively. For patients with VTDR, SELENA+\ndemonstrated a substantial advantage of higher sensitivity compared with human\nperformance, reflecting the benefit of the fine-tuning of SELENA+ that we\nperformed to enhance the AI solution\u2019s ability to detect VTDR. We outline the\nclinical, technical, operational, regulatory, and governance challenges\nencountered as well as the lessons learnt in this AI algorithm implementation\njourney. We also present a conceptual framework with considerations and\nstrategies for the broader adoption of medical AI SaMD solutions in the field\nof ophthalmology and beyond.\n\n",
-      "date_published": "2024-11-19T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "D.V. Gunasekeran and Others"
-        }
-      ],
-      "tags": [
-        "Case Study"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400404",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/f7dbec2d-e3d5-4e63-bb5e-b1120a2a0e51/aics2400404_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Diabetes is a major health care challenge, affecting 10% of the global population. One third of patients with diabetes have an ocular complication known as diabetic retinopathy (DR). DR progression to manifestations such as vision-threatening diabetic retinopathy (VTDR) remains the leading cause of blindness in working-aged adults. Yearly DR screening is a universally recommended practice in primary care settings for patients with diabetes, but it is often difficult to implement due to a lack of staffing and screening capacity in primary care. This case study highlights our experience with developing a medical artificial intelligence (AI) software-as-a-medical-device (SaMD) solution for DR screening and implementing it at a national level to provide the capacity needed for DR screening in Singapore. Our approach involved two broad phases. First, we established a national telemedicine screening program, Singapore Integrated Diabetic Retinopathy Program (SiDRP), for population screening of DR in primary care run by trained, nonclinician human graders. Second, we deployed a deep learning\u2013based AI solution, Singapore Eye Lesion Analyzer (SELENA+), into the SiDRP to scale-up the DR screening process by the human graders. We demonstrated the cost-effectiveness of this solution, and obtained medical device regulatory approval for clinical use in health care settings. We report the prospective evaluation of SELENA+ in SiDRP using real-world pilot data from the first 1712 patients consecutively recruited. Sensitivity and specificity of SELENA+ in detection of referable DR cases were 94.7% (95% confidence interval [CI] 88.0% to 98.3%) and 82.2% (95% CI 80.8% to 83.5%), respectively. In comparison, sensitivity and specificity of human graders were 98.9% (95% CI 94.0% to 99.9%) and 97.2% (95% CI 96.6\u201397.8%), respectively. For patients with VTDR, SELENA+ demonstrated a substantial advantage of higher sensitivity compared with human performance, reflecting the benefit of the fine-tuning of SELENA+ that we performed to enhance the AI solution\u2019s ability to detect VTDR. We outline the clinical, technical, operational, regulatory, and governance challenges encountered as well as the lessons learnt in this AI algorithm implementation journey. We also present a conceptual framework with considerations and strategies for the broader adoption of medical AI SaMD solutions in the field of ophthalmology and beyond.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400567",
-      "title": "Mary Steps Out: Capturing Patient Experience through Qualitative and AI Methods",
-      "summary": "An examination of the inherent experiential gap between researchers and their participants by viewing the problem through the lens of a popular thought experiment involving the perception of color.",
-      "content_text": "## Abstract\n\nFrank Jackson\u2019s 1982 thought experiment, \u201cMary\u2019s Room,\u201d illustrates the\nphilosophical divide between propositional and experiential knowledge. We\npresent a compelling case for the incorporation of lived experience into\nbiomedical research and advocate the integration of AI \u2014 particularly large\nlanguage models (LLMs) such as GPT-4 \u2014 to bridge this epistemological gap.\nWhen paired with sophisticated natural language processing techniques, LLMs\ncould systematically analyze qualitative data from disconnected electronic\nhealth record data. We explore methodologic use cases \u2014 including grounded\ntheory and thematic analysis \u2014 while addressing the challenges of analytical\nfidelity and bias reduction with continuous human oversight. We suggest that\nAI-augmented qualitative research can uncover hidden insights from a multitude\nof disparate datasets, revealing patient experiences that would otherwise\nremain inaccessible. This integrated approach could enrich the understanding\nof health and disease, while ensuring it is as inclusive and reflective of\nhuman complexity as the lives it seeks to understand and improve.\n\n",
-      "date_published": "2024-11-06T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "V. Renard and Others"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400567",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Frank Jackson\u2019s 1982 thought experiment, \u201cMary\u2019s Room,\u201d illustrates the philosophical divide between propositional and experiential knowledge. We present a compelling case for the incorporation of lived experience into biomedical research and advocate the integration of AI \u2014 particularly large language models (LLMs) such as GPT-4 \u2014 to bridge this epistemological gap. When paired with sophisticated natural language processing techniques, LLMs could systematically analyze qualitative data from disconnected electronic health record data. We explore methodologic use cases \u2014 including grounded theory and thematic analysis \u2014 while addressing the challenges of analytical fidelity and bias reduction with continuous human oversight. We suggest that AI-augmented qualitative research can uncover hidden insights from a multitude of disparate datasets, revealing patient experiences that would otherwise remain inaccessible. This integrated approach could enrich the understanding of health and disease, while ensuring it is as inclusive and reflective of human complexity as the lives it seeks to understand and improve.</div>"
     }
   ]
 }
