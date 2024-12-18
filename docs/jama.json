@@ -4,37 +4,43 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827551",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827551",
-            "title": "Predictors of Death or Severe Impairment in Neonates With Hypoxic-Ischemic Encephalopathy",
-            "summary": "This prognostic study of neonates with moderate-severe hypoxic-ischemic encephalopathy enrolled in a large US clinical trial examines clinical characteristics that may predict death or severe neurodevelopmental impairment.",
-            "content_html": "<h3>Importance</h3><p>Outcomes after hypoxic-ischemic encephalopathy (HIE) are variable. Predicting death or severe neurodevelopmental impairment (NDI) in affected neonates is crucial for guiding management and parent communication.</p><h3>Objective</h3><p>To predict death or severe NDI in neonates who receive hypothermia for HIE.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included participants enrolled in a large US clinical trial conducted in US neonatal intensive care units who were born between January 2017 and October 2019 and followed up to age 2 years. Eligible participants were neonates with moderate-severe HIE born at 36 weeks or more gestation and with 2-year outcome data. Data were analyzed June 2023. External validation was performed with a UK cohort.</p><h3>Exposure</h3><p>Clinical, electroencephalography (EEG), and magnetic resonance imaging (MRI) variables were curated and examined at 24 hours and following cooling.</p><h3>Main Outcome and Measures</h3><p>Death or severe NDI at age 2 years. Severe NDI was defined as Bayley Scales of Infant Toddler Development cognitive score below 70, Gross Motor Function Classification System score of 3 or higher, or quadriparesis. Model performance metrics were derived from training, internal, and external validation datasets.</p><h3>Results</h3><p>Among 424 neonates (mean [SD] gestational age, 39.1 [1.4] weeks; 192 female [45.3%]; 28 Asian [6.6%], 50 Black [11.8%], 311 White [73.3%]), 105 (24.7%) had severe encephalopathy at enrollment. Overall, 59 (13.9%) died and 46 (10.8%) had severe NDI. In the 24-hour model, the combined presence of 3 clinical characteristics\u2014(1) severely abnormal EEG, (2) pH level of 7.11 or below, and (3) 5-minute Apgar score of 0\u2014had a specificity of 99.6% (95% CI, 97.5%-100%) and a positive predictive value (PPV) of 95.2% (95% CI, 73.2%-99.3%). Validation model metrics were 97.9% (95% CI, 92.7%-99.8%) for internal specificity, with a PPV of 77.8% (95% CI, 43.4%-94.1%), and 97.6% (95% CI, 95.1%-99.0%) for external specificity, with a PPV of 46.2% (95% CI, 23.3%-70.8%). In the postcooling model, specificity for T1, T2, or diffusion-weighted imaging (DWI) abnormality in at least 2 of 3 deep gray regions (ie, thalamus, caudate, putamen and/or globus pallidus) plus a severely abnormal EEG within the first 24 hours was 99.1% (95% CI, 96.8%-99.9%), with a PPV of 91.7% (95% CI, 72.8%-97.8%). Internal specificity in this model was 98.9% (95% CI, 94.1%-100%), with a PPV of 92.9% (95% CI, 64.2%-99.0%); external specificity was 98.6% (95% CI, 96.5%-99.6%), with a PPV of 83.3% (95% CI, 64.1%-93.4%).</p><h3>Conclusions and Relevance</h3><p>In this prognostic study of neonates with moderate or severe HIE who were treated with therapeutic hypothermia, simple models using readily available clinical, EEG, and MRI results during the hospital admission had high specificity and PPV for death or severe NDI at age 2 years.</p>",
-            "date_published": "2024-12-05T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827752",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827752",
+            "title": "Development and Validation of a Smartphone Application for Neonatal Jaundice Screening",
+            "summary": "This diagnostic study evaluates the ability of a smartphone-based machine learning app to predict bilirubin levels in multiethnic Asian neonates using skin color analysis.",
+            "content_html": "<h3>Importance</h3><p>This diagnostic study describes the merger of domain knowledge (Kramer principle of dermal advancement of icterus) with current machine learning (ML) techniques to create a novel tool for screening of neonatal jaundice (NNJ), which affects 60% of term and 80% of preterm infants.</p><h3>Objective</h3><p>This study aimed to develop and validate a smartphone-based ML app to predict bilirubin (SpB) levels in multiethnic neonates using skin color analysis.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study was conducted between June 2022 and June 2024 at a tertiary hospital and 4 primary-care clinics in Singapore with a consecutive sample of neonates born at 35 or more weeks\u2019 gestation and within 21 days of birth.</p><h3>Exposure</h3><p>The smartphone-based ML app captured skin images via the central aperture of a standardized color calibration sticker card from multiple regions of interest arranged in a cephalocaudal fashion, following the Kramer principle of dermal advancement of icterus. The ML model underwent iterative development and<i>k</i>-folds cross-validation, with performance assessed based on root mean squared error, Pearson correlation, and agreement with total serum bilirubin (TSB). The final ML model underwent temporal validation.</p><h3>Main Outcomes and Measures</h3><p>Linear correlation and statistical agreement between paired SpB and TSB; sensitivity and specificity for detection of TSB equal to or greater than 17mg/dL with SpB equal to or greater than 13 mg/dL were assessed.</p><h3>Results</h3><p>The smartphone-based ML app was validated on 546 neonates (median [IQR] gestational age, 38.0 [35.0-41.0] weeks; 286 [52.4%] male; 315 [57.7%] Chinese, 35 [6.4%] Indian, 169 [31.0%] Malay, and 27 [4.9%] other ethnicities). Iterative development and cross-validation was performed on 352 neonates. The final ML model (ensembled gradient boosted trees) incorporated yellowness indicators from the forehead, sternum, and abdomen. Temporal validation on 194 neonates yielded a Pearson<i>r</i>of 0.84 (95% CI, 0.79-0.88;<i>P</i>\u2009&lt;\u2009.001), 82% of data pairs within clinically acceptable limits of 3 mg/dL, sensitivity of 100%, specificity of 70%, positive predictive value of 10%, negative predictive value of 100%, positive likelihood ratio of 3.3, negative likelihood ratio of 0, and area under the receiver operating characteristic curve of 0.89 (95% CI, 0.82-0.96).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of a new smartphone-based ML app, there was good correlation and statistical agreement with TSB with sensitivity of 100%. The screening tool has the potential to be an NNJ screening tool, with treatment decisions based on TSB (reference standard). Further prospective studies are needed to establish the generalizability and cost-effectiveness of the screening tool in the clinical setting.</p>",
+            "date_published": "2024-12-11T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Hannah C. Glass, MDCM, MAS"
+                    "name": "Alvin Jia Hao Ngeow, MMed"
                 }
             ],
             "tags": [
-                "apgar score",
-                "electroencephalogram abnormal",
-                "electroencephalography",
-                "healthcare information exchange",
-                "hypothermia",
-                "induced",
+                "abdomen",
+                "bilirubin",
+                "calibration",
+                "cellular phone",
+                "color",
+                "finding of serum bilirubin level",
+                "forehead",
+                "icterus",
                 "infant",
-                "ischemic-hypoxic encephalopathy",
-                "magnetic resonance imaging",
-                "neurodevelopmental disorders",
-                "newborn"
+                "integumentary system",
+                "machine learning",
+                "mobile applications",
+                "neonatal jaundice",
+                "newborn",
+                "screening procedure",
+                "serum bilirubin measurement",
+                "sternum"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827551/glass_2024_oi_241375_1732641690.75126.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827752/ngeow_2024_oi_241396_1733259940.64845.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241375t1_1732641691.03262.png?Expires=2147483647&Signature=illQMX4eoAfrW11itMz5I9VNDamI1xPo~ZtIEctgFnpzl1Y1vZnOvt3jy6yiPah1GuSrNMnrIhOP10GtSw1fjAjuUKqLTLtgUZnUwnXavZ0JhmU~4ZYFS34XwVcW0Y46uI~ne6WOS-hsmuZdrItjm5Uxemt-kasBypurhfj6OEUeKyVNbBGnXn5GQIR5cJOQ0-k1MXser1ENtuL7dBjHuzsh7Jf6S~jrkbS7WnNwmtaFovzIvezwZROdyUEUHzLOD8b8~f9PVllySfRjb7ht7zL0jYUkuht6ebkXKimZGpUPylYtxrFrr8YTto44cZWH4bg7pKOrRU6AHTpvDn18eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241396f1_1733259940.97482.png?Expires=2147483647&Signature=Y4T4tj51BNSIrSvFW909xaxw5u8bJuYHpQ~IYWZm48lZxKF3~tMkqhtdVNwPPpQpwOQMeNOq~XuO9nBsVcZ8~IMmqB~mbIkaPiHmP5NXwTDBHpfjhWjbcxDsbEQA0B9U0buXkXdqVg7SvO8ydPpRmmaYj~YBiegXOCOVGapjfEvfgzDkCe9vBKU-zrAwyLRqUQ449xkKAgsYX1jlFEfTktCQEvN7~XKiHsbd1qq2ehqj5DrNRzPrIpjKPnyN1Vam0YFbrsJh1rKziLo49Jc3FEOVCS3IqHWNM99gYDJcYpkLmt0jQREd3pXfM64iLCyPBVSAHT9zcHArboxPQA~ZMQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
