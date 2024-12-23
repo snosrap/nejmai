@@ -5,6 +5,30 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2400380",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2400380",
+      "title": "RAG in Health Care: A Novel Framework for Improving Communication and Decision-Making by Addressing LLM Limitations",
+      "summary": "This review article explores and evaluates the opportunities in using retrieval augmented generation (RAG) to overcome existing LLM limitations when used within the healthcare and pharmaceutical domain. It provides a framework of how RAG works and describes its strengths and weaknesses when applied to the field of medicine.",
+      "content_text": "## Abstract\n\nWithin the field of artificial intelligence (AI), large language models (LLMs)\nhave the potential to transform the delivery of medical information. LLMs, as\na subset of generative AI, have demonstrated value in content creation, idea\ngeneration, and interactive communication. However, their inherent\nlimitations, such as the need for up-to-date information, hallucinations of\nincorrect facts, and a reliance on public-domain data, restrict the full\npotential of generative AI within the health care setting. To address these\nlimitations, retrieval-augmented generation (RAG) offers a novel framework by\nconnecting LLMs with external knowledge, enabling them to access information\nbeyond their training data. Within the health care domain, additional datasets\ncould include peer-reviewed studies, gated medical compendiums, and the\ninternal policies of health care organizations such as hospitals or\npharmaceutical companies. By leveraging RAG, existing generative AI tools gain\nthe capability to consider both public and private information, expanding\ntheir application and enhancing accuracy and relevance within the health care\nsetting. The utility of RAG in the health care setting has yet to be fully\nexplored, but it has the potential to revolutionize the industry. This article\nseeks to outline present and future use cases of RAG for health care\ninformation exchange within both clinical and industrial settings.\n\n",
+      "date_published": "2024-12-23T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "K.K.Y. Ng, I. Matsuba, and P.C. Zhang"
+        }
+      ],
+      "tags": [
+        "Review Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2400380",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIra2400380_Zhang-1734963181703.jpg",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Within the field of artificial intelligence (AI), large language models (LLMs) have the potential to transform the delivery of medical information. LLMs, as a subset of generative AI, have demonstrated value in content creation, idea generation, and interactive communication. However, their inherent limitations, such as the need for up-to-date information, hallucinations of incorrect facts, and a reliance on public-domain data, restrict the full potential of generative AI within the health care setting. To address these limitations, retrieval-augmented generation (RAG) offers a novel framework by connecting LLMs with external knowledge, enabling them to access information beyond their training data. Within the health care domain, additional datasets could include peer-reviewed studies, gated medical compendiums, and the internal policies of health care organizations such as hospitals or pharmaceutical companies. By leveraging RAG, existing generative AI tools gain the capability to consider both public and private information, expanding their application and enhancing accuracy and relevance within the health care setting. The utility of RAG in the health care setting has yet to be fully explored, but it has the potential to revolutionize the industry. This article seeks to outline present and future use cases of RAG for health care information exchange within both clinical and industrial settings.</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
       "title": "Tackling Algorithmic Bias and Promoting Transparency in Health Datasets: The STANDING Together Consensus Recommendations",
@@ -50,53 +74,6 @@
       ],
       "image": "https://ai.nejm.org/cms/asset/a7df80bc-2fdc-4805-abca-a9270bb157ec/aics2400497_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">RETFound is a retinal image\u2013based foundational artificial intelligence (AI) model that can be fine-tuned to downstream tasks. However, its generalizability to Asian populations remains unclear. In this study, we fine-tuned RETFound on an Asian-specific dataset. We then evaluated the performance of RETFound versus a conventional Vision Transformer model (pretrained on ImageNet) in diagnosing glaucoma and coronary heart disease and predicting the 3-year risk of stroke in an Asian population. When fine-tuned on a \u201cfull\u201d dataset, RETFound showed no significant improvement compared with a conventional Vision Transformer model (area under the curves [AUCs] of 0.863, 0.628, and 0.557 vs. 0.853, 0.621, and 0.543, respectively; all P\u22650.2). Furthermore, in scenarios with limited training data (fine-tuned on \u226425% of the full dataset), RETFound showed a slight advantage (up to a maximum AUC increase of 0.03). However, these improvements were not statistically significant (all P\u22650.2). These findings indicate the challenges foundational AI models face in adapting to diverse demographics, emphasizing the need for more diverse data in current foundation models and the importance of global collaboration on foundation model research.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
-      "title": "Ethical Use of Artificial Intelligence in Medical Diagnostics Demands a Focus on Accuracy, Not Fairness",
-      "summary": "We argue that in developing and evaluating AI tools for medical diagnostics, rather than focusing on fairness criteria that quantify disparities between protected subpopulations, our first and most important objective should be to track and maximize diagnostic accuracy for all subpopulations.",
-      "content_text": "## Abstract\n\nArtificial intelligence (AI) promises to be a transformative technology for\nmedicine and health care. As such, there is an increasing interest in ensuring\nits ethical use. In this perspective, we consider the employment of AI for\nmedical diagnostics, where the goal is the detection and classification of an\nunderlying pathology, based on data such as patient information, clinical\npresentation, tests, and imaging. We argue that instead of prioritizing\nfairness criteria that measure disparities between protected groups, the\nprimary goal should be to assess and enhance diagnostic accuracy within each\nsubpopulation. This approach shifts the focus from optimizing overall\npopulation accuracy to ensuring maximal accuracy in each subpopulation. Our\nperspective implies that we should be using all available information,\nincluding protected group identity, in our methods. We decouple the goal of\naccurate diagnosis from fairness considerations in screening and postdiagnosis\nclinical decisions, which often require the allocation of finite resources.\nFurthermore, we underscore the importance of collecting high-quality and\nrepresentative datasets for each subpopulation, including ensuring that the\nground truth labels we train and with which we evaluate are unbiased.\n\n",
-      "date_published": "2024-12-13T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "M.R. Sabuncu, A.Q. Wang, and M. Nguyen"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400672",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence (AI) promises to be a transformative technology for medicine and health care. As such, there is an increasing interest in ensuring its ethical use. In this perspective, we consider the employment of AI for medical diagnostics, where the goal is the detection and classification of an underlying pathology, based on data such as patient information, clinical presentation, tests, and imaging. We argue that instead of prioritizing fairness criteria that measure disparities between protected groups, the primary goal should be to assess and enhance diagnostic accuracy within each subpopulation. This approach shifts the focus from optimizing overall population accuracy to ensuring maximal accuracy in each subpopulation. Our perspective implies that we should be using all available information, including protected group identity, in our methods. We decouple the goal of accurate diagnosis from fairness considerations in screening and postdiagnosis clinical decisions, which often require the allocation of finite resources. Furthermore, we underscore the importance of collecting high-quality and representative datasets for each subpopulation, including ensuring that the ground truth labels we train and with which we evaluate are unbiased.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400555",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400555",
-      "title": "Autonomous LLM-Driven Research \u2014 from Data to Human-Verifiable Research Papers",
-      "summary": "Our study demonstrates a potential for AI-driven acceleration of scientific discovery in biomedical research and beyond, while enhancing, rather than jeopardizing, traceability, transparency, and verifiability.",
-      "content_text": "## Abstract\n\n### Background\n\nArtificial intelligence (AI) promises to accelerate scientific discovery, but\nit remains unclear whether AI systems can perform fully autonomous research,\nand whether they can do so while adhering to key scientific values, such as\ntransparency, traceability, and verifiability. The aim of this study was to\ndevelop and evaluate an AI-automation platform that performs transparent,\ntraceable, and human-verifiable scientific research.\n\n### Methods\n\nTo mimic human scientific practices, we built \u201cdata-to-paper,\u201d an automation\nplatform that guides interacting large language model (LLM) agents through a\ncomplete stepwise research process that starts with annotated data and results\nin comprehensive research papers, while programmatically backtracing\ninformation flow and allowing human oversight and interactions. The platform\ncan run fully autonomously (in autopilot mode) or with human intervention (in\ncopilot mode).\n\n### Results\n\nIn autopilot mode, provided only with annotated data, data-to-paper raised\nhypotheses; designed research plans; wrote and debugged analysis codes;\ngenerated and interpreted results; and created complete, information-traceable\nresearch papers. Even though the research novelty of manuscripts created by\ndata-to-paper was relatively limited, the process demonstrated the autonomous\ngeneration of de novo quantitative insights from data, such as unraveling\nassociations between health indicators and clinical outcomes. For simple\nresearch goals and datasets, a fully autonomous cycle can create manuscripts\nthat independently recapitulate the findings of peer-reviewed biomedical\npublications without major errors in about 80 to 90% of cases. Yet, as goal or\ndata complexity increases, human copiloting becomes critical for ensuring\naccuracy and overall quality. By tracking information flow through the steps,\nthe platform creates \u201cdata-chained\u201d manuscripts, in which downstream results\nare programmatically linked to upstream code and data, thus setting a new\nstandard for the verifiability of scientific outputs.\n\n### Conclusions\n\nOur work demonstrates the potential for AI-driven acceleration of scientific\ndiscovery in data-driven biomedical research and beyond, while enhancing,\nrather than jeopardizing, traceability, transparency, and verifiability.\n\n",
-      "date_published": "2024-12-03T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "T. Ifargan and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400555",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/590c8332-e34e-4d7d-860f-17fb5d45e5cf/aioa2400555_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI) promises to accelerate scientific discovery, but it remains unclear whether AI systems can perform fully autonomous research, and whether they can do so while adhering to key scientific values, such as transparency, traceability, and verifiability. The aim of this study was to develop and evaluate an AI-automation platform that performs transparent, traceable, and human-verifiable scientific research.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">To mimic human scientific practices, we built \u201cdata-to-paper,\u201d an automation platform that guides interacting large language model (LLM) agents through a complete stepwise research process that starts with annotated data and results in comprehensive research papers, while programmatically backtracing information flow and allowing human oversight and interactions. The platform can run fully autonomously (in autopilot mode) or with human intervention (in copilot mode).</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">In autopilot mode, provided only with annotated data, data-to-paper raised hypotheses; designed research plans; wrote and debugged analysis codes; generated and interpreted results; and created complete, information-traceable research papers. Even though the research novelty of manuscripts created by data-to-paper was relatively limited, the process demonstrated the autonomous generation of de novo quantitative insights from data, such as unraveling associations between health indicators and clinical outcomes. For simple research goals and datasets, a fully autonomous cycle can create manuscripts that independently recapitulate the findings of peer-reviewed biomedical publications without major errors in about 80 to 90% of cases. Yet, as goal or data complexity increases, human copiloting becomes critical for ensuring accuracy and overall quality. By tracking information flow through the steps, the platform creates \u201cdata-chained\u201d manuscripts, in which downstream results are programmatically linked to upstream code and data, thus setting a new standard for the verifiability of scientific outputs.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Our work demonstrates the potential for AI-driven acceleration of scientific discovery in data-driven biomedical research and beyond, while enhancing, rather than jeopardizing, traceability, transparency, and verifiability.</div></section>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401000",
