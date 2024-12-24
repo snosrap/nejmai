@@ -5,6 +5,29 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400360",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400360",
+      "title": "Zero-Shot Clinical Trial Patient Matching with LLMs",
+      "summary": "We investigate the accuracy, efficiency, and interpretability of using large language models for clinical trial patient matching. While prior work has focused mostly on fine-tuning and few-shot prompting, we are specifically interested in scalable approaches with an eye toward real-world deployment, and thus our study focuses on the zero-shot performance of these models to scale to arbitrary trials and we develop a two-stage retrieval pipeline to scale to arbitrary length patient records.",
+      "content_text": "We investigate the accuracy, efficiency, and interpretability of using large language models for clinical trial patient matching. While prior work has focused mostly on fine-tuning and few-shot prompting, we are specifically interested in scalable approaches with an eye toward real-world deployment, and thus our study focuses on the zero-shot performance of these models to scale to arbitrary trials and we develop a two-stage retrieval pipeline to scale to arbitrary length patient records.",
+      "date_published": "2024-12-24T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "M. Wornow and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400360",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/fb639701-04a9-43c6-9a35-a2a49c851016/aics2400360_f1.gif"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIra2400380",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIra2400380",
       "title": "RAG in Health Care: A Novel Framework for Improving Communication and Decision-Making by Addressing LLM Limitations",
