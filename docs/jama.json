@@ -4,27 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
-            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
-            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
-            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
-            "date_published": "2024-12-23T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "title": "US FDA Approval of Pediatric Artificial Intelligence and Machine Learning\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "content_text": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "date_published": "2024-12-16T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
+                    "name": "Ryan C. L. Brewster, MD"
                 }
             ],
             "tags": [
-                "machine learning"
+                "artificial intelligence",
+                "child",
+                "drug approval",
+                "machine learning",
+                "medical devices",
+                "pediatric discipline",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1734110803.57507.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2827579/jamapediatrics_brewster_2024_ld_240055_1732643601.06064.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240055f1_1732643601.1628.png?Expires=2147483647&Signature=hMy6IZqJz~J7kTamPRYNobvayTNhOcN2XikcTIH0IJmbheo4tpxJniGeika5ZZWhe9i2ijDxZt0UAS6J8SnfeR5cpb62pHm0b1izgTMneFf~d70Ny62zKQ2eIx6rjykgWXwG1-9RPTiRk8GGGQEeBx20392sbI4h~95Pk4L4520hvRzrGMn7rpP3RfMqaacTFr~L0kcHzNQOskE~Oeu1YxemSmH1AcfyWeo5fb7TULS66oVqv5fRSMvvXd67QGxpRb~y12aztoF1uGO0b3MK8GdQxqRFOpzN03hX8LmyMWtIdwea33xGgA0EI3Y04EkxDUW7UT3nJXq0S1Qtuc6LZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
