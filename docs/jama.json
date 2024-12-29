@@ -4,43 +4,37 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827752",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827752",
-            "title": "Development and Validation of a Smartphone Application for Neonatal Jaundice Screening",
-            "summary": "This diagnostic study evaluates the ability of a smartphone-based machine learning app to predict bilirubin levels in multiethnic Asian neonates using skin color analysis.",
-            "content_html": "<h3>Importance</h3><p>This diagnostic study describes the merger of domain knowledge (Kramer principle of dermal advancement of icterus) with current machine learning (ML) techniques to create a novel tool for screening of neonatal jaundice (NNJ), which affects 60% of term and 80% of preterm infants.</p><h3>Objective</h3><p>This study aimed to develop and validate a smartphone-based ML app to predict bilirubin (SpB) levels in multiethnic neonates using skin color analysis.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study was conducted between June 2022 and June 2024 at a tertiary hospital and 4 primary-care clinics in Singapore with a consecutive sample of neonates born at 35 or more weeks\u2019 gestation and within 21 days of birth.</p><h3>Exposure</h3><p>The smartphone-based ML app captured skin images via the central aperture of a standardized color calibration sticker card from multiple regions of interest arranged in a cephalocaudal fashion, following the Kramer principle of dermal advancement of icterus. The ML model underwent iterative development and<i>k</i>-folds cross-validation, with performance assessed based on root mean squared error, Pearson correlation, and agreement with total serum bilirubin (TSB). The final ML model underwent temporal validation.</p><h3>Main Outcomes and Measures</h3><p>Linear correlation and statistical agreement between paired SpB and TSB; sensitivity and specificity for detection of TSB equal to or greater than 17mg/dL with SpB equal to or greater than 13 mg/dL were assessed.</p><h3>Results</h3><p>The smartphone-based ML app was validated on 546 neonates (median [IQR] gestational age, 38.0 [35.0-41.0] weeks; 286 [52.4%] male; 315 [57.7%] Chinese, 35 [6.4%] Indian, 169 [31.0%] Malay, and 27 [4.9%] other ethnicities). Iterative development and cross-validation was performed on 352 neonates. The final ML model (ensembled gradient boosted trees) incorporated yellowness indicators from the forehead, sternum, and abdomen. Temporal validation on 194 neonates yielded a Pearson<i>r</i>of 0.84 (95% CI, 0.79-0.88;<i>P</i>\u2009&lt;\u2009.001), 82% of data pairs within clinically acceptable limits of 3 mg/dL, sensitivity of 100%, specificity of 70%, positive predictive value of 10%, negative predictive value of 100%, positive likelihood ratio of 3.3, negative likelihood ratio of 0, and area under the receiver operating characteristic curve of 0.89 (95% CI, 0.82-0.96).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of a new smartphone-based ML app, there was good correlation and statistical agreement with TSB with sensitivity of 100%. The screening tool has the potential to be an NNJ screening tool, with treatment decisions based on TSB (reference standard). Further prospective studies are needed to establish the generalizability and cost-effectiveness of the screening tool in the clinical setting.</p>",
-            "date_published": "2024-12-11T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828399",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828399",
+            "title": "Patterns of Social Connection Among Older Adults in England",
+            "summary": "This cohort study identifies patterns of social connection and evaluates whether they are associated with health and well-being outcomes among older adults in England.",
+            "content_html": "<h3>Importance</h3><p>Issues related to social connection are increasingly recognized as a global public health priority. However, there is a lack of a holistic understanding of social connection and its health impacts given that most empirical research focuses on a single or few individual concepts of social connection.</p><h3>Objective</h3><p>To explore patterns of social connection and their associations with health and well-being outcomes.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included participants aged 50 years and older from the fourth wave of the English Longitudinal Study of Aging (2008-2009). Machine learning cluster analysis and regression analysis were used. The analyses were performed from January to July 2024.</p><h3>Exposure</h3><p>Social connection clusters informed by the cluster analysis.</p><h3>Main Outcomes and Measures</h3><p>This study considered outcomes related to mental health (depression), hedonic (life satisfaction, pleasure) and eudaimonic (self-realization) well-being, general health (self-reported health), and health behavior (moderate or vigorous physical activity). Key confounders, identified using directed acyclic graphs, including age, sex, ethnicity, education, social class, and wealth, were controlled for.</p><h3>Results</h3><p>Among 7706 participants aged 50 years and older (mean [SD] age, 64.7 [9.6] years; 4248 [55.1%] female; 7536 [97.8%] White), 5 clusters were identified, including disconnected (974 [12.6%]), gapped structure/poor function (1109 [14.4%]), gapped structure/high function (1582 [20.5%]), poor function/mixed quality (1501 [19.5%]), and highly connected (2540 [33.0%]). All clusters had poorer outcomes compared with the highly connected cluster (eg, depression among individuals in disconnected vs highly connected clusters: odds ratio [OR], 2.73; 95% CI, 2.24 to 3.33), many of which persisted after controlling for baseline outcome (eg, depression among individuals in disconnected vs highly connected clusters: OR, 1.95; 95% CI, 1.57 to 2.43). The difference was smallest between the highly connected and gapped structure/high function clusters across most outcomes (eg, depression among individuals in gapped structure/high function vs highly connected: OR, 1.34; 95% CI, 1.10-1.64; after controlling for baseline outcome: OR, 1.28; 95% CI, 1.03-1.59).</p><h3>Conclusions and Relevance</h3><p>This cohort study highlights the importance of considering multidimensional measures of social connection and understanding the nuance of its heterogenous patterns. Understanding the typologies of social connection has substantial implications for exploring modifiable risk factors for social disconnection and for understanding the mechanisms linking social connection to health-related outcomes.</p>",
+            "date_published": "2024-12-23T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Alvin Jia Hao Ngeow, MMed"
+                    "name": "Feifei Bu, PhD"
                 }
             ],
             "tags": [
-                "abdomen",
-                "bilirubin",
-                "calibration",
-                "cellular phone",
-                "color",
-                "finding of serum bilirubin level",
-                "forehead",
-                "icterus",
-                "infant",
-                "integumentary system",
+                "aging",
+                "depressive disorder",
+                "elderly",
+                "graphical displays",
+                "health behavior",
+                "holistic approach",
                 "machine learning",
-                "mobile applications",
-                "neonatal jaundice",
-                "newborn",
-                "screening procedure",
-                "serum bilirubin measurement",
-                "sternum"
+                "mental health",
+                "personal satisfaction",
+                "physical activity",
+                "social class"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827752/ngeow_2024_oi_241396_1733259940.64845.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828399/bu_2024_oi_241426_1734110800.03162.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241396f1_1733259940.97482.png?Expires=2147483647&Signature=Y4T4tj51BNSIrSvFW909xaxw5u8bJuYHpQ~IYWZm48lZxKF3~tMkqhtdVNwPPpQpwOQMeNOq~XuO9nBsVcZ8~IMmqB~mbIkaPiHmP5NXwTDBHpfjhWjbcxDsbEQA0B9U0buXkXdqVg7SvO8ydPpRmmaYj~YBiegXOCOVGapjfEvfgzDkCe9vBKU-zrAwyLRqUQ449xkKAgsYX1jlFEfTktCQEvN7~XKiHsbd1qq2ehqj5DrNRzPrIpjKPnyN1Vam0YFbrsJh1rKziLo49Jc3FEOVCS3IqHWNM99gYDJcYpkLmt0jQREd3pXfM64iLCyPBVSAHT9zcHArboxPQA~ZMQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241426t1_1734110800.15705.png?Expires=2147483647&Signature=e93e5pxHHi3m793fsk6NlS~GuPqpZv071RYUO89rkZGm1B7mtNoS3rOC1X4c-w53KeWyGpYfn2RNnJ~2SWx9gbliDIMZ7ZE6gV~SQhty2GJRVMFBqw21L8Sl2-7s2eKvgpWuewUYMGA2BB2G6xMs~hL2E2Viv6fN9YPGyLt9YFDqvhIWc2Jzc2MbecXfrljrcDtLWTcvySxfwqOCCiRI8koyTt99obYzhB3Tiy62qbBpSrDCxUwgm72J2JBK2rPvsqEIXfl95IwiqaxaYFp16ucUNssTHhfSH9FpQ85MmsT0Dc0aUPyxNwc-EU3iVWT0fgiyH1yuoO1fHNiXfbiRpg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
