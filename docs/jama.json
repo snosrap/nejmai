@@ -4,31 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827758",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827758",
-            "title": "Public Attitudes Toward Notification of Use of Artificial Intelligence in Health Care",
-            "summary": "This survey study examines public expectations related to notification about the use of artificial intelligence (AI) in health care.",
-            "content_text": "This survey study examines public expectations related to notification about the use of artificial intelligence (AI) in health care.",
-            "date_published": "2024-12-11T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Jodyn Platt, MPH, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "ethics",
-                "public opinion"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827758/platt_2024_ld_240252_1733259966.31035.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zld240252f1_1733259967.46803.png?Expires=2147483647&Signature=TvFAOxL3UeQtPl-TQm43j~OKijzF2Jels3yLd9dzaxm0iubg5PyJoDoCEKPyrUL5swRkpkp8sW-31vSRZOy7KJufvPTks1cS8zMy0Dqeysf6x4SeUkW9ILp5khYkdXkG8iwrSm2BzTPQj4Epv-88ITz1~HxPDUB0dIM~9GVZSeTGbbcSXwUQSGgVuwXZ4V6eXzZjvha09hPTUIF4pSsgdZtE2C-kItRYBRNje7tY8TgMe3nA71Q2ZkCs4p1TByy4bl3gsSgzmbJgEZaAwjtCMcB67HvQZGyVMfLWiOfvACPlvGk9PIXZMzMP8-1xzcWEPpgekAWe5G~UwEZS-6-FcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "title": "Primary Visual Pathway Changes in Individuals With Chronic Mild Traumatic Brain Injury",
@@ -814,6 +789,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2817046",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2817046",
+            "title": "Clinical Reasoning of a Generative Artificial Intelligence Model Compared With Physicians",
+            "summary": "This cross-sectional study assesses the ability of a large language model to process medical data and display clinical reasoning compared with the ability of attending physicians and residents.",
+            "content_text": "This cross-sectional study assesses the ability of a large language model to process medical data and display clinical reasoning compared with the ability of attending physicians and residents.",
+            "date_published": "2024-05-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Stephanie Cabral, MD"
+                }
+            ],
+            "tags": [
+                "clinical reasoning",
+                "generative artificial intelligence",
+                "internship and residency",
+                "large language models",
+                "medical residencies"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2817046/jamainternal_cabral_2024_ld_240004_1714494359.05775.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/939365/ild240004t1_1714494359.21775.png?Expires=2147483647&Signature=5PjcNOu1rd87iB~6vbsI-vtOddeqts1P2U-ThOXBrdmyBljxMg-fgc-Wpx~4GdvnGUjAECSQ9pm5u5n9ADEYECMOwcaHfouK5P4KbIrIDYHaydDIqh5FXKEnZSxXfHpDSr~T7L0nKf4bgEdg5ndN2qj6KNCRChs0mKwy6hq0T3SpUr3th8-ONkcD4IZ6YprFX-LrlzHZFOLF2BZ5OY6LJEAjNdCQOOTICqN6ZsWV7xxOpUDWyvH2z0oagxjGecQKKUQGjGiDKEdTFlYQMGrZsqOBnQjebQgAXsdYTaV3PudV527F8GCTPCWLeFdOD3tUCcIR344o-~ZaTo3nP-XbhA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
