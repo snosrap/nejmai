@@ -4,28 +4,37 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827333",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827333",
-            "title": "Use of Artificial Intelligence in Peer Review Among Top 100 Medical Journals",
-            "summary": "This cross-sectional study of 100 top medical journals examines policies for use of artificial intelligence (AI) and generative AI in peer review.",
-            "content_text": "This cross-sectional study of 100 top medical journals examines policies for use of artificial intelligence (AI) and generative AI in peer review.",
-            "date_published": "2024-12-03T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828399",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828399",
+            "title": "Patterns of Social Connection Among Older Adults in England",
+            "summary": "This cohort study identifies patterns of social connection and evaluates whether they are associated with health and well-being outcomes among older adults in England.",
+            "content_html": "<h3>Importance</h3><p>Issues related to social connection are increasingly recognized as a global public health priority. However, there is a lack of a holistic understanding of social connection and its health impacts given that most empirical research focuses on a single or few individual concepts of social connection.</p><h3>Objective</h3><p>To explore patterns of social connection and their associations with health and well-being outcomes.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included participants aged 50 years and older from the fourth wave of the English Longitudinal Study of Aging (2008-2009). Machine learning cluster analysis and regression analysis were used. The analyses were performed from January to July 2024.</p><h3>Exposure</h3><p>Social connection clusters informed by the cluster analysis.</p><h3>Main Outcomes and Measures</h3><p>This study considered outcomes related to mental health (depression), hedonic (life satisfaction, pleasure) and eudaimonic (self-realization) well-being, general health (self-reported health), and health behavior (moderate or vigorous physical activity). Key confounders, identified using directed acyclic graphs, including age, sex, ethnicity, education, social class, and wealth, were controlled for.</p><h3>Results</h3><p>Among 7706 participants aged 50 years and older (mean [SD] age, 64.7 [9.6] years; 4248 [55.1%] female; 7536 [97.8%] White), 5 clusters were identified, including disconnected (974 [12.6%]), gapped structure/poor function (1109 [14.4%]), gapped structure/high function (1582 [20.5%]), poor function/mixed quality (1501 [19.5%]), and highly connected (2540 [33.0%]). All clusters had poorer outcomes compared with the highly connected cluster (eg, depression among individuals in disconnected vs highly connected clusters: odds ratio [OR], 2.73; 95% CI, 2.24 to 3.33), many of which persisted after controlling for baseline outcome (eg, depression among individuals in disconnected vs highly connected clusters: OR, 1.95; 95% CI, 1.57 to 2.43). The difference was smallest between the highly connected and gapped structure/high function clusters across most outcomes (eg, depression among individuals in gapped structure/high function vs highly connected: OR, 1.34; 95% CI, 1.10-1.64; after controlling for baseline outcome: OR, 1.28; 95% CI, 1.03-1.59).</p><h3>Conclusions and Relevance</h3><p>This cohort study highlights the importance of considering multidimensional measures of social connection and understanding the nuance of its heterogenous patterns. Understanding the typologies of social connection has substantial implications for exploring modifiable risk factors for social disconnection and for understanding the mechanisms linking social connection to health-related outcomes.</p>",
+            "date_published": "2024-12-23T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Zhi-Qiang Li, MPH, PhD"
+                    "name": "Feifei Bu, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "generative artificial intelligence"
+                "aging",
+                "depressive disorder",
+                "elderly",
+                "graphical displays",
+                "health behavior",
+                "holistic approach",
+                "machine learning",
+                "mental health",
+                "personal satisfaction",
+                "physical activity",
+                "social class"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827333/li_2024_ld_240237_1732208191.25104.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828399/bu_2024_oi_241426_1734110800.03162.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zld240237f1_1732208191.34104.png?Expires=2147483647&Signature=cMFEtr2dFzRaWIXoqfMHpMIIkIszNddR7jPKaOuWg0AQpj0b77lHRYwttEYqy9v-3c0-ZjrI09NO-QrhJK88Z3RocYN6R3D2bwYS9rmgnCLg1mc~uk9Msiyq60hJlGtPRrEo3nKuvdC40VoQbWFbiAiiMPCkrm4817C4Nekl-w5pCk8GvvE49p8FjaZFBDS2GqC~O99lqMY-aLaCjwqL70-rY3jG21Oui4749aParZHHQrHEANir8dFrNXRa~iRnvNksThUM4Mg6r5sIT7YfaL6HEPVO4oPpGgLSx6UCeBp7q3lUYCWmoLKwtldLmFkRovaSQj2tJqbml9DNwT32eA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241426t1_1734110800.15705.png?Expires=2147483647&Signature=e93e5pxHHi3m793fsk6NlS~GuPqpZv071RYUO89rkZGm1B7mtNoS3rOC1X4c-w53KeWyGpYfn2RNnJ~2SWx9gbliDIMZ7ZE6gV~SQhty2GJRVMFBqw21L8Sl2-7s2eKvgpWuewUYMGA2BB2G6xMs~hL2E2Viv6fN9YPGyLt9YFDqvhIWc2Jzc2MbecXfrljrcDtLWTcvySxfwqOCCiRI8koyTt99obYzhB3Tiy62qbBpSrDCxUwgm72J2JBK2rPvsqEIXfl95IwiqaxaYFp16ucUNssTHhfSH9FpQ85MmsT0Dc0aUPyxNwc-EU3iVWT0fgiyH1yuoO1fHNiXfbiRpg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
