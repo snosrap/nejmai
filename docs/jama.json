@@ -4,6 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2828420",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2828420",
+            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Prediction of Incident Hypertension",
+            "summary": "This prognostic study evaluates the ability of an electrocardiography-based artificial intelligence risk estimator to predict incident hypertension and stratify risk for hypertension-associated adverse events.",
+            "content_html": "<h3>Importance</h3><p>Hypertension underpins significant global morbidity and mortality. Early lifestyle intervention and treatment are effective in reducing adverse outcomes. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for predicting incident hypertension.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator (AIRE) to predict incident hypertension (AIRE-HTN) and stratify risk for hypertension-associated adverse outcomes.</p><h3>Design, Setting, and Participants</h3><p>This was a development and external validation prognostic cohort study conducted at Beth Israel Deaconess Medical Center (BIDMC) in Boston, Massachusetts, a secondary care setting. External validation was conducted in the UK Biobank (UKB), a UK-based volunteer cohort. AIRE-HTN was trained and tested to predict incident hypertension using routinely collected ECGs from patients at BIDMC between 2014 and 2023. The algorithm was then evaluated to risk stratify patients for hypertension- associated adverse outcomes and externally validated on UKB data between 2014 and 2022 for both incident hypertension and risk stratification</p><h3>Main Outcomes and Measures</h3><p>AIRE-HTN, which uses a residual convolutional neural network architecture with a discrete-time survival loss function, was trained to predict incident hypertension.</p><h3>Results</h3><p>AIRE-HTN was trained on 1\u202f163\u202f401 ECGs from 189\u202f539 patients (mean [SD] age, 57.7 [18.7] years; 98\u202f747 female [52.1%]) at BIDMC. A total of 19\u202f423 BIDMC patients composed the test set and were evaluated for incident hypertension. From the UKB, AIRE-HTN was tested on 65\u202f610 ECGs from same number of participants (mean [SD] age, 65.4 [7.9] years; 33\u202f785 female [51.5%]). A total of 35\u202f806 UKB patients were evaluated for incident hypertension. AIRE-HTN predicted incident hypertension (BIDMC: n\u2009=\u20096446 [33%] events; C index, 0.70; 95% CI, 0.69-0.71; UKB: n\u2009=\u20091532 [4%] events; C index, 0.70; 95% CI, 0.69-0.71). Performance was maintained in individuals without left ventricular hypertrophy and those with normal ECGs (C indices, 0.67-0.72). AIRE-HTN was significantly additive to existing clinical risk factors in predicting incident hypertension (continuous net reclassification index, BIDMC: 0.44; 95% CI, 0.33-0.53; UKB: 0.32; 95% CI, 0.23-0.37). In adjusted Cox models, AIRE-HTN score was an independent predictor of cardiovascular death (hazard ratio [HR] per standard deviation, 2.24; 95% CI, 1.67-3.00) and stratified risk for heart failure (HR, 2.60; 95% CI, 2.22-3.04), myocardial infarction (HR, 3.13; 95% CI, 2.55-3.83), ischemic stroke (HR, 1.23; 95% CI, 1.11-1.37), and chronic kidney disease (HR, 1.89; 95% CI, 1.68-2.12), beyond traditional risk factors.</p><h3>Conclusions and Relevance</h3><p>Results suggest that AIRE-HTN, an AI-ECG model, can predict incident hypertension and identify patients at risk of hypertension-related adverse events, beyond conventional clinical risk factors.</p>",
+            "date_published": "2025-01-02T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Arunashis Sau, PhD"
+                }
+            ],
+            "tags": [
+                "adverse event",
+                "aire gene",
+                "artificial intelligence",
+                "electrocardiogram",
+                "hypertensive disease"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2828420/jamacardiology_sau_2025_oi_240080_1734371036.67251.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi240080f1_1734371036.94256.png?Expires=2147483647&Signature=rWRNIg-2NgjKBuo~eV5ma1~FBiMWvFpJPW1a97tIQej4jrQE2xM2IUOseFCZ3xqwY~2nwdLTSHX075QV1smsJaeiD9YAMm5rzGtUNfOuhMI8Ua-aj~XWs-6Objb1Mh9SQ9eYSoGKu9pSg9kx16Opo2zuNsdeV-66gcfGDSEScZ0VQChLg1L-wLVdTJVgUubV9eRx9mL0KIbszv9EUUXc-LP1WZ6qfYh-O6dxJiXh8P-yMTQTAo7kAwvlzTQdl9umn4KAzOuZWwjHOQXEU5Udphd-qqvxN1KgpQED3Zr9b3j12WVhImlRb6-U4guzEPuq4AbxTfIjoV~sqty-yHeGQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "title": "Primary Visual Pathway Changes in Individuals With Chronic Mild Traumatic Brain Injury",
@@ -815,37 +842,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939354/avp240008t1_1712770392.41458.png?Expires=2147483647&Signature=NZ5rYVUd8MBrfpPfRsLnW~be~bq-GJJRCKg6p8CZRgVD7CxaZeJgjZfqJrWV3qoUj29ICgAqL5DLK-rsZS1LY3QhNsK4ZT-KX3KKbv9mXcYabq45KVxjZA0I3DkQmjqmJD1W68hBxTQ0XVXW9NDI9ZxRzgKxVGXn8eyVtH43J4bhPL4lCHsgGCkQBBmEtqEP8QQTirx-j-45F7TYViMes3mngrsnVTaCiUs1RiXxL8~qUlpOBJVnFl2k1Tf94t1AsqPYZDxsahoQmLHWXZWkIw~U18~hLkO15ZEspMI9uC7-I~zKCODXuz8at0MS2I3N-SN2aswexpgo36kgdTd1OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816677",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816677",
-            "title": "Individualized Treatment Effects of Oxygen Targets in Mechanically Ventilated Critically Ill Adults",
-            "summary": "This cohort study examines whether peripheral oxygenation-saturation targets on mortality would differ by individual patient characteristics among 2 temporally and geographically distinct randomized trials of lower vs higher Sp o 2 targets in critically ill patients receiving mechanical ventilation",
-            "content_html": "<h3>Importance</h3><p>Among critically ill adults, randomized trials have not found oxygenation targets to affect outcomes overall. Whether the effects of oxygenation targets differ based on an individual\u2019s characteristics is unknown.</p><h3>Objective</h3><p>To determine whether an individual\u2019s characteristics modify the effect of lower vs higher peripheral oxygenation-saturation (Spo<sub>2</sub>) targets on mortality.</p><h3>Design, Setting, and Participants</h3><p>A machine learning model to predict the effect of treatment with a lower vs higher Spo<sub>2</sub>target on mortality for individual patients was derived in the Pragmatic Investigation of Optimal Oxygen Targets (PILOT) trial and externally validated in the Intensive Care Unit Randomized Trial Comparing Two Approaches to Oxygen Therapy (ICU-ROX) trial. Critically ill adults received invasive mechanical ventilation in an intensive care unit (ICU) in the United States between July 2018 and August 2021 for PILOT (n\u2009=\u20091682) and in 21 ICUs in Australia and New Zealand between September 2015 and May 2018 for ICU-ROX (n\u2009=\u2009965).</p><h3>Exposures</h3><p>Randomization to a lower vs higher Spo<sub>2</sub>target group.</p><h3>Main Outcome and Measure</h3><p>28-Day mortality.</p><h3>Results</h3><p>In the ICU-ROX validation cohort, the predicted effect of treatment with a lower vs higher Spo<sub>2</sub>target for individual patients ranged from a 27.2% absolute reduction to a 34.4% absolute increase in 28-day mortality. For example, patients predicted to benefit from a lower Spo<sub>2</sub>target had a higher prevalence of acute brain injury, whereas patients predicted to benefit from a higher Spo<sub>2</sub>target had a higher prevalence of sepsis and abnormally elevated vital signs. Patients predicted to benefit from a lower Spo<sub>2</sub>target experienced lower mortality when randomized to the lower Spo<sub>2</sub>group, whereas patients predicted to benefit from a higher Spo<sub>2</sub>target experienced lower mortality when randomized to the higher Spo<sub>2</sub>group (likelihood ratio test for effect modification<i>P</i>\u2009=\u2009.02). The use of a Spo<sub>2</sub>target predicted to be best for each patient, instead of the randomized Spo<sub>2</sub>target, would have reduced the absolute overall mortality by 6.4% (95% CI, 1.9%-10.9%).</p><h3>Conclusion and relevance</h3><p>Oxygenation targets that are individualized using machine learning analyses of randomized trials may reduce mortality for critically ill adults. A prospective trial evaluating the use of individualized oxygenation targets is needed.</p>",
-            "date_published": "2024-04-09T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Kevin G. Buell, MBBS"
-                }
-            ],
-            "tags": [
-                "alveolar ventilation function",
-                "cell respiration",
-                "critical illness",
-                "intensive care unit",
-                "machine learning",
-                "mechanical ventilation",
-                "oxygen",
-                "oxygen saturation measurement",
-                "sepsis"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816677/jama_buell_2024_oi_240027_1712266595.74808.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939356/joi240027t1_1712266595.91414.png?Expires=2147483647&Signature=I1stHAz3su7VPVMyAdOwmmp-ry-CobukGhZkVSr-2hoUz0p2y4NUjy87oLDs4viarw1UXxKADnjaqs4ARKp5-i65w4-VlZXtNQcLCZqDdkapowbmJ9iembzpvhhiNbxkNewY6eINY97YZ9Rk6IobFtiTTI3LtNJzwjumNtKLjKoQJXCUQA5ubE-2tV~cI92xAyF~avl4ntf82-voC5ClADxObsSRm-cnE1OES~2QTNL4xApmftLCGAaEigJIb35UYvWTtZ5ALYcoZ7VeKsoBZ-dvZhcPVYLKWwe-wA1h4OGHwirNZAxYs--jB4pcfZciHQ0XUO1AggTwoIZwt81-Xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
