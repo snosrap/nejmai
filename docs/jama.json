@@ -4,29 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827758",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827758",
-            "title": "Public Attitudes Toward Notification of Use of Artificial Intelligence in Health Care",
-            "summary": "This survey study examines public expectations related to notification about the use of artificial intelligence (AI) in health care.",
-            "content_text": "This survey study examines public expectations related to notification about the use of artificial intelligence (AI) in health care.",
-            "date_published": "2024-12-11T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "title": "US FDA Approval of Pediatric Artificial Intelligence and Machine Learning\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "content_text": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "date_published": "2024-12-16T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jodyn Platt, MPH, PhD"
+                    "name": "Ryan C. L. Brewster, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "ethics",
-                "public opinion"
+                "child",
+                "drug approval",
+                "machine learning",
+                "medical devices",
+                "pediatric discipline",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827758/platt_2024_ld_240252_1733259966.31035.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2827579/jamapediatrics_brewster_2024_ld_240055_1732643601.06064.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zld240252f1_1733259967.46803.png?Expires=2147483647&Signature=TvFAOxL3UeQtPl-TQm43j~OKijzF2Jels3yLd9dzaxm0iubg5PyJoDoCEKPyrUL5swRkpkp8sW-31vSRZOy7KJufvPTks1cS8zMy0Dqeysf6x4SeUkW9ILp5khYkdXkG8iwrSm2BzTPQj4Epv-88ITz1~HxPDUB0dIM~9GVZSeTGbbcSXwUQSGgVuwXZ4V6eXzZjvha09hPTUIF4pSsgdZtE2C-kItRYBRNje7tY8TgMe3nA71Q2ZkCs4p1TByy4bl3gsSgzmbJgEZaAwjtCMcB67HvQZGyVMfLWiOfvACPlvGk9PIXZMzMP8-1xzcWEPpgekAWe5G~UwEZS-6-FcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240055f1_1732643601.1628.png?Expires=2147483647&Signature=hMy6IZqJz~J7kTamPRYNobvayTNhOcN2XikcTIH0IJmbheo4tpxJniGeika5ZZWhe9i2ijDxZt0UAS6J8SnfeR5cpb62pHm0b1izgTMneFf~d70Ny62zKQ2eIx6rjykgWXwG1-9RPTiRk8GGGQEeBx20392sbI4h~95Pk4L4520hvRzrGMn7rpP3RfMqaacTFr~L0kcHzNQOskE~Oeu1YxemSmH1AcfyWeo5fb7TULS66oVqv5fRSMvvXd67QGxpRb~y12aztoF1uGO0b3MK8GdQxqRFOpzN03hX8LmyMWtIdwea33xGgA0EI3Y04EkxDUW7UT3nJXq0S1Qtuc6LZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
