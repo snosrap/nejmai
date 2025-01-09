@@ -4,30 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "title": "Synthetic Data and Health Privacy",
-            "summary": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "content_text": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "date_published": "2024-12-30T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Gw\u00e9nol\u00e9 Abgrall, MD"
-                }
-            ],
-            "tags": [
-                "generative artificial intelligence",
-                "privacy"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2828669/jama_abgrall_2024_vp_240170_1734647300.06711.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "title": "Primary Visual Pathway Changes in Individuals With Chronic Mild Traumatic Brain Injury",
@@ -180,6 +156,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241314f1_1731448380.33742.png?Expires=2147483647&Signature=1kSSh2g8AqiH5y2L7p6AXZiXgvuiGbe-HjfZ~f9aGcryOTv9PR3anUjpNISsp~WDiW~W5e6qtJQZVXgiMXiLvj5Y8aoarhxGgY6XK0baVshPdJBNvwf44cjgt67QdF~N2yl~AO~j5QOlJknyVBXB73arrPprEqxYdkhjLdH4dvylac4pYSqxp5k~-mhWu4-AjJnDsRSp-AsaqSQne2VQERJY2cb9YvDv5677dhxwt~Y0fnSjNe262U1KOgMrnHTHj9kIueiJBcjJey0aiX4hS5IhyAOuSOyWQQoztoqayf71dW9JKKhEV8gt-3tqvPAzYspr9DTQcjJsfqckG-uJ5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2826604",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2826604",
+            "title": "AI Devices in Neurology\u2014Moving From Diagnosis to Prognosis",
+            "summary": "This Viewpoint describes considerations for regulatory oversight in the implementation of artificial intelligence\u2013enabled prognostic devices.",
+            "content_text": "This Viewpoint describes considerations for regulatory oversight in the implementation of artificial intelligence\u2013enabled prognostic devices.",
+            "date_published": "2024-11-18T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "James M. Hillis, MBBS, DPhil"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "medical devices",
+                "neurology speciality"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2826604/jamaneurology_hillis_2024_vp_240018_1731566497.41679.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Neurology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2826604",
