@@ -4,33 +4,35 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
-            "title": "US FDA Approval of Pediatric Artificial Intelligence and Machine Learning\u2013Enabled Medical Devices",
-            "summary": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
-            "content_text": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
-            "date_published": "2024-12-16T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828866",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828866",
+            "title": "Utility of Candidate Genes From an Algorithm Designed to Predict Genetic Risk for Opioid Use Disorder",
+            "summary": "This case-control study assesses whether 15 genetic variants from an algorithm purported to predict risk for opioid use disorder (OUD) were associated with OUD risk in a population of US veterans.",
+            "content_html": "<h3>Importance</h3><p>Recently, the US Food and Drug Administration gave premarketing approval to an algorithm based on its purported ability to identify individuals at genetic risk for opioid use disorder (OUD). However, the clinical utility of the candidate genetic variants included in the algorithm has not been independently demonstrated.</p><h3>Objective</h3><p>To assess the utility of 15 genetic variants from an algorithm intended to predict OUD risk.</p><h3>Design, Setting, and Participants</h3><p>This case-control study examined the association of 15 candidate genetic variants with risk of OUD using electronic health record data from December 20, 1992, to September 30, 2022. Electronic health record data, including pharmacy records, were accrued from participants in the Million Veteran Program across the US with opioid exposure (n\u2009=\u2009452\u202f664). Cases with OUD were identified using<i>International Classification of Diseases, Ninth Revision</i>, or<i>International Classification of Diseases, Tenth Revision</i>, diagnostic codes, and controls were individuals with no OUD diagnosis.</p><h3>Exposures</h3><p>Number of risk alleles present across 15 candidate genetic variants.</p><h3>Main Outcome and Measures</h3><p>Performance of 15 genetic variants for identifying OUD risk assessed via logistic regression and machine learning models.</p><h3>Results</h3><p>A total of 452 664 individuals with opioid exposure\u2009(including 33\u202f669 with OUD) had a mean (SD) age of 61.15 (13.37) years, and 90.46% were male; the sample was ancestrally diverse (with individuals of genetically inferred European, African, and admixed American ancestries). Using Nagelkerke<i>R</i><sup>2</sup>, collectively, the 15 candidate genes accounted for 0.40% of variation in OUD risk. In comparison, age and sex alone accounted for 3.27% of the variation. The ensemble machine learning. The ensemble machine learning model using the 15 variants as predictive factors correctly classified 52.83% (95% CI,\u200952.07%-53.59%) of individuals in an independent testing sample.</p><h3>Conclusions and Relevance</h3><p>Results of this study suggest that the candidate genetic variants included in the approved algorithm do not meet reasonable standards of efficacy in identifying OUD risk. Given the algorithm\u2019s limited predictive accuracy, its use in clinical care would lead to high rates of both false-positive and false-negative findings. More clinically useful models are needed to identify individuals at risk of developing OUD.</p>",
+            "date_published": "2025-01-09T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ryan C. L. Brewster, MD"
+                    "name": "Christal N. Davis, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "child",
-                "drug approval",
+                "analgesics",
+                "candidate disease gene",
                 "machine learning",
-                "medical devices",
-                "pediatric discipline",
-                "united states food and drug administration"
+                "opioid",
+                "opioid use disorders",
+                "opioids",
+                "science of genetics",
+                "united states food and drug administration",
+                "veterans"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2827579/jamapediatrics_brewster_2024_ld_240055_1732643601.06064.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828866/davis_2025_oi_241510_1735312743.17489.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240055f1_1732643601.1628.png?Expires=2147483647&Signature=hMy6IZqJz~J7kTamPRYNobvayTNhOcN2XikcTIH0IJmbheo4tpxJniGeika5ZZWhe9i2ijDxZt0UAS6J8SnfeR5cpb62pHm0b1izgTMneFf~d70Ny62zKQ2eIx6rjykgWXwG1-9RPTiRk8GGGQEeBx20392sbI4h~95Pk4L4520hvRzrGMn7rpP3RfMqaacTFr~L0kcHzNQOskE~Oeu1YxemSmH1AcfyWeo5fb7TULS66oVqv5fRSMvvXd67QGxpRb~y12aztoF1uGO0b3MK8GdQxqRFOpzN03hX8LmyMWtIdwea33xGgA0EI3Y04EkxDUW7UT3nJXq0S1Qtuc6LZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zoi241510t1_1735312743.48273.png?Expires=2147483647&Signature=ZIy9gX8J49IixPSoBPAUvKFCqCT4svK0Ie~qn~4sMGjdqz2ft8PL-al4vrnvv12rDRCJoBjz6NwHU4wkJm0sFPriSmDPdgDGXyll6Up1v911vx2smodKYIhfpknndV6vgl3uDbF2Wjz4iJYis6fQJzdnIIlZT8oZz8XJOU9eQXsTXRr5HbYAsEFLPdTROMMxUiiM8qbFj4tPLBeJvqTDMC~MIUQcyA7vcX~2UB7cei~B-25HRIem5gB1RNPBnublWg3-RRCQ8BA5Flnz5aUecph4YTati7~a~UQDFi70JLyeQzp9q0TvYVqVt-Q9T3iJmhXEImGM3w-n-7Bswc~hVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
