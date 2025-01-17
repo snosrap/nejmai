@@ -4,31 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2828420",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2828420",
-            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Prediction of Incident Hypertension",
-            "summary": "This prognostic study evaluates the ability of an electrocardiography-based artificial intelligence risk estimator to predict incident hypertension and stratify risk for hypertension-associated adverse events.",
-            "content_html": "<h3>Importance</h3><p>Hypertension underpins significant global morbidity and mortality. Early lifestyle intervention and treatment are effective in reducing adverse outcomes. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for predicting incident hypertension.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator (AIRE) to predict incident hypertension (AIRE-HTN) and stratify risk for hypertension-associated adverse outcomes.</p><h3>Design, Setting, and Participants</h3><p>This was a development and external validation prognostic cohort study conducted at Beth Israel Deaconess Medical Center (BIDMC) in Boston, Massachusetts, a secondary care setting. External validation was conducted in the UK Biobank (UKB), a UK-based volunteer cohort. AIRE-HTN was trained and tested to predict incident hypertension using routinely collected ECGs from patients at BIDMC between 2014 and 2023. The algorithm was then evaluated to risk stratify patients for hypertension- associated adverse outcomes and externally validated on UKB data between 2014 and 2022 for both incident hypertension and risk stratification</p><h3>Main Outcomes and Measures</h3><p>AIRE-HTN, which uses a residual convolutional neural network architecture with a discrete-time survival loss function, was trained to predict incident hypertension.</p><h3>Results</h3><p>AIRE-HTN was trained on 1\u202f163\u202f401 ECGs from 189\u202f539 patients (mean [SD] age, 57.7 [18.7] years; 98\u202f747 female [52.1%]) at BIDMC. A total of 19\u202f423 BIDMC patients composed the test set and were evaluated for incident hypertension. From the UKB, AIRE-HTN was tested on 65\u202f610 ECGs from same number of participants (mean [SD] age, 65.4 [7.9] years; 33\u202f785 female [51.5%]). A total of 35\u202f806 UKB patients were evaluated for incident hypertension. AIRE-HTN predicted incident hypertension (BIDMC: n\u2009=\u20096446 [33%] events; C index, 0.70; 95% CI, 0.69-0.71; UKB: n\u2009=\u20091532 [4%] events; C index, 0.70; 95% CI, 0.69-0.71). Performance was maintained in individuals without left ventricular hypertrophy and those with normal ECGs (C indices, 0.67-0.72). AIRE-HTN was significantly additive to existing clinical risk factors in predicting incident hypertension (continuous net reclassification index, BIDMC: 0.44; 95% CI, 0.33-0.53; UKB: 0.32; 95% CI, 0.23-0.37). In adjusted Cox models, AIRE-HTN score was an independent predictor of cardiovascular death (hazard ratio [HR] per standard deviation, 2.24; 95% CI, 1.67-3.00) and stratified risk for heart failure (HR, 2.60; 95% CI, 2.22-3.04), myocardial infarction (HR, 3.13; 95% CI, 2.55-3.83), ischemic stroke (HR, 1.23; 95% CI, 1.11-1.37), and chronic kidney disease (HR, 1.89; 95% CI, 1.68-2.12), beyond traditional risk factors.</p><h3>Conclusions and Relevance</h3><p>Results suggest that AIRE-HTN, an AI-ECG model, can predict incident hypertension and identify patients at risk of hypertension-related adverse events, beyond conventional clinical risk factors.</p>",
-            "date_published": "2025-01-02T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
+            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "date_published": "2024-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Arunashis Sau, PhD"
+                    "name": "Adam B. Landman, MD"
                 }
             ],
             "tags": [
-                "adverse event",
-                "aire gene",
                 "artificial intelligence",
-                "electrocardiogram",
-                "hypertensive disease"
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
+                "transition of care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2828420/jamacardiology_sau_2025_oi_240080_1734371036.67251.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi240080f1_1734371036.94256.png?Expires=2147483647&Signature=rWRNIg-2NgjKBuo~eV5ma1~FBiMWvFpJPW1a97tIQej4jrQE2xM2IUOseFCZ3xqwY~2nwdLTSHX075QV1smsJaeiD9YAMm5rzGtUNfOuhMI8Ua-aj~XWs-6Objb1Mh9SQ9eYSoGKu9pSg9kx16Opo2zuNsdeV-66gcfGDSEScZ0VQChLg1L-wLVdTJVgUubV9eRx9mL0KIbszv9EUUXc-LP1WZ6qfYh-O6dxJiXh8P-yMTQTAo7kAwvlzTQdl9umn4KAzOuZWwjHOQXEU5Udphd-qqvxN1KgpQED3Zr9b3j12WVhImlRb6-U4guzEPuq4AbxTfIjoV~sqty-yHeGQg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
