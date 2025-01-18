@@ -4,29 +4,43 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827752",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827752",
+            "title": "Development and Validation of a Smartphone Application for Neonatal Jaundice Screening",
+            "summary": "This diagnostic study evaluates the ability of a smartphone-based machine learning app to predict bilirubin levels in multiethnic Asian neonates using skin color analysis.",
+            "content_html": "<h3>Importance</h3><p>This diagnostic study describes the merger of domain knowledge (Kramer principle of dermal advancement of icterus) with current machine learning (ML) techniques to create a novel tool for screening of neonatal jaundice (NNJ), which affects 60% of term and 80% of preterm infants.</p><h3>Objective</h3><p>This study aimed to develop and validate a smartphone-based ML app to predict bilirubin (SpB) levels in multiethnic neonates using skin color analysis.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study was conducted between June 2022 and June 2024 at a tertiary hospital and 4 primary-care clinics in Singapore with a consecutive sample of neonates born at 35 or more weeks\u2019 gestation and within 21 days of birth.</p><h3>Exposure</h3><p>The smartphone-based ML app captured skin images via the central aperture of a standardized color calibration sticker card from multiple regions of interest arranged in a cephalocaudal fashion, following the Kramer principle of dermal advancement of icterus. The ML model underwent iterative development and<i>k</i>-folds cross-validation, with performance assessed based on root mean squared error, Pearson correlation, and agreement with total serum bilirubin (TSB). The final ML model underwent temporal validation.</p><h3>Main Outcomes and Measures</h3><p>Linear correlation and statistical agreement between paired SpB and TSB; sensitivity and specificity for detection of TSB equal to or greater than 17mg/dL with SpB equal to or greater than 13 mg/dL were assessed.</p><h3>Results</h3><p>The smartphone-based ML app was validated on 546 neonates (median [IQR] gestational age, 38.0 [35.0-41.0] weeks; 286 [52.4%] male; 315 [57.7%] Chinese, 35 [6.4%] Indian, 169 [31.0%] Malay, and 27 [4.9%] other ethnicities). Iterative development and cross-validation was performed on 352 neonates. The final ML model (ensembled gradient boosted trees) incorporated yellowness indicators from the forehead, sternum, and abdomen. Temporal validation on 194 neonates yielded a Pearson<i>r</i>of 0.84 (95% CI, 0.79-0.88;<i>P</i>\u2009&lt;\u2009.001), 82% of data pairs within clinically acceptable limits of 3 mg/dL, sensitivity of 100%, specificity of 70%, positive predictive value of 10%, negative predictive value of 100%, positive likelihood ratio of 3.3, negative likelihood ratio of 0, and area under the receiver operating characteristic curve of 0.89 (95% CI, 0.82-0.96).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of a new smartphone-based ML app, there was good correlation and statistical agreement with TSB with sensitivity of 100%. The screening tool has the potential to be an NNJ screening tool, with treatment decisions based on TSB (reference standard). Further prospective studies are needed to establish the generalizability and cost-effectiveness of the screening tool in the clinical setting.</p>",
+            "date_published": "2024-12-11T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Alvin Jia Hao Ngeow, MMed"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "abdomen",
+                "bilirubin",
+                "calibration",
+                "cellular phone",
+                "color",
+                "finding of serum bilirubin level",
+                "forehead",
+                "icterus",
+                "infant",
+                "integumentary system",
+                "machine learning",
+                "mobile applications",
+                "neonatal jaundice",
+                "newborn",
+                "screening procedure",
+                "serum bilirubin measurement",
+                "sternum"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1734644557.58026.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827752/ngeow_2024_oi_241396_1733259940.64845.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939507/zoi241396f1_1733259940.97482.png?Expires=2147483647&Signature=Y4T4tj51BNSIrSvFW909xaxw5u8bJuYHpQ~IYWZm48lZxKF3~tMkqhtdVNwPPpQpwOQMeNOq~XuO9nBsVcZ8~IMmqB~mbIkaPiHmP5NXwTDBHpfjhWjbcxDsbEQA0B9U0buXkXdqVg7SvO8ydPpRmmaYj~YBiegXOCOVGapjfEvfgzDkCe9vBKU-zrAwyLRqUQ449xkKAgsYX1jlFEfTktCQEvN7~XKiHsbd1qq2ehqj5DrNRzPrIpjKPnyN1Vam0YFbrsJh1rKziLo49Jc3FEOVCS3IqHWNM99gYDJcYpkLmt0jQREd3pXfM64iLCyPBVSAHT9zcHArboxPQA~ZMQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
