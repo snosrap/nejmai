@@ -4,28 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
-            "title": "Improving Prognostication in Hypoxic-Ischemic Encephalopathy",
-            "summary": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
-            "content_text": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
-            "date_published": "2024-12-05T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
+            "title": "Data-Driven Characterization of Individuals With Delayed Autism Diagnosis",
+            "summary": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
+            "content_text": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
+            "date_published": "2025-01-13T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Daniel G. Calame, MD, PhD"
+                    "name": "Dan Aizenberg, MS"
                 }
             ],
             "tags": [
-                "ischemic-hypoxic encephalopathy",
-                "neurology speciality"
+                "autistic disorder",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827558/calame_2024_ic_240310_1732641703.73354.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2829146/jamapediatrics_aizenberg_2025_ld_240059_1736459818.4503.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240059t1_1736459818.5403.png?Expires=2147483647&Signature=KI0HLo6K5wvh2NTbwArbiTW9ud15HGL85eKa9onSxhMhWkCuPi-9bi-LodgT~ZnmvIi60~hcZtur0BziJg5F9h6cSmebDuQs~RZwI1UnyvATlwviXvWb-c~5K85nO1puLJzNl~xYtIpovHg9Z1M8l9ybSFD6bArb0ktzb5WWgQLL8PM3bz6In34W0zDbpgFLCy3dbjZxZ6Sp~S93j4-a8~94K03s1y23fwcsIbHck0LPiilSk8Jv6uQqG8KjJsjAHLL3tCed6djF66CfTa48iYuII4gNLa4io4kOqOQ4OwwTn05dJKfw7jhGT5wYaD9buvZa9ApQDh6Sx3a1TbdMLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
