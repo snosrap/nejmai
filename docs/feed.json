@@ -5,6 +5,53 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401103",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401103",
+      "title": "Cultivating Health Care\u2019s AI Future",
+      "summary": "This Perspective article summarizes an NEJM AI Grand Rounds conversation with Dr. Vijay Pande, General Partner at Andreessen Horowitz. We discuss the intersection of artificial intelligence, venture capital, and health care, as well as the potential for AI to democratize access to high-quality health care.",
+      "content_text": "## Abstract\n\nDr. Vijay Pande, General Partner at Andreessen Horowitz (a16z), discusses the\nintersection of artificial intelligence, venture capital, and health care on a\nrecent episode of _NEJM AI_ Grand Rounds.1 He emphasizes the potential for AI\nto democratize access to high-quality health care, analogous to how consumer\ntechnology has equalized access to information and entertainment. Dr. Pande\nargues that AI\u2019s impact on health care will be most significant in preventive\ncare and early intervention rather than in treating advanced disease states.\nHe also provides insights into a16z\u2019s investment thesis for health care\ncompanies, and highlights the need for individuals with expertise in both\nclinical medicine and AI to drive innovation in this field. Looking ahead,\nwhile current AI systems excel at tasks based on existing knowledge, the next\nmajor breakthrough may require developing AIs capable of exploration,\ncreation, and discovery akin to human scientific inquiry.\n\n",
+      "date_published": "2025-01-21T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "V. Pande, A.K. Manrai, and A.L. Beam"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401103",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Dr. Vijay Pande, General Partner at Andreessen Horowitz (a16z), discusses the intersection of artificial intelligence, venture capital, and health care on a recent episode of <i>NEJM AI</i> Grand Rounds.<sup>1</sup> He emphasizes the potential for AI to democratize access to high-quality health care, analogous to how consumer technology has equalized access to information and entertainment. Dr. Pande argues that AI\u2019s impact on health care will be most significant in preventive care and early intervention rather than in treating advanced disease states. He also provides insights into a16z\u2019s investment thesis for health care companies, and highlights the need for individuals with expertise in both clinical medicine and AI to drive innovation in this field. Looking ahead, while current AI systems excel at tasks based on existing knowledge, the next major breakthrough may require developing AIs capable of exploration, creation, and discovery akin to human scientific inquiry.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400590",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400590",
+      "title": "Developing ICU Clinical Behavioral Atlas Using Ambient Intelligence and Computer Vision",
+      "summary": "The Clinical Behavioral Atlas, a pioneering computer vision system tailored for the intensive care unit setting, is capable of automatically detecting a broad range of clinically relevant activities, objects, and personnel categories through RGB video data, making strides in ICU observational research.",
+      "content_text": "## Abstract\n\n### Background\n\nWhile computer vision has gained traction in medical applications, models\nspecifically engineered for intensive care unit (ICU) activities are limited.\n\n### Methods\n\nWe present Clinical Behavioral Atlas (CBA), a computer vision system that can\nidentify 40 clinically relevant activity categories and 55 object categories\nsolely through RGB video data. The system was developed using a dataset\ncomprising over 140,000 hours of continuous video and over 350,000 densely\nannotated frames, collected from 16 sensors in 8 ICU rooms at an academic\nmedical center.\n\n### Results\n\nThe model demonstrated strong performance in entity and activity detection,\nwith sensitivities of 0.75\u223c0.81 and average precisions of 0.64\u223c0.73,\nrespectively. Permutation tests yielded P values of less than 0.05 for most\nactivity categories. We observed a positive correlation between the\nperformance and both the number and size of entities. The model excelled at\nidentifying common and large objects, even with limited samples, but struggled\nwith small items like oral swabs. Activity detection performance correlated\nlinearly with video duration. The model showed robust performance (>0.85\naverage precision) for most clinical activities, but activities of daily\nliving exhibited greater variation and lower average precision (0.23\u20130.95),\nindicating potential for further refinement due to their complexity and\nrelative scarcity in the dataset. Experiments against other popular activity\nrecognition models reveal that our method substantially outperforms all\nbaselines, with improvements of 0.30 and 0.45 in average precision over the\nnext best method.\n\n### Conclusions\n\nCBA expands automated identification of clinically important bedside clinical\nactions such as ICU preventive bundle elements. While we have demonstrated the\nfeasibility of computer vision as a tool to assist in clinical care in high-\nintensity settings such as the ICU, the development of a full clinical-level\nperformance CBA model will require larger datasets, ideally from multiple\nlocations. (Funded by Schmidt Futures and others.)\n\n",
+      "date_published": "2025-01-21T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "W. Dai and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400590",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/6aa05beb-e69e-4062-b748-9a791acbd42b/aioa2400590_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">While computer vision has gained traction in medical applications, models specifically engineered for intensive care unit (ICU) activities are limited.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We present Clinical Behavioral Atlas (CBA), a computer vision system that can identify 40 clinically relevant activity categories and 55 object categories solely through RGB video data. The system was developed using a dataset comprising over 140,000 hours of continuous video and over 350,000 densely annotated frames, collected from 16 sensors in 8 ICU rooms at an academic medical center.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">The model demonstrated strong performance in entity and activity detection, with sensitivities of 0.75\u223c0.81 and average precisions of 0.64\u223c0.73, respectively. Permutation tests yielded P values of less than 0.05 for most activity categories. We observed a positive correlation between the performance and both the number and size of entities. The model excelled at identifying common and large objects, even with limited samples, but struggled with small items like oral swabs. Activity detection performance correlated linearly with video duration. The model showed robust performance (&gt;0.85 average precision) for most clinical activities, but activities of daily living exhibited greater variation and lower average precision (0.23\u20130.95), indicating potential for further refinement due to their complexity and relative scarcity in the dataset. Experiments against other popular activity recognition models reveal that our method substantially outperforms all baselines, with improvements of 0.30 and 0.45 in average precision over the next best method.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">CBA expands automated identification of clinically important bedside clinical actions such as ICU preventive bundle elements. While we have demonstrated the feasibility of computer vision as a tool to assist in clinical care in high-intensity settings such as the ICU, the development of a full clinical-level performance CBA model will require larger datasets, ideally from multiple locations. (Funded by Schmidt Futures and others.)</div></section>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400979",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400979",
       "title": "The Burden of Reviewing LLM-Generated Content",
@@ -97,30 +144,6 @@
         }
       ],
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Patients\u2019 use of artificial intelligence, or patient AI (PAI), is now widespread, promising both benefits and risks. There is an urgent need to assist patients with using these new technologies as safely and effectively as possible. Focusing on patients\u2019 use of large language models (LLMs) for health care purposes, this article explores critical issues in the management of generative PAI in the United States, including constitutional limits on government\u2019s regulatory authority, and identifies opportunities for public and private actors to help patients take advantage of generative PAI safely. With respect to the public sector, there is a critical need for federal action to fund research on the benefits and risks of PAI and on the development of valid metrics and performance standards for PAI. The federal government also needs to better protect the privacy and security of patient data shared with PAI, and to require transparency with respect to how LLMs used for health care purposes are funded, how they are developed, and how they perform. (Supported by the Commonwealth Fund.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400640",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400640",
-      "title": "A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image\u2013Text Pairs",
-      "summary": "BiomedCLIP is a fully open-access foundation model that achieves state-of-the-art performance on various biomedical tasks, paving the way for transformative multimodal biomedical discovery and applications.",
-      "content_text": "## Abstract\n\n### Background\n\nBiomedical data are inherently multimodal, comprising physical measurements\nand natural-language narratives. A generalist biomedical artificial\nintelligence (AI) model needs to simultaneously process different modalities\nof data, including text and images. Therefore, training an effective\ngeneralist biomedical model requires high-quality multimodal data, such as\nparallel image\u2013text pairs.\n\n### Methods\n\nHere, we present PMC-15M, a novel dataset that is two orders of magnitude\nlarger than existing biomedical multimodal datasets, such as MIMIC-CXR, and\nspans a diverse range of biomedical image types. PMC-15M contains 15 million\nbiomedical image\u2013text pairs collected from 4.4 million scientific articles.\nBased on PMC-15M, we have pretrained BiomedCLIP, a multimodal foundation\nmodel, with domain-specific adaptations tailored to biomedical vision\u2013language\nprocessing.\n\n### Results\n\nWe conducted extensive experiments and ablation studies on standard biomedical\nimaging tasks from retrieval to classification to visual question answering\n(VQA). BiomedCLIP achieved new state-of-the-art results in a wide range of\nstandard datasets, substantially outperforming prior approaches. Intriguingly,\nby large-scale pretraining on diverse biomedical image types, BiomedCLIP even\noutperforms state-of-the-art radiology-specific models, such as BioViL, in\nradiology-specific tasks such as Radiological Society of North America (RSNA)\npneumonia detection.\n\n### Conclusions\n\nBiomedCLIP is a fully open-access foundation model that achieves state-of-the-\nart performance on various biomedical tasks, paving the way for transformative\nmultimodal biomedical discovery and applications. We release our models at\naka.ms/biomedclip to facilitate future research in multimodal biomedical AI.\n\n",
-      "date_published": "2024-12-20T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "S. Zhang and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400640",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/d8ab9f42-1745-4f0b-b237-280d2f132674/aioa2400640_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Biomedical data are inherently multimodal, comprising physical measurements and natural-language narratives. A generalist biomedical artificial intelligence (AI) model needs to simultaneously process different modalities of data, including text and images. Therefore, training an effective generalist biomedical model requires high-quality multimodal data, such as parallel image\u2013text pairs.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">Here, we present PMC-15M, a novel dataset that is two orders of magnitude larger than existing biomedical multimodal datasets, such as MIMIC-CXR, and spans a diverse range of biomedical image types. PMC-15M contains 15 million biomedical image\u2013text pairs collected from 4.4 million scientific articles. Based on PMC-15M, we have pretrained BiomedCLIP, a multimodal foundation model, with domain-specific adaptations tailored to biomedical vision\u2013language processing.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">We conducted extensive experiments and ablation studies on standard biomedical imaging tasks from retrieval to classification to visual question answering (VQA). BiomedCLIP achieved new state-of-the-art results in a wide range of standard datasets, substantially outperforming prior approaches. Intriguingly, by large-scale pretraining on diverse biomedical image types, BiomedCLIP even outperforms state-of-the-art radiology-specific models, such as BioViL, in radiology-specific tasks such as Radiological Society of North America (RSNA) pneumonia detection.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">BiomedCLIP is a fully open-access foundation model that achieves state-of-the-art performance on various biomedical tasks, paving the way for transformative multimodal biomedical discovery and applications. We release our models at aka.ms/biomedclip to facilitate future research in multimodal biomedical AI.</div></section>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
@@ -238,6 +261,30 @@
       ],
       "image": "https://ai.nejm.org/cms/asset/06a1651e-79ce-4d95-887b-9fbf5ed07916/aioa2400555_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI) promises to accelerate scientific discovery, but it remains unclear whether AI systems can perform fully autonomous research, and whether they can do so while adhering to key scientific values, such as transparency, traceability, and verifiability. The aim of this study was to develop and evaluate an AI-automation platform that performs transparent, traceable, and human-verifiable scientific research.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">To mimic human scientific practices, we built \u201cdata-to-paper,\u201d an automation platform that guides interacting large language model (LLM) agents through a complete stepwise research process that starts with annotated data and results in comprehensive research papers, while programmatically backtracing information flow and allowing human oversight and interactions. The platform can run fully autonomously (in autopilot mode) or with human intervention (in copilot mode).</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">In autopilot mode, provided only with annotated data, data-to-paper raised hypotheses; designed research plans; wrote and debugged analysis codes; generated and interpreted results; and created complete, information-traceable research papers. Even though the research novelty of manuscripts created by data-to-paper was relatively limited, the process demonstrated the autonomous generation of de novo quantitative insights from data, such as unraveling associations between health indicators and clinical outcomes. For simple research goals and datasets, a fully autonomous cycle can create manuscripts that independently recapitulate the findings of peer-reviewed biomedical publications without major errors in about 80 to 90% of cases. Yet, as goal or data complexity increases, human copiloting becomes critical for ensuring accuracy and overall quality. By tracking information flow through the steps, the platform creates \u201cdata-chained\u201d manuscripts, in which downstream results are programmatically linked to upstream code and data, thus setting a new standard for the verifiability of scientific outputs.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Our work demonstrates the potential for AI-driven acceleration of scientific discovery in data-driven biomedical research and beyond, while enhancing, rather than jeopardizing, traceability, transparency, and verifiability.</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2400464",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2400464",
+      "title": "Disclosure, Humanizing, and Contextual Vulnerability of Generative AI Chatbots",
+      "summary": "One key decision for regulatory bodies is whether to require app makers to disclose the use of generative AI-powered chatbots in their products. We suggest that some generative AI-based chatbots lead consumers to use chatbots in unintended ways that make consumers contextually vulnerable, and we discuss how managers and regulators can proactively address this challenge.",
+      "content_text": "## Abstract\n\nIn the wake of recent advancements in generative artificial intelligence (AI),\nregulatory bodies are trying to keep pace. One key decision is whether to\nrequire app makers to disclose the use of generative AI-powered chatbots in\ntheir products. We suggest that some generative AI-based chatbots lead\nconsumers to use chatbots in unintended ways that create mental health risks,\nmaking consumers contextually vulnerable \u2014 defined as a temporary state of\nsusceptibility to harm or other adverse mental health effects arising from the\ninterplay between a user\u2019s interactions with a particular system and the\nsystem\u2019s response. We argue that for health apps, including medical devices\nand wellness apps, disclosure should be mandated. We also show that even when\nchatbots are disclosed in these instances, they may still carry risks due to\nthe tendency of app makers to humanize their chatbots. The current regulatory\nstructure does not fully address these challenges. We discuss how app makers\nand regulators should proactively address this challenge by considering where\napps fall along the continuum of perceived humanness. For health-related apps,\nthis evaluation should lead to a mandate or strong recommendation that neutral\n(nonhumanized) chatbots be the default, with any deviations from this standard\nrequiring clear justification. (Funded in part by a Novo Nordisk Foundation\nGrant; NNF23SA0087056.)\n\n",
+      "date_published": "2024-01-21T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J. De Freitas and I.G. Cohen"
+        }
+      ],
+      "tags": [
+        "Policy Corner"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2400464",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/6cb77c22-220e-44fe-8cae-bdef14a73e73/aipc2400464_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">In the wake of recent advancements in generative artificial intelligence (AI), regulatory bodies are trying to keep pace. One key decision is whether to require app makers to disclose the use of generative AI-powered chatbots in their products. We suggest that some generative AI-based chatbots lead consumers to use chatbots in unintended ways that create mental health risks, making consumers contextually vulnerable \u2014 defined as a temporary state of susceptibility to harm or other adverse mental health effects arising from the interplay between a user\u2019s interactions with a particular system and the system\u2019s response. We argue that for health apps, including medical devices and wellness apps, disclosure should be mandated. We also show that even when chatbots are disclosed in these instances, they may still carry risks due to the tendency of app makers to humanize their chatbots. The current regulatory structure does not fully address these challenges. We discuss how app makers and regulators should proactively address this challenge by considering where apps fall along the continuum of perceived humanness. For health-related apps, this evaluation should lead to a mandate or strong recommendation that neutral (nonhumanized) chatbots be the default, with any deviations from this standard requiring clear justification. (Funded in part by a Novo Nordisk Foundation Grant; NNF23SA0087056.)</div>"
     }
   ]
 }
