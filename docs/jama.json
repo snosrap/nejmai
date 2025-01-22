@@ -4,30 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "title": "US FDA Approval of Pediatric Artificial Intelligence and Machine Learning\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "content_text": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "date_published": "2024-12-16T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Tyler J. Loftus, MD, PhD"
+                    "name": "Ryan C. L. Brewster, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "chatbots",
-                "knowledge acquisition",
-                "large language models"
+                "child",
+                "drug approval",
+                "machine learning",
+                "medical devices",
+                "pediatric discipline",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1734644558.85751.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2827579/jamapediatrics_brewster_2024_ld_240055_1732643601.06064.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240055f1_1732643601.1628.png?Expires=2147483647&Signature=hMy6IZqJz~J7kTamPRYNobvayTNhOcN2XikcTIH0IJmbheo4tpxJniGeika5ZZWhe9i2ijDxZt0UAS6J8SnfeR5cpb62pHm0b1izgTMneFf~d70Ny62zKQ2eIx6rjykgWXwG1-9RPTiRk8GGGQEeBx20392sbI4h~95Pk4L4520hvRzrGMn7rpP3RfMqaacTFr~L0kcHzNQOskE~Oeu1YxemSmH1AcfyWeo5fb7TULS66oVqv5fRSMvvXd67QGxpRb~y12aztoF1uGO0b3MK8GdQxqRFOpzN03hX8LmyMWtIdwea33xGgA0EI3Y04EkxDUW7UT3nJXq0S1Qtuc6LZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
