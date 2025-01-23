@@ -5,6 +5,101 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2400657",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2400657",
+      "title": "Not All Clinical AI Monitoring Systems Are Created Equal: Review and Recommendations",
+      "summary": "This article presents a critical review of the design and performance of AI monitoring systems in clinical settings, highlighting the lack of consensus and transparency in current practices. It introduces a structured road map to guide the development of effective and practical monitoring systems.",
+      "content_text": "## Abstract\n\nWhile practices for the initial evaluation of clinical artificial intelligence\n(AI) algorithms are well established, there is little consensus on how to\ndesign effective monitoring systems for the post-deployment setting. In real-\nworld case studies, design choices are often driven by practical constraints\nrather than their impact on the performance of the monitoring system. This\nnarrative review critically examines the key decisions that shape the\nperformance of AI monitoring systems, including the selection of monitoring\ncriteria, the choice of data sources, and the statistical procedures employed.\nOur findings reveal significant variation in the designed systems, often with\nlittle transparency regarding how their design choices affect monitoring\nperformance. To provide a more structured approach to designing monitoring\nsystems that are both effective and practical, we introduce a road map for\nnavigating the many options available. We bootstrap efforts in clinical AI\nmonitoring by highlighting tools from three related fields that face similarly\ncomplex challenges: quality management, clinical trials, and real-world\nevidence generation.\n\n",
+      "date_published": "2025-01-23T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J. Feng and Others"
+        }
+      ],
+      "tags": [
+        "Review Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2400657",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/ce1f7fbb-9a7d-46f0-9aed-85758c8735be/aira2400657_f2.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">While practices for the initial evaluation of clinical artificial intelligence (AI) algorithms are well established, there is little consensus on how to design effective monitoring systems for the post-deployment setting. In real-world case studies, design choices are often driven by practical constraints rather than their impact on the performance of the monitoring system. This narrative review critically examines the key decisions that shape the performance of AI monitoring systems, including the selection of monitoring criteria, the choice of data sources, and the statistical procedures employed. Our findings reveal significant variation in the designed systems, often with little transparency regarding how their design choices affect monitoring performance. To provide a more structured approach to designing monitoring systems that are both effective and practical, we introduce a road map for navigating the many options available. We bootstrap efforts in clinical AI monitoring by highlighting tools from three related fields that face similarly complex challenges: quality management, clinical trials, and real-world evidence generation.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400741",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400741",
+      "title": "Multicenter Double-Blind Study Evaluating AI-Driven Detection of Proximal Deep Vein Thrombosis",
+      "summary": "This article details a robust, diagnostic test accuracy study, comparing an AI-guided ultrasound tool (AutoDVT) with standard compression ultrasound in 414 patients at 11 centers in the UK, using a double-blind study design. Our initial development data were published in Nature Digital in 2021.",
+      "content_text": "## Abstract\n\n### Background\n\nUltrasound is one of the most widely requested forms of diagnostic imaging.\nThe costs for diagnosing deep vein thrombosis (DVT) in the UK are \u00a3175\nmillion, annually. In at least 80% of cases, DVT is excluded. As health care\nprovision becomes increasingly stretched, resource utilization needs to be\noptimized. This prospective, double-blind, test accuracy study was designed to\ntest whether an artificial intelligence (AI)\u2013guided software device (AutoDVT)\ncould support nonradiology specialists to diagnose proximal DVT.\n\n### Methods\n\nEleven regional hospital DVT diagnostic clinics enrolled adult patients, 18\nyears of age or older, who were referred for investigation of symptoms\nsuggestive of DVT, including a compression ultrasound. Prior to the clinical\ncompression ultrasound, an AutoDVT scan was completed. This was a two-point\nAI-guided compression ultrasound scan. We found that the main primary outcome\nwas the sensitivity of AutoDVT within a diagnostic algorithm for the detection\nof proximal DVT by nonradiology-trained staff. Other outcomes included\nspecificity and positive/negative predictive value of AutoDVT.\n\n### Results\n\nA total of 414 participants were enrolled. Proximal DVT was detected in 10.5%\nof those analyzed. AutoDVT resulted in 68% sensitivity (95% confidence\ninterval [CI], 49 to 83%) and 80% specificity (95% CI, 74 to 85%) for the\ndetection of proximal DVT. The negative predictive value for AutoDVT was 95%\n(95% CI, 92 to 98%), with a positive predictive value of 28% (95% CI, 19 to\n40%). Overall, 63 out of 294 results (21%; 95% CI, 17 to 27%) were discrepant\ncompared with compression ultrasound.\n\n### Conclusions\n\nThough AI-guided ultrasound use can detect proximal DVT, test accuracy was not\nsufficient for this device to be used safely. Further optimization of the\nsoftware is required prior to use in clinical practice by nonradiology-trained\nhealth care professionals. (Funded by the Wellcome Trust [Wellcome Innovator\nAward 220505/Z/20/Z]. The trial was registered as [ISRCTN\n11069056](https://doi.org/10.1186/ISRCTN11069056).)\n\n",
+      "date_published": "2025-01-23T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "N. Curry and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400741",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400741_Curry.jpg",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Ultrasound is one of the most widely requested forms of diagnostic imaging. The costs for diagnosing deep vein thrombosis (DVT) in the UK are \u00a3175 million, annually. In at least 80% of cases, DVT is excluded. As health care provision becomes increasingly stretched, resource utilization needs to be optimized. This prospective, double-blind, test accuracy study was designed to test whether an artificial intelligence (AI)\u2013guided software device (AutoDVT) could support nonradiology specialists to diagnose proximal DVT.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">Eleven regional hospital DVT diagnostic clinics enrolled adult patients, 18 years of age or older, who were referred for investigation of symptoms suggestive of DVT, including a compression ultrasound. Prior to the clinical compression ultrasound, an AutoDVT scan was completed. This was a two-point AI-guided compression ultrasound scan. We found that the main primary outcome was the sensitivity of AutoDVT within a diagnostic algorithm for the detection of proximal DVT by nonradiology-trained staff. Other outcomes included specificity and positive/negative predictive value of AutoDVT.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">A total of 414 participants were enrolled. Proximal DVT was detected in 10.5% of those analyzed. AutoDVT resulted in 68% sensitivity (95% confidence interval [CI], 49 to 83%) and 80% specificity (95% CI, 74 to 85%) for the detection of proximal DVT. The negative predictive value for AutoDVT was 95% (95% CI, 92 to 98%), with a positive predictive value of 28% (95% CI, 19 to 40%). Overall, 63 out of 294 results (21%; 95% CI, 17 to 27%) were discrepant compared with compression ultrasound.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Though AI-guided ultrasound use can detect proximal DVT, test accuracy was not sufficient for this device to be used safely. Further optimization of the software is required prior to use in clinical practice by nonradiology-trained health care professionals. (Funded by the Wellcome Trust [Wellcome Innovator Award 220505/Z/20/Z]. The trial was registered as <a href=\"https://doi.org/10.1186/ISRCTN11069056\" target=\"_blank\">ISRCTN 11069056</a>.)</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400402",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400402",
+      "title": "A Cross-Sectional Study of GPT-4\u2013Based Plain Language Translation of Clinical Notes to Improve Patient Comprehension of Disease Course and Management",
+      "summary": "In a novel clinical application of GPT-4\u2013based translation as a tool for improving confidence and accuracy of patient comprehension of hospital admission events and next steps in disease management, both perceived and objectively measured comprehension scores are higher when patients read plain language discharge summary notes (DSNs) translated by GPT-4 compared with untranslated DSNs. This effect is greater in marginalized populations with historically low rates of health literacy.",
+      "content_text": "## Abstract\n\n### Background\n\nThe 21st Century Cures Act provides patients with access to their clinical\nnotes, but most patients, particularly those with limited health literacy,\nhave difficulty understanding and utilizing them for health decisions and care\nmanagement. Thus, there is a critical need to improve the readability of\nclinical notes to ensure that patient access to medical information\nfacilitates equitable health outcomes. This study introduces a novel clinical\napplication of Generative Pretrained Transformer 4 (GPT-4), assessing the\neffect of GPT-4\u2013based plain language translation of discharge summary notes\n(DSNs) on subjective and objective comprehension, self-reported confidence,\nand time spent reading each DSN.\n\n### Methods\n\nWe enrolled 553 patients from December 2023 to February 2024. Participants\nwere at least 18 years of age, able to read English, had no diagnosis of\ncognitive impairment, and had an appointment scheduled within 2 months of\nenrollment at the Duke University Health System, a multicenter academic health\nsystem of three inpatient hospitals and multiple outpatient clinics. Patients\nread four DSNs related to common reasons for admission to an inpatient general\nmedical service: congestive heart failure, community-acquired pneumonia,\ndiabetic ketoacidosis, and acute ischemic stroke. Two DSNs (selected at\nrandom) were replaced by GPT-4\u2013based plain language translations. After\nreading each DSN, patients answered questionnaire items assessing subjective\nand objective comprehension. The effects of translation on comprehension\noutcomes were analyzed with linear mixed models.\n\n### Results\n\nAcross all four DSNs, GPT-4\u2013based translation improved objective comprehension\nby 1.2 of 4 points (CI, 1.09 to 1.26; P<0.001), subjective comprehension by\n2.4 of 16 points (CI, 2.15 to 2.71; P<0.001), and self-reported confidence by\n2.0 of 8 points (CI, 1.82 to 2.13; P<0.001). Improvements were greater among\nBlack and Hispanic patients, older patients, male patients, and those who\nreported limited health knowledge. In particular, objective comprehension\nimproved an additional 0.35 and 0.81 out of 4 points among Black and Hispanic\npatients, respectively.\n\n### Conclusions\n\nGPT-4\u2013based translation substantially improved patient comprehension of DSNs,\nespecially in populations that historically have low health literacy. Further\nresearch is needed to validate results in additional demographic groups and\nstudy downstream effects on health decision-making and outcomes.\n\n",
+      "date_published": "2025-01-23T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "A. Kumar and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400402",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/a25a4fbb-e9d8-4393-bf4a-1ced0ee70408/aioa2400402_f2.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">The 21st Century Cures Act provides patients with access to their clinical notes, but most patients, particularly those with limited health literacy, have difficulty understanding and utilizing them for health decisions and care management. Thus, there is a critical need to improve the readability of clinical notes to ensure that patient access to medical information facilitates equitable health outcomes. This study introduces a novel clinical application of Generative Pretrained Transformer 4 (GPT-4), assessing the effect of GPT-4\u2013based plain language translation of discharge summary notes (DSNs) on subjective and objective comprehension, self-reported confidence, and time spent reading each DSN.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We enrolled 553 patients from December 2023 to February 2024. Participants were at least 18 years of age, able to read English, had no diagnosis of cognitive impairment, and had an appointment scheduled within 2 months of enrollment at the Duke University Health System, a multicenter academic health system of three inpatient hospitals and multiple outpatient clinics. Patients read four DSNs related to common reasons for admission to an inpatient general medical service: congestive heart failure, community-acquired pneumonia, diabetic ketoacidosis, and acute ischemic stroke. Two DSNs (selected at random) were replaced by GPT-4\u2013based plain language translations. After reading each DSN, patients answered questionnaire items assessing subjective and objective comprehension. The effects of translation on comprehension outcomes were analyzed with linear mixed models.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Across all four DSNs, GPT-4\u2013based translation improved objective comprehension by 1.2 of 4 points (CI, 1.09 to 1.26; P&lt;0.001), subjective comprehension by 2.4 of 16 points (CI, 2.15 to 2.71; P&lt;0.001), and self-reported confidence by 2.0 of 8 points (CI, 1.82 to 2.13; P&lt;0.001). Improvements were greater among Black and Hispanic patients, older patients, male patients, and those who reported limited health knowledge. In particular, objective comprehension improved an additional 0.35 and 0.81 out of 4 points among Black and Hispanic patients, respectively.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">GPT-4\u2013based translation substantially improved patient comprehension of DSNs, especially in populations that historically have low health literacy. Further research is needed to validate results in additional demographic groups and study downstream effects on health decision-making and outcomes.</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2401235",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2401235",
+      "title": "It\u2019s Time to Bench the Medical Exam Benchmark",
+      "summary": "To move forward as a field, we need to design benchmarks that better align with the tasks these models are expected to perform upon deployment",
+      "content_text": "## Abstract\n\nMedical licensing examinations, such as the United States Medical Licensing\nExamination, have become the default benchmarks for evaluating large language\nmodels (LLMs) in health care. Performance on these benchmarks is frequently\ncited as evidence of progress and used to justify the deployment of LLMs into\nclinical settings. However, we argue that these benchmarks are fundamentally\nlimited as signals for assessing true clinical utility.\n\n",
+      "date_published": "2025-01-23T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "I.D. Raji, R. Daneshjou, and E. Alsentzer"
+        }
+      ],
+      "tags": [
+        "Editorial"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2401235",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Medical licensing examinations, such as the United States Medical Licensing Examination, have become the default benchmarks for evaluating large language models (LLMs) in health care. Performance on these benchmarks is frequently cited as evidence of progress and used to justify the deployment of LLMs into clinical settings. However, we argue that these benchmarks are fundamentally limited as signals for assessing true clinical utility.</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401103",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401103",
       "title": "Cultivating Health Care\u2019s AI Future",
@@ -48,7 +143,7 @@
           "mime_type": "application/pdf"
         }
       ],
-      "image": "https://ai.nejm.org/cms/asset/6aa05beb-e69e-4062-b748-9a791acbd42b/aioa2400590_f1.gif",
+      "image": "https://ai.nejm.org/cms/asset/d68b8a1a-2303-4791-a855-e2d0ba0b6e01/aioa2400590_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">While computer vision has gained traction in medical applications, models specifically engineered for intensive care unit (ICU) activities are limited.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We present Clinical Behavioral Atlas (CBA), a computer vision system that can identify 40 clinically relevant activity categories and 55 object categories solely through RGB video data. The system was developed using a dataset comprising over 140,000 hours of continuous video and over 350,000 densely annotated frames, collected from 16 sensors in 8 ICU rooms at an academic medical center.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">The model demonstrated strong performance in entity and activity detection, with sensitivities of 0.75\u223c0.81 and average precisions of 0.64\u223c0.73, respectively. Permutation tests yielded P values of less than 0.05 for most activity categories. We observed a positive correlation between the performance and both the number and size of entities. The model excelled at identifying common and large objects, even with limited samples, but struggled with small items like oral swabs. Activity detection performance correlated linearly with video duration. The model showed robust performance (&gt;0.85 average precision) for most clinical activities, but activities of daily living exhibited greater variation and lower average precision (0.23\u20130.95), indicating potential for further refinement due to their complexity and relative scarcity in the dataset. Experiments against other popular activity recognition models reveal that our method substantially outperforms all baselines, with improvements of 0.30 and 0.45 in average precision over the next best method.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">CBA expands automated identification of clinically important bedside clinical actions such as ICU preventive bundle elements. While we have demonstrated the feasibility of computer vision as a tool to assist in clinical care in high-intensity settings such as the ICU, the development of a full clinical-level performance CBA model will require larger datasets, ideally from multiple locations. (Funded by Schmidt Futures and others.)</div></section>"
     },
     {
@@ -95,172 +190,8 @@
           "mime_type": "application/pdf"
         }
       ],
-      "image": "https://ai.nejm.org/cms/asset/8b997667-e09c-4dbb-a6ba-7c21b50554f2/aip2400889_f1.gif",
+      "image": "https://ai.nejm.org/cms/asset/e1a05382-d266-4603-bb27-fd0057405d79/aip2400889_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">While the discussion about the effects of large language models (LLMs) on health equity has been largely cautionary, LLMs also present significant opportunities for improving health equity. We highlight three such opportunities: improving the detection of human bias; creating structured datasets relevant to health equity; and improving equity of access to health information.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2400380",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2400380",
-      "title": "RAG in Health Care: A Novel Framework for Improving Communication and Decision-Making by Addressing LLM Limitations",
-      "summary": "This review article explores and evaluates the opportunities in using retrieval augmented generation (RAG) to overcome existing LLM limitations when used within the healthcare and pharmaceutical domain. It provides a framework of how RAG works and describes its strengths and weaknesses when applied to the field of medicine.",
-      "content_text": "## Abstract\n\nWithin the field of artificial intelligence (AI), large language models (LLMs)\nhave the potential to transform the delivery of medical information. LLMs, as\na subset of generative AI, have demonstrated value in content creation, idea\ngeneration, and interactive communication. However, their inherent\nlimitations, such as the need for up-to-date information, hallucinations of\nincorrect facts, and a reliance on public-domain data, restrict the full\npotential of generative AI within the health care setting. To address these\nlimitations, retrieval-augmented generation (RAG) offers a novel framework by\nconnecting LLMs with external knowledge, enabling them to access information\nbeyond their training data. Within the health care domain, additional datasets\ncould include peer-reviewed studies, gated medical compendiums, and the\ninternal policies of health care organizations such as hospitals or\npharmaceutical companies. By leveraging RAG, existing generative AI tools gain\nthe capability to consider both public and private information, expanding\ntheir application and enhancing accuracy and relevance within the health care\nsetting. The utility of RAG in the health care setting has yet to be fully\nexplored, but it has the potential to revolutionize the industry. This article\nseeks to outline present and future use cases of RAG for health care\ninformation exchange within both clinical and industrial settings.\n\n",
-      "date_published": "2024-12-23T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "K.K.Y. Ng, I. Matsuba, and P.C. Zhang"
-        }
-      ],
-      "tags": [
-        "Review Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2400380",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIra2400380_Zhang-1734963181703.jpg",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Within the field of artificial intelligence (AI), large language models (LLMs) have the potential to transform the delivery of medical information. LLMs, as a subset of generative AI, have demonstrated value in content creation, idea generation, and interactive communication. However, their inherent limitations, such as the need for up-to-date information, hallucinations of incorrect facts, and a reliance on public-domain data, restrict the full potential of generative AI within the health care setting. To address these limitations, retrieval-augmented generation (RAG) offers a novel framework by connecting LLMs with external knowledge, enabling them to access information beyond their training data. Within the health care domain, additional datasets could include peer-reviewed studies, gated medical compendiums, and the internal policies of health care organizations such as hospitals or pharmaceutical companies. By leveraging RAG, existing generative AI tools gain the capability to consider both public and private information, expanding their application and enhancing accuracy and relevance within the health care setting. The utility of RAG in the health care setting has yet to be fully explored, but it has the potential to revolutionize the industry. This article seeks to outline present and future use cases of RAG for health care information exchange within both clinical and industrial settings.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2400927",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2400927",
-      "title": "Managing Patient Use of Generative Health AI",
-      "summary": "In reviewing the benefits and risks of patients\u2019 use of generative artificial intelligence and policy approaches to increasing trust and containing risks associated with this use, the authors conclude that while government will play a role in helping patients use generative AI effectively, major responsibility will fall to the private sector.",
-      "content_text": "## Abstract\n\nPatients\u2019 use of artificial intelligence, or patient AI (PAI), is now\nwidespread, promising both benefits and risks. There is an urgent need to\nassist patients with using these new technologies as safely and effectively as\npossible. Focusing on patients\u2019 use of large language models (LLMs) for health\ncare purposes, this article explores critical issues in the management of\ngenerative PAI in the United States, including constitutional limits on\ngovernment\u2019s regulatory authority, and identifies opportunities for public and\nprivate actors to help patients take advantage of generative PAI safely. With\nrespect to the public sector, there is a critical need for federal action to\nfund research on the benefits and risks of PAI and on the development of valid\nmetrics and performance standards for PAI. The federal government also needs\nto better protect the privacy and security of patient data shared with PAI,\nand to require transparency with respect to how LLMs used for health care\npurposes are funded, how they are developed, and how they perform. (Supported\nby the Commonwealth Fund.)\n\n",
-      "date_published": "2024-12-20T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "D. Blumenthal and C. Goldberg"
-        }
-      ],
-      "tags": [
-        "Policy Corner"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2400927",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Patients\u2019 use of artificial intelligence, or patient AI (PAI), is now widespread, promising both benefits and risks. There is an urgent need to assist patients with using these new technologies as safely and effectively as possible. Focusing on patients\u2019 use of large language models (LLMs) for health care purposes, this article explores critical issues in the management of generative PAI in the United States, including constitutional limits on government\u2019s regulatory authority, and identifies opportunities for public and private actors to help patients take advantage of generative PAI safely. With respect to the public sector, there is a critical need for federal action to fund research on the benefits and risks of PAI and on the development of valid metrics and performance standards for PAI. The federal government also needs to better protect the privacy and security of patient data shared with PAI, and to require transparency with respect to how LLMs used for health care purposes are funded, how they are developed, and how they perform. (Supported by the Commonwealth Fund.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401088",
-      "title": "Tackling Algorithmic Bias and Promoting Transparency in Health Datasets: The STANDING Together Consensus Recommendations",
-      "summary": "We set out recommendations enabling those creating and/or using health care datasets to identify and transparently acknowledge underlying biases.",
-      "content_text": "## Abstract\n\nWithout careful dissection of the ways in which biases can be encoded into\nartificial intelligence (AI) health technologies, there is a risk of\nperpetuating existing health inequalities at scale. One major source of bias\nis the data that underpins such technologies. The STANDING Together\nrecommendations aim to encourage transparency regarding limitations of health\ndatasets and proactive evaluation of their effect across population groups.\nDraft recommendation items were informed by a systematic review and\nstakeholder survey. The recommendations were developed using a Delphi\napproach, supplemented by a public consultation and international interview\nstudy. Overall, more than 350 representatives from 58 countries provided input\ninto this initiative. 194 Delphi participants from 25 countries voted and\nprovided comments on 32 candidate items across three electronic survey rounds\nand one in-person consensus meeting. The 29 STANDING Together consensus\nrecommendations are presented here in two parts. Recommendations for\nDocumentation of Health Datasets provide guidance for dataset curators to\nenable transparency around data composition and limitations. Recommendations\nfor Use of Health Datasets aim to enable identification and mitigation of\nalgorithmic biases that might exacerbate health inequalities. These\nrecommendations are intended to prompt proactive inquiry rather than acting as\na checklist. We hope to raise awareness that no dataset is free of\nlimitations, so transparent communication of data limitations should be\nperceived as valuable, and absence of this information as a limitation. We\nhope that adoption of the STANDING Together recommendations by stakeholders\nacross the AI health technology lifecycle will enable everyone in society to\nbenefit from technologies which are safe and effective. (Funded by The NHS AI\nLab and The Health Foundation, and supported by the National Institute for\nHealth and Care Research [NIHR].)\n\n",
-      "date_published": "2024-12-18T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J.E. Alderman and Others"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401088",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Without careful dissection of the ways in which biases can be encoded into artificial intelligence (AI) health technologies, there is a risk of perpetuating existing health inequalities at scale. One major source of bias is the data that underpins such technologies. The STANDING Together recommendations aim to encourage transparency regarding limitations of health datasets and proactive evaluation of their effect across population groups. Draft recommendation items were informed by a systematic review and stakeholder survey. The recommendations were developed using a Delphi approach, supplemented by a public consultation and international interview study. Overall, more than 350 representatives from 58 countries provided input into this initiative. 194 Delphi participants from 25 countries voted and provided comments on 32 candidate items across three electronic survey rounds and one in-person consensus meeting. The 29 STANDING Together consensus recommendations are presented here in two parts. Recommendations for Documentation of Health Datasets provide guidance for dataset curators to enable transparency around data composition and limitations. Recommendations for Use of Health Datasets aim to enable identification and mitigation of algorithmic biases that might exacerbate health inequalities. These recommendations are intended to prompt proactive inquiry rather than acting as a checklist. We hope to raise awareness that no dataset is free of limitations, so transparent communication of data limitations should be perceived as valuable, and absence of this information as a limitation. We hope that adoption of the STANDING Together recommendations by stakeholders across the AI health technology lifecycle will enable everyone in society to benefit from technologies which are safe and effective. (Funded by The NHS AI Lab and The Health Foundation, and supported by the National Institute for Health and Care Research [NIHR].)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400497",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400497",
-      "title": "How Generalizable Are Foundation Models When Applied to Different Demographic Groups and Settings?",
-      "summary": "An evaluation of the foundational model RETFound on an Asian-specific dataset indicates the challenges foundational AI models face in adapting to diverse demographics, emphasizing the need to include more diverse data and collaborate globally on research.",
-      "content_text": "## Abstract\n\nRETFound is a retinal image\u2013based foundational artificial intelligence (AI)\nmodel that can be fine-tuned to downstream tasks. However, its\ngeneralizability to Asian populations remains unclear. In this study, we fine-\ntuned RETFound on an Asian-specific dataset. We then evaluated the performance\nof RETFound versus a conventional Vision Transformer model (pretrained on\nImageNet) in diagnosing glaucoma and coronary heart disease and predicting the\n3-year risk of stroke in an Asian population. When fine-tuned on a \u201cfull\u201d\ndataset, RETFound showed no significant improvement compared with a\nconventional Vision Transformer model (area under the curves [AUCs] of 0.863,\n0.628, and 0.557 vs. 0.853, 0.621, and 0.543, respectively; all P\u22650.2).\nFurthermore, in scenarios with limited training data (fine-tuned on \u226425% of\nthe full dataset), RETFound showed a slight advantage (up to a maximum AUC\nincrease of 0.03). However, these improvements were not statistically\nsignificant (all P\u22650.2). These findings indicate the challenges foundational\nAI models face in adapting to diverse demographics, emphasizing the need for\nmore diverse data in current foundation models and the importance of global\ncollaboration on foundation model research.\n\n",
-      "date_published": "2024-12-18T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "Z. Xiong and Others"
-        }
-      ],
-      "tags": [
-        "Case Study"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400497",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/925aa4d2-c256-45bf-ade8-81f317c70045/aics2400497_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">RETFound is a retinal image\u2013based foundational artificial intelligence (AI) model that can be fine-tuned to downstream tasks. However, its generalizability to Asian populations remains unclear. In this study, we fine-tuned RETFound on an Asian-specific dataset. We then evaluated the performance of RETFound versus a conventional Vision Transformer model (pretrained on ImageNet) in diagnosing glaucoma and coronary heart disease and predicting the 3-year risk of stroke in an Asian population. When fine-tuned on a \u201cfull\u201d dataset, RETFound showed no significant improvement compared with a conventional Vision Transformer model (area under the curves [AUCs] of 0.863, 0.628, and 0.557 vs. 0.853, 0.621, and 0.543, respectively; all P\u22650.2). Furthermore, in scenarios with limited training data (fine-tuned on \u226425% of the full dataset), RETFound showed a slight advantage (up to a maximum AUC increase of 0.03). However, these improvements were not statistically significant (all P\u22650.2). These findings indicate the challenges foundational AI models face in adapting to diverse demographics, emphasizing the need for more diverse data in current foundation models and the importance of global collaboration on foundation model research.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2401073",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2401073",
-      "title": "The Promise and Perils of Autonomous AI in Science",
-      "summary": "We recommend the development of clearer guidelines and ethical standards for the use of artificial intelligence (AI) in research, fostering human-AI collaboration to enhance research quality while preserving human oversight and integrating the innovative \u201cdata-chaining\u201d transparency mechanisms more broadly to support reproducibility and traceability.",
-      "content_text": "## Abstract\n\nIn this edition of _NEJM AI_ , Ifargan and colleagues present data-to-paper,\nan autonomous platform designed to mimic human scientific practice by guiding\na large language model through a stepwise research process to produce complete\nresearch papers. While the platform shows promise, significant errors\nfrequently occur with complex datasets, requiring human intervention for\ncorrection. Here, we explore the risks of over-reliance on such automated\ntools, echoing potential threats to scientific integrity and a surge in low-\nquality publications, while also considering their potential role in the\nreproduction and verification of scientific findings. To address these\nchallenges, we recommend the development of clearer guidelines and ethical\nstandards for the use of artificial intelligence (AI) in research, fostering\nhuman\u2013AI collaboration to enhance research quality while preserving human\noversight, and integrating the innovative \u201cdata-chaining\u201d transparency\nmechanisms more broadly to support reproducibility and traceability.\n\n",
-      "date_published": "2024-12-16T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J. Gao and E.M. Harrison"
-        }
-      ],
-      "tags": [
-        "Editorial"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2401073",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">In this edition of <i>NEJM AI</i>, Ifargan and colleagues present data-to-paper, an autonomous platform designed to mimic human scientific practice by guiding a large language model through a stepwise research process to produce complete research papers. While the platform shows promise, significant errors frequently occur with complex datasets, requiring human intervention for correction. Here, we explore the risks of over-reliance on such automated tools, echoing potential threats to scientific integrity and a surge in low-quality publications, while also considering their potential role in the reproduction and verification of scientific findings. To address these challenges, we recommend the development of clearer guidelines and ethical standards for the use of artificial intelligence (AI) in research, fostering human\u2013AI collaboration to enhance research quality while preserving human oversight, and integrating the innovative \u201cdata-chaining\u201d transparency mechanisms more broadly to support reproducibility and traceability.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400672",
-      "title": "Ethical Use of Artificial Intelligence in Medical Diagnostics Demands a Focus on Accuracy, Not Fairness",
-      "summary": "We argue that in developing and evaluating AI tools for medical diagnostics, rather than focusing on fairness criteria that quantify disparities between protected subpopulations, our first and most important objective should be to track and maximize diagnostic accuracy for all subpopulations.",
-      "content_text": "## Abstract\n\nArtificial intelligence (AI) promises to be a transformative technology for\nmedicine and health care. As such, there is an increasing interest in ensuring\nits ethical use. In this perspective, we consider the employment of AI for\nmedical diagnostics, where the goal is the detection and classification of an\nunderlying pathology, based on data such as patient information, clinical\npresentation, tests, and imaging. We argue that instead of prioritizing\nfairness criteria that measure disparities between protected groups, the\nprimary goal should be to assess and enhance diagnostic accuracy within each\nsubpopulation. This approach shifts the focus from optimizing overall\npopulation accuracy to ensuring maximal accuracy in each subpopulation. Our\nperspective implies that we should be using all available information,\nincluding protected group identity, in our methods. We decouple the goal of\naccurate diagnosis from fairness considerations in screening and postdiagnosis\nclinical decisions, which often require the allocation of finite resources.\nFurthermore, we underscore the importance of collecting high-quality and\nrepresentative datasets for each subpopulation, including ensuring that the\nground truth labels we train and with which we evaluate are unbiased.\n\n",
-      "date_published": "2024-12-13T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "M.R. Sabuncu, A.Q. Wang, and M. Nguyen"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400672",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence (AI) promises to be a transformative technology for medicine and health care. As such, there is an increasing interest in ensuring its ethical use. In this perspective, we consider the employment of AI for medical diagnostics, where the goal is the detection and classification of an underlying pathology, based on data such as patient information, clinical presentation, tests, and imaging. We argue that instead of prioritizing fairness criteria that measure disparities between protected groups, the primary goal should be to assess and enhance diagnostic accuracy within each subpopulation. This approach shifts the focus from optimizing overall population accuracy to ensuring maximal accuracy in each subpopulation. Our perspective implies that we should be using all available information, including protected group identity, in our methods. We decouple the goal of accurate diagnosis from fairness considerations in screening and postdiagnosis clinical decisions, which often require the allocation of finite resources. Furthermore, we underscore the importance of collecting high-quality and representative datasets for each subpopulation, including ensuring that the ground truth labels we train and with which we evaluate are unbiased.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400555",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400555",
-      "title": "Autonomous LLM-Driven Research \u2014 from Data to Human-Verifiable Research Papers",
-      "summary": "Our study demonstrates a potential for AI-driven acceleration of scientific discovery in biomedical research and beyond, while enhancing, rather than jeopardizing, traceability, transparency, and verifiability.",
-      "content_text": "## Abstract\n\n### Background\n\nArtificial intelligence (AI) promises to accelerate scientific discovery, but\nit remains unclear whether AI systems can perform fully autonomous research,\nand whether they can do so while adhering to key scientific values, such as\ntransparency, traceability, and verifiability. The aim of this study was to\ndevelop and evaluate an AI-automation platform that performs transparent,\ntraceable, and human-verifiable scientific research.\n\n### Methods\n\nTo mimic human scientific practices, we built \u201cdata-to-paper,\u201d an automation\nplatform that guides interacting large language model (LLM) agents through a\ncomplete stepwise research process that starts with annotated data and results\nin comprehensive research papers, while programmatically backtracing\ninformation flow and allowing human oversight and interactions. The platform\ncan run fully autonomously (in autopilot mode) or with human intervention (in\ncopilot mode).\n\n### Results\n\nIn autopilot mode, provided only with annotated data, data-to-paper raised\nhypotheses; designed research plans; wrote and debugged analysis codes;\ngenerated and interpreted results; and created complete, information-traceable\nresearch papers. Even though the research novelty of manuscripts created by\ndata-to-paper was relatively limited, the process demonstrated the autonomous\ngeneration of de novo quantitative insights from data, such as unraveling\nassociations between health indicators and clinical outcomes. For simple\nresearch goals and datasets, a fully autonomous cycle can create manuscripts\nthat independently recapitulate the findings of peer-reviewed biomedical\npublications without major errors in about 80 to 90% of cases. Yet, as goal or\ndata complexity increases, human copiloting becomes critical for ensuring\naccuracy and overall quality. By tracking information flow through the steps,\nthe platform creates \u201cdata-chained\u201d manuscripts, in which downstream results\nare programmatically linked to upstream code and data, thus setting a new\nstandard for the verifiability of scientific outputs.\n\n### Conclusions\n\nOur work demonstrates the potential for AI-driven acceleration of scientific\ndiscovery in data-driven biomedical research and beyond, while enhancing,\nrather than jeopardizing, traceability, transparency, and verifiability.\n\n",
-      "date_published": "2024-12-03T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "T. Ifargan and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400555",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/06a1651e-79ce-4d95-887b-9fbf5ed07916/aioa2400555_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI) promises to accelerate scientific discovery, but it remains unclear whether AI systems can perform fully autonomous research, and whether they can do so while adhering to key scientific values, such as transparency, traceability, and verifiability. The aim of this study was to develop and evaluate an AI-automation platform that performs transparent, traceable, and human-verifiable scientific research.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">To mimic human scientific practices, we built \u201cdata-to-paper,\u201d an automation platform that guides interacting large language model (LLM) agents through a complete stepwise research process that starts with annotated data and results in comprehensive research papers, while programmatically backtracing information flow and allowing human oversight and interactions. The platform can run fully autonomously (in autopilot mode) or with human intervention (in copilot mode).</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">In autopilot mode, provided only with annotated data, data-to-paper raised hypotheses; designed research plans; wrote and debugged analysis codes; generated and interpreted results; and created complete, information-traceable research papers. Even though the research novelty of manuscripts created by data-to-paper was relatively limited, the process demonstrated the autonomous generation of de novo quantitative insights from data, such as unraveling associations between health indicators and clinical outcomes. For simple research goals and datasets, a fully autonomous cycle can create manuscripts that independently recapitulate the findings of peer-reviewed biomedical publications without major errors in about 80 to 90% of cases. Yet, as goal or data complexity increases, human copiloting becomes critical for ensuring accuracy and overall quality. By tracking information flow through the steps, the platform creates \u201cdata-chained\u201d manuscripts, in which downstream results are programmatically linked to upstream code and data, thus setting a new standard for the verifiability of scientific outputs.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Our work demonstrates the potential for AI-driven acceleration of scientific discovery in data-driven biomedical research and beyond, while enhancing, rather than jeopardizing, traceability, transparency, and verifiability.</div></section>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2400464",
@@ -283,7 +214,7 @@
           "mime_type": "application/pdf"
         }
       ],
-      "image": "https://ai.nejm.org/cms/asset/6cb77c22-220e-44fe-8cae-bdef14a73e73/aipc2400464_f1.gif",
+      "image": "https://ai.nejm.org/cms/asset/d68c4083-26e2-44d3-b542-5773fc0ce917/aipc2400464_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">In the wake of recent advancements in generative artificial intelligence (AI), regulatory bodies are trying to keep pace. One key decision is whether to require app makers to disclose the use of generative AI-powered chatbots in their products. We suggest that some generative AI-based chatbots lead consumers to use chatbots in unintended ways that create mental health risks, making consumers contextually vulnerable \u2014 defined as a temporary state of susceptibility to harm or other adverse mental health effects arising from the interplay between a user\u2019s interactions with a particular system and the system\u2019s response. We argue that for health apps, including medical devices and wellness apps, disclosure should be mandated. We also show that even when chatbots are disclosed in these instances, they may still carry risks due to the tendency of app makers to humanize their chatbots. The current regulatory structure does not fully address these challenges. We discuss how app makers and regulators should proactively address this challenge by considering where apps fall along the continuum of perceived humanness. For health-related apps, this evaluation should lead to a mandate or strong recommendation that neutral (nonhumanized) chatbots be the default, with any deviations from this standard requiring clear justification. (Funded in part by a Novo Nordisk Foundation Grant; NNF23SA0087056.)</div>"
     }
   ]
