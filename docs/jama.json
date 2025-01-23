@@ -4,24 +4,47 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "title": "Synthetic Data and Health Privacy",
-            "summary": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "content_text": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "date_published": "2024-12-30T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827558",
+            "title": "Improving Prognostication in Hypoxic-Ischemic Encephalopathy",
+            "summary": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
+            "content_text": "Neonatal encephalopathy is a heterogeneous clinical syndrome resulting from disrupted brain function in full-term or late-term newborns. 1 Characteristic features of neonatal encephalopathy include alterations of consciousness, abnormal muscle tone, seizures, feeding difficulties, and respiratory dysfunction. The global impact of neonatal encephalopathy is great. Its estimated incidence ranges from 2 to 6 per 1000 live births, and it disproportionately impacts neonates in low- and middle-income countries. While there are many causes of neonatal encephalopathy including infection, metabolic derangements, and genetic or congenital disorders, the most common etiology is hypoxic-ischemic injury due to intrapartum asphyxia, what is referred to as hypoxic ischemic encephalopathy (HIE). HIE outcomes are highly variable, ranging from normal neurodevelopment to severe cognitive dysfunction, spastic-dyskinetic cerebral palsy, or early death. Consequently, several studies have utilized clinical findings, laboratory investigations, electroencephalography (EEG), and/or neuroimaging to develop predictive models for the risk of death or neurodevelopmental impairment in HIE. 2 Unfortunately, small sample sizes, use of highly specialized approaches or equipment, and other methodological concerns have limited the generalization of these studies into widespread clinical practice. 2",
+            "date_published": "2024-12-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Gw\u00e9nol\u00e9 Abgrall, MD"
+                    "name": "Daniel G. Calame, MD, PhD"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "privacy"
+                "ischemic-hypoxic encephalopathy",
+                "neurology speciality"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2828669/jama_abgrall_2024_vp_240170_1734647300.06711.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827558/calame_2024_ic_240310_1732641703.73354.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
+            "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
+            "summary": "This Viewpoint provides recommendations for health care organizations (HCOs) and clinicians to facilitate the use of artificial intelligence (AI)\u2013enabled systems, including electronic health records with AI features, in routine clinical care and provides pragmatic guidance for HCOs and clinicians at all stages of AI implementation.",
+            "content_text": "This Viewpoint provides recommendations for health care organizations (HCOs) and clinicians to facilitate the use of artificial intelligence (AI)\u2013enabled systems, including electronic health records with AI features, in routine clinical care and provides pragmatic guidance for HCOs and clinicians at all stages of AI implementation.",
+            "date_published": "2024-11-27T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Dean F. Sittig, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2827434/jama_sittig_2024_vp_240166_1732295628.87661.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
@@ -55,29 +78,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi240075f1_1731854382.35145.png?Expires=2147483647&Signature=x5~qWo2abHPdwuJWuEzJwj9j8JeGBlEaIJ5ytbtj3SO7Vt8w3LKWuPioW6U9JjmpL6P1PIKhYPrgy7AJHWxX0U0fIFgqEoIblSw-2kqMNhYz6DPNPLSpaoB0edXblu9iHsXhDOKUORqk8nJGWiQ9v6kfjF1Kch8jshAKZdrwSSFTRIaCNMbBYbgxw3BU~H40lWi-B4PJPN1e2l4YIq-zcG1sKwuaD6yN7zxcbpzh0pNbetPw0iXrkdVuBXs3qtYQNk3CCSAxpL2uqIRq3y~ZgftQOdi04E~GiFXytLV66HpXsxLW3uUTbCSkYoDCqszsec1JKmcVXUGIbJfUCU8Ajw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
-            "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
-            "summary": "This Viewpoint provides recommendations for health care organizations (HCOs) and clinicians to facilitate the use of artificial intelligence (AI)\u2013enabled systems, including electronic health records with AI features, in routine clinical care and provides pragmatic guidance for HCOs and clinicians at all stages of AI implementation.",
-            "content_text": "This Viewpoint provides recommendations for health care organizations (HCOs) and clinicians to facilitate the use of artificial intelligence (AI)\u2013enabled systems, including electronic health records with AI features, in routine clinical care and provides pragmatic guidance for HCOs and clinicians at all stages of AI implementation.",
-            "date_published": "2024-11-27T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Dean F. Sittig, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2827434/jama_sittig_2024_vp_240166_1732295628.87661.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2825145",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2825145",
             "title": "Translating AI for the Clinician",
@@ -101,32 +101,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939503/jvp240145f1_1732559811.49463.png?Expires=2147483647&Signature=GGD~-43RSNW-9TnjR1H8o8KAzxbB7Jphn~kbMMEEyISEx9muUHKIY664~bkPraMFM52SnYRe76pb2kKBb-yn7~4L4doeKfUbpWdWrbQHPG6AMz1SZT1rRzZ5ILjpnEnrmlwg~1jxFeIdBwgqn2NWiSLA0WVfdWGVz9lHiU0bCyyI3BrUgwqtOrSejTSrhGG3rjfd6mmQqUOVzGoWVCrZvAdGDkyS7R9TB6ceetWUs8aCZI060ZkSRNieZ~M5XEXWQBc5tRZycce-GOxaHxQecsN9SDe3dC2f5zv55ssdYcNgJtDsO0Uicm5A48I5jGKehroZicQl~8Ffs-q2BV5gHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
-            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "date_published": "2024-11-22T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Farid Ghareh Mohammadi, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "informatics (discipline)",
-                "physical and emotional exhaustion state",
-                "radiologist"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
@@ -155,6 +129,32 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241365t1_1731684044.06019.png?Expires=2147483647&Signature=ze3APbXsOF4VtXwuSaCiCOMkfPcEHihxucX5dwHCiJYZzjpY1o-dvE7xSWDRbcP0IML4HEjC3UVqnStK8lgU24JaquWhmJx4C21gd45WJER8b9~lSLH5WYB0-rlEf1STVNNVHHtbai0UgTSn06m1WtfK5bHrUE9B~iohD4caGDQ~8Za5kI80AIGGg-5tjeKV3NIlKHxFPCibIbFWpah4PbvZJqGfFfofRld2zucw92OyDphtjZ~tAaoWTiHRohTTylIM~h~8~xbeYKwcPf1tqSEkQRDUB5OdBW6x9F-4jMVJ5YNklKc387uwiPJUBZ2nxqwWhcBj7j9OHE3VGk2O0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
+            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "date_published": "2024-11-22T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Farid Ghareh Mohammadi, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "informatics (discipline)",
+                "physical and emotional exhaustion state",
+                "radiologist"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826511",
@@ -283,31 +283,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241246t1_1730394547.41392.png?Expires=2147483647&Signature=FSC2y3JA-qK-Kgh1~d2zI85WJkQWmh7wpEFsHRU0~lYBCB1zRqCCucTQKkfbaH5DTwfutBzSHf9vjf0I~O632wyh1qNyuyv7aaneKvn0cewmXZVvoiRfkgbFqwCPX5BA-9WZTDbdCzMfVCyf6JkjMY7jnTpi2W1LWZz4NlVvYZqg75MKgl-easXJ1orBYLWPvyB4UJQi8XVI6DkxGuu7Z-i7rtzAqei6ahl3JZLMefs2j6ULhXBKBTMJVXXIMlnXEfgs9836MZy5RlgN8m-eUAPwvgrmNJum~D~IrRQhV9E4WVn3wa3cIlv9V1DgA9fu7B7iIDxo9-~qCSMGsLDv9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
-            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "date_published": "2024-11-07T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Grace K. Sun, BS"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)",
-                "natural language processing",
-                "triage"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
             "title": "Natural Language Processing of Clinical Documentation to Assess Functional Status in Patients With Heart",
@@ -333,6 +308,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241254t1_1730394538.76268.png?Expires=2147483647&Signature=kePpVSW3A329gL0Zkl53OJRGbz5bY4jZwxs60s~PaQ3lF9rmJEforuN9bSxqTi-Z8VD1bDPkJu6OezPj95lTwrmZlsKYDW5lwpjBVXdmCjoqYXaH~QDLbLl~n1qWtQDRkrHx7aaLY-pXrKC3sQgCJ4DgI7iTKvzUtrCXRUicu~2gvw0qSUj6wTvqr-AvJXucHP7uyvqs7E564AkOciIvIqdEDD49Tgw5PlkyQCXw9H4vGOYzGzeNDdbIfj1mCYRQj6QKh~VpEe3D74smiddXNyix6-yzXq2rDSKdXoPIQi39Rca1ECb5Diy3vf5k0BpxQLxHAu~W3AhmG~WcEeQM6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
+            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "date_published": "2024-11-07T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Grace K. Sun, BS"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)",
+                "natural language processing",
+                "triage"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2825500",
@@ -465,6 +465,30 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
+            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "date_published": "2024-10-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Andrew Gonzalez, MD, JD, MPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "machine learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
             "title": "Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial",
@@ -490,30 +514,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939467/zoi241182f1_1729527081.5449.png?Expires=2147483647&Signature=3ekbX2qtg2we0UEDs85fc8mIbpunw6yVZ9RixFhv-7wsbIhkuxVJyinRve6Q7a-YO9akijgF84cLzFzcLOG~z1MEneiA3RScpDCzVnsl4Cnmh7dXoiK~jkP0Drf7LF2I-bwEFhgsTgdK8kYTDv0SyQFydIDPNL0Sh1FRatBd2iF4nmNa-puvaGNifFodpadTrYjj9j3Y7PDFkCkP5VoWnC-DKd4xfqDELz-Dv~HXnXBctVWdBBHNAZZEcjvPiyF5WLAo0s5zGLgmTZOiXMBKYLYvLj5tfPpeGYkVkeU-e8EccuAZ1A-ShjCdvg0Gwx~6UO5LL7G5MoMQe3j9r-FHDA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
-            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "date_published": "2024-10-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Andrew Gonzalez, MD, JD, MPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "machine learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825235",
@@ -841,31 +841,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939354/avp240008t1_1712770392.41458.png?Expires=2147483647&Signature=NZ5rYVUd8MBrfpPfRsLnW~be~bq-GJJRCKg6p8CZRgVD7CxaZeJgjZfqJrWV3qoUj29ICgAqL5DLK-rsZS1LY3QhNsK4ZT-KX3KKbv9mXcYabq45KVxjZA0I3DkQmjqmJD1W68hBxTQ0XVXW9NDI9ZxRzgKxVGXn8eyVtH43J4bhPL4lCHsgGCkQBBmEtqEP8QQTirx-j-45F7TYViMes3mngrsnVTaCiUs1RiXxL8~qUlpOBJVnFl2k1Tf94t1AsqPYZDxsahoQmLHWXZWkIw~U18~hLkO15ZEspMI9uC7-I~zKCODXuz8at0MS2I3N-SN2aswexpgo36kgdTd1OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
-            "title": "Practical Guide to Machine Learning and Artificial Intelligence in Surgical Education Research",
-            "summary": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
-            "content_text": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
-            "date_published": "2024-04-01T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Daniel A. Hashimoto, MD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "machine learning",
-                "operative surgical procedures"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2813494/jamasurgery_hashimoto_2024_gm_230006_1711661306.13439.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2814978",
             "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2814978",
             "title": "Academic Surgery in the Era of Large Language Models: A Review",
@@ -891,6 +866,31 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939353/srv230010f1_1711661264.54467.png?Expires=2147483647&Signature=Ozq-91RuyXuWpynfCIAhuix8q1S-eFchmcK1OVu1qeLUvg4ybxnS26Q9B4AeXuZCsdL2zWWv-zyDZj9VJUokrQ0CY5-5rRFPwpFL4f~pJYb1yZGzhWzsVPlXqFWf71JDxPXPvWBAnlMLV~gAsyNF72Ho8zP91cYZECNs1zVW~1kipTyFiPkb7Q0xpoYFPtIUJU4ZOp~WaBCgLXxlBzy8mGTQ3UmS2JuCjQju75PyiNk0j6cABPPu6xipWGlMPrwetwvw2RhntFta7LI2rcYWGPOW21i1edjehAGAwTv8Wck7h4B1skHl58mJ3Ce6RJMXUQj23JOKuYDKUvBlFLyN2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
+            "title": "Practical Guide to Machine Learning and Artificial Intelligence in Surgical Education Research",
+            "summary": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
+            "content_text": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
+            "date_published": "2024-04-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Daniel A. Hashimoto, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "machine learning",
+                "operative surgical procedures"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2813494/jamasurgery_hashimoto_2024_gm_230006_1711661306.13439.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
             "title": "Enhancing Health Care Communication With Large Language Models\u2014The Role, Challenges, and Future Directions",
@@ -913,6 +913,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
+            "title": "A Nationwide Network of Health AI Assurance Laboratories",
+            "summary": "This article outlines the need for a nationwide public-private network of assurance laboratories that would aid in the evaluation and development of artificial intelligence (AI) in health care.",
+            "content_html": "<h3>Importance</h3><p>Given the importance of rigorous development and evaluation standards needed of artificial intelligence (AI) models used in health care, nationwide accepted procedures to provide assurance that the use of AI is fair, appropriate, valid, effective, and safe are urgently needed.</p><h3>Observations</h3><p>While there are several efforts to develop standards and best practices to evaluate AI, there is a gap between having such guidance and the application of such guidance to both existing and new AI models being developed. As of now, there is no publicly available, nationwide mechanism that enables objective evaluation and ongoing assessment of the consequences of using health AI models in clinical care settings.</p><h3>Conclusion and Relevance</h3><p>The need to create a public-private partnership to support a nationwide health AI assurance labs network is outlined here. In this network, community best practices could be applied for testing health AI models to produce reports on their performance that can be widely shared for managing the lifecycle of AI models over time and across populations and sites where these models are deployed.</p>",
+            "date_published": "2024-01-16T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Nigam H. Shah, MBBS, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "best practice",
+                "laboratory techniques and procedures",
+                "laboratory test finding",
+                "partnership"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2813425/jama_shah_2023_sc_230010_1704388743.12177.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230010f1_1704388743.37082.png?Expires=2147483647&Signature=hKbKpEzXo~ur6lHISvH6Yi4n~BNV~O98VVPo7bUfvikETpoOglDqfJA50a14JmylSIub-FKCUneBQv5r5pOv~Tw9mb1J23B7ZuyuqSF7UrR~zfihrUbGkjejNmozPx-XfZgk4Kc3NjvoSszs~oRFd6-0dbKXWqhJWL2uBIGK8Jl0mpvKIcCg44yN-jWiGH86YGd8HFtrDgdSHJ0Cg3UAygCVV80OIV5DJpssyvRMeapj4tiWxhg~GRNA4olnzeFnptJ7ZYkLyQ0TF-N0JmcDc~beoMLD8mhnSp1DqXiRTl8Fc-AN70IG7CVOpKS4AeIzYH~ui6I1bsHbJmPat~Gavw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
@@ -941,33 +968,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230009f1_1704388744.43262.png?Expires=2147483647&Signature=EtUVNILw27a2MT9~PlU46ZH2HiydY7Iv6p7OGP2TKU7pgMPjs8eppQbCFXsw0IhiYqzYbtM8MBgk1iTasjdLyeMTDTYpd2ho5nY5nIS~vdMdwOp7lXtetR3JF7PEdtVhzaOPYc03mz9B-iuKsWAtv457KO3y3bnAClUh4pCSXW4nxNCZyz64l7nGIVtJQM~MBhcOOs1~RT2DkqQBz8Ifs4Y-Wu-W9HxdFLg69V~ORKrgmt1jK-zbYsevLrxMWgTOsZ0AO38s~Jnw6ui~mY2Vz8QopO9ThENJnltrZRcNy5XlDwG6vrbfTRfanuPFvkt2gVmDPDg0Cj46vzBaMaBG5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
-            "title": "A Nationwide Network of Health AI Assurance Laboratories",
-            "summary": "This article outlines the need for a nationwide public-private network of assurance laboratories that would aid in the evaluation and development of artificial intelligence (AI) in health care.",
-            "content_html": "<h3>Importance</h3><p>Given the importance of rigorous development and evaluation standards needed of artificial intelligence (AI) models used in health care, nationwide accepted procedures to provide assurance that the use of AI is fair, appropriate, valid, effective, and safe are urgently needed.</p><h3>Observations</h3><p>While there are several efforts to develop standards and best practices to evaluate AI, there is a gap between having such guidance and the application of such guidance to both existing and new AI models being developed. As of now, there is no publicly available, nationwide mechanism that enables objective evaluation and ongoing assessment of the consequences of using health AI models in clinical care settings.</p><h3>Conclusion and Relevance</h3><p>The need to create a public-private partnership to support a nationwide health AI assurance labs network is outlined here. In this network, community best practices could be applied for testing health AI models to produce reports on their performance that can be widely shared for managing the lifecycle of AI models over time and across populations and sites where these models are deployed.</p>",
-            "date_published": "2024-01-16T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Nigam H. Shah, MBBS, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "best practice",
-                "laboratory techniques and procedures",
-                "laboratory test finding",
-                "partnership"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2813425/jama_shah_2023_sc_230010_1704388743.12177.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230010f1_1704388743.37082.png?Expires=2147483647&Signature=hKbKpEzXo~ur6lHISvH6Yi4n~BNV~O98VVPo7bUfvikETpoOglDqfJA50a14JmylSIub-FKCUneBQv5r5pOv~Tw9mb1J23B7ZuyuqSF7UrR~zfihrUbGkjejNmozPx-XfZgk4Kc3NjvoSszs~oRFd6-0dbKXWqhJWL2uBIGK8Jl0mpvKIcCg44yN-jWiGH86YGd8HFtrDgdSHJ0Cg3UAygCVV80OIV5DJpssyvRMeapj4tiWxhg~GRNA4olnzeFnptJ7ZYkLyQ0TF-N0JmcDc~beoMLD8mhnSp1DqXiRTl8Fc-AN70IG7CVOpKS4AeIzYH~ui6I1bsHbJmPat~Gavw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2812615",
