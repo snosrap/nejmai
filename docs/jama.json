@@ -4,28 +4,36 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "title": "Synthetic Data and Health Privacy",
-            "summary": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "content_text": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "date_published": "2024-12-30T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2828578",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2828578",
+            "title": "Deep Learning Model for Predicting Immunotherapy Response in Advanced Non\u2212Small Cell Lung Cancer",
+            "summary": "This multicenter cohort study develops and assesses the validity of a deep learning model for predicting immune checkpoint inhibitor response in patients with advanced non\u2212small cell lung cancer.",
+            "content_html": "<h3>Importance</h3><p>Only a small fraction of patients with advanced non\u2212small cell lung cancer (NSCLC) respond to immune checkpoint inhibitor (ICI) treatment. For optimal personalized NSCLC care, it is imperative to identify patients who are most likely to benefit from immunotherapy.</p><h3>Objective</h3><p>To develop a supervised deep learning\u2212based ICI response prediction method; evaluate its performance alongside other known predictive biomarkers; and assess its association with clinical outcomes in patients with advanced NSCLC.</p><h3>Design, Setting, and Participants</h3><p>This multicenter cohort study developed and independently validated a deep learning\u2212based response stratification model for predicting ICI treatment outcome in patients with advanced NSCLC from whole slide hematoxylin and eosin\u2013stained images. Images for model development and validation were obtained from 1 participating center in the US and 3 in the European Union (EU) from August 2014 to December 2022. Data analyses were performed from September 2022 to May 2024.</p><h3>Exposure</h3><p>Monotherapy with ICIs.</p><h3>Main Outcomes and Measures</h3><p>Model performance measured by clinical end points and objective response rate (ORR) differentiation power vs other predictive biomarkers, ie, programmed death-ligand 1 (PD-L1), tumor mutational burden (TMB), and tumor-infiltrating lymphocytes (TILs).</p><h3>Results</h3><p>A total of 295 581 image tiles from 958 patients (mean [SD] age, 66.0 [10.6] years; 456 [48%] females and 502 [52%] males) treated with ICI for NSCLC were included in the analysis. The US-based development cohort consisted of 614 patients with median (IQR) follow-up time of 54.5 (38.2-68.1) months, and the EU-based validation cohort, 344 patients with 43.3 (27.4-53.9) months of follow-up. The ORR to ICI was 26% in the developmental cohort and 28% in the validation cohort. The deep learning model\u2019s area under the receiver operating characteristic curve (AUC) for ORR was 0.75 (95% CI, 0.64-0.85) in the internal test set and 0.66 (95% CI, 0.60-0.72) in the validation cohort. In a multivariable analysis, the deep learning model\u2019s score was an independent predictor of ICI response in the validation cohort for both progression-free (hazard ratio, 0.56; 95% CI, 0.42-0.76;<i>P</i>\u2009&lt;\u2009.001) and overall survival (hazard ratio, 0.53; 95% CI, 0.39-0.73;<i>P</i>\u2009&lt;\u2009.001). The tuned deep learning model achieved a higher AUC than TMB, TILs, and PD-L1 in the internal set; in the validation cohort, it was superior to TILs and comparable with PD-L1 (AUC, 0.67; 95% CI, 0.60-0.74), with a 10-percentage point improvement in specificity. In the validation cohort, combining the deep learning model with PD-L1 scores achieved an AUC of 0.70 (95% CI, 0.63-0.76), outperforming either marker alone, with a response rate of 51% compared to 41% for PD-L1 (\u226550%) alone.</p><h3>Conclusions and Relevance</h3><p>The findings of this cohort study demonstrate a strong and independent deep learning\u2212based feature associated with ICI response in patients with NSCLC across various cohorts. Clinical use of this deep learning model could refine treatment precision and better identify patients who are likely to benefit from ICI for treatment of advanced NSCLC.</p>",
+            "date_published": "2024-12-26T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Gw\u00e9nol\u00e9 Abgrall, MD"
+                    "name": "Mehrdad Rakaee, PhD"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "privacy"
+                "antigens",
+                "biological markers",
+                "cd274",
+                "deep learning",
+                "immune checkpoint inhibitors",
+                "immunotherapy",
+                "ligands",
+                "malignant neoplasm of lung",
+                "non-small cell lung carcinoma",
+                "treatment outcome"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2828669/jama_abgrall_2024_vp_240170_1734647300.06711.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2828578/jamaoncology_rakaee_2024_oi_240067_1734561906.31939.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi240067t1_1734561906.55508.png?Expires=2147483647&Signature=ufMuv5LMRFVAgCWoW96OuLAPF0D74-bcXz4wKMgXGHB9UTsIhXa1rKR3FU2i0atQmpZq~iVV5Xv-lrtKcx3uVRtOZgS4deKBcFy6hdFjEHH3DZCfn0aKvKFNpMv2m8zNZqkRrgbOFkw2lnhVyQH8-A3e1Ux8p174VOUtnpuhNVGNsG7GUtamFvevfKZr6ELbwaBwdzB5dE2o3ys9dyc1osCaRF2ljSbi5dvCWZ4FzoBSa4eOvE4GN1xEdgMgL8J9vmxyaw1OWyEkXTCqpoYUuGSsrgwaDvAUT01z30I4-DtB4ogq7VLfr7zhix6Bp5UBelFSjzkGUxUAFqfZXGZORw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
