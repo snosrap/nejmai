@@ -4,28 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
-            "title": "Data-Driven Characterization of Individuals With Delayed Autism Diagnosis",
-            "summary": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
-            "content_text": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
-            "date_published": "2025-01-13T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
+            "title": "Synthetic Data and Health Privacy",
+            "summary": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
+            "content_text": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
+            "date_published": "2024-12-30T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Dan Aizenberg, MS"
+                    "name": "Gw\u00e9nol\u00e9 Abgrall, MD"
                 }
             ],
             "tags": [
-                "autistic disorder",
-                "machine learning"
+                "generative artificial intelligence",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2829146/jamapediatrics_aizenberg_2025_ld_240059_1736459818.4503.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2828669/jama_abgrall_2024_vp_240170_1734647300.06711.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240059t1_1736459818.5403.png?Expires=2147483647&Signature=KI0HLo6K5wvh2NTbwArbiTW9ud15HGL85eKa9onSxhMhWkCuPi-9bi-LodgT~ZnmvIi60~hcZtur0BziJg5F9h6cSmebDuQs~RZwI1UnyvATlwviXvWb-c~5K85nO1puLJzNl~xYtIpovHg9Z1M8l9ybSFD6bArb0ktzb5WWgQLL8PM3bz6In34W0zDbpgFLCy3dbjZxZ6Sp~S93j4-a8~94K03s1y23fwcsIbHck0LPiilSk8Jv6uQqG8KjJsjAHLL3tCed6djF66CfTa48iYuII4gNLa4io4kOqOQ4OwwTn05dJKfw7jhGT5wYaD9buvZa9ApQDh6Sx3a1TbdMLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
