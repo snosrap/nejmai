@@ -4,27 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
-            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
-            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
-            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
-            "date_published": "2024-12-23T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
-                "machine learning"
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1734110803.57507.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1734644558.85751.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
