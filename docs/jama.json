@@ -4,30 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829484",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829484",
-            "title": "Artificial Intelligence\u2013Based Video Assessment of Neonatal State",
-            "summary": "This case series study evaluates the accuracy of an automated video tool for monitoring neonatal states and tracking developmental changes.",
-            "content_text": "This case series study evaluates the accuracy of an automated video tool for monitoring neonatal states and tracking developmental changes.",
-            "date_published": "2025-01-23T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
+            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "date_published": "2024-12-23T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Monami Nishio, MD"
+                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "infant",
-                "newborn",
-                "pediatric discipline"
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829484/nishio_2025_ld_240284_1736890091.03182.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1734110803.57507.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zld240284f1_1736890091.18182.png?Expires=2147483647&Signature=I-lYbFdAcLK5e8hiqqMKrqI2ANtDhI0oAAUILpPo9fsX96P1klYWEVAGKaCJeGbNA-op9OQZNt0ahdqSnOh4Ds8ZHXhvmQzmglGTYhRsMUIqtFVIy16KBo7qbI6voEhEmIIgrCbh-fT8QGD079v9x2a59eZcBCHipGKwyFlyYAIdp4Q-5c7XG9EdNefVyAKXA451yFXCm5WvEMiwquRleK60Hsi1rYuPm3nLAdKs~0S09fnEWDPXWDhz1zmgK-5K5GvQy6amI3hFDzHXpiHKMbAFTgE~qq89j3xzEqISFXRJ3YVFVAXHoF07VBdE9d8V3JSXfIWjpHsiW98gUnMzbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
