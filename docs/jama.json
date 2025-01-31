@@ -4,37 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828921",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828921",
-            "title": "Estimating Visual Acuity With Spectacle Correction From Fundus Photos Using Artificial Intelligence",
-            "summary": "This cross-sectional study evaluates the ability of artificial intelligence algorithms to estimate spectacle-corrected visual acuity among patients with diabetic macular edema using fundus photographs.",
-            "content_html": "<h3>Importance</h3><p>Determining spectacle-corrected visual acuity (VA) is essential when managing many ophthalmic diseases. If artificial intelligence (AI) evaluations of macular images estimated this VA from a fundus image, AI might provide spectacle-corrected VA without technician costs, reduce visit time, or facilitate home monitoring of VA from fundus images obtained outside of the clinic.</p><h3>Objective</h3><p>To estimate spectacle-corrected VA measured on a standard eye chart among patients with diabetic macular edema (DME) in clinical practice settings using previously validated AI algorithms evaluating best-corrected VA from fundus photographs in eyes with DME.</p><h3>Design, Setting, and Participants</h3><p>Retrospective cross-sectional evaluation of deidentified fundus photographs matched to spectacle-corrected VA determined by technicians on eye charts among patients with a history of DME based on optical coherence tomography and at least 2 visits within 1 to 6 months of each other at a university-based clinic between January 2014 and December 2022. Data were analyzed from January 2023 to October 2024.</p><h3>Exposure</h3><p>Previously validated AI algorithm evaluation of fundus photographs.</p><h3>Main Outcomes and Measures</h3><p>AI-determined VA mean absolute error (MAE) compared with actual spectacle-corrected VA.</p><h3>Results</h3><p>Among 141 patients, the mean (SD) age was 63 (13) years, 71 (50%) were male, 2 (1%) were Asian, 42 (30%) were Black or African American, and 88 (63%) were White. Among 282 eyes at visit 1, 66 had nonproliferative diabetic retinopathy (NPDR) and DME, 38 had proliferative diabetic retinopathy (PDR) and DME, 101 had NPDR and no DME, and 77 had PDR and no DME. Among 564 images (282 eyes) at both initial and follow-up visits, MAE (SD) among eyes with NPDR, with or without center-involved DME (CI-DME), was 1.16 (1.00) lines on the eye chart for VA between 20/10 and 20/20 (67 images), and 1.44 (1.15) lines for between VA 20/25 and 20/80 (231 images). MAE (SD) among eyes with PDR, with or without CI-DME, was 1.92 (1.08) lines for VA between 20/10 and 20/20 (50 images), and 1.42 (0.97) lines for spectacle-corrected VA between 20/25 and 20/80 (150 images). Only 65 images had VA 20/100 or worse, precluding meaningful analyses.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study, AI evaluation of fundus photographs among patients with DME and VA 20/80 or better estimated spectacle-corrected VA within approximately 1 to 1.5 lines of actual spectacle-corrected VA. These results support use of AI evaluation of fundus photographs to determine spectacle-corrected VA among patients with DME globally, beyond ophthalmology offices.</p>",
-            "date_published": "2025-01-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
+            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "date_published": "2024-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ashley Zhou, MD"
+                    "name": "Adam B. Landman, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "charts",
-                "eye",
-                "fundus photography",
-                "macular edema due to diabetes mellitus",
-                "nonproliferative diabetic retinopathy",
-                "ophthalmology specialty",
-                "optical coherence",
-                "proliferative diabetic retinopathy",
-                "tomography",
-                "visual acuity"
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
+                "transition of care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828921/zhou_2025_oi_241506_1735336817.54121.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zoi241506t1_1735336817.68727.png?Expires=2147483647&Signature=HaMb32c9P1LTqVV6kOXhX2Pdn7UnavHRis0ci6tTg-Pj9f1gqt5Z8CqmVsvQNUKHmI7kE5vrPIwFHXnH58DV5nlw69w-NoGNOQDKc0zxT0Zf4TwFNrV3YcY9TZ5sqwDwPSn5y78YXVCr7CHEhA63OaG3qG3ZRO-hma7uQobCsCjKct1oHZUn9Q71QVfzGew5-56ddvf4sjYjK68csl-qnCKBk5iq8Ii-F~duTjj0ZcDkSlAp~vO617JBhicch37tR8NetZp3-EbRyNYfxwW3tIOCrp8CxDmldMGLQbk2ZI0wBEd-mOn5Czq7Us7AF8K9Hp2QnTW1jHATr626bAxsDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
