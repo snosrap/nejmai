@@ -4,35 +4,37 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828866",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828866",
-            "title": "Utility of Candidate Genes From an Algorithm Designed to Predict Genetic Risk for Opioid Use Disorder",
-            "summary": "This case-control study assesses whether 15 genetic variants from an algorithm purported to predict risk for opioid use disorder (OUD) were associated with OUD risk in a population of US veterans.",
-            "content_html": "<h3>Importance</h3><p>Recently, the US Food and Drug Administration gave premarketing approval to an algorithm based on its purported ability to identify individuals at genetic risk for opioid use disorder (OUD). However, the clinical utility of the candidate genetic variants included in the algorithm has not been independently demonstrated.</p><h3>Objective</h3><p>To assess the utility of 15 genetic variants from an algorithm intended to predict OUD risk.</p><h3>Design, Setting, and Participants</h3><p>This case-control study examined the association of 15 candidate genetic variants with risk of OUD using electronic health record data from December 20, 1992, to September 30, 2022. Electronic health record data, including pharmacy records, were accrued from participants in the Million Veteran Program across the US with opioid exposure (n\u2009=\u2009452\u202f664). Cases with OUD were identified using<i>International Classification of Diseases, Ninth Revision</i>, or<i>International Classification of Diseases, Tenth Revision</i>, diagnostic codes, and controls were individuals with no OUD diagnosis.</p><h3>Exposures</h3><p>Number of risk alleles present across 15 candidate genetic variants.</p><h3>Main Outcome and Measures</h3><p>Performance of 15 genetic variants for identifying OUD risk assessed via logistic regression and machine learning models.</p><h3>Results</h3><p>A total of 452 664 individuals with opioid exposure\u2009(including 33\u202f669 with OUD) had a mean (SD) age of 61.15 (13.37) years, and 90.46% were male; the sample was ancestrally diverse (with individuals of genetically inferred European, African, and admixed American ancestries). Using Nagelkerke<i>R</i><sup>2</sup>, collectively, the 15 candidate genes accounted for 0.40% of variation in OUD risk. In comparison, age and sex alone accounted for 3.27% of the variation. The ensemble machine learning. The ensemble machine learning model using the 15 variants as predictive factors correctly classified 52.83% (95% CI,\u200952.07%-53.59%) of individuals in an independent testing sample.</p><h3>Conclusions and Relevance</h3><p>Results of this study suggest that the candidate genetic variants included in the approved algorithm do not meet reasonable standards of efficacy in identifying OUD risk. Given the algorithm\u2019s limited predictive accuracy, its use in clinical care would lead to high rates of both false-positive and false-negative findings. More clinically useful models are needed to identify individuals at risk of developing OUD.</p>",
-            "date_published": "2025-01-09T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828921",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828921",
+            "title": "Estimating Visual Acuity With Spectacle Correction From Fundus Photos Using Artificial Intelligence",
+            "summary": "This cross-sectional study evaluates the ability of artificial intelligence algorithms to estimate spectacle-corrected visual acuity among patients with diabetic macular edema using fundus photographs.",
+            "content_html": "<h3>Importance</h3><p>Determining spectacle-corrected visual acuity (VA) is essential when managing many ophthalmic diseases. If artificial intelligence (AI) evaluations of macular images estimated this VA from a fundus image, AI might provide spectacle-corrected VA without technician costs, reduce visit time, or facilitate home monitoring of VA from fundus images obtained outside of the clinic.</p><h3>Objective</h3><p>To estimate spectacle-corrected VA measured on a standard eye chart among patients with diabetic macular edema (DME) in clinical practice settings using previously validated AI algorithms evaluating best-corrected VA from fundus photographs in eyes with DME.</p><h3>Design, Setting, and Participants</h3><p>Retrospective cross-sectional evaluation of deidentified fundus photographs matched to spectacle-corrected VA determined by technicians on eye charts among patients with a history of DME based on optical coherence tomography and at least 2 visits within 1 to 6 months of each other at a university-based clinic between January 2014 and December 2022. Data were analyzed from January 2023 to October 2024.</p><h3>Exposure</h3><p>Previously validated AI algorithm evaluation of fundus photographs.</p><h3>Main Outcomes and Measures</h3><p>AI-determined VA mean absolute error (MAE) compared with actual spectacle-corrected VA.</p><h3>Results</h3><p>Among 141 patients, the mean (SD) age was 63 (13) years, 71 (50%) were male, 2 (1%) were Asian, 42 (30%) were Black or African American, and 88 (63%) were White. Among 282 eyes at visit 1, 66 had nonproliferative diabetic retinopathy (NPDR) and DME, 38 had proliferative diabetic retinopathy (PDR) and DME, 101 had NPDR and no DME, and 77 had PDR and no DME. Among 564 images (282 eyes) at both initial and follow-up visits, MAE (SD) among eyes with NPDR, with or without center-involved DME (CI-DME), was 1.16 (1.00) lines on the eye chart for VA between 20/10 and 20/20 (67 images), and 1.44 (1.15) lines for between VA 20/25 and 20/80 (231 images). MAE (SD) among eyes with PDR, with or without CI-DME, was 1.92 (1.08) lines for VA between 20/10 and 20/20 (50 images), and 1.42 (0.97) lines for spectacle-corrected VA between 20/25 and 20/80 (150 images). Only 65 images had VA 20/100 or worse, precluding meaningful analyses.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study, AI evaluation of fundus photographs among patients with DME and VA 20/80 or better estimated spectacle-corrected VA within approximately 1 to 1.5 lines of actual spectacle-corrected VA. These results support use of AI evaluation of fundus photographs to determine spectacle-corrected VA among patients with DME globally, beyond ophthalmology offices.</p>",
+            "date_published": "2025-01-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Christal N. Davis, PhD"
+                    "name": "Ashley Zhou, MD"
                 }
             ],
             "tags": [
-                "analgesics",
-                "candidate disease gene",
-                "machine learning",
-                "opioid",
-                "opioid use disorders",
-                "opioids",
-                "science of genetics",
-                "united states food and drug administration",
-                "veterans"
+                "artificial intelligence",
+                "charts",
+                "eye",
+                "fundus photography",
+                "macular edema due to diabetes mellitus",
+                "nonproliferative diabetic retinopathy",
+                "ophthalmology specialty",
+                "optical coherence",
+                "proliferative diabetic retinopathy",
+                "tomography",
+                "visual acuity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828866/davis_2025_oi_241510_1735312743.17489.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828921/zhou_2025_oi_241506_1735336817.54121.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zoi241510t1_1735312743.48273.png?Expires=2147483647&Signature=ZIy9gX8J49IixPSoBPAUvKFCqCT4svK0Ie~qn~4sMGjdqz2ft8PL-al4vrnvv12rDRCJoBjz6NwHU4wkJm0sFPriSmDPdgDGXyll6Up1v911vx2smodKYIhfpknndV6vgl3uDbF2Wjz4iJYis6fQJzdnIIlZT8oZz8XJOU9eQXsTXRr5HbYAsEFLPdTROMMxUiiM8qbFj4tPLBeJvqTDMC~MIUQcyA7vcX~2UB7cei~B-25HRIem5gB1RNPBnublWg3-RRCQ8BA5Flnz5aUecph4YTati7~a~UQDFi70JLyeQzp9q0TvYVqVt-Q9T3iJmhXEImGM3w-n-7Bswc~hVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zoi241506t1_1735336817.68727.png?Expires=2147483647&Signature=HaMb32c9P1LTqVV6kOXhX2Pdn7UnavHRis0ci6tTg-Pj9f1gqt5Z8CqmVsvQNUKHmI7kE5vrPIwFHXnH58DV5nlw69w-NoGNOQDKc0zxT0Zf4TwFNrV3YcY9TZ5sqwDwPSn5y78YXVCr7CHEhA63OaG3qG3ZRO-hma7uQobCsCjKct1oHZUn9Q71QVfzGew5-56ddvf4sjYjK68csl-qnCKBk5iq8Ii-F~duTjj0ZcDkSlAp~vO617JBhicch37tR8NetZp3-EbRyNYfxwW3tIOCrp8CxDmldMGLQbk2ZI0wBEd-mOn5Czq7Us7AF8K9Hp2QnTW1jHATr626bAxsDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
