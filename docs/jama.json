@@ -4,31 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
-            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
-            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
-            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
-            "date_published": "2024-12-03T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
+            "title": "Data-Driven Characterization of Individuals With Delayed Autism Diagnosis",
+            "summary": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
+            "content_text": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
+            "date_published": "2025-01-13T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Adam B. Landman, MD"
+                    "name": "Dan Aizenberg, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "emergency medicine (field)",
-                "emergency service",
-                "hospital",
-                "transition of care"
+                "autistic disorder",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2829146/jamapediatrics_aizenberg_2025_ld_240059_1736459818.4503.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240059t1_1736459818.5403.png?Expires=2147483647&Signature=KI0HLo6K5wvh2NTbwArbiTW9ud15HGL85eKa9onSxhMhWkCuPi-9bi-LodgT~ZnmvIi60~hcZtur0BziJg5F9h6cSmebDuQs~RZwI1UnyvATlwviXvWb-c~5K85nO1puLJzNl~xYtIpovHg9Z1M8l9ybSFD6bArb0ktzb5WWgQLL8PM3bz6In34W0zDbpgFLCy3dbjZxZ6Sp~S93j4-a8~94K03s1y23fwcsIbHck0LPiilSk8Jv6uQqG8KjJsjAHLL3tCed6djF66CfTa48iYuII4gNLa4io4kOqOQ4OwwTn05dJKfw7jhGT5wYaD9buvZa9ApQDh6Sx3a1TbdMLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
