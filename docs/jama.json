@@ -4,28 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2829146",
-            "title": "Data-Driven Characterization of Individuals With Delayed Autism Diagnosis",
-            "summary": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
-            "content_text": "This study used various machine learning approaches to identify and comparatively characterize groups of individuals with delayed autism diagnosis.",
-            "date_published": "2025-01-13T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Dan Aizenberg, MS"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
-                "autistic disorder",
-                "machine learning"
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2829146/jamapediatrics_aizenberg_2025_ld_240059_1736459818.4503.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1734644558.85751.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240059t1_1736459818.5403.png?Expires=2147483647&Signature=KI0HLo6K5wvh2NTbwArbiTW9ud15HGL85eKa9onSxhMhWkCuPi-9bi-LodgT~ZnmvIi60~hcZtur0BziJg5F9h6cSmebDuQs~RZwI1UnyvATlwviXvWb-c~5K85nO1puLJzNl~xYtIpovHg9Z1M8l9ybSFD6bArb0ktzb5WWgQLL8PM3bz6In34W0zDbpgFLCy3dbjZxZ6Sp~S93j4-a8~94K03s1y23fwcsIbHck0LPiilSk8Jv6uQqG8KjJsjAHLL3tCed6djF66CfTa48iYuII4gNLa4io4kOqOQ4OwwTn05dJKfw7jhGT5wYaD9buvZa9ApQDh6Sx3a1TbdMLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
