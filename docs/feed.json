@@ -5,6 +5,29 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400922",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400922",
+      "title": "Unseen Commercial Forces Could Undermine Artificial Intelligence Decision Support",
+      "summary": "An examination of how commercial influences in health care AI \u2014 such as decision support manipulation, market concentration, and exploitative practices \u2014 reveals risks of misaligning care with patient and societal needs. This perspective advocates for comprehensive oversight and, where appropriate and necessary, regulatory frameworks to protect patient-centered care while fostering innovation and competition.",
+      "content_text": "## Abstract\n\nArtificial intelligence (AI) is poised to transform health care, yet without\nrobust safeguards, unseen commercial interests could distort care by\nprioritizing profit over patient well-being. The phenomenon of \u201cbiomarkup\u201d\nunderscores how subtle shifts in biomarker thresholds can fuel unwarranted\ntesting, consultations, and treatments, ultimately undercutting cost-control\nefforts. It is easy to imagine a new generation of AI-based revenue cycle\nmanagement model tools that achieve higher reimbursements by nudging\nclinicians toward more lucrative care pathways. AI-based decision support\ninterventions are vulnerable across their entire development life cycle and\ncould be manipulated to favor specific products or services. Furthermore, the\ngrowing consolidation of electronic health records and AI ecosystems restricts\ndata access and risks stifling competition. Addressing these challenges\nrequires a combination of technical and systemic solutions. Standardized\napplication programming interfaces can foster electronic health record\ninteroperability and mitigate vendor lock-in, while equitable and respectful\ndata sharing and governance broadens participation in AI development. Robust\noversight \u2014 including transparency mandates; rigorous auditing; addressing\nfraudulent, coercive, and monopolistic practices; and possibly new regulation\n\u2014 should curb exploitative practices and preserve AI\u2019s transformative\npotential for patient-centered care, cost containment, and societal benefit.\n(Funded by ARPA-H Biomedical Data Fabric Toolbox and others.)\n\n",
+      "date_published": "2025-02-06T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "K.D. Mandl"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400922",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence (AI) is poised to transform health care, yet without robust safeguards, unseen commercial interests could distort care by prioritizing profit over patient well-being. The phenomenon of \u201cbiomarkup\u201d underscores how subtle shifts in biomarker thresholds can fuel unwarranted testing, consultations, and treatments, ultimately undercutting cost-control efforts. It is easy to imagine a new generation of AI-based revenue cycle management model tools that achieve higher reimbursements by nudging clinicians toward more lucrative care pathways. AI-based decision support interventions are vulnerable across their entire development life cycle and could be manipulated to favor specific products or services. Furthermore, the growing consolidation of electronic health records and AI ecosystems restricts data access and risks stifling competition. Addressing these challenges requires a combination of technical and systemic solutions. Standardized application programming interfaces can foster electronic health record interoperability and mitigate vendor lock-in, while equitable and respectful data sharing and governance broadens participation in AI development. Robust oversight \u2014 including transparency mandates; rigorous auditing; addressing fraudulent, coercive, and monopolistic practices; and possibly new regulation \u2014 should curb exploitative practices and preserve AI\u2019s transformative potential for patient-centered care, cost containment, and societal benefit. (Funded by ARPA-H Biomedical Data Fabric Toolbox and others.)</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIra2400657",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIra2400657",
       "title": "Not All Clinical AI Monitoring Systems Are Created Equal: Review and Recommendations",
