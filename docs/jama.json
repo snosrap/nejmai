@@ -4,6 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
+            "title": "Synthetic Data and Health Privacy",
+            "summary": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
+            "content_text": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
+            "date_published": "2024-12-30T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Gw\u00e9nol\u00e9 Abgrall, MD"
+                }
+            ],
+            "tags": [
+                "generative artificial intelligence",
+                "privacy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2828669/jama_abgrall_2024_vp_240170_1734647300.06711.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -815,37 +839,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939354/avp240008t1_1712770392.41458.png?Expires=2147483647&Signature=NZ5rYVUd8MBrfpPfRsLnW~be~bq-GJJRCKg6p8CZRgVD7CxaZeJgjZfqJrWV3qoUj29ICgAqL5DLK-rsZS1LY3QhNsK4ZT-KX3KKbv9mXcYabq45KVxjZA0I3DkQmjqmJD1W68hBxTQ0XVXW9NDI9ZxRzgKxVGXn8eyVtH43J4bhPL4lCHsgGCkQBBmEtqEP8QQTirx-j-45F7TYViMes3mngrsnVTaCiUs1RiXxL8~qUlpOBJVnFl2k1Tf94t1AsqPYZDxsahoQmLHWXZWkIw~U18~hLkO15ZEspMI9uC7-I~zKCODXuz8at0MS2I3N-SN2aswexpgo36kgdTd1OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816677",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816677",
-            "title": "Individualized Treatment Effects of Oxygen Targets in Mechanically Ventilated Critically Ill Adults",
-            "summary": "This cohort study examines whether peripheral oxygenation-saturation targets on mortality would differ by individual patient characteristics among 2 temporally and geographically distinct randomized trials of lower vs higher Sp o 2 targets in critically ill patients receiving mechanical ventilation",
-            "content_html": "<h3>Importance</h3><p>Among critically ill adults, randomized trials have not found oxygenation targets to affect outcomes overall. Whether the effects of oxygenation targets differ based on an individual\u2019s characteristics is unknown.</p><h3>Objective</h3><p>To determine whether an individual\u2019s characteristics modify the effect of lower vs higher peripheral oxygenation-saturation (Spo<sub>2</sub>) targets on mortality.</p><h3>Design, Setting, and Participants</h3><p>A machine learning model to predict the effect of treatment with a lower vs higher Spo<sub>2</sub>target on mortality for individual patients was derived in the Pragmatic Investigation of Optimal Oxygen Targets (PILOT) trial and externally validated in the Intensive Care Unit Randomized Trial Comparing Two Approaches to Oxygen Therapy (ICU-ROX) trial. Critically ill adults received invasive mechanical ventilation in an intensive care unit (ICU) in the United States between July 2018 and August 2021 for PILOT (n\u2009=\u20091682) and in 21 ICUs in Australia and New Zealand between September 2015 and May 2018 for ICU-ROX (n\u2009=\u2009965).</p><h3>Exposures</h3><p>Randomization to a lower vs higher Spo<sub>2</sub>target group.</p><h3>Main Outcome and Measure</h3><p>28-Day mortality.</p><h3>Results</h3><p>In the ICU-ROX validation cohort, the predicted effect of treatment with a lower vs higher Spo<sub>2</sub>target for individual patients ranged from a 27.2% absolute reduction to a 34.4% absolute increase in 28-day mortality. For example, patients predicted to benefit from a lower Spo<sub>2</sub>target had a higher prevalence of acute brain injury, whereas patients predicted to benefit from a higher Spo<sub>2</sub>target had a higher prevalence of sepsis and abnormally elevated vital signs. Patients predicted to benefit from a lower Spo<sub>2</sub>target experienced lower mortality when randomized to the lower Spo<sub>2</sub>group, whereas patients predicted to benefit from a higher Spo<sub>2</sub>target experienced lower mortality when randomized to the higher Spo<sub>2</sub>group (likelihood ratio test for effect modification<i>P</i>\u2009=\u2009.02). The use of a Spo<sub>2</sub>target predicted to be best for each patient, instead of the randomized Spo<sub>2</sub>target, would have reduced the absolute overall mortality by 6.4% (95% CI, 1.9%-10.9%).</p><h3>Conclusion and relevance</h3><p>Oxygenation targets that are individualized using machine learning analyses of randomized trials may reduce mortality for critically ill adults. A prospective trial evaluating the use of individualized oxygenation targets is needed.</p>",
-            "date_published": "2024-04-09T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Kevin G. Buell, MBBS"
-                }
-            ],
-            "tags": [
-                "alveolar ventilation function",
-                "cell respiration",
-                "critical illness",
-                "intensive care unit",
-                "machine learning",
-                "mechanical ventilation",
-                "oxygen",
-                "oxygen saturation measurement",
-                "sepsis"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816677/jama_buell_2024_oi_240027_1712266595.74808.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939356/joi240027t1_1712266595.91414.png?Expires=2147483647&Signature=I1stHAz3su7VPVMyAdOwmmp-ry-CobukGhZkVSr-2hoUz0p2y4NUjy87oLDs4viarw1UXxKADnjaqs4ARKp5-i65w4-VlZXtNQcLCZqDdkapowbmJ9iembzpvhhiNbxkNewY6eINY97YZ9Rk6IobFtiTTI3LtNJzwjumNtKLjKoQJXCUQA5ubE-2tV~cI92xAyF~avl4ntf82-voC5ClADxObsSRm-cnE1OES~2QTNL4xApmftLCGAaEigJIb35UYvWTtZ5ALYcoZ7VeKsoBZ-dvZhcPVYLKWwe-wA1h4OGHwirNZAxYs--jB4pcfZciHQ0XUO1AggTwoIZwt81-Xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2814978",
