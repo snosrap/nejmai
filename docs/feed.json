@@ -5,6 +5,30 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400875",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400875",
+      "title": "The Utility of Generative AI in Advancing Global Health",
+      "summary": "This perspective not only addresses the transformative potential of generative artificial intelligence in advancing global health, particularly in low- and middle-income countries, but proposes actionable solutions to overcome the associated challenges and ethical dilemmas.",
+      "content_text": "## Abstract\n\nAchieving the United Nations\u2019 Sustainable Development Goals remains\nchallenging for many low- and middle-income countries (LMICs). Generative\nartificial intelligence (AI) offers the potential to improve health care\ndelivery access and quality in LMICs. Generative AI applications in health\ncare include individualizing decision support systems for personalized\ndiagnosis and treatment, predicting and managing epidemics, improving medical\nimage interpretation, enhancing telemedicine, and accelerating drug discovery.\nIn addition, generative AI can translate medical information into local\nlanguages, boosting health literacy and treatment adherence. However,\npotential challenges and barriers exist in integrating generative AI into the\nhealth systems of LMICs. Ethical dilemmas include the possible negative\nimpacts on climate, limited human expertise and technological infrastructure,\nundermining the local health workforce, introducing potential biases,\ncompromising data privacy, and increasing liability for faults or inaccurate\ndecisions. The barriers and challenges that impede the increased uptake of\ngenerative AI in LMICs need urgent global attention, careful thought, and\ndeliberate action to address them. AI centers of excellence based in LMICs can\nserve as focal points, providing guidance and stewardship on how to address\nthe challenges while harvesting the benefits of generative AI.\n\n",
+      "date_published": "2025-02-10T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "H. Akbarialiabad and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400875",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/115f3599-b07b-4c27-95a5-edf1033970fa/aip2400875_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Achieving the United Nations\u2019 Sustainable Development Goals remains challenging for many low- and middle-income countries (LMICs). Generative artificial intelligence (AI) offers the potential to improve health care delivery access and quality in LMICs. Generative AI applications in health care include individualizing decision support systems for personalized diagnosis and treatment, predicting and managing epidemics, improving medical image interpretation, enhancing telemedicine, and accelerating drug discovery. In addition, generative AI can translate medical information into local languages, boosting health literacy and treatment adherence. However, potential challenges and barriers exist in integrating generative AI into the health systems of LMICs. Ethical dilemmas include the possible negative impacts on climate, limited human expertise and technological infrastructure, undermining the local health workforce, introducing potential biases, compromising data privacy, and increasing liability for faults or inaccurate decisions. The barriers and challenges that impede the increased uptake of generative AI in LMICs need urgent global attention, careful thought, and deliberate action to address them. AI centers of excellence based in LMICs can serve as focal points, providing guidance and stewardship on how to address the challenges while harvesting the benefits of generative AI.</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400922",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400922",
       "title": "Unseen Commercial Forces Could Undermine Artificial Intelligence Decision Support",
