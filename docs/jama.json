@@ -4,29 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827579",
+            "title": "US FDA Approval of Pediatric Artificial Intelligence and Machine Learning\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "content_text": "This cross-sectional study analyzes the availability of artificial intelligence and machine learning\u2013enabled devices authorized for children by the US Food and Drug Administration (FDA) and assesses reporting of algorithm validation in the pediatric population.",
+            "date_published": "2025-02-01T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Ryan C. L. Brewster, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "big data",
-                "health equity"
+                "child",
+                "drug approval",
+                "machine learning",
+                "medical devices",
+                "pediatric discipline",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1734644557.58026.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2827579/jamapediatrics_brewster_2024_ld_240055_1738253589.31391.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/939550/pld240055f1_1738253589.44391.png?Expires=2147483647&Signature=45u6lxebo5jIdaAzd28mKR3TAD2USrDFdlH7pG0YoNK8nsqhV3XF90AsUz-TQgrVSp9E37ovr8mjeXeK8vCmqxO6fbTGVtbr0TLIrcZHUuOOKLjAFX6ReLzRVqYEASkR-QZ2jckg6btqR3PSWMvLYJGgxjXKZJ0p0HBnHvt40W7GFn5rRINJIUlw4oXEdwW5g6uHrdVTkRrdF8uI4c98YwRxTXKizRheK6o8yOClBEkIrBQVD4~~u7NOGBjaOAMINTOd3v6DSwHzmtOgp~uekwbe8Dcots1SlkGKbw54TqgfAdEAEir-s843bNp~Shtu-FdpgX2quD3aVA9QIYwsMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
