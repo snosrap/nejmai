@@ -4,29 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829862",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829862",
+            "title": "Employer-Sponsored Digital Health Platforms for Mental Wellness\u2014A Good Investment",
+            "summary": "Cost savings in mental health care are elusive, so we read the study by Hawrilenko et al 1 with interest. The authors evaluate an employer-sponsored digital health platform (Spring Health; Spring Care Inc) that screens employees for mental health conditions and, when warranted, connects them to treatment. Hawrilenko et al 1 found a reduction in health care spending among digital health platform users compared with a matched comparison group. These findings contribute to a broader literature that considers the economic value of employer-sponsored interventions aimed at mental wellness, 2 , 3 although this topic is likely plagued by the file-drawer problem\u2014that is, when null findings are not published. 4",
+            "content_text": "Cost savings in mental health care are elusive, so we read the study by Hawrilenko et al 1 with interest. The authors evaluate an employer-sponsored digital health platform (Spring Health; Spring Care Inc) that screens employees for mental health conditions and, when warranted, connects them to treatment. Hawrilenko et al 1 found a reduction in health care spending among digital health platform users compared with a matched comparison group. These findings contribute to a broader literature that considers the economic value of employer-sponsored interventions aimed at mental wellness, 2 , 3 although this topic is likely plagued by the file-drawer problem\u2014that is, when null findings are not published. 4",
+            "date_published": "2025-02-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Molly Candon, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "digital health",
+                "employer",
+                "health",
+                "investments",
+                "psychiatry specialty"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1734644557.58026.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829862/candon_2025_ic_240359_1738082706.54524.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
