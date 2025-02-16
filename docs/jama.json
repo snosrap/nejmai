@@ -4,31 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829845",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829845",
-            "title": "The Marriage of Computable Phenotypes With Machine Learning\u2014A Pathway to Evidence-Based Care for Critically",
-            "summary": "Artificial intelligence and machine learning (ML) are rapidly advancing health care research and clinical care, offering new approaches to research, diagnosis, and management of complex medical conditions. In pediatrics, studying certain diseases or conditions can be challenging due to sample size limitations and a paucity of reliable computer-driven methods to identify patients who meet study-specific inclusion criteria. These challenges have unnecessarily restricted robust research and generalizable evidence-based methods to improve pediatric patient care. Computable phenotypes may provide a method to overcome these limitations by facilitating the use of multi-institutional, electronic health record (EHR)\u2013derived databases with sufficient power to detect meaningful associations. Computable phenotypes are computer-readable definitions that use variables to identify specific diseases, conditions, or patient characteristics. This approach enables reliable identification and research of both frequent and rare pediatric conditions that have traditionally been a challenge to investigate, such as neurologic morbidity following pediatric critical illness.",
-            "content_text": "Artificial intelligence and machine learning (ML) are rapidly advancing health care research and clinical care, offering new approaches to research, diagnosis, and management of complex medical conditions. In pediatrics, studying certain diseases or conditions can be challenging due to sample size limitations and a paucity of reliable computer-driven methods to identify patients who meet study-specific inclusion criteria. These challenges have unnecessarily restricted robust research and generalizable evidence-based methods to improve pediatric patient care. Computable phenotypes may provide a method to overcome these limitations by facilitating the use of multi-institutional, electronic health record (EHR)\u2013derived databases with sufficient power to detect meaningful associations. Computable phenotypes are computer-readable definitions that use variables to identify specific diseases, conditions, or patient characteristics. This approach enables reliable identification and research of both frequent and rare pediatric conditions that have traditionally been a challenge to investigate, such as neurologic morbidity following pediatric critical illness.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829842",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829842",
+            "title": "Interoperable Models for Identifying Critically Ill Children at Risk of Neurologic Morbidity",
+            "summary": "This decision analytic model study evaluates machine-learning models for identifying critically ill children at high risk for acquired neurologic morbidity and assesses correlation with contemporary serum-based, brain injury\u2013derived biomarkers.",
+            "content_html": "<h3>Importance</h3><p>Decreasing mortality in the field of pediatric critical care medicine has shifted practicing clinicians\u2019 attention to preserving patients\u2019 neurodevelopmental potential as a main objective. Earlier identification of critically ill children at risk for incurring neurologic morbidity would facilitate heightened surveillance that could lead to timelier clinical detection, earlier interventions, and preserved neurodevelopmental trajectory.</p><h3>Objectives</h3><p>To develop machine-learning models for identifying acquired neurologic morbidity in hospitalized pediatric patients with critical illness and assess correlation with contemporary serum-based, brain injury\u2013derived biomarkers.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study used data from all children admitted to a quaternary pediatric intensive care unit in a large, freestanding children\u2019s hospital in Western Pennsylvania between January 1, 2010, and December 31, 2022. External model validation used data from children admitted between January 1, 2018, and December 31, 2023, to a quaternary pediatric intensive care unit in a large, freestanding children\u2019s hospital that serves as a referral center for the 5-state region of Washington, Wyoming, Alaska, Montana, and Idaho.</p><h3>Exposures</h3><p>Critical illness.</p><h3>Main Outcomes and Measures</h3><p>The outcome was neurologic morbidity, defined according to a computable, composite definition at the development site or an order for neurocritical care consultation at the validation site. Models were developed using varying time windows for temporal feature engineering and varying censored time horizons between the last feature and the identified neurologic morbidity. A generalizable model created at the development site was optimized and assessed at an external validation site. Correlation was assessed between development site model predictions and measurements of brain biomarkers from a convenience cohort.</p><h3>Results</h3><p>After exclusions, there were 18\u202f568 encounters from 2010 to 2022 in the development site generalizable model cohort (median age, 70 [IQR, 18-161] months; 8325 [45%] female). There were 6825 encounters from 2018 to 2021 at the external validation site (median age, 96 [IQR 18-171] months; 3159 [46%] female). A generalizable extreme gradient boosted model with a 24-hour time horizon and 48-hour feature engineering window demonstrated an F1 score of 0.37 (95% CI, 0.33-0.40), area under the receiver operating characteristics curve of 0.81 (95% CI, 0.78-0.83), and number needed to alert of 4 at the validation site. After recalibration at the validation site, the Brier score was 0.04. Serum levels of the brain injury biomarker glial fibrillary acidic protein significantly correlated with model output (<i>r</i><sub>s</sub>\u2009=\u20090.34;<i>P</i>\u2009=\u2009.007).</p><h3>Conclusions and Relevance</h3><p>This prognostic study of prediction models for detecting neurologic morbidity in critically ill children demonstrated a well-performing ensemble of models with biomolecular corroboration. Prospective assessment and refinement of biomarker-coupled risk models in pediatric critical illness are warranted.</p>",
             "date_published": "2025-02-04T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anita K. Patel, MD"
+                    "name": "Christopher M. Horvat, MD, MHA"
                 }
             ],
             "tags": [
-                "care of intensive care unit patient",
+                "biological markers",
+                "brain",
+                "brain injuries",
+                "child",
                 "critically ill children",
-                "evidence-based practice",
-                "machine learning",
-                "phenotype"
+                "glial fibrillary acidic protein",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829845/patel_2025_ic_240355_1738013025.0942.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829842/horvat_2025_oi_241607_1738013016.86735.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zoi241607f1_1738013017.05682.png?Expires=2147483647&Signature=bntqKxgCQ5LophDG1YNAW-1cHtJiIr0njRg2lHPC-32blfpQKn5QSFQ-oSlGOzpyeTrR8~gFxNfB82RX5uvemJlkBbvtQxfv5kvh~qmMjWelsDkSd5Ru2Oj6l2iIa1JJjInm~mO2Ls37Un-qCVM1WD1q9jCe3Qmd3LkezK4GG5oiCLjnlyzgTuUnZnUnqImW26f2Yko2INHZeLlQhPZuokdejIXMV5GfQtETV3DRAwtVUFzUOLW6uBOXHpRapEwjnJTUM5739LWkU7GI9chuMvB4ODjBmRMK8WGpq6-BwwOMLtb6QJ0oVhUMaEkLonW6RxxWKFTuWkujQW6A6feEww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
