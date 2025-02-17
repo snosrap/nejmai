@@ -4,28 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2828669",
-            "title": "Synthetic Data and Health Privacy",
-            "summary": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "content_text": "This Viewpoint discusses generative artificial intelligence and safeguarding privacy by using synthetic data as a substitute for private health data.",
-            "date_published": "2024-12-30T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828120",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828120",
+            "title": "Building a Culture of Quality and Safety in Health Care\u2014The Importance of Respect for Patients",
+            "summary": "Over the past several years, there has been increasing awareness that clinicians write language in medical records that stigmatizes patients, 1 that the use of this language varies by patients\u2019 race and clinical conditions (eg, substance use disorder), 2 , 3 and that stigmatizing language in clinicians\u2019 notes adversely influences the attitudes and decision-making of clinicians who subsequently read those notes. 4 Collectively, this evidence has shown that notes written in patients\u2019 medical records are a vehicle by which conscious or unconscious biases may spread from one clinician to another, undermine quality of care for stigmatized patients, and contribute to health care inequities.",
+            "content_text": "Over the past several years, there has been increasing awareness that clinicians write language in medical records that stigmatizes patients, 1 that the use of this language varies by patients\u2019 race and clinical conditions (eg, substance use disorder), 2 , 3 and that stigmatizing language in clinicians\u2019 notes adversely influences the attitudes and decision-making of clinicians who subsequently read those notes. 4 Collectively, this evidence has shown that notes written in patients\u2019 medical records are a vehicle by which conscious or unconscious biases may spread from one clinician to another, undermine quality of care for stigmatized patients, and contribute to health care inequities.",
+            "date_published": "2024-12-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Gw\u00e9nol\u00e9 Abgrall, MD"
+                    "name": "Somnath Saha, MD, MPH"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "privacy"
+                "attitude",
+                "health policy",
+                "mental recall",
+                "transition of care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2828669/jama_abgrall_2024_vp_240170_1734647300.06711.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828120/saha_2024_ic_240315_1733841423.04398.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
