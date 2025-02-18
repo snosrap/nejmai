@@ -4,29 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829232",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829232",
-            "title": "Use of Digital Health Technologies by Older US Adults",
-            "summary": "This survey study estimated digital health technology (DHT) use and evaluated the factors associated with DHT use by US adults aged 50 to 80 years.",
-            "content_text": "This survey study estimated digital health technology (DHT) use and evaluated the factors associated with DHT use by US adults aged 50 to 80 years.",
-            "date_published": "2025-01-15T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2829922",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2829922",
+            "title": "Generative Artificial Intelligence in Surgical Publishing",
+            "summary": "This Viewpoint discusses the role of generative artificial intelligence in surgical publishing, including idea generation, study conduct, manuscript preparation, and manuscript review.",
+            "content_text": "This Viewpoint discusses the role of generative artificial intelligence in surgical publishing, including idea generation, study conduct, manuscript preparation, and manuscript review.",
+            "date_published": "2025-02-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Cornelius A. James, MD"
+                    "name": "Ben Li, MD"
                 }
             ],
             "tags": [
-                "digital health",
-                "informatics (discipline)",
-                "technology"
+                "generative artificial intelligence",
+                "operative surgical procedures"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829232/james_2025_ld_240276_1736277623.71008.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2829922/jamasurgery_li_2025_vp_240021_1738175780.09663.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zld240276t1_1736277623.82008.png?Expires=2147483647&Signature=Y2TwwFoyGuRzYMZJUtxPzgVYXhC0P~UgGNWlFgEaa0leXEbbcauV-Qb89x73MZVgNdTE9xIXOcx~bmv6hnkzYSnvzm4mAsyYVGbmTjziuczm570iOCGTsMIYRYUWQBg9otCPbfHLC4JXHx0C5SkY~uJ~hsB6qx5hSBQlTi21ZG3rjCXXCUT0nhhL8AmWv6GdzcBxNhbB2xLVO3QubNHX6K35Dd1-w1b2uGDlljHSDUsmMHs4RhMSegzvezZACHYtqsDUZgqNrptPAPXd7xlhxmeF6b6S0BV3f3MiD6B8OkcJOJJJW5IcHK-Lb0H4TAVbkl7Ve-jOEk6hoWSAADPEqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
