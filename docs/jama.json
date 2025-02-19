@@ -4,28 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
-            "title": "Launching the Trustworthy and Responsible AI Network (TRAIN): A Consortium to Facilitate Safe and Effective AI",
-            "summary": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
-            "content_text": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
-            "date_published": "2025-02-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2829922",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2829922",
+            "title": "Generative Artificial Intelligence in Surgical Publishing",
+            "summary": "This Viewpoint discusses the role of generative artificial intelligence in surgical publishing, including idea generation, study conduct, manuscript preparation, and manuscript review.",
+            "content_text": "This Viewpoint discusses the role of generative artificial intelligence in surgical publishing, including idea generation, study conduct, manuscript preparation, and manuscript review.",
+            "date_published": "2025-02-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Peter J. Emb\u00ed, MD, MS"
+                    "name": "Ben Li, MD"
                 }
             ],
             "tags": [
-                "health care systems",
-                "technology"
+                "generative artificial intelligence",
+                "operative surgical procedures"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830340/jama_emb_2025_vp_250019_1738942291.693.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2829922/jamasurgery_li_2025_vp_240021_1738175780.09663.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250019f1_1738942291.85405.png?Expires=2147483647&Signature=TNl3~mn3GP2Sb3LtHqlt4ftyXpNdyPYR2ppnrvJld7ErIlV3O41I8Lmrxjc6T1dpYvyYwXRGrsjxrNtKnoyIGOms4QT60AzbXfRLIAkYmhJwY15SwSV42RNfIhEhv~Kg69uTCcv2PVgD8-I5ZzSdzFP~f176zDLRUeTgLzo~s~NsE7FKuyiOgV0cC4wgNs4~~qlq6y1z6Mc3y2bPqMMqmJHO3O8vsGvuBLJ9OLZ4DYaTIQGq2XPqisB18GksKfWNUxQJQ27XYQb8339jbQbpAPf0bXPUJzVDTPn0I4Wzl9jEkLe5HMia4k~~wvU8dXueqFXvrE8GTyUPIq0K9AOGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
