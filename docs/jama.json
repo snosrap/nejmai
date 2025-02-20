@@ -4,36 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830112",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830112",
-            "title": "Research Domain Criteria in NIMH Grants Characterized Using Large Language Models",
-            "summary": "This cohort study uses a large language model to examine changes in research funding from the National Institute of Mental Health (NIMH) for Research Domain Criteria domains and transdiagnostic investigation.",
-            "content_html": "<h3>Importance</h3><p>Over the past decade, the leadership of the National Institute of Mental Health (NIMH) has emphasized the importance of a transdiagnostic approach to psychiatric investigation using Research Domain Criteria (RDoC) mapping more closely to neurobiology.</p><h3>Objective</h3><p>To investigate whether research support from the NIMH for individual RDoC domains and for transdiagnostic investigation has changed over time and has had differential impact in terms of publication, citations, or patent filings.</p><h3>Design, Setting, and Participants</h3><p>In this longitudinal cohort study, all R01, R21, and R03 studies funded by the NIMH between January 2003 and December 2023 were identified via the National Institutes of Health RePORTER database. Their abstracts were characterized in terms of RDoC domains (negative valence, positive valence, cognition, social, arousal, and sensorimotor) using a large language model.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were publications, citation impact estimated at 5 years from the index year of funding, and patents, examined using regression models adjusted for other grant characteristics.</p><h3>Results</h3><p>Among 8897 R01, R03, and R21 projects, reflecting $17.7 billion of investment, abstracts of 3141 (35.3%) reflected negative valence; 1344 (15.1%), positive valence; 2781 (31.3%), cognition; 1607 (18.1%), social; 343 (3.9%), arousal; and 571 (6.4%), sensorimotor domains. A total of 1793 (20.2%) incorporated a transdiagnostic perspective. Positive and social domains were associated with fewer publications (difference, \u22121.13 [95% CI, \u22122.11 to \u22120.15] and \u22122.23 [95% CI, \u22123.15 to \u22121.30], respectively) and lesser citation impact (difference, \u22120.47 [95% CI, \u22120.75 to \u22120.18] and \u22121.19 [95% CI, \u22121.46 to \u22120.91], respectively) at 5 years. Social (adjusted odds ratio [AOR], 0.11; 95% CI, 0.04-0.23) and cognitive (AOR, 0.66; 95% CI, 0.48-0.89) domains and transdiagnostic proposals (AOR, 0.37; 95% CI, 0.21-0.60) were associated with lower likelihood of patent filing.</p><h3>Conclusions and Relevance</h3><p>In this study of NIMH funding, grants reflecting different RDoC domains differed substantially in their scientific impact in terms of publications, citations, and patent generation. The findings suggest that large language models represent a promising approach to characterizing research proposals at scale, which may be useful in guiding resource allocation to maximize scientific return on investment.</p>",
-            "date_published": "2025-02-12T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830339",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830339",
+            "title": "Moving Toward Implementation of Responsible Artificial Intelligence in Health Care: The European TRAIN",
+            "summary": "This Viewpoint discusses the Trustworthy and Responsible AI Network Europe (TRAIN-Europe) consortium, an effort of medical and AI experts to oversee, develop, and share ethical practices through collaboration and technological solutions designed to implement responsible AI practices.",
+            "content_text": "This Viewpoint discusses the Trustworthy and Responsible AI Network Europe (TRAIN-Europe) consortium, an effort of medical and AI experts to oversee, develop, and share ethical practices through collaboration and technological solutions designed to implement responsible AI practices.",
+            "date_published": "2025-02-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Roy H. Perlis, MD, MSc"
+                    "name": "Michel E. van Genderen, MD, PhD"
                 }
             ],
             "tags": [
-                "file (record)",
-                "investments",
-                "large language models",
-                "national institute of mental health (u.s.)",
-                "patents as topic",
-                "psychiatry specialty",
-                "research domain criteria (rdoc) project",
-                "research proposal",
-                "resource allocation",
-                "valence (atomic)"
+                "artificial intelligence",
+                "ethics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830112/perlis_2025_oi_241657_1738361514.2648.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830339/jama_van_genderen_2025_vp_250020_1738942289.32031.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zoi241657t1_1738361514.3298.png?Expires=2147483647&Signature=b2HXcZsAUpswavw0HabGPsS77hOgeHXJW4PHR9zXpaJS6eq-lWqhXqmUZBS-Fs5IkzXR52-lNUqHllvZDDOc4lnGPDPoWQwJN25M-5UZtZM6KNGmV1iQU3vUgSzNbPrv7SrsST6-kSE5RXAX0ruP9zY3dqlBs7PJGh6vRMIf1Zs3Qspq6vRvSI5ZvlNWQ6O0d47ZUNi3mNfpFQmJ3S0K33e2YTVqf3HHvdB6soLa2YgoyT0HicMOSoJbIUYjwtclhwdUPAZp9IZqIHFu1GKDkc44AwGXC2mVQfxaNnCkTvi6sVL2RGuJWBSBN5tKAElTj6~4SatvNmF9gxZKr~uNHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250020t1_1738942290.44668.png?Expires=2147483647&Signature=gg4lc455KUljEIplUQpm0yHZ6brVX2t4DlnyW3QgJx5RfAHWTMld7yujWkAaqMlo6L9fZE6US6Jh9EuH1xZRAQbWczPEJ0~PcvPTmvAOEAUKRQjWYkxyJSY9sFUzXBQUiR0xlUy8J51H9-SXmmW9z7OD6PKM-Rl8~cVgLlpWrkSkfq8REuEbm~cmuZ82Aua84M1~Z2TmTqoeuCDYA48BikjqsrRKjOwvKY8bfAjMFMK6MMCZ5qrER83~AR7yfxYKEo7PrWCBnKvAyBJEJpweWay~7scFjzddxsplUnakLrjBx5qasU~9-QqZjqm9ttwZxLPGBlvaeRAZH5hpCMtdJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
