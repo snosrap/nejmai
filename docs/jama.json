@@ -4,32 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2830144",
-            "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2830144",
-            "title": "Predicting Diagnostic Progression to Schizophrenia or Bipolar Disorder via Machine Learning",
-            "summary": "This diagnostic study uses machine learning to predict diagnostic progression to schizophrenia or bipolar among patients receiving psychiatric services in Denmark.",
-            "content_html": "<h3>Importance</h3><p>The diagnosis of schizophrenia and bipolar disorder is often delayed several years despite illness typically emerging in late adolescence or early adulthood, which impedes initiation of targeted treatment.</p><h3>Objective</h3><p>To investigate whether machine learning models trained on routine clinical data from electronic health records (EHRs) can predict diagnostic progression to schizophrenia or bipolar disorder among patients undergoing treatment in psychiatric services for other mental illness.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was based on data from EHRs from the Psychiatric Services of the Central Denmark Region. All patients aged 15 to 60 years with at least 2 contacts (at least 3 months apart) with the Psychiatric Services of the Central Denmark Region between January 1, 2013, and November 21, 2016, were included. Analysis occurred from December 2022 to November 2024.</p><h3>Exposures</h3><p>Predictors based on EHR data, including medications, diagnoses, and clinical notes.</p><h3>Main Outcomes and Measures</h3><p>Diagnostic transition to schizophrenia or bipolar disorder within 5 years, predicted 1 day before outpatient contacts by means of elastic net regularized logistic regression and extreme gradient boosting (XGBoost) models. The area under the receiver operating characteristic curve (AUROC) was used to determine the best performing model.</p><h3>Results</h3><p>The study included 24\u202f449 patients (median [Q1-Q3] age at time of prediction, 32.2 [24.2-42.5] years; 13\u202f843 female [56.6%]) and 398\u202f922 outpatient contacts. Transition to the first occurrence of either schizophrenia or bipolar disorder was predicted by the XGBoost model, with an AUROC of 0.70 (95% CI, 0.70-0.70) on the training set and 0.64 (95% CI, 0.63-0.65) on the test set, which consisted of 2 held-out hospital sites. At a predicted positive rate of 4%, the XGBoost model had a sensitivity of 9.3%, a specificity of 96.3%, and a positive predictive value (PPV) of 13.0%. Predicting schizophrenia separately yielded better performance (AUROC, 0.80; 95% CI, 0.79-0.81; sensitivity, 19.4%; specificity, 96.3%; PPV, 10.8%) than was the case for bipolar disorder (AUROC, 0.62, 95% CI, 0.61-0.63; sensitivity, 9.9%; specificity, 96.2%; PPV, 8.4%). Clinical notes proved particularly informative for prediction.</p><h3>Conclusions and Relevance</h3><p>These findings suggest that it is possible to predict diagnostic transition to schizophrenia and bipolar disorder from routine clinical data extracted from EHRs, with schizophrenia being notably easier to predict than bipolar disorder.</p>",
-            "date_published": "2025-02-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Lasse Hansen, MSc, PhD"
+                    "name": "Maximilian U. Friedrich, MD"
                 }
             ],
             "tags": [
-                "bipolar disorder",
-                "denmark",
-                "machine learning",
-                "outpatients",
-                "psychiatry specialty",
-                "schizophrenia"
+                "artificial intelligence",
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2830144/jamapsychiatry_hansen_2025_oi_240093_1738690173.16005.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1738863876.08425.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/psych/0/yoi240093f1_1738690174.27209.png?Expires=2147483647&Signature=MmVWAMcRXm3X3r9D6U7sRz7RnIMrVM4g~9iFX2jGsLore~tr7pZJWlnnO2rAaJihdMMNxOOK9kkgdGpReuq~i2-~h5YjOf1zAJEFCgvASUKxr9W1HNkO7Ezvma0CiAvepia9elId8VBWMVvgTiGVcjq2vVkWWGX1tGt9pL75K46Ou76okwykHgY9qgabtx5bqc3zVTuyHirvysDJuxapM4K4AnKpDidwx4tiuyhCqhnvRk6snRVHDocdP4dFBX2H6yGKkmz2-Hvs-CVvauW0BHuiauZUREu~Ay3KL6gtqBfGslO5955bcyZshaUwN0Mo8MiiWFNCopTyYovYWczYMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/0/nrv240008f1_1738863876.23925.png?Expires=2147483647&Signature=d45sky~6I5z9oe0m1dp9TrvexdfJPQTBPgdbheMwavtennZNba1x2NCbcAcStNazIghEmTB4yo~VJGWN9t3zdM-Ia24reSWT8VzdTMt8O63c-osr7Gb8N7WK9sPLShWppI2ikQQEBkHGHJAhfweKBgJsmAeQQS58XyEXdNmTv-yd3fTsAdobAs8-4glSf0VV8JKo5VLaTvtJ8717quyi47g5gbjxy~MsDZ3TBsrjKzJln9Dx-BqS-JUhCabN-KJ79-nNjMoamBpNllBIfI9zT3E9U7Cy8DHmPIR99BFNQNfY7h98M5g7rXSbNM3BdJ4yh~OFUpm6Or8DPqY~MVe3hQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
