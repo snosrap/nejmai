@@ -4,31 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
-            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
-            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
-            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
-            "date_published": "2024-12-03T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Adam B. Landman, MD"
+                    "name": "Maximilian U. Friedrich, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "emergency medicine (field)",
-                "emergency service",
-                "hospital",
-                "transition of care"
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1738863876.08425.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/0/nrv240008f1_1738863876.23925.png?Expires=2147483647&Signature=d45sky~6I5z9oe0m1dp9TrvexdfJPQTBPgdbheMwavtennZNba1x2NCbcAcStNazIghEmTB4yo~VJGWN9t3zdM-Ia24reSWT8VzdTMt8O63c-osr7Gb8N7WK9sPLShWppI2ikQQEBkHGHJAhfweKBgJsmAeQQS58XyEXdNmTv-yd3fTsAdobAs8-4glSf0VV8JKo5VLaTvtJ8717quyi47g5gbjxy~MsDZ3TBsrjKzJln9Dx-BqS-JUhCabN-KJ79-nNjMoamBpNllBIfI9zT3E9U7Cy8DHmPIR99BFNQNfY7h98M5g7rXSbNM3BdJ4yh~OFUpm6Or8DPqY~MVe3hQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
