@@ -4,29 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
-            "title": "Generative Artificial Intelligence Guidelines of Ophthalmology Journals",
-            "summary": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
-            "content_text": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
-            "date_published": "2025-02-13T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
+            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "date_published": "2024-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "David E. Rabinovitch, MD"
+                    "name": "Adam B. Landman, MD"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "guidelines",
-                "ophthalmology specialty"
+                "artificial intelligence",
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
+                "transition of care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2830079/jamaophthalmology_rabinovitch_2025_ld_240010_1738342413.36197.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eld240010t1_1738342413.52281.png?Expires=2147483647&Signature=q-egE6-2294VXUeFM9zMhksV8ZDtEdB7Tb87ZIN2L5tHN5TdeukL0qnyfHe9CcWDWdjcg6iiiBEad5aJJPU8RAw8JvuPHjaHjY4JCtV6ht0NMJ3grMWUMje9E7kNxgDj8hTu9HbPQ~Dp4yCCAXfn8477xQvCNx6-hoGlR7Lk0a67F9BTPuTnYwPnBQuyi6dHOEX3j6kNDpGSZYKDaHwPSquzd6HtkBEaUDD9AzwiaHLkS-sUcDy8zxdODpXKpx~ZdVx5g0WznwsD5cFgrtUMIDrfW-PFjchn3PouKLgVz4MGQwW-OxGAn4kYrq3NeABP1YNF4GG3ltbrKbNjCdhLJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
