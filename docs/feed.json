@@ -5,6 +5,124 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400948",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400948",
+      "title": "Opportunistic Screening of Chronic Liver Disease with Deep-Learning\u2013Enhanced Echocardiography",
+      "summary": "Despite its growing prevalence, chronic liver disease remains underdiagnosed, with notable morbidity and mortality. In this article, an AI algorithm screens for chronic liver diseases in patients undergoing transthoracic echocardiography studies, using standard subcostal images routinely obtained to evaluate the inferior vena cava.",
+      "content_text": "## Abstract\n\n### Background\n\nChronic liver disease (CLD) affects more than 1.5 billion adults, most of whom\nare asymptomatic and undiagnosed. Echocardiography is broadly performed and\nvisualizes the liver, but this information is not clinically leveraged for CLD\ndiagnosis.\n\n### Methods\n\nWe developed and evaluated EchoNet-Liver, a deep-learning, computer-vision\npipeline that can identify high-quality subcostal images from full\nechocardiogram studies and detect the presence of cirrhosis and steatotic\nliver disease (SLD). This retrospective observational study included adult\npatients from two large urban academic medical centers who received both\nechocardiography and abdominal imaging \u2014 either ultrasound or magnetic\nresonance imaging (MRI) \u2014 within 30 days. The model predictions were compared\nwith diagnoses from clinical evaluations of paired abdominal ultrasound or MRI\nstudies.\n\n### Results\n\nA total of 1,596,640 echocardiogram videos from 66,922 studies and 24,276\npatients at Cedars\u2013Sinai Medical Center (CSMC) were used to develop EchoNet-\nLiver. In a held-out CSMC test cohort, EchoNet-Liver detected cirrhosis with\nan area under the receiver operating characteristic curve (AUROC) of 0.837\n(95% confidence interval [CI], 0.828 to 0.848) and SLD with an AUROC of 0.799\n(95% CI, 0.788 to 0.811). In a separate test cohort with paired abdominal MRI\nstudies, EchoNet-Liver detected cirrhosis with an AUROC of 0.704 (95% CI,\n0.699 to 0.708) and SLD with an AUROC of 0.725 (95% CI, 0.707 to 0.762). In an\nexternal test cohort of 106 patients (5280 videos), the model detected\ncirrhosis with an AUROC of 0.830 (95% CI, 0.799 to 0.859) and SLD with an\nAUROC of 0.769 (95% CI, 0.733 to 0.813).\n\n### Conclusions\n\nDeep-learning assessment of clinical echocardiography enables opportunistic\nscreening for SLD and cirrhosis. The application of this algorithm can\nidentify patients who may benefit from further diagnostic testing and\ntreatment for CLD. (Funded by KAKENHI [Japan Society for the Promotion of\nScience, 24K10526] and others.)\n\n",
+      "date_published": "2025-02-27T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Y. Sahashi and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400948",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/cd528e63-b2bf-4426-a36a-edadca150c1e/aioa2400948_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Chronic liver disease (CLD) affects more than 1.5 billion adults, most of whom are asymptomatic and undiagnosed. Echocardiography is broadly performed and visualizes the liver, but this information is not clinically leveraged for CLD diagnosis.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We developed and evaluated EchoNet-Liver, a deep-learning, computer-vision pipeline that can identify high-quality subcostal images from full echocardiogram studies and detect the presence of cirrhosis and steatotic liver disease (SLD). This retrospective observational study included adult patients from two large urban academic medical centers who received both echocardiography and abdominal imaging \u2014 either ultrasound or magnetic resonance imaging (MRI) \u2014 within 30 days. The model predictions were compared with diagnoses from clinical evaluations of paired abdominal ultrasound or MRI studies.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">A total of 1,596,640 echocardiogram videos from 66,922 studies and 24,276 patients at Cedars\u2013Sinai Medical Center (CSMC) were used to develop EchoNet-Liver. In a held-out CSMC test cohort, EchoNet-Liver detected cirrhosis with an area under the receiver operating characteristic curve (AUROC) of 0.837 (95% confidence interval [CI], 0.828 to 0.848) and SLD with an AUROC of 0.799 (95% CI, 0.788 to 0.811). In a separate test cohort with paired abdominal MRI studies, EchoNet-Liver detected cirrhosis with an AUROC of 0.704 (95% CI, 0.699 to 0.708) and SLD with an AUROC of 0.725 (95% CI, 0.707 to 0.762). In an external test cohort of 106 patients (5280 videos), the model detected cirrhosis with an AUROC of 0.830 (95% CI, 0.799 to 0.859) and SLD with an AUROC of 0.769 (95% CI, 0.733 to 0.813).</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Deep-learning assessment of clinical echocardiography enables opportunistic screening for SLD and cirrhosis. The application of this algorithm can identify patients who may benefit from further diagnostic testing and treatment for CLD. (Funded by KAKENHI [Japan Society for the Promotion of Science, 24K10526] and others.)</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400354",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400354",
+      "title": "Development and Evaluation of a Model to Manage Patient Portal Messages",
+      "summary": "Significant time savings and administrative reductions were achieved by automating message triage and routing. Benefits were observed among staff at the initial point of contact and further downstream, including clinical nurses, advanced practice providers, and physicians.",
+      "content_text": "## Abstract\n\n### Background\n\nAlthough patient portal messaging in the electronic health record (EHR) can\nprovide convenience and enhanced patient\u2013provider communication, the rising\nvolume of messages in recent years poses challenges, including delays in\ntimely communication and the potential for provider burnout. We evaluated the\nimpact of a natural language processing (NLP) algorithm for automated message\nrouting in clinical practice.\n\n### Methods\n\nWe developed an NLP model to label and route patient-sent messages using a\npretrained classifier that was fine-tuned using clinician feedback. The model\nwas prospectively deployed in an outpatient clinic environment for real-world\nvalidation. A parallel group of unrouted messages was retrieved for\ncomparison. The primary end points were time-to-first-message interaction,\ntime-to-conversation resolution, and the total number of message interactions\nby health care staff, compared with those of the control group. Secondary end\npoints were the precision, recall, F1 score (a measure of positive predictive\nvalue and sensitivity), and accuracy for correct message classification.\n\n### Results\n\nThe model prospectively labeled and routed 469 unique conversations over 14\ndays. Compared with a control group of 402 unrouted conversations from the\nsame period, staff in the routed message group used less time to initially\naddress a new patient message (difference in medians, \u22121 hour; 95% confidence\ninterval [CI], \u22121.42 to \u22120.5) and to complete a conversation (difference in\nmedians, \u221222.5 hours; 95% CI, \u221236.3 to \u221217.7); routed group staff also had\nfewer total message interactions (difference in medians, \u22122.0 interactions;\n95% CI, \u22122.9 to \u22121.4). The model demonstrated high precision (\u226596.9%), recall\n(\u226595.0%), and F1 scores (\u226596.5%) for accurate prediction of all five message\nclasses, with a total accuracy of 97.8%.\n\n### Conclusions\n\nReal-time message routing using an NLP model was associated with reduced\nmessage response and resolution times and fewer overall message interactions\namong clinic staff. (Funded by Switchboard, MD.)\n\n",
+      "date_published": "2025-02-27T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "B.J. Anderson and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400354",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400354_Anderson(Harzand).jpg",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Although patient portal messaging in the electronic health record (EHR) can provide convenience and enhanced patient\u2013provider communication, the rising volume of messages in recent years poses challenges, including delays in timely communication and the potential for provider burnout. We evaluated the impact of a natural language processing (NLP) algorithm for automated message routing in clinical practice.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We developed an NLP model to label and route patient-sent messages using a pretrained classifier that was fine-tuned using clinician feedback. The model was prospectively deployed in an outpatient clinic environment for real-world validation. A parallel group of unrouted messages was retrieved for comparison. The primary end points were time-to-first-message interaction, time-to-conversation resolution, and the total number of message interactions by health care staff, compared with those of the control group. Secondary end points were the precision, recall, F1 score (a measure of positive predictive value and sensitivity), and accuracy for correct message classification.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">The model prospectively labeled and routed 469 unique conversations over 14&nbsp;days. Compared with a control group of 402 unrouted conversations from the same period, staff in the routed message group used less time to initially address a new patient message (difference in medians, \u22121 hour; 95% confidence interval [CI], \u22121.42 to \u22120.5) and to complete a conversation (difference in medians, \u221222.5 hours; 95% CI, \u221236.3 to \u221217.7); routed group staff also had fewer total message interactions (difference in medians, \u22122.0 interactions; 95% CI, \u22122.9 to \u22121.4). The model demonstrated high precision (\u226596.9%), recall (\u226595.0%), and F1 scores (\u226596.5%) for accurate prediction of all five message classes, with a total accuracy of 97.8%.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Real-time message routing using an NLP model was associated with reduced message response and resolution times and fewer overall message interactions among clinic staff. (Funded by Switchboard, MD.)</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400296",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400296",
+      "title": "Impact of Artificial Intelligence\u2013Based Triage Decision Support on Emergency Department Care",
+      "summary": "Following the implementation of an AI-informed clinical decision support system on emergency department triage performance and patient flow, there was a significant shift in the acuity distribution of patients, with improved identification of critical care patients, and a reduction in the time from arrival to care, disposition, and departure.",
+      "content_text": "## Abstract\n\n### Background\n\nEmergency department (ED) triage methods are limited in their ability to risk-\nstratify patients and identify critical illnesses. Our objective was to\nexamine the impact of implementing an artificial intelligence (AI)\u2013informed ED\ntriage tool on triage performance and patient flow.\n\n### Methods\n\nWe performed a multisite quality improvement study of an AI-informed triage\nclinical decision support (CDS) intervention. The CDS tool provided\nindividualized triage recommendations and rationale based on the predicted\nrisk of acute outcomes. Comparative analyses were conducted for 180 days\npreintervention versus postintervention, and across nurses exhibiting high and\nlow levels of agreement with the CDS. Patient-centered performance outcomes\nand ED flow measures were examined and adjusted for potential confounders.\n\n### Results\n\nA total of 174,648 ED visits (83,404 visits preintervention and 91,244\npostintervention) were included across three EDs. The triage acuity\ndistribution changed postintervention; low-acuity (level 4 or 5) visits\nincreased 48.2% (23.9 to 35.4%), mid-acuity (level 3) visits decreased 18.7%\n(48.8 to 39.7%), and high-acuity (level 1 or 2) visits decreased 8.8% (27.3 to\n24.9%). Following the intervention there was an increase in high-acuity\nidentification (level 1 or 2 assignment) of patients requiring critical care\n(from 78.8% [95% confidence interval, 76.4 to 80.8%] to 83.1% [80.9 to 85.0%];\nP<0.001) and no observed change in identification of emergency surgery\npostintervention (41.2% [37.8 to 43.7%] to 39.2% [36.4 to 41.5%]; P=0.16).\nHospitalization rates among low-acuity patients were maintained (below 4%)\npostintervention. Variability in nurse agreement with the AI-informed triage\nCDS and triage performance was observed; the nurse subgroup with a high rate\nof agreement performed better than the AI independently, whereas those with\nlower rates of agreement performed worse. The AI triage CDS intervention was\nassociated with reductions in median times from arrival to the initial care\narea (33.0%; 12.0 to 8.0 minutes), ED disposition (4.2%; 190.0 to 182.0\nminutes), and to ED departure (6.1%; 311.0 to 292.0 minutes).\n\n### Conclusions\n\nImplementation of an AI-informed triage CDS system was associated with\nimproved triage performance and ED patient flow. Variability in nurse\nagreement with the AI triage CDS highlighted opportunities to harmonize AI and\nnurse judgment to further reduce unwanted variation in triage performance.\n(Funded by Beckman Coulter.)\n\n",
+      "date_published": "2025-02-27T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "R.A. Taylor and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400296",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/e401dfcc-a36b-47d5-b4d8-e0687cac0542/aioa2400296_f3.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Emergency department (ED) triage methods are limited in their ability to risk-stratify patients and identify critical illnesses. Our objective was to examine the impact of implementing an artificial intelligence (AI)\u2013informed ED triage tool on triage performance and patient flow.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We performed a multisite quality improvement study of an AI-informed triage clinical decision support (CDS) intervention. The CDS tool provided individualized triage recommendations and rationale based on the predicted risk of acute outcomes. Comparative analyses were conducted for 180 days preintervention versus postintervention, and across nurses exhibiting high and low levels of agreement with the CDS. Patient-centered performance outcomes and ED flow measures were examined and adjusted for potential confounders.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">A total of 174,648 ED visits (83,404 visits preintervention and 91,244 postintervention) were included across three EDs. The triage acuity distribution changed postintervention; low-acuity (level 4 or 5) visits increased 48.2% (23.9 to 35.4%), mid-acuity (level 3) visits decreased 18.7% (48.8 to 39.7%), and high-acuity (level 1 or 2) visits decreased 8.8% (27.3 to 24.9%). Following the intervention there was an increase in high-acuity identification (level 1 or 2 assignment) of patients requiring critical care (from 78.8% [95% confidence interval, 76.4 to 80.8%] to 83.1% [80.9 to 85.0%]; P&lt;0.001) and no observed change in identification of emergency surgery postintervention (41.2% [37.8 to 43.7%] to 39.2% [36.4 to 41.5%]; P=0.16). Hospitalization rates among low-acuity patients were maintained (below 4%) postintervention. Variability in nurse agreement with the AI-informed triage CDS and triage performance was observed; the nurse subgroup with a high rate of agreement performed better than the AI independently, whereas those with lower rates of agreement performed worse. The AI triage CDS intervention was associated with reductions in median times from arrival to the initial care area (33.0%; 12.0 to 8.0 minutes), ED disposition (4.2%; 190.0 to 182.0 minutes), and to ED departure (6.1%; 311.0 to 292.0 minutes).</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Implementation of an AI-informed triage CDS system was associated with improved triage performance and ED patient flow. Variability in nurse agreement with the AI triage CDS highlighted opportunities to harmonize AI and nurse judgment to further reduce unwanted variation in triage performance. (Funded by Beckman Coulter.)</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500083",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500083",
+      "title": "AI Tools in Human Hands: Measuring Real-World Impact in the Emergency Department",
+      "summary": "A real-world evaluation of an AI triage tool shows promise in improving emergency department efficiency and reducing disparities, highlighting the need for optimizing human\u2013AI integration rather than just model accuracy.",
+      "content_text": "## Abstract\n\nAlthough demonstrating AI\u2019s clinical impact remains challenging, a real-world\nevaluation of an AI triage tool shows promise in improving emergency\ndepartment efficiency and reducing racial disparities. This study reveals\nchallenges in achieving consistent adoption across clinicians, highlighting\nthe need for optimizing human-AI integration rather than just model accuracy.\n\n",
+      "date_published": "2025-02-27T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "I.Y. Chen and A. Zink"
+        }
+      ],
+      "tags": [
+        "Editorial"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500083",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Although demonstrating AI\u2019s clinical impact remains challenging, a real-world evaluation of an AI triage tool shows promise in improving emergency department efficiency and reducing racial disparities. This study reveals challenges in achieving consistent adoption across clinicians, highlighting the need for optimizing human-AI integration rather than just model accuracy.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500020",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500020",
+      "title": "Will AI Make the Electronic Health Record More Efficient for Clinicians?",
+      "summary": "Since the passage of the HITECH Act in 2009, electronic health records (EHRs) have become an examination of the potential of AI-driven tools, including machine learning classifiers and large language models, to streamline EHR workflows for providers and outline a path for effective implementation and impact.",
+      "content_text": "## Abstract\n\nElectronic health records (EHRs) have become nearly universal in the United\nStates, enhancing care coordination and patient access to health data.\nHowever, these advancements have introduced numerous challenges for providers\nand health care systems. This editorial explores the potential of artificial\nintelligence (AI) to enhance EHR efficiency, focusing on recent advancements\nin machine learning-based message classification and AI-generated clinical\ndocumentation. A recent study has demonstrated that AI-driven message routing\ncan significantly reduce response times and streamline workflows. Similarly,\nAI-generated draft responses and ambient AI scribes offer promising, albeit\nmixed, results in alleviating administrative burdens. While AI holds immense\npotential to reduce administrative inefficiencies and improve clinician\nexperience, its success hinges on robust infrastructure, transparency with\npatients, and continuous iteration to align with evolving clinical workflows.\nStrategic investments and thoughtful integration will be crucial in realizing\nAI\u2019s full impact on EHR efficiency.\n\n",
+      "date_published": "2025-02-27T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "G.S. Yadav and C.A. Longhurst"
+        }
+      ],
+      "tags": [
+        "Editorial"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500020",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Electronic health records (EHRs) have become nearly universal in the United States, enhancing care coordination and patient access to health data. However, these advancements have introduced numerous challenges for providers and health care systems. This editorial explores the potential of artificial intelligence (AI) to enhance EHR efficiency, focusing on recent advancements in machine learning-based message classification and AI-generated clinical documentation. A recent study has demonstrated that AI-driven message routing can significantly reduce response times and streamline workflows. Similarly, AI-generated draft responses and ambient AI scribes offer promising, albeit mixed, results in alleviating administrative burdens. While AI holds immense potential to reduce administrative inefficiencies and improve clinician experience, its success hinges on robust infrastructure, transparency with patients, and continuous iteration to align with evolving clinical workflows. Strategic investments and thoughtful integration will be crucial in realizing AI\u2019s full impact on EHR efficiency.</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400875",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400875",
       "title": "The Utility of Generative AI in Advancing Global Health",
@@ -25,7 +143,7 @@
           "mime_type": "application/pdf"
         }
       ],
-      "image": "https://ai.nejm.org/cms/asset/2e215a6d-8d52-4eda-8d2d-8f0835fd676c/aip2400875_f1.gif",
+      "image": "https://ai.nejm.org/cms/asset/00de0ca0-8e39-4e80-ab39-219c5c4c7713/aip2400875_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Achieving the United Nations\u2019 Sustainable Development Goals remains challenging for many low- and middle-income countries (LMICs). Generative artificial intelligence (AI) offers the potential to improve health care delivery access and quality in LMICs. Generative AI applications in health care include individualizing decision support systems for personalized diagnosis and treatment, predicting and managing epidemics, improving medical image interpretation, enhancing telemedicine, and accelerating drug discovery. In addition, generative AI can translate medical information into local languages, boosting health literacy and treatment adherence. However, potential challenges and barriers exist in integrating generative AI into the health systems of LMICs. Ethical dilemmas include the possible negative impacts on climate, limited human expertise and technological infrastructure, undermining the local health workforce, introducing potential biases, compromising data privacy, and increasing liability for faults or inaccurate decisions. The barriers and challenges that impede the increased uptake of generative AI in LMICs need urgent global attention, careful thought, and deliberate action to address them. AI centers of excellence based in LMICs can serve as focal points, providing guidance and stewardship on how to address the challenges while harvesting the benefits of generative AI.</div>"
     },
     {
@@ -50,218 +168,6 @@
         }
       ],
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence (AI) is poised to transform health care, yet without robust safeguards, unseen commercial interests could distort care by prioritizing profit over patient well-being. The phenomenon of \u201cbiomarkup\u201d underscores how subtle shifts in biomarker thresholds can fuel unwarranted testing, consultations, and treatments, ultimately undercutting cost-control efforts. It is easy to imagine a new generation of AI-based revenue cycle management model tools that achieve higher reimbursements by nudging clinicians toward more lucrative care pathways. AI-based decision support interventions are vulnerable across their entire development life cycle and could be manipulated to favor specific products or services. Furthermore, the growing consolidation of electronic health records and AI ecosystems restricts data access and risks stifling competition. Addressing these challenges requires a combination of technical and systemic solutions. Standardized application programming interfaces can foster electronic health record interoperability and mitigate vendor lock-in, while equitable and respectful data sharing and governance broadens participation in AI development. Robust oversight \u2014 including transparency mandates; rigorous auditing; addressing fraudulent, coercive, and monopolistic practices; and possibly new regulation \u2014 should curb exploitative practices and preserve AI\u2019s transformative potential for patient-centered care, cost containment, and societal benefit. (Funded by ARPA-H Biomedical Data Fabric Toolbox and others.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2400657",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2400657",
-      "title": "Not All Clinical AI Monitoring Systems Are Created Equal: Review and Recommendations",
-      "summary": "This article presents a critical review of the design and performance of AI monitoring systems in clinical settings, highlighting the lack of consensus and transparency in current practices. It introduces a structured road map to guide the development of effective and practical monitoring systems.",
-      "content_text": "## Abstract\n\nWhile practices for the initial evaluation of clinical artificial intelligence\n(AI) algorithms are well established, there is little consensus on how to\ndesign effective monitoring systems for the post-deployment setting. In real-\nworld case studies, design choices are often driven by practical constraints\nrather than their impact on the performance of the monitoring system. This\nnarrative review critically examines the key decisions that shape the\nperformance of AI monitoring systems, including the selection of monitoring\ncriteria, the choice of data sources, and the statistical procedures employed.\nOur findings reveal significant variation in the designed systems, often with\nlittle transparency regarding how their design choices affect monitoring\nperformance. To provide a more structured approach to designing monitoring\nsystems that are both effective and practical, we introduce a road map for\nnavigating the many options available. We bootstrap efforts in clinical AI\nmonitoring by highlighting tools from three related fields that face similarly\ncomplex challenges: quality management, clinical trials, and real-world\nevidence generation.\n\n",
-      "date_published": "2025-01-23T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J. Feng and Others"
-        }
-      ],
-      "tags": [
-        "Review Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2400657",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/25b273bf-f5b1-46ce-b658-5cbf6320f31a/aira2400657_f2.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">While practices for the initial evaluation of clinical artificial intelligence (AI) algorithms are well established, there is little consensus on how to design effective monitoring systems for the post-deployment setting. In real-world case studies, design choices are often driven by practical constraints rather than their impact on the performance of the monitoring system. This narrative review critically examines the key decisions that shape the performance of AI monitoring systems, including the selection of monitoring criteria, the choice of data sources, and the statistical procedures employed. Our findings reveal significant variation in the designed systems, often with little transparency regarding how their design choices affect monitoring performance. To provide a more structured approach to designing monitoring systems that are both effective and practical, we introduce a road map for navigating the many options available. We bootstrap efforts in clinical AI monitoring by highlighting tools from three related fields that face similarly complex challenges: quality management, clinical trials, and real-world evidence generation.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400741",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400741",
-      "title": "Multicenter Double-Blind Study Evaluating AI-Driven Detection of Proximal Deep Vein Thrombosis",
-      "summary": "This article details a robust, diagnostic test accuracy study, comparing an AI-guided ultrasound tool (AutoDVT) with standard compression ultrasound in 414 patients at 11 centers in the UK, using a double-blind study design.\u00a0",
-      "content_text": "## Abstract\n\n### Background\n\nUltrasound is one of the most widely requested forms of diagnostic imaging.\nThe costs for diagnosing deep vein thrombosis (DVT) in the UK are \u00a3175\nmillion, annually. In at least 80% of cases, DVT is excluded. As health care\nprovision becomes increasingly stretched, resource utilization needs to be\noptimized. This prospective, double-blind, test accuracy study was designed to\ntest whether an artificial intelligence (AI)\u2013guided software device (AutoDVT)\ncould support nonradiology specialists to diagnose proximal DVT.\n\n### Methods\n\nEleven regional hospital DVT diagnostic clinics enrolled adult patients, 18\nyears of age or older, who were referred for investigation of symptoms\nsuggestive of DVT, including a compression ultrasound. Prior to the clinical\ncompression ultrasound, an AutoDVT scan was completed. This was a two-point\nAI-guided compression ultrasound scan. We found that the main primary outcome\nwas the sensitivity of AutoDVT within a diagnostic algorithm for the detection\nof proximal DVT by nonradiology-trained staff. Other outcomes included\nspecificity and positive/negative predictive value of AutoDVT.\n\n### Results\n\nA total of 414 participants were enrolled. Proximal DVT was detected in 10.5%\nof those analyzed. AutoDVT resulted in 68% sensitivity (95% confidence\ninterval [CI], 49 to 83%) and 80% specificity (95% CI, 74 to 85%) for the\ndetection of proximal DVT. The negative predictive value for AutoDVT was 95%\n(95% CI, 92 to 98%), with a positive predictive value of 28% (95% CI, 19 to\n40%). Overall, 63 out of 294 results (21%; 95% CI, 17 to 27%) were discrepant\ncompared with compression ultrasound.\n\n### Conclusions\n\nThough AI-guided ultrasound use can detect proximal DVT, test accuracy was not\nsufficient for this device to be used safely. Further optimization of the\nsoftware is required prior to use in clinical practice by nonradiology-trained\nhealth care professionals. (Funded by the Wellcome Trust [Wellcome Innovator\nAward 220505/Z/20/Z]. The trial was registered as [ISRCTN\n11069056](https://doi.org/10.1186/ISRCTN11069056).)\n\n",
-      "date_published": "2025-01-23T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "N. Curry and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400741",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400741_Curry.jpg",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Ultrasound is one of the most widely requested forms of diagnostic imaging. The costs for diagnosing deep vein thrombosis (DVT) in the UK are \u00a3175 million, annually. In at least 80% of cases, DVT is excluded. As health care provision becomes increasingly stretched, resource utilization needs to be optimized. This prospective, double-blind, test accuracy study was designed to test whether an artificial intelligence (AI)\u2013guided software device (AutoDVT) could support nonradiology specialists to diagnose proximal DVT.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">Eleven regional hospital DVT diagnostic clinics enrolled adult patients, 18 years of age or older, who were referred for investigation of symptoms suggestive of DVT, including a compression ultrasound. Prior to the clinical compression ultrasound, an AutoDVT scan was completed. This was a two-point AI-guided compression ultrasound scan. We found that the main primary outcome was the sensitivity of AutoDVT within a diagnostic algorithm for the detection of proximal DVT by nonradiology-trained staff. Other outcomes included specificity and positive/negative predictive value of AutoDVT.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">A total of 414 participants were enrolled. Proximal DVT was detected in 10.5% of those analyzed. AutoDVT resulted in 68% sensitivity (95% confidence interval [CI], 49 to 83%) and 80% specificity (95% CI, 74 to 85%) for the detection of proximal DVT. The negative predictive value for AutoDVT was 95% (95% CI, 92 to 98%), with a positive predictive value of 28% (95% CI, 19 to 40%). Overall, 63 out of 294 results (21%; 95% CI, 17 to 27%) were discrepant compared with compression ultrasound.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Though AI-guided ultrasound use can detect proximal DVT, test accuracy was not sufficient for this device to be used safely. Further optimization of the software is required prior to use in clinical practice by nonradiology-trained health care professionals. (Funded by the Wellcome Trust [Wellcome Innovator Award 220505/Z/20/Z]. The trial was registered as <a href=\"https://doi.org/10.1186/ISRCTN11069056\" target=\"_blank\">ISRCTN 11069056</a>.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400402",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400402",
-      "title": "A Cross-Sectional Study of GPT-4\u2013Based Plain Language Translation of Clinical Notes to Improve Patient Comprehension of Disease Course and Management",
-      "summary": "In a novel clinical application of GPT-4\u2013based translation as a tool for improving confidence and accuracy of patient comprehension of hospital admission events and next steps in disease management, both perceived and objectively measured comprehension scores are higher when patients read plain language discharge summary notes (DSNs) translated by GPT-4 compared with untranslated DSNs. This effect is greater in marginalized populations with historically low rates of health literacy.",
-      "content_text": "## Abstract\n\n### Background\n\nThe 21st Century Cures Act provides patients with access to their clinical\nnotes, but most patients, particularly those with limited health literacy,\nhave difficulty understanding and utilizing them for health decisions and care\nmanagement. Thus, there is a critical need to improve the readability of\nclinical notes to ensure that patient access to medical information\nfacilitates equitable health outcomes. This study introduces a novel clinical\napplication of Generative Pretrained Transformer 4 (GPT-4), assessing the\neffect of GPT-4\u2013based plain language translation of discharge summary notes\n(DSNs) on subjective and objective comprehension, self-reported confidence,\nand time spent reading each DSN.\n\n### Methods\n\nWe enrolled 553 patients from December 2023 to February 2024. Participants\nwere at least 18 years of age, able to read English, had no diagnosis of\ncognitive impairment, and had an appointment scheduled within 2 months of\nenrollment at the Duke University Health System, a multicenter academic health\nsystem of three inpatient hospitals and multiple outpatient clinics. Patients\nread four DSNs related to common reasons for admission to an inpatient general\nmedical service: congestive heart failure, community-acquired pneumonia,\ndiabetic ketoacidosis, and acute ischemic stroke. Two DSNs (selected at\nrandom) were replaced by GPT-4\u2013based plain language translations. After\nreading each DSN, patients answered questionnaire items assessing subjective\nand objective comprehension. The effects of translation on comprehension\noutcomes were analyzed with linear mixed models.\n\n### Results\n\nAcross all four DSNs, GPT-4\u2013based translation improved objective comprehension\nby 1.2 of 4 points (CI, 1.09 to 1.26; P<0.001), subjective comprehension by\n2.4 of 16 points (CI, 2.15 to 2.71; P<0.001), and self-reported confidence by\n2.0 of 8 points (CI, 1.82 to 2.13; P<0.001). Improvements were greater among\nBlack and Hispanic patients, older patients, male patients, and those who\nreported limited health knowledge. In particular, objective comprehension\nimproved an additional 0.35 and 0.81 out of 4 points among Black and Hispanic\npatients, respectively.\n\n### Conclusions\n\nGPT-4\u2013based translation substantially improved patient comprehension of DSNs,\nespecially in populations that historically have low health literacy. Further\nresearch is needed to validate results in additional demographic groups and\nstudy downstream effects on health decision-making and outcomes.\n\n",
-      "date_published": "2025-01-23T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "A. Kumar and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400402",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/bad1c50f-e618-4fff-9d16-fb867add0178/aioa2400402_f2.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">The 21st Century Cures Act provides patients with access to their clinical notes, but most patients, particularly those with limited health literacy, have difficulty understanding and utilizing them for health decisions and care management. Thus, there is a critical need to improve the readability of clinical notes to ensure that patient access to medical information facilitates equitable health outcomes. This study introduces a novel clinical application of Generative Pretrained Transformer 4 (GPT-4), assessing the effect of GPT-4\u2013based plain language translation of discharge summary notes (DSNs) on subjective and objective comprehension, self-reported confidence, and time spent reading each DSN.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We enrolled 553 patients from December 2023 to February 2024. Participants were at least 18 years of age, able to read English, had no diagnosis of cognitive impairment, and had an appointment scheduled within 2 months of enrollment at the Duke University Health System, a multicenter academic health system of three inpatient hospitals and multiple outpatient clinics. Patients read four DSNs related to common reasons for admission to an inpatient general medical service: congestive heart failure, community-acquired pneumonia, diabetic ketoacidosis, and acute ischemic stroke. Two DSNs (selected at random) were replaced by GPT-4\u2013based plain language translations. After reading each DSN, patients answered questionnaire items assessing subjective and objective comprehension. The effects of translation on comprehension outcomes were analyzed with linear mixed models.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Across all four DSNs, GPT-4\u2013based translation improved objective comprehension by 1.2 of 4 points (CI, 1.09 to 1.26; P&lt;0.001), subjective comprehension by 2.4 of 16 points (CI, 2.15 to 2.71; P&lt;0.001), and self-reported confidence by 2.0 of 8 points (CI, 1.82 to 2.13; P&lt;0.001). Improvements were greater among Black and Hispanic patients, older patients, male patients, and those who reported limited health knowledge. In particular, objective comprehension improved an additional 0.35 and 0.81 out of 4 points among Black and Hispanic patients, respectively.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">GPT-4\u2013based translation substantially improved patient comprehension of DSNs, especially in populations that historically have low health literacy. Further research is needed to validate results in additional demographic groups and study downstream effects on health decision-making and outcomes.</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2401235",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2401235",
-      "title": "It\u2019s Time to Bench the Medical Exam Benchmark",
-      "summary": "To move forward as a field, benchmarks need to be designed that better align with the tasks these models are expected to perform upon deployment.",
-      "content_text": "## Abstract\n\nMedical licensing examinations, such as the United States Medical Licensing\nExamination, have become the default benchmarks for evaluating large language\nmodels (LLMs) in health care. Performance on these benchmarks is frequently\ncited as evidence of progress and used to justify the deployment of LLMs into\nclinical settings. However, we argue that these benchmarks are fundamentally\nlimited as signals for assessing true clinical utility.\n\n",
-      "date_published": "2025-01-23T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "I.D. Raji, R. Daneshjou, and E. Alsentzer"
-        }
-      ],
-      "tags": [
-        "Editorial"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2401235",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Medical licensing examinations, such as the United States Medical Licensing Examination, have become the default benchmarks for evaluating large language models (LLMs) in health care. Performance on these benchmarks is frequently cited as evidence of progress and used to justify the deployment of LLMs into clinical settings. However, we argue that these benchmarks are fundamentally limited as signals for assessing true clinical utility.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401103",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401103",
-      "title": "Cultivating Health Care\u2019s AI Future",
-      "summary": "This Perspective article summarizes an NEJM AI Grand Rounds conversation with Dr. Vijay Pande, General Partner at Andreessen Horowitz. The cohosts and guest discuss the intersection of artificial intelligence, venture capital, and health care, as well as the potential for AI to democratize access to high-quality health care.",
-      "content_text": "## Abstract\n\nDr. Vijay Pande, General Partner at Andreessen Horowitz (a16z), discusses the\nintersection of artificial intelligence, venture capital, and health care on a\nrecent episode of _NEJM AI_ Grand Rounds.1 He emphasizes the potential for AI\nto democratize access to high-quality health care, analogous to how consumer\ntechnology has equalized access to information and entertainment. Dr. Pande\nargues that AI\u2019s impact on health care will be most significant in preventive\ncare and early intervention rather than in treating advanced disease states.\nHe also provides insights into a16z\u2019s investment thesis for health care\ncompanies, and highlights the need for individuals with expertise in both\nclinical medicine and AI to drive innovation in this field. Looking ahead,\nwhile current AI systems excel at tasks based on existing knowledge, the next\nmajor breakthrough may require developing AIs capable of exploration,\ncreation, and discovery akin to human scientific inquiry.\n\n",
-      "date_published": "2025-01-21T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "V. Pande, A.K. Manrai, and A.L. Beam"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401103",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Dr. Vijay Pande, General Partner at Andreessen Horowitz (a16z), discusses the intersection of artificial intelligence, venture capital, and health care on a recent episode of <i>NEJM AI</i> Grand Rounds.<sup>1</sup> He emphasizes the potential for AI to democratize access to high-quality health care, analogous to how consumer technology has equalized access to information and entertainment. Dr. Pande argues that AI\u2019s impact on health care will be most significant in preventive care and early intervention rather than in treating advanced disease states. He also provides insights into a16z\u2019s investment thesis for health care companies, and highlights the need for individuals with expertise in both clinical medicine and AI to drive innovation in this field. Looking ahead, while current AI systems excel at tasks based on existing knowledge, the next major breakthrough may require developing AIs capable of exploration, creation, and discovery akin to human scientific inquiry.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400979",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400979",
-      "title": "The Burden of Reviewing LLM-Generated Content",
-      "summary": "The authors propose further study on the use of LLMs to generate clinical documentation and communication, looking in particular at the net benefit on efficiency and cognitive burden when the physician\u2019s efforts are shifted from generating new content to reviewing content created by LLMs.",
-      "content_text": "## Abstract\n\nLarge language models (LLMs) in health care aim to reduce the cognitive and\nadministrative burden for health care professionals. Yet the accuracy and\ncompleteness of LLM-generated material is still highly variable. Reviewing\noutput for errors is critical to ensure documentation is accurate and\ncomplete. Unfortunately, humans tend to follow the path of least cognitive\neffort and will quickly become overly reliant on automation aids. Developers\nargue that LLM applications in health care are not automatic solutions as they\nrequire a human-in-the-loop approach, and that the risk of errors is\nadequately mitigated by relying on physician review. However, the perception\nof LLMs as outperforming humans may lead to overestimating the capabilities of\nthe models. When humans begin to rely more heavily on LLM output, the\nautomation argument is no longer valid. While the physician has the final\ndetermination in practice, this approach is grounded in two principles: the\nassumption that every physician will thoroughly review all output, every time,\nfor every patient; and the reliance on disclaimers to cover liability and\nshift accountability from developers to physicians. This creates a new and\ntedious burden on physicians \u2014 proofreading content that was neither written\nnor dictated by the user is difficult to do well. Minimal research has been\npublished to understand the net benefit on efficiency and cognitive burden\nwhen physicians\u2019 efforts are shifted from generating new content to reviewing\ncontent generated by LLMs. Furthermore, the use of LLMs increases physicians\u2019\naccountability for something they did not write. The liability of missing a\nhigh-risk error in LLM output is a novel factor for consideration and not well\nunderstood. Further study on the use of LLMs to generate clinical\ndocumentation or clinical communication should consider the cognitive impact\nof proofreading and the increased accountability of physicians. We recommend\nintegrating implementation science, user experience research, and\ncollaborative input from policy makers, regulators, and professional medical\nassociations to establish a shared accountability structure. This approach\naims to protect patients while empowering physicians to perform their duties\nconfidently, ultimately enhancing both patient safety and physician\nsatisfaction.\n\n",
-      "date_published": "2025-01-21T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J.W. Ohde, L.M. Rost, and J.D. Overgaard"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400979",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Large language models (LLMs) in health care aim to reduce the cognitive and administrative burden for health care professionals. Yet the accuracy and completeness of LLM-generated material is still highly variable. Reviewing output for errors is critical to ensure documentation is accurate and complete. Unfortunately, humans tend to follow the path of least cognitive effort and will quickly become overly reliant on automation aids. Developers argue that LLM applications in health care are not automatic solutions as they require a human-in-the-loop approach, and that the risk of errors is adequately mitigated by relying on physician review. However, the perception of LLMs as outperforming humans may lead to overestimating the capabilities of the models. When humans begin to rely more heavily on LLM output, the automation argument is no longer valid. While the physician has the final determination in practice, this approach is grounded in two principles: the assumption that every physician will thoroughly review all output, every time, for every patient; and the reliance on disclaimers to cover liability and shift accountability from developers to physicians. This creates a new and tedious burden on physicians \u2014 proofreading content that was neither written nor dictated by the user is difficult to do well. Minimal research has been published to understand the net benefit on efficiency and cognitive burden when physicians\u2019 efforts are shifted from generating new content to reviewing content generated by LLMs. Furthermore, the use of LLMs increases physicians\u2019 accountability for something they did not write. The liability of missing a high-risk error in LLM output is a novel factor for consideration and not well understood. Further study on the use of LLMs to generate clinical documentation or clinical communication should consider the cognitive impact of proofreading and the increased accountability of physicians. We recommend integrating implementation science, user experience research, and collaborative input from policy makers, regulators, and professional medical associations to establish a shared accountability structure. This approach aims to protect patients while empowering physicians to perform their duties confidently, ultimately enhancing both patient safety and physician satisfaction.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400590",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400590",
-      "title": "Developing ICU Clinical Behavioral Atlas Using Ambient Intelligence and Computer Vision",
-      "summary": "The Clinical Behavioral Atlas, a pioneering computer vision system tailored for the intensive care unit setting, is capable of automatically detecting a broad range of clinically relevant activities, objects, and personnel categories through RGB video data, making strides in ICU observational research.",
-      "content_text": "## Abstract\n\n### Background\n\nWhile computer vision has gained traction in medical applications, models\nspecifically engineered for intensive care unit (ICU) activities are limited.\n\n### Methods\n\nWe present Clinical Behavioral Atlas (CBA), a computer vision system that can\nidentify 40 clinically relevant activity categories and 55 object categories\nsolely through RGB video data. The system was developed using a dataset\ncomprising over 140,000 hours of continuous video and over 350,000 densely\nannotated frames, collected from 16 sensors in 8 ICU rooms at an academic\nmedical center.\n\n### Results\n\nThe model demonstrated strong performance in entity and activity detection,\nwith sensitivities of 0.75\u223c0.81 and average precisions of 0.64\u223c0.73,\nrespectively. Permutation tests yielded P values of less than 0.05 for most\nactivity categories. We observed a positive correlation between the\nperformance and both the number and size of entities. The model excelled at\nidentifying common and large objects, even with limited samples, but struggled\nwith small items like oral swabs. Activity detection performance correlated\nlinearly with video duration. The model showed robust performance (>0.85\naverage precision) for most clinical activities, but activities of daily\nliving exhibited greater variation and lower average precision (0.23\u20130.95),\nindicating potential for further refinement due to their complexity and\nrelative scarcity in the dataset. Experiments against other popular activity\nrecognition models reveal that our method substantially outperforms all\nbaselines, with improvements of 0.30 and 0.45 in average precision over the\nnext best method.\n\n### Conclusions\n\nCBA expands automated identification of clinically important bedside clinical\nactions such as ICU preventive bundle elements. While we have demonstrated the\nfeasibility of computer vision as a tool to assist in clinical care in high-\nintensity settings such as the ICU, the development of a full clinical-level\nperformance CBA model will require larger datasets, ideally from multiple\nlocations. (Funded by Schmidt Futures and others.)\n\n",
-      "date_published": "2025-01-21T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "W. Dai and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400590",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/f1c34a3d-de02-4962-9e0d-d1c212330f05/aioa2400590_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">While computer vision has gained traction in medical applications, models specifically engineered for intensive care unit (ICU) activities are limited.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We present Clinical Behavioral Atlas (CBA), a computer vision system that can identify 40 clinically relevant activity categories and 55 object categories solely through RGB video data. The system was developed using a dataset comprising over 140,000 hours of continuous video and over 350,000 densely annotated frames, collected from 16 sensors in 8 ICU rooms at an academic medical center.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">The model demonstrated strong performance in entity and activity detection, with sensitivities of 0.75\u223c0.81 and average precisions of 0.64\u223c0.73, respectively. Permutation tests yielded P values of less than 0.05 for most activity categories. We observed a positive correlation between the performance and both the number and size of entities. The model excelled at identifying common and large objects, even with limited samples, but struggled with small items like oral swabs. Activity detection performance correlated linearly with video duration. The model showed robust performance (&gt;0.85 average precision) for most clinical activities, but activities of daily living exhibited greater variation and lower average precision (0.23\u20130.95), indicating potential for further refinement due to their complexity and relative scarcity in the dataset. Experiments against other popular activity recognition models reveal that our method substantially outperforms all baselines, with improvements of 0.30 and 0.45 in average precision over the next best method.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">CBA expands automated identification of clinically important bedside clinical actions such as ICU preventive bundle elements. While we have demonstrated the feasibility of computer vision as a tool to assist in clinical care in high-intensity settings such as the ICU, the development of a full clinical-level performance CBA model will require larger datasets, ideally from multiple locations. (Funded by Schmidt Futures and others.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2400889",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2400889",
-      "title": "Using Large Language Models to Promote Health Equity",
-      "summary": "The authors emphasize the emerging potential of LLMs to promote health equity by highlighting three promising use cases: detecting human biases (e.g., from clinical notes); creating structured equity-relevant databases from unstructured text; and improving equity of access to health information.",
-      "content_text": "## Abstract\n\nWhile the discussion about the effects of large language models (LLMs) on\nhealth equity has been largely cautionary, LLMs also present significant\nopportunities for improving health equity. We highlight three such\nopportunities: improving the detection of human bias; creating structured\ndatasets relevant to health equity; and improving equity of access to health\ninformation.\n\n",
-      "date_published": "2025-01-13T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "E. Pierson and Others"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2400889",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">While the discussion about the effects of large language models (LLMs) on health equity has been largely cautionary, LLMs also present significant opportunities for improving health equity. We highlight three such opportunities: improving the detection of human bias; creating structured datasets relevant to health equity; and improving equity of access to health information.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2400464",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2400464",
-      "title": "Disclosure, Humanizing, and Contextual Vulnerability of Generative AI Chatbots",
-      "summary": "One key decision for regulatory bodies is whether to require app makers to disclose the use of generative AI-powered chatbots in their products. The authors suggest that some generative AI-based chatbots lead consumers to use chatbots in unintended ways that make consumers contextually vulnerable, and discuss how managers and regulators can proactively address this challenge.",
-      "content_text": "## Abstract\n\nIn the wake of recent advancements in generative artificial intelligence (AI),\nregulatory bodies are trying to keep pace. One key decision is whether to\nrequire app makers to disclose the use of generative AI-powered chatbots in\ntheir products. We suggest that some generative AI-based chatbots lead\nconsumers to use chatbots in unintended ways that create mental health risks,\nmaking consumers contextually vulnerable \u2014 defined as a temporary state of\nsusceptibility to harm or other adverse mental health effects arising from the\ninterplay between a user\u2019s interactions with a particular system and the\nsystem\u2019s response. We argue that for health apps, including medical devices\nand wellness apps, disclosure should be mandated. We also show that even when\nchatbots are disclosed in these instances, they may still carry risks due to\nthe tendency of app makers to humanize their chatbots. The current regulatory\nstructure does not fully address these challenges. We discuss how app makers\nand regulators should proactively address this challenge by considering where\napps fall along the continuum of perceived humanness. For health-related apps,\nthis evaluation should lead to a mandate or strong recommendation that neutral\n(nonhumanized) chatbots be the default, with any deviations from this standard\nrequiring clear justification. (Funded in part by a Novo Nordisk Foundation\nGrant; NNF23SA0087056.)\n\n",
-      "date_published": "2024-01-21T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J. De Freitas and I.G. Cohen"
-        }
-      ],
-      "tags": [
-        "Policy Corner"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2400464",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/802f336d-a8d8-4680-8c06-12ab30b6666e/aipc2400464_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">In the wake of recent advancements in generative artificial intelligence (AI), regulatory bodies are trying to keep pace. One key decision is whether to require app makers to disclose the use of generative AI-powered chatbots in their products. We suggest that some generative AI-based chatbots lead consumers to use chatbots in unintended ways that create mental health risks, making consumers contextually vulnerable \u2014 defined as a temporary state of susceptibility to harm or other adverse mental health effects arising from the interplay between a user\u2019s interactions with a particular system and the system\u2019s response. We argue that for health apps, including medical devices and wellness apps, disclosure should be mandated. We also show that even when chatbots are disclosed in these instances, they may still carry risks due to the tendency of app makers to humanize their chatbots. The current regulatory structure does not fully address these challenges. We discuss how app makers and regulators should proactively address this challenge by considering where apps fall along the continuum of perceived humanness. For health-related apps, this evaluation should lead to a mandate or strong recommendation that neutral (nonhumanized) chatbots be the default, with any deviations from this standard requiring clear justification. (Funded in part by a Novo Nordisk Foundation Grant; NNF23SA0087056.)</div>"
     }
   ]
 }
