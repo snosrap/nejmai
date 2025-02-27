@@ -4,29 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829232",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829232",
-            "title": "Use of Digital Health Technologies by Older US Adults",
-            "summary": "This survey study estimated digital health technology (DHT) use and evaluated the factors associated with DHT use by US adults aged 50 to 80 years.",
-            "content_text": "This survey study estimated digital health technology (DHT) use and evaluated the factors associated with DHT use by US adults aged 50 to 80 years.",
-            "date_published": "2025-01-15T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
+            "title": "Generative Artificial Intelligence Guidelines of Ophthalmology Journals",
+            "summary": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
+            "content_text": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
+            "date_published": "2025-02-13T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Cornelius A. James, MD"
+                    "name": "David E. Rabinovitch, MD"
                 }
             ],
             "tags": [
-                "digital health",
-                "informatics (discipline)",
-                "technology"
+                "generative artificial intelligence",
+                "guidelines",
+                "ophthalmology specialty"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829232/james_2025_ld_240276_1736277623.71008.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2830079/jamaophthalmology_rabinovitch_2025_ld_240010_1738342413.36197.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zld240276t1_1736277623.82008.png?Expires=2147483647&Signature=Y2TwwFoyGuRzYMZJUtxPzgVYXhC0P~UgGNWlFgEaa0leXEbbcauV-Qb89x73MZVgNdTE9xIXOcx~bmv6hnkzYSnvzm4mAsyYVGbmTjziuczm570iOCGTsMIYRYUWQBg9otCPbfHLC4JXHx0C5SkY~uJ~hsB6qx5hSBQlTi21ZG3rjCXXCUT0nhhL8AmWv6GdzcBxNhbB2xLVO3QubNHX6K35Dd1-w1b2uGDlljHSDUsmMHs4RhMSegzvezZACHYtqsDUZgqNrptPAPXd7xlhxmeF6b6S0BV3f3MiD6B8OkcJOJJJW5IcHK-Lb0H4TAVbkl7Ve-jOEk6hoWSAADPEqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eld240010t1_1738342413.52281.png?Expires=2147483647&Signature=q-egE6-2294VXUeFM9zMhksV8ZDtEdB7Tb87ZIN2L5tHN5TdeukL0qnyfHe9CcWDWdjcg6iiiBEad5aJJPU8RAw8JvuPHjaHjY4JCtV6ht0NMJ3grMWUMje9E7kNxgDj8hTu9HbPQ~Dp4yCCAXfn8477xQvCNx6-hoGlR7Lk0a67F9BTPuTnYwPnBQuyi6dHOEX3j6kNDpGSZYKDaHwPSquzd6HtkBEaUDD9AzwiaHLkS-sUcDy8zxdODpXKpx~ZdVx5g0WznwsD5cFgrtUMIDrfW-PFjchn3PouKLgVz4MGQwW-OxGAn4kYrq3NeABP1YNF4GG3ltbrKbNjCdhLJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
