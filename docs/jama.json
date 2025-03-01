@@ -4,29 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
-            "title": "Generative Artificial Intelligence Guidelines of Ophthalmology Journals",
-            "summary": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
-            "content_text": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
-            "date_published": "2025-02-13T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830125",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830125",
+            "title": "Language Equity in Health Technology for Patients With Non\u2013English Language Preference",
+            "summary": "I (P.O.) grew up in a home where my mother, a Spanish speaker, kept a safe distance from our sole computer for fear of impending catastrophe should she accidentally touch something. My mother\u2019s story is not unique; several studies have documented low rates of health technology use among racially and ethnically minoritized individuals. 1 Despite her overall resistance to technology, video-based communication platforms became a lifeline during the COVID-19 pandemic, enabling contact with children and grandchildren, her church community, and, importantly, her physician. As demonstrated by the COVID-19 pandemic, external factors (eg, reduced access to in-person visits and enhanced video capabilities) can tip the scales in terms of a person\u2019s likelihood to engage with technology as a health resource. 2",
+            "content_text": "I (P.O.) grew up in a home where my mother, a Spanish speaker, kept a safe distance from our sole computer for fear of impending catastrophe should she accidentally touch something. My mother\u2019s story is not unique; several studies have documented low rates of health technology use among racially and ethnically minoritized individuals. 1 Despite her overall resistance to technology, video-based communication platforms became a lifeline during the COVID-19 pandemic, enabling contact with children and grandchildren, her church community, and, importantly, her physician. As demonstrated by the COVID-19 pandemic, external factors (eg, reduced access to in-person visits and enhanced video capabilities) can tip the scales in terms of a person\u2019s likelihood to engage with technology as a health resource. 2",
+            "date_published": "2025-02-12T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "David E. Rabinovitch, MD"
+                    "name": "Pilar Ortega, MD, MGM"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "guidelines",
-                "ophthalmology specialty"
+                "equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2830079/jamaophthalmology_rabinovitch_2025_ld_240010_1738342413.36197.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830125/ortega_2025_ed_240024_1738361539.28645.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eld240010t1_1738342413.52281.png?Expires=2147483647&Signature=q-egE6-2294VXUeFM9zMhksV8ZDtEdB7Tb87ZIN2L5tHN5TdeukL0qnyfHe9CcWDWdjcg6iiiBEad5aJJPU8RAw8JvuPHjaHjY4JCtV6ht0NMJ3grMWUMje9E7kNxgDj8hTu9HbPQ~Dp4yCCAXfn8477xQvCNx6-hoGlR7Lk0a67F9BTPuTnYwPnBQuyi6dHOEX3j6kNDpGSZYKDaHwPSquzd6HtkBEaUDD9AzwiaHLkS-sUcDy8zxdODpXKpx~ZdVx5g0WznwsD5cFgrtUMIDrfW-PFjchn3PouKLgVz4MGQwW-OxGAn4kYrq3NeABP1YNF4GG3ltbrKbNjCdhLJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
