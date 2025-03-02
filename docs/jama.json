@@ -4,27 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
-            "title": "Patient Portals\u2014Balancing Workload and Opportunity",
-            "summary": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
-            "content_text": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
-            "date_published": "2025-02-24T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830240",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830240",
+            "title": "Patients\u2019 Trust in Health Systems to Use Artificial Intelligence",
+            "summary": "This survey study evaluates whether US adults trust health systems to use artificial intelligence responsibly and examines characteristics associated with attitudes related to the use of artificial intelligence in health care.",
+            "content_text": "This survey study evaluates whether US adults trust health systems to use artificial intelligence responsibly and examines characteristics associated with attitudes related to the use of artificial intelligence in health care.",
+            "date_published": "2025-02-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ilana B. Richman, MD, MHS"
+                    "name": "Paige Nong, PhD"
                 }
             ],
             "tags": [
-                "workload"
+                "artificial intelligence",
+                "attitude",
+                "health care systems",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2830187/jamainternal_richman_2025_er_250001_1738772602.43188.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830240/nong_2025_ld_240317_1738862719.66026.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zld240317f1_1738862719.75525.png?Expires=2147483647&Signature=wgEN69js0XW8o5RQZxlQrK~tPhwDpez0R6hd544KV6rksg1B3wt2c2zB19JNikBEPeRoV0oRnQ5yHJvZKprL4PxFGbAlID6QiFvy~7uFEwYOOLSz9CBkMqDfUAFyV-PGWPRTq0pe7FGEGk6FYeiRS9eN5saP~cBWSLQG~X3J4pkkwM7hUq-xtE84bzGmgIIoTByonKAA4aI92xTsw~IFWszZTLPyiU1EBMN87Dwo2rMA~qQiX4g6v4Rs-aQFHmXf-CbJrXWWw9h8zvim6b7qhmkjXA9Resd5Abhfq4oVVFQbTs-05INmzHTAEsoAlDheuwueifnUanxF3VnfGbyw0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
