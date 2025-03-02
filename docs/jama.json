@@ -4,27 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830125",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830125",
-            "title": "Language Equity in Health Technology for Patients With Non\u2013English Language Preference",
-            "summary": "I (P.O.) grew up in a home where my mother, a Spanish speaker, kept a safe distance from our sole computer for fear of impending catastrophe should she accidentally touch something. My mother\u2019s story is not unique; several studies have documented low rates of health technology use among racially and ethnically minoritized individuals. 1 Despite her overall resistance to technology, video-based communication platforms became a lifeline during the COVID-19 pandemic, enabling contact with children and grandchildren, her church community, and, importantly, her physician. As demonstrated by the COVID-19 pandemic, external factors (eg, reduced access to in-person visits and enhanced video capabilities) can tip the scales in terms of a person\u2019s likelihood to engage with technology as a health resource. 2",
-            "content_text": "I (P.O.) grew up in a home where my mother, a Spanish speaker, kept a safe distance from our sole computer for fear of impending catastrophe should she accidentally touch something. My mother\u2019s story is not unique; several studies have documented low rates of health technology use among racially and ethnically minoritized individuals. 1 Despite her overall resistance to technology, video-based communication platforms became a lifeline during the COVID-19 pandemic, enabling contact with children and grandchildren, her church community, and, importantly, her physician. As demonstrated by the COVID-19 pandemic, external factors (eg, reduced access to in-person visits and enhanced video capabilities) can tip the scales in terms of a person\u2019s likelihood to engage with technology as a health resource. 2",
-            "date_published": "2025-02-12T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
+            "title": "Patient Portals\u2014Balancing Workload and Opportunity",
+            "summary": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
+            "content_text": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
+            "date_published": "2025-02-24T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Pilar Ortega, MD, MGM"
+                    "name": "Ilana B. Richman, MD, MHS"
                 }
             ],
             "tags": [
-                "equity"
+                "workload"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830125/ortega_2025_ed_240024_1738361539.28645.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2830187/jamainternal_richman_2025_er_250001_1738772602.43188.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
