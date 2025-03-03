@@ -4,31 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829845",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829845",
-            "title": "The Marriage of Computable Phenotypes With Machine Learning\u2014A Pathway to Evidence-Based Care for Critically",
-            "summary": "Artificial intelligence and machine learning (ML) are rapidly advancing health care research and clinical care, offering new approaches to research, diagnosis, and management of complex medical conditions. In pediatrics, studying certain diseases or conditions can be challenging due to sample size limitations and a paucity of reliable computer-driven methods to identify patients who meet study-specific inclusion criteria. These challenges have unnecessarily restricted robust research and generalizable evidence-based methods to improve pediatric patient care. Computable phenotypes may provide a method to overcome these limitations by facilitating the use of multi-institutional, electronic health record (EHR)\u2013derived databases with sufficient power to detect meaningful associations. Computable phenotypes are computer-readable definitions that use variables to identify specific diseases, conditions, or patient characteristics. This approach enables reliable identification and research of both frequent and rare pediatric conditions that have traditionally been a challenge to investigate, such as neurologic morbidity following pediatric critical illness.",
-            "content_text": "Artificial intelligence and machine learning (ML) are rapidly advancing health care research and clinical care, offering new approaches to research, diagnosis, and management of complex medical conditions. In pediatrics, studying certain diseases or conditions can be challenging due to sample size limitations and a paucity of reliable computer-driven methods to identify patients who meet study-specific inclusion criteria. These challenges have unnecessarily restricted robust research and generalizable evidence-based methods to improve pediatric patient care. Computable phenotypes may provide a method to overcome these limitations by facilitating the use of multi-institutional, electronic health record (EHR)\u2013derived databases with sufficient power to detect meaningful associations. Computable phenotypes are computer-readable definitions that use variables to identify specific diseases, conditions, or patient characteristics. This approach enables reliable identification and research of both frequent and rare pediatric conditions that have traditionally been a challenge to investigate, such as neurologic morbidity following pediatric critical illness.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829839",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829839",
+            "title": "Large Language Models for Chatbot Health Advice Studies: A Systematic Review",
+            "summary": "This systematic review evaluates the reporting quality of studies on the development and use of chatbot health advice services.",
+            "content_html": "<h3>Importance</h3><p>There is much interest in the clinical integration of large language models (LLMs) in health care. Many studies have assessed the ability of LLMs to provide health advice, but the quality of their reporting is uncertain.</p><h3>Objective</h3><p>To perform a systematic review to examine the reporting variability among peer-reviewed studies evaluating the performance of generative artificial intelligence (AI)\u2013driven chatbots for summarizing evidence and providing health advice to inform the development of the Chatbot Assessment Reporting Tool (CHART).</p><h3>Evidence Review</h3><p>A search of MEDLINE via Ovid, Embase via Elsevier, and Web of Science from inception to October 27, 2023, was conducted with the help of a health sciences librarian to yield 7752 articles. Two reviewers screened articles by title and abstract followed by full-text review to identify primary studies evaluating the clinical accuracy of generative AI-driven chatbots in providing health advice (chatbot health advice studies). Two reviewers then performed data extraction for 137 eligible studies.</p><h3>Findings</h3><p>A total of 137 studies were included. Studies examined topics in surgery (55 [40.1%]), medicine (51 [37.2%]), and primary care (13 [9.5%]). Many studies focused on treatment (91 [66.4%]), diagnosis (60 [43.8%]), or disease prevention (29 [21.2%]). Most studies (136 [99.3%]) evaluated inaccessible, closed-source LLMs and did not provide enough information to identify the version of the LLM under evaluation. All studies lacked a sufficient description of LLM characteristics, including temperature, token length, fine-tuning availability, layers, and other details. Most studies (136 [99.3%]) did not describe a prompt engineering phase in their study. The date of LLM querying was reported in 54 (39.4%) studies. Most studies (89 [65.0%]) used subjective means to define the successful performance of the chatbot, while less than one-third addressed the ethical, regulatory, and patient safety implications of the clinical integration of LLMs.</p><h3>Conclusions and Relevance</h3><p>In this systematic review of 137 chatbot health advice studies, the reporting quality was heterogeneous and may inform the development of the CHART reporting standards. Ethical, regulatory, and patient safety considerations are crucial as interest grows in the clinical integration of LLMs.</p>",
             "date_published": "2025-02-04T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anita K. Patel, MD"
+                    "name": "Bright Huo, MD"
                 }
             ],
             "tags": [
-                "care of intensive care unit patient",
-                "critically ill children",
-                "evidence-based practice",
-                "machine learning",
-                "phenotype"
+                "chatbots",
+                "ethics",
+                "large language models",
+                "operative surgical procedures",
+                "performance reporting"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829845/patel_2025_ic_240355_1738013025.0942.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829839/huo_2025_oi_241622_1738013008.77598.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zoi241622f1_1738013008.94285.png?Expires=2147483647&Signature=EW3Gy~U0~~9m6Yff66fojXnwuCeXedZ7L4OVox7yBd9gNJAckZe0Zkd9PZ9MIGttEWr~pKi7KfjjwF-jCOZOXtTOvyUcNO8S1lsP7Wl4MA-jr6kXC~enbvZElOJFBycsZALAJsDVx0SgTQAoXR-XB2e6Kc7DKISWohrTWCDmPuSFP4bReym5ozNBxSsJnWX0vX9p2~maRP7UW70AXir63xlZnseI9lzLsG7ZA9~7jDishnEfE1D7VoVSqic8D1TlUqe9PQezIHx8vXc~pYaDNfoRvRnQNSfT6aWawna7~5UnlzWMW-Ox0kYDJTNeTcNEzbizzy~W2KRulhr2PavJBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
