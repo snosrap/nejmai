@@ -4,23 +4,25 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830125",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830125",
-            "title": "Language Equity in Health Technology for Patients With Non\u2013English Language Preference",
-            "summary": "I (P.O.) grew up in a home where my mother, a Spanish speaker, kept a safe distance from our sole computer for fear of impending catastrophe should she accidentally touch something. My mother\u2019s story is not unique; several studies have documented low rates of health technology use among racially and ethnically minoritized individuals. 1 Despite her overall resistance to technology, video-based communication platforms became a lifeline during the COVID-19 pandemic, enabling contact with children and grandchildren, her church community, and, importantly, her physician. As demonstrated by the COVID-19 pandemic, external factors (eg, reduced access to in-person visits and enhanced video capabilities) can tip the scales in terms of a person\u2019s likelihood to engage with technology as a health resource. 2",
-            "content_text": "I (P.O.) grew up in a home where my mother, a Spanish speaker, kept a safe distance from our sole computer for fear of impending catastrophe should she accidentally touch something. My mother\u2019s story is not unique; several studies have documented low rates of health technology use among racially and ethnically minoritized individuals. 1 Despite her overall resistance to technology, video-based communication platforms became a lifeline during the COVID-19 pandemic, enabling contact with children and grandchildren, her church community, and, importantly, her physician. As demonstrated by the COVID-19 pandemic, external factors (eg, reduced access to in-person visits and enhanced video capabilities) can tip the scales in terms of a person\u2019s likelihood to engage with technology as a health resource. 2",
-            "date_published": "2025-02-12T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "title": "Trusting Health Care Systems to Use Artificial Intelligence",
+            "summary": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "content_text": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "date_published": "2025-02-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Pilar Ortega, MD, MGM"
+                    "name": "Jessica S. Ancker, MPH, PhD"
                 }
             ],
             "tags": [
-                "equity"
+                "artificial intelligence",
+                "health care systems",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830125/ortega_2025_ed_240024_1738361539.28645.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830241/ancker_2025_ic_240370_1738862720.98597.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
