@@ -4,30 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830240",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830240",
-            "title": "Patients\u2019 Trust in Health Systems to Use Artificial Intelligence",
-            "summary": "This survey study evaluates whether US adults trust health systems to use artificial intelligence responsibly and examines characteristics associated with attitudes related to the use of artificial intelligence in health care.",
-            "content_text": "This survey study evaluates whether US adults trust health systems to use artificial intelligence responsibly and examines characteristics associated with attitudes related to the use of artificial intelligence in health care.",
-            "date_published": "2025-02-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829781",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829781",
+            "title": "Use of Machine Learning to Assess the Management of Uncomplicated Urinary Tract Infection",
+            "summary": "This cohort study examines the effectiveness and adverse event profile for first-line antibiotics, fluoroquinolones, and oral \u03b2-lactams for treating uncomplicated urinary tract infection (UTI) in contemporary clinical practice.",
+            "content_html": "<h3>Importance</h3><p>Uncomplicated urinary tract infection (UTI) is a common indication for outpatient antimicrobial therapy. National guidelines for the management of uncomplicated UTI were published in 2011, but the extent to which they align with current practices, patient diversity, and pathogen biology, all of which have evolved greatly in the time since their publication, is not fully known.</p><h3>Objective</h3><p>To reevaluate the effectiveness and adverse event profile for first-line antibiotics, fluoroquinolones, and oral \u03b2-lactams for treating uncomplicated UTI in contemporary clinical practice.</p><h3>Design, Setting, and Participants</h3><p>This retrospective, population-based cohort study used a claims dataset from Independence Blue Cross, which contains inpatient, outpatient, laboratory, and pharmacy claims that occurred between 2012 and 2021, formatted into the Observational Medical Outcomes Partnership (OMOP) common data model. Participants were nonpregnant female individuals aged 18 years or older with a diagnosis of uncomplicated, nonrecurrent UTI at an outpatient setting. Patients must also have been treated with first-line (nitrofurantoin or trimethoprim-sulfamethoxazole), fluoroquinolone (ciprofloxacin, levofloxacin, or ofloxacin), or oral \u03b2-lactam (amoxicillin-clavulanate, cefadroxil, or cefpodoxime) antibiotics. Data analysis was performed from November 2021 to August 2024.</p><h3>Exposures</h3><p>Patients exposed to first-line antibiotics were assigned to the treatment group, and those exposed to fluoroquinolone or \u03b2-lactam treatments were assigned to control groups.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was a composite end point for treatment failure, defined as outpatient or inpatient revisit within 30 days for UTI, pyelonephritis, or sepsis. Secondary outcomes were the risk of 4 common antibiotic-associated adverse events: gastrointestinal symptoms, rash, kidney injury, and<i>Clostridium difficile</i>infection.</p><h3>Results</h3><p>There were 57\u202f585 episodes of UTI among 49\u202f037 female patients (mean [SD] age, 51.7 [20.1]) years), with prescriptions for first-line antibiotics in 35\u202f018 episodes (61%), fluoroquinolones in 21\u202f140 episodes (37%), and \u03b2-lactams in 1427 episodes (2%). After adjustment, receipt of first-line therapies was associated with an absolute risk difference of \u22121.78% (95% CI, \u22122.37% to \u22121.06%) for having a revisit for UTI within 30 days of diagnosis vs fluoroquinolones. First-line therapies were associated with an absolute risk difference of \u22126.40% (95% CI, \u221210.14% to \u22123.24%) for 30-day revisit compared with \u03b2-lactam antibiotics. Differences in adverse events were similar between all comparators. Results were identical for models built with an automated OMOP feature extraction package.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of patients with uncomplicated UTI derived from a large regional claims dataset, national treatment guidelines published almost 14 years ago continue to recommend optimal treatments. These results also provide proof-of-principle that automated feature extraction methods for OMOP formatted data can emulate manually curated models, thereby promoting reproducibility and generalizability.</p>",
+            "date_published": "2025-01-31T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Paige Nong, PhD"
+                    "name": "Noah Jones, SM"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "attitude",
-                "health care systems",
-                "informatics (discipline)"
+                "adverse event",
+                "antibiotics",
+                "fluoroquinolones",
+                "lactams",
+                "outpatients",
+                "urinary tract infection"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830240/nong_2025_ld_240317_1738862719.66026.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829781/jones_2025_oi_241594_1737666975.53068.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zld240317f1_1738862719.75525.png?Expires=2147483647&Signature=wgEN69js0XW8o5RQZxlQrK~tPhwDpez0R6hd544KV6rksg1B3wt2c2zB19JNikBEPeRoV0oRnQ5yHJvZKprL4PxFGbAlID6QiFvy~7uFEwYOOLSz9CBkMqDfUAFyV-PGWPRTq0pe7FGEGk6FYeiRS9eN5saP~cBWSLQG~X3J4pkkwM7hUq-xtE84bzGmgIIoTByonKAA4aI92xTsw~IFWszZTLPyiU1EBMN87Dwo2rMA~qQiX4g6v4Rs-aQFHmXf-CbJrXWWw9h8zvim6b7qhmkjXA9Resd5Abhfq4oVVFQbTs-05INmzHTAEsoAlDheuwueifnUanxF3VnfGbyw0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zoi241594f1_1737666975.65676.png?Expires=2147483647&Signature=gL5eGQ3WhV63Z-FGoWZS4qnSU9-Vk~Ng2nHlFYGa8ngTWn-l7QcEUgqiBfG6MNIEG9IomYMadAYPmPQVXF1Q6iRczOL2B5QLbeKjoo9zKkqtXP-Tp5u5KU8IS7xqe2-u5mCDvHeKaK3Ff8a-GIKVgrlj9eCtVWjr48qeeN~qZUUuOCN08lHLcM9r7so6hk0ESbabwco1meetObi1VoZ4xv6EOunNs18YqOWVFcqd3KlvJ4wJoUZN8ZqVqAvKK4RYCwM8l7E9ocmppH7mihqFLZ9g4sVGhm~tS9qCzwSebI0sLugXgEs-dX2buSCLKTi-TCVEgTUGxjDdUMcFqPu~3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
