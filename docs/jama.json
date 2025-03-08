@@ -4,31 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829845",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829845",
-            "title": "The Marriage of Computable Phenotypes With Machine Learning\u2014A Pathway to Evidence-Based Care for Critically",
-            "summary": "Artificial intelligence and machine learning (ML) are rapidly advancing health care research and clinical care, offering new approaches to research, diagnosis, and management of complex medical conditions. In pediatrics, studying certain diseases or conditions can be challenging due to sample size limitations and a paucity of reliable computer-driven methods to identify patients who meet study-specific inclusion criteria. These challenges have unnecessarily restricted robust research and generalizable evidence-based methods to improve pediatric patient care. Computable phenotypes may provide a method to overcome these limitations by facilitating the use of multi-institutional, electronic health record (EHR)\u2013derived databases with sufficient power to detect meaningful associations. Computable phenotypes are computer-readable definitions that use variables to identify specific diseases, conditions, or patient characteristics. This approach enables reliable identification and research of both frequent and rare pediatric conditions that have traditionally been a challenge to investigate, such as neurologic morbidity following pediatric critical illness.",
-            "content_text": "Artificial intelligence and machine learning (ML) are rapidly advancing health care research and clinical care, offering new approaches to research, diagnosis, and management of complex medical conditions. In pediatrics, studying certain diseases or conditions can be challenging due to sample size limitations and a paucity of reliable computer-driven methods to identify patients who meet study-specific inclusion criteria. These challenges have unnecessarily restricted robust research and generalizable evidence-based methods to improve pediatric patient care. Computable phenotypes may provide a method to overcome these limitations by facilitating the use of multi-institutional, electronic health record (EHR)\u2013derived databases with sufficient power to detect meaningful associations. Computable phenotypes are computer-readable definitions that use variables to identify specific diseases, conditions, or patient characteristics. This approach enables reliable identification and research of both frequent and rare pediatric conditions that have traditionally been a challenge to investigate, such as neurologic morbidity following pediatric critical illness.",
-            "date_published": "2025-02-04T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2829261",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2829261",
+            "title": "Predicting Individual Pain Sensitivity Using a Novel Cortical Biomarker Signature",
+            "summary": "This cohort study analyzes electroencephalography data from healthy participants to analyze and validate a cortical biomarker signature for pain, which comprised the measures sensorimotor peak alpha frequency and corticomotor excitability.",
+            "content_html": "<h3>Importance</h3><p>Biomarkers would greatly assist decision-making in the diagnosis, prevention, and treatment of chronic pain.</p><h3>Objective</h3><p>To undertake analytical validation of a sensorimotor cortical biomarker signature for pain consisting of 2 measures: sensorimotor peak alpha frequency (PAF) and corticomotor excitability (CME).</p><h3>Design, Setting, and Participants</h3><p>This cohort study at a single center (Neuroscience Research Australia) recruited participants from November 2020 to October 2022 through notices placed online and at universities across Australia. Participants were healthy adults aged 18 to 44 years with no history of chronic pain or a neurological or psychiatric condition. Participants experienced a model of prolonged temporomandibular pain with outcomes collected over 30 days. Electroencephalography to assess PAF and transcranial magnetic stimulation (TMS) to assess CME were recorded on days 0, 2, and 5. Pain was assessed twice daily from days 1 through 30.</p><h3>Exposure</h3><p>Participants received an injection of nerve growth factor (NGF) to the right masseter muscle on days 0 and 2 to induce prolonged temporomandibular pain lasting up to 4 weeks.</p><h3>Main Outcomes and Measures</h3><p>The predictive accuracy of the PAF/CME biomarker signature was determined using a nested control-test scheme: machine learning models were run on a training set (n\u2009=\u2009100), where PAF and CME were predictors and pain sensitivity was the outcome. The winning classifier was assessed on a test set (n\u2009=\u200950) comparing the predicted pain labels against the true labels.</p><h3>Results</h3><p>Among the final sample of 150 participants, 66 were female and 84 were male; the mean (SD) age was 25.1 (6.2) years. The winning classifier was logistic regression, with an outstanding area under the curve (AUC\u2009=\u20091.00). The locked model assessed on the test set had excellent performance (AUC\u2009=\u20090.88; 95% CI, 0.78-0.99). Results were reproduced across a range of methodological parameters. Moreover, inclusion of sex and pain catastrophizing as covariates did not improve model performance, suggesting the model including biomarkers only was more robust. PAF and CME biomarkers showed good to excellent test-retest reliability.</p><h3>Conclusions and Relevance</h3><p>This study provides evidence for a sensorimotor cortical biomarker signature for pain sensitivity. The combination of accuracy, reproducibility, and reliability suggests the PAF/CME biomarker signature has substantial potential for clinical translation, including predicting the transition from acute to chronic pain.</p>",
+            "date_published": "2025-01-27T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anita K. Patel, MD"
+                    "name": "Nahian S. Chowdhury, PhD"
                 }
             ],
             "tags": [
-                "care of intensive care unit patient",
-                "critically ill children",
-                "evidence-based practice",
-                "machine learning",
-                "phenotype"
+                "biological markers",
+                "chronic pain",
+                "continuing",
+                "education",
+                "electroencephalography",
+                "medical",
+                "pain",
+                "pain threshold"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829845/patel_2025_ic_240355_1738013025.0942.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2829261/jamaneurology_chowdhury_2025_oi_240089_1736367456.40772.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/0/noi240089f1_1736367456.56895.png?Expires=2147483647&Signature=qlWNWmNBYuhKywUdumf0ikXsxiUNXcR9mOzXNk~NUG1eBT94kg0NQNwxmEoAFajACpOQwqDrsmG~XVS~naOHYDN5mAFyuN5AxiLdvYWSntX1tPuu26V3v0TcE0ekos6DQN84SnoL4xtsSud0nEW2oWZj~Eewnenhn66qZYwYKCOYPlZ5Hd~iOAPSOcxAU-eecuS6Bi~DA7Py9aSIddz3DgcPP1KlUgQfcRHm1KFP4tSBqiIqjwPf4piMtB52NudRnsZCncTMfPDvm000wMshoiSkm9YPj4dqa1QUVK4pKbpimmzzMi669IIaTgpyqEoj2INJJJbbn5FAZlexgWAGBw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
