@@ -4,29 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
+            "title": "Patient Portals\u2014Balancing Workload and Opportunity",
+            "summary": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
+            "content_text": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
+            "date_published": "2025-02-24T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Ilana B. Richman, MD, MHS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "workload"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1734644557.58026.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2830187/jamainternal_richman_2025_er_250001_1738772602.43188.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
