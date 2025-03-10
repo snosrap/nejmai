@@ -4,32 +4,37 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829781",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829781",
-            "title": "Use of Machine Learning to Assess the Management of Uncomplicated Urinary Tract Infection",
-            "summary": "This cohort study examines the effectiveness and adverse event profile for first-line antibiotics, fluoroquinolones, and oral \u03b2-lactams for treating uncomplicated urinary tract infection (UTI) in contemporary clinical practice.",
-            "content_html": "<h3>Importance</h3><p>Uncomplicated urinary tract infection (UTI) is a common indication for outpatient antimicrobial therapy. National guidelines for the management of uncomplicated UTI were published in 2011, but the extent to which they align with current practices, patient diversity, and pathogen biology, all of which have evolved greatly in the time since their publication, is not fully known.</p><h3>Objective</h3><p>To reevaluate the effectiveness and adverse event profile for first-line antibiotics, fluoroquinolones, and oral \u03b2-lactams for treating uncomplicated UTI in contemporary clinical practice.</p><h3>Design, Setting, and Participants</h3><p>This retrospective, population-based cohort study used a claims dataset from Independence Blue Cross, which contains inpatient, outpatient, laboratory, and pharmacy claims that occurred between 2012 and 2021, formatted into the Observational Medical Outcomes Partnership (OMOP) common data model. Participants were nonpregnant female individuals aged 18 years or older with a diagnosis of uncomplicated, nonrecurrent UTI at an outpatient setting. Patients must also have been treated with first-line (nitrofurantoin or trimethoprim-sulfamethoxazole), fluoroquinolone (ciprofloxacin, levofloxacin, or ofloxacin), or oral \u03b2-lactam (amoxicillin-clavulanate, cefadroxil, or cefpodoxime) antibiotics. Data analysis was performed from November 2021 to August 2024.</p><h3>Exposures</h3><p>Patients exposed to first-line antibiotics were assigned to the treatment group, and those exposed to fluoroquinolone or \u03b2-lactam treatments were assigned to control groups.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was a composite end point for treatment failure, defined as outpatient or inpatient revisit within 30 days for UTI, pyelonephritis, or sepsis. Secondary outcomes were the risk of 4 common antibiotic-associated adverse events: gastrointestinal symptoms, rash, kidney injury, and<i>Clostridium difficile</i>infection.</p><h3>Results</h3><p>There were 57\u202f585 episodes of UTI among 49\u202f037 female patients (mean [SD] age, 51.7 [20.1]) years), with prescriptions for first-line antibiotics in 35\u202f018 episodes (61%), fluoroquinolones in 21\u202f140 episodes (37%), and \u03b2-lactams in 1427 episodes (2%). After adjustment, receipt of first-line therapies was associated with an absolute risk difference of \u22121.78% (95% CI, \u22122.37% to \u22121.06%) for having a revisit for UTI within 30 days of diagnosis vs fluoroquinolones. First-line therapies were associated with an absolute risk difference of \u22126.40% (95% CI, \u221210.14% to \u22123.24%) for 30-day revisit compared with \u03b2-lactam antibiotics. Differences in adverse events were similar between all comparators. Results were identical for models built with an automated OMOP feature extraction package.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of patients with uncomplicated UTI derived from a large regional claims dataset, national treatment guidelines published almost 14 years ago continue to recommend optimal treatments. These results also provide proof-of-principle that automated feature extraction methods for OMOP formatted data can emulate manually curated models, thereby promoting reproducibility and generalizability.</p>",
-            "date_published": "2025-01-31T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830117",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830117",
+            "title": "Challenges to Video Visits for Patients With Non\u2013English Language Preference: A Qualitative Study",
+            "summary": "This qualitative study examines perceptions of facilitators and barriers to utilization of telehealth video visits among patients with non\u2013English language preference.",
+            "content_html": "<h3>Importance</h3><p>Patients with non\u2013English language preference (NELP) participate in video visits considerably less often than their English-speaking counterparts. Understanding the capability, opportunities, and motivation of patients with NELP to use video visits is key to determining how this technology may benefit their care.</p><h3>Objective</h3><p>To investigate the perceptions of patients with NELP regarding the facilitators and barriers to usage of video visits.</p><h3>Design, Setting, and Participants</h3><p>This qualitative analysis of semistructured interviews of patients with NELP from an ambulatory clinic network of a large, urban, academic health system in California serving a linguistically diverse population was conducted from November 2022 to September 2023. Electronic health data were used to identify Spanish- and Cantonese-speaking patients with at least 1 clinic visit but no video visits in the prior 12 months. Data were analyzed from September 2023 to February 2024.</p><h3>Main Outcomes and Measures</h3><p>One-on-one semistructured interviews were conducted by telephone to capture perceptions on facilitators and barriers to video visit use. Interviews were audio-recorded until reaching thematic saturation, deidentified, transcribed and translated, and analyzed using rapid qualitative analysis. Common themes were identified and matched to relevant domains of the capability, opportunities, and motivation model.</p><h3>Results</h3><p>Of the 31 patients successfully contacted by telephone, 27 participants (mean [SD] age, 66 [15] years; 18 women [67%]), including 16 Spanish-speaking and 11 Cantonese-speaking participants, were interviewed. Four major themes emerged, including (1) video visits creating additional communication challenges and potentially exacerbating communication difficulties for patients who face language barriers; (2) video visits perceived as having some drawbacks for medical evaluations as well as some appealing benefits; (3) limited digital literacy, device and data access, and non\u2013user-friendly video visit processes as important barriers; and (4) in-person teaching, simpler technologic processes, opportunities to repetitively practice video use, troubleshooting support, and language-concordant instructions, clinicians, and clinic staff as facilitators of video visits. For some, the disadvantages were sufficient to deter use of video visits, while for others, they were counterbalanced by the ease of access provided by video visits.</p><h3>Conclusions and Relevance</h3><p>In this qualitative study, participants with NELP perceived multiple barriers to video visits, including greater communication difficulties, lower medical evaluation quality, and technical issues. These findings suggest that addressable technical challenges associated with language barriers hamper access to video visits and decrease motivation for use and that interventions are needed to increase telehealth equity.</p>",
+            "date_published": "2025-02-12T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Noah Jones, SM"
+                    "name": "Marianna Kong, MD"
                 }
             ],
             "tags": [
-                "adverse event",
-                "antibiotics",
-                "fluoroquinolones",
-                "lactams",
-                "outpatients",
-                "urinary tract infection"
+                "english language",
+                "equity",
+                "language barriers",
+                "literacy",
+                "medical devices",
+                "motivation",
+                "perception",
+                "qualitative research",
+                "symptom aggravating factors",
+                "telehealth",
+                "telephone"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2829781/jones_2025_oi_241594_1737666975.53068.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830117/kong_2025_oi_241608_1738361528.49303.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939528/zoi241594f1_1737666975.65676.png?Expires=2147483647&Signature=gL5eGQ3WhV63Z-FGoWZS4qnSU9-Vk~Ng2nHlFYGa8ngTWn-l7QcEUgqiBfG6MNIEG9IomYMadAYPmPQVXF1Q6iRczOL2B5QLbeKjoo9zKkqtXP-Tp5u5KU8IS7xqe2-u5mCDvHeKaK3Ff8a-GIKVgrlj9eCtVWjr48qeeN~qZUUuOCN08lHLcM9r7so6hk0ESbabwco1meetObi1VoZ4xv6EOunNs18YqOWVFcqd3KlvJ4wJoUZN8ZqVqAvKK4RYCwM8l7E9ocmppH7mihqFLZ9g4sVGhm~tS9qCzwSebI0sLugXgEs-dX2buSCLKTi-TCVEgTUGxjDdUMcFqPu~3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zoi241608t1_1738361528.64412.png?Expires=2147483647&Signature=ytidTD66f9Ek-oRd~uUpW0ca1jT0o0hbq7Qo-GsrZxT5hI971PEvLTt8BjCntYUgLP6weqtV8G~eMj3Xv3otjN1css9NkiETqHebwcu1yIdD-Om5oj0poktFTxpOLCxNTyGY6DwknOpya4oR1Ydq7UQLUrKTn04rmGu0tehwk57OD4oYyvE4SrAR4CaVFvIU7czX2AYY2CCWPIn2ChDSjg0622k~RpGRRT6POyPkonscG0im9vQqOzgviP8MaETeMLzjyfeJVgUy2OWt~nNGRNxppWbKDvFWSccgAj2oGyJ0Sc9CuCPm4dsR4sDNhHt50Kd82Bx0OTLifqpdhIpIrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
