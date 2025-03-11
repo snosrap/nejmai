@@ -4,37 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830117",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830117",
-            "title": "Challenges to Video Visits for Patients With Non\u2013English Language Preference: A Qualitative Study",
-            "summary": "This qualitative study examines perceptions of facilitators and barriers to utilization of telehealth video visits among patients with non\u2013English language preference.",
-            "content_html": "<h3>Importance</h3><p>Patients with non\u2013English language preference (NELP) participate in video visits considerably less often than their English-speaking counterparts. Understanding the capability, opportunities, and motivation of patients with NELP to use video visits is key to determining how this technology may benefit their care.</p><h3>Objective</h3><p>To investigate the perceptions of patients with NELP regarding the facilitators and barriers to usage of video visits.</p><h3>Design, Setting, and Participants</h3><p>This qualitative analysis of semistructured interviews of patients with NELP from an ambulatory clinic network of a large, urban, academic health system in California serving a linguistically diverse population was conducted from November 2022 to September 2023. Electronic health data were used to identify Spanish- and Cantonese-speaking patients with at least 1 clinic visit but no video visits in the prior 12 months. Data were analyzed from September 2023 to February 2024.</p><h3>Main Outcomes and Measures</h3><p>One-on-one semistructured interviews were conducted by telephone to capture perceptions on facilitators and barriers to video visit use. Interviews were audio-recorded until reaching thematic saturation, deidentified, transcribed and translated, and analyzed using rapid qualitative analysis. Common themes were identified and matched to relevant domains of the capability, opportunities, and motivation model.</p><h3>Results</h3><p>Of the 31 patients successfully contacted by telephone, 27 participants (mean [SD] age, 66 [15] years; 18 women [67%]), including 16 Spanish-speaking and 11 Cantonese-speaking participants, were interviewed. Four major themes emerged, including (1) video visits creating additional communication challenges and potentially exacerbating communication difficulties for patients who face language barriers; (2) video visits perceived as having some drawbacks for medical evaluations as well as some appealing benefits; (3) limited digital literacy, device and data access, and non\u2013user-friendly video visit processes as important barriers; and (4) in-person teaching, simpler technologic processes, opportunities to repetitively practice video use, troubleshooting support, and language-concordant instructions, clinicians, and clinic staff as facilitators of video visits. For some, the disadvantages were sufficient to deter use of video visits, while for others, they were counterbalanced by the ease of access provided by video visits.</p><h3>Conclusions and Relevance</h3><p>In this qualitative study, participants with NELP perceived multiple barriers to video visits, including greater communication difficulties, lower medical evaluation quality, and technical issues. These findings suggest that addressable technical challenges associated with language barriers hamper access to video visits and decrease motivation for use and that interventions are needed to increase telehealth equity.</p>",
-            "date_published": "2025-02-12T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2830144",
+            "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2830144",
+            "title": "Predicting Diagnostic Progression to Schizophrenia or Bipolar Disorder via Machine Learning",
+            "summary": "This diagnostic study uses machine learning to predict diagnostic progression to schizophrenia or bipolar among patients receiving psychiatric services in Denmark.",
+            "content_html": "<h3>Importance</h3><p>The diagnosis of schizophrenia and bipolar disorder is often delayed several years despite illness typically emerging in late adolescence or early adulthood, which impedes initiation of targeted treatment.</p><h3>Objective</h3><p>To investigate whether machine learning models trained on routine clinical data from electronic health records (EHRs) can predict diagnostic progression to schizophrenia or bipolar disorder among patients undergoing treatment in psychiatric services for other mental illness.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was based on data from EHRs from the Psychiatric Services of the Central Denmark Region. All patients aged 15 to 60 years with at least 2 contacts (at least 3 months apart) with the Psychiatric Services of the Central Denmark Region between January 1, 2013, and November 21, 2016, were included. Analysis occurred from December 2022 to November 2024.</p><h3>Exposures</h3><p>Predictors based on EHR data, including medications, diagnoses, and clinical notes.</p><h3>Main Outcomes and Measures</h3><p>Diagnostic transition to schizophrenia or bipolar disorder within 5 years, predicted 1 day before outpatient contacts by means of elastic net regularized logistic regression and extreme gradient boosting (XGBoost) models. The area under the receiver operating characteristic curve (AUROC) was used to determine the best performing model.</p><h3>Results</h3><p>The study included 24\u202f449 patients (median [Q1-Q3] age at time of prediction, 32.2 [24.2-42.5] years; 13\u202f843 female [56.6%]) and 398\u202f922 outpatient contacts. Transition to the first occurrence of either schizophrenia or bipolar disorder was predicted by the XGBoost model, with an AUROC of 0.70 (95% CI, 0.70-0.70) on the training set and 0.64 (95% CI, 0.63-0.65) on the test set, which consisted of 2 held-out hospital sites. At a predicted positive rate of 4%, the XGBoost model had a sensitivity of 9.3%, a specificity of 96.3%, and a positive predictive value (PPV) of 13.0%. Predicting schizophrenia separately yielded better performance (AUROC, 0.80; 95% CI, 0.79-0.81; sensitivity, 19.4%; specificity, 96.3%; PPV, 10.8%) than was the case for bipolar disorder (AUROC, 0.62, 95% CI, 0.61-0.63; sensitivity, 9.9%; specificity, 96.2%; PPV, 8.4%). Clinical notes proved particularly informative for prediction.</p><h3>Conclusions and Relevance</h3><p>These findings suggest that it is possible to predict diagnostic transition to schizophrenia and bipolar disorder from routine clinical data extracted from EHRs, with schizophrenia being notably easier to predict than bipolar disorder.</p>",
+            "date_published": "2025-02-19T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Marianna Kong, MD"
+                    "name": "Lasse Hansen, MSc, PhD"
                 }
             ],
             "tags": [
-                "english language",
-                "equity",
-                "language barriers",
-                "literacy",
-                "medical devices",
-                "motivation",
-                "perception",
-                "qualitative research",
-                "symptom aggravating factors",
-                "telehealth",
-                "telephone"
+                "bipolar disorder",
+                "denmark",
+                "machine learning",
+                "outpatients",
+                "psychiatry specialty",
+                "schizophrenia"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830117/kong_2025_oi_241608_1738361528.49303.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2830144/jamapsychiatry_hansen_2025_oi_240093_1738690173.16005.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zoi241608t1_1738361528.64412.png?Expires=2147483647&Signature=ytidTD66f9Ek-oRd~uUpW0ca1jT0o0hbq7Qo-GsrZxT5hI971PEvLTt8BjCntYUgLP6weqtV8G~eMj3Xv3otjN1css9NkiETqHebwcu1yIdD-Om5oj0poktFTxpOLCxNTyGY6DwknOpya4oR1Ydq7UQLUrKTn04rmGu0tehwk57OD4oYyvE4SrAR4CaVFvIU7czX2AYY2CCWPIn2ChDSjg0622k~RpGRRT6POyPkonscG0im9vQqOzgviP8MaETeMLzjyfeJVgUy2OWt~nNGRNxppWbKDvFWSccgAj2oGyJ0Sc9CuCPm4dsR4sDNhHt50Kd82Bx0OTLifqpdhIpIrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/psych/0/yoi240093f1_1738690174.27209.png?Expires=2147483647&Signature=MmVWAMcRXm3X3r9D6U7sRz7RnIMrVM4g~9iFX2jGsLore~tr7pZJWlnnO2rAaJihdMMNxOOK9kkgdGpReuq~i2-~h5YjOf1zAJEFCgvASUKxr9W1HNkO7Ezvma0CiAvepia9elId8VBWMVvgTiGVcjq2vVkWWGX1tGt9pL75K46Ou76okwykHgY9qgabtx5bqc3zVTuyHirvysDJuxapM4K4AnKpDidwx4tiuyhCqhnvRk6snRVHDocdP4dFBX2H6yGKkmz2-Hvs-CVvauW0BHuiauZUREu~Ay3KL6gtqBfGslO5955bcyZshaUwN0Mo8MiiWFNCopTyYovYWczYMg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
