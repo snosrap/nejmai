@@ -4,29 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830127",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830127",
-            "title": "Evaluation of a Clinical Decision Support System for Imaging Requests: A Cluster Randomized Clinical Trial",
-            "summary": "This cluster randomized clinical trial compares the effect of implementing a clinical decision support system on the appropriateness of medical imaging ordering behavior vs no clinical decision support system.",
-            "content_html": "<h3>Importance</h3><p>Given the widespread use of medical imaging, evaluating the effectiveness of interventions to improve appropriateness is crucial for optimizing health care resources and patient outcomes.</p><h3>Objective</h3><p>To assess the effects of implementing a clinical decision support system (CDSS), the European Society of Radiology iGuide, on the appropriateness of the medical imaging ordering behavior of physicians.</p><h3>Design and Setting</h3><p>A cluster randomized clinical trial with 26 departments at 3 German university hospitals acting as clusters, incorporating a before and after discontinued design. All imaging requests originating from physicians in the participating departments over a 2.5-year period were included (between December 2021 and June 2024).</p><h3>Interventions</h3><p>All departments started without a CDSS and required structured clinical indication data entry and tracking of requested imaging. After randomization, 13 clusters (departments at hospitals) received the CDSS intervention (intervention clusters) and 13 clusters did not (control clusters). The CDSS intervention provided ordering physicians with information as to whether their imaging requests were appropriate, appropriate under certain conditions, or inappropriate; in addition, alternative diagnostic tests, including the corresponding appropriateness score, were suggested by the CDSS, after which physicians could choose to modify their imaging requests.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome measure was the proportion of inappropriate imaging requests made per department. A difference-in-differences analysis was used to investigate changes in the proportion of inappropriate imaging requests between departments with vs those without the CDSS.</p><h3>Results</h3><p>A total of 65\u202f764 imaging requests were scored using the CDSS; 50.1% of imaging requests were for female patients and the mean patient age was 64 years (SD, 17.1 years). Prior to implementation of the CDSS, there were 21\u202f625 imaging requests from the control clusters, 1367 (6.3%) of which were categorized as inappropriate; and there were 13\u202f338 imaging requests from the intervention clusters, 1007 (7.6%) of which were categorized as inappropriate. After implementation of the CDSS, there were 10\u202f055 imaging requests from the control clusters, 518 (5.2%) of which were categorized as inappropriate; and there were 7206 imaging requests from the intervention clusters, 461 (6.4%) of which were categorized as inappropriate. The intervention clusters showed a similar reduction (mean difference, \u22120.5% [99% CI, \u22122.4% to 0.4%]) in inappropriate imaging requests compared with the control clusters (mean difference, \u22121.8% [99% CI, \u22124.3% to \u22120.4%]) and there was a difference-in-differences value of 1.3 percentage points (99% CI, \u22122.0 to 1.8 percentage points;<i>P</i>\u2009=\u2009.69), which was not statistically significant.</p><h3>Conclusions and Relevance</h3><p>The CDSS did not reduce the number of inappropriate imaging requests ordered by physicians in academic hospital settings.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05490290</p>",
-            "date_published": "2025-02-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Stijntje W. Dijk, MD, MSc"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
-                "clinical",
-                "decision support systems",
-                "diagnostic imaging"
+                "artificial intelligence",
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830127/jama_dijk_2025_oi_240159_1738537717.77212.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1734644557.58026.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi240159f1_1738537718.07976.png?Expires=2147483647&Signature=fH2YmHBcwBxedgDgynFn4DYJZlo-ymg2tJBbTLpXkpjzSU4ZAFShWWe5PRKjP68NYWK-zcjUk3~y8qrmRx94OLAi1B93bSayNlm~dVst34voaTawCqKjbWWoxnOl4Omx-~DuLWdB74-264AaqWKr941MTjIIqJ5MXh4SiOdAhGvTw~1zWs8Pqka-IJQGBumgacAVgrUHzwCJSh7D7CssnrEytW-fJf7svBv63GM0g-WUkgeD53I~9CfiakHVk~5Q8SrtMX9TCmra5V0atCxBioqXgD0MrljjjrkHkcgoM3TO88PIg-luvxlUs0MmMTEwOBXXRY3OtAGO1TJmD4F2Yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
