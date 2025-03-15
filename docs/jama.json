@@ -4,28 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
-            "title": "Launching the Trustworthy and Responsible AI Network (TRAIN): A Consortium to Facilitate Safe and Effective AI",
-            "summary": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
-            "content_text": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
-            "date_published": "2025-02-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830120",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830120",
+            "title": "Characterizing Spin in Psychiatric Clinical Research Literature Using Large Language Models",
+            "summary": "This quality improvement study describes the use of a large language model (LLM) to detect biased reporting in abstracts of psychiatric clinical research.",
+            "content_text": "This quality improvement study describes the use of a large language model (LLM) to detect biased reporting in abstracts of psychiatric clinical research.",
+            "date_published": "2025-02-12T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Peter J. Emb\u00ed, MD, MS"
+                    "name": "Roy H. Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "health care systems",
-                "technology"
+                "clinical research",
+                "large language models",
+                "psychiatry specialty"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830340/jama_emb_2025_vp_250019_1738942291.693.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830120/perlis_2025_ld_240309_1738361534.21894.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250019f1_1738942291.85405.png?Expires=2147483647&Signature=TNl3~mn3GP2Sb3LtHqlt4ftyXpNdyPYR2ppnrvJld7ErIlV3O41I8Lmrxjc6T1dpYvyYwXRGrsjxrNtKnoyIGOms4QT60AzbXfRLIAkYmhJwY15SwSV42RNfIhEhv~Kg69uTCcv2PVgD8-I5ZzSdzFP~f176zDLRUeTgLzo~s~NsE7FKuyiOgV0cC4wgNs4~~qlq6y1z6Mc3y2bPqMMqmJHO3O8vsGvuBLJ9OLZ4DYaTIQGq2XPqisB18GksKfWNUxQJQ27XYQb8339jbQbpAPf0bXPUJzVDTPn0I4Wzl9jEkLe5HMia4k~~wvU8dXueqFXvrE8GTyUPIq0K9AOGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zld240309f1_1738361534.28.png?Expires=2147483647&Signature=BbbNdqIR4CsC8OCPlxTWeCsa26Ej16W1WFWpbHZVBcLK7wvfsb5KUQFiGFTx~Q557X9Y1emQA7MGI2cgHsdbtoi01nh6jKHgnC3PGqXr28pjcWqQvuaKu9xS5BAdpFQNeCwD5tG78yGy~VIIm7evhePDSf28r8Wx8KzKKcfJqCwmIMUQE4DlOseLJCpXlyI6tqZJsYnRe60oZCKqksvcKGL020llS~qDK3dI0RNTSjDXTw2ZpX91eSQ7uDH6JAeV6Ttzsyx08~6rk8QIXa4Rrp09ypgauZOAFHNzO1fpGP4OxCGUDNt8yNgBghdUVSJAFuBamY0nMPpdrMUEV3n08g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
