@@ -4,28 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830339",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830339",
-            "title": "Moving Toward Implementation of Responsible Artificial Intelligence in Health Care: The European TRAIN",
-            "summary": "This Viewpoint discusses the Trustworthy and Responsible AI Network Europe (TRAIN-Europe) consortium, an effort of medical and AI experts to oversee, develop, and share ethical practices through collaboration and technological solutions designed to implement responsible AI practices.",
-            "content_text": "This Viewpoint discusses the Trustworthy and Responsible AI Network Europe (TRAIN-Europe) consortium, an effort of medical and AI experts to oversee, develop, and share ethical practices through collaboration and technological solutions designed to implement responsible AI practices.",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
+            "title": "Launching the Trustworthy and Responsible AI Network (TRAIN): A Consortium to Facilitate Safe and Effective AI",
+            "summary": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
+            "content_text": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
             "date_published": "2025-02-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Michel E. van Genderen, MD, PhD"
+                    "name": "Peter J. Emb\u00ed, MD, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "ethics"
+                "health care systems",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830339/jama_van_genderen_2025_vp_250020_1738942289.32031.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830340/jama_emb_2025_vp_250019_1738942291.693.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250020t1_1738942290.44668.png?Expires=2147483647&Signature=gg4lc455KUljEIplUQpm0yHZ6brVX2t4DlnyW3QgJx5RfAHWTMld7yujWkAaqMlo6L9fZE6US6Jh9EuH1xZRAQbWczPEJ0~PcvPTmvAOEAUKRQjWYkxyJSY9sFUzXBQUiR0xlUy8J51H9-SXmmW9z7OD6PKM-Rl8~cVgLlpWrkSkfq8REuEbm~cmuZ82Aua84M1~Z2TmTqoeuCDYA48BikjqsrRKjOwvKY8bfAjMFMK6MMCZ5qrER83~AR7yfxYKEo7PrWCBnKvAyBJEJpweWay~7scFjzddxsplUnakLrjBx5qasU~9-QqZjqm9ttwZxLPGBlvaeRAZH5hpCMtdJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250019f1_1738942291.85405.png?Expires=2147483647&Signature=TNl3~mn3GP2Sb3LtHqlt4ftyXpNdyPYR2ppnrvJld7ErIlV3O41I8Lmrxjc6T1dpYvyYwXRGrsjxrNtKnoyIGOms4QT60AzbXfRLIAkYmhJwY15SwSV42RNfIhEhv~Kg69uTCcv2PVgD8-I5ZzSdzFP~f176zDLRUeTgLzo~s~NsE7FKuyiOgV0cC4wgNs4~~qlq6y1z6Mc3y2bPqMMqmJHO3O8vsGvuBLJ9OLZ4DYaTIQGq2XPqisB18GksKfWNUxQJQ27XYQb8339jbQbpAPf0bXPUJzVDTPn0I4Wzl9jEkLe5HMia4k~~wvU8dXueqFXvrE8GTyUPIq0K9AOGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
