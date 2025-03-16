@@ -4,28 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
-            "title": "Launching the Trustworthy and Responsible AI Network (TRAIN): A Consortium to Facilitate Safe and Effective AI",
-            "summary": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
-            "content_text": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
-            "date_published": "2025-02-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2830109",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2830109",
+            "title": "Artificial Intelligence\u2013Enabled Wearable Devices and Nocturnal Scratching in Mild Atopic Dermatitis",
+            "summary": "This cohort study evaluates the accuracy and efficacy of an artificial intelligence\u2013enabled wearable sensor with closed-loop haptic feedback to decrease nocturnal scratch in patients with mild atopic dermatitis who report a moderate to severe degree of scratching.",
+            "content_html": "<h3>Importance</h3><p>Although more than 1 in 10 people experience pruritus, there are limited medical technologies that can accurately and continuously quantify and simultaneously reduce scratching behaviors through nonpharmacological methods.</p><h3>Objective</h3><p>To evaluate the accuracy and efficacy of an artificial intelligence\u2013enabled wearable sensor with closed-loop haptic feedback to decrease nocturnal scratch in patients with mild atopic dermatitis who report a moderate to severe degree of scratching.</p><h3>Design, Setting, and Participants</h3><p>This single-arm 2-stage cohort study with a within-participants design was conducted at a single center and carried out in an at-home environment. Adult patients with atopic dermatitis were recruited from the Northwestern University Department of Dermatology in Chicago, Illinois. Participants were fluent in English, 18 years old or older, had a diagnosis of atopic dermatitis, and self-reported moderate or severe scratching behaviors. Each participant\u2019s disease at time of recruitment was scored via the Validated Investigator Global Assessment for Atopic Dermatitis. Data were collected from April to July 2023.</p><h3>Exposures</h3><p>Haptic feedback delivered by a wearable sensor mounted on the hand triggered whenever nocturnal scratch was detected by an artificial intelligence algorithm. Participants initially wore the sensor for sensing only for 7 nights to assess baseline nocturnal scratching and sleep parameters. This was followed by an additional 7 nights of wearing the sensor with haptic feedback activated.</p><h3>Main Outcomes and Measures</h3><p>Retrospective analysis was performed for scratch events and scratch duration per night and per hour of sleep opportunity. Paired<i>t</i>tests were used to compare changes in patient scratching behaviors before and after use of the artificial intelligence\u2013enabled haptic feedback devices.</p><h3>Results</h3><p>Of 10 included patients, 6 were female, and the mean (SD) age was 36 (12) years. All patients had a Validated Investigator Global Assessment for Atopic Dermatitis score of 0 to 2 (clear to mild) who contributed a total of 104 sleep nights and 831 monitoring hours. No patients were lost to follow-up. There was a significant decrease in mean (SD) scratch events nightly (45.6 [24.0] vs 32.8 [13.0];<i>P</i>\u2009=\u2009.03), a 28% difference, and mean (SD) scratch duration per hour of sleep opportunity (15.8 [10.7] seconds vs 7.9 [3.7] seconds;<i>P</i>\u2009=\u2009.01), a 50% difference, when haptic feedback was activated in the second week without a decrease in total sleep opportunity.</p><h3>Conclusions and Relevance</h3><p>This study found that haptic feedback may be used as a nonpharmacological intervention to reduce nocturnal scratching in patients with mild atopic dermatitis. Future randomized studies are needed to confirm.</p>",
+            "date_published": "2025-02-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Peter J. Emb\u00ed, MD, MS"
+                    "name": "Albert F. Yang, MD"
                 }
             ],
             "tags": [
-                "health care systems",
-                "technology"
+                "artificial intelligence",
+                "atopic",
+                "dermatitis",
+                "night time",
+                "scratching",
+                "sensor (device)",
+                "sleep",
+                "wearable electronic devices"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830340/jama_emb_2025_vp_250019_1738942291.693.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2830109/jamadermatology_yang_2025_br_240025_1738359160.88835.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250019f1_1738942291.85405.png?Expires=2147483647&Signature=TNl3~mn3GP2Sb3LtHqlt4ftyXpNdyPYR2ppnrvJld7ErIlV3O41I8Lmrxjc6T1dpYvyYwXRGrsjxrNtKnoyIGOms4QT60AzbXfRLIAkYmhJwY15SwSV42RNfIhEhv~Kg69uTCcv2PVgD8-I5ZzSdzFP~f176zDLRUeTgLzo~s~NsE7FKuyiOgV0cC4wgNs4~~qlq6y1z6Mc3y2bPqMMqmJHO3O8vsGvuBLJ9OLZ4DYaTIQGq2XPqisB18GksKfWNUxQJQ27XYQb8339jbQbpAPf0bXPUJzVDTPn0I4Wzl9jEkLe5HMia4k~~wvU8dXueqFXvrE8GTyUPIq0K9AOGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/dbr240025f1_1738359161.00916.png?Expires=2147483647&Signature=sgAY6Wk2fXQhBHn3f62Bb6BvDAcuOUDcJ2wWGU9iLDXRfwOpxyJnOudkt5ZXHyWm9OGyhK28t3Bq2DovdErqN8dHsmandxksOJ3nbCr2Hl1mABEsAdLJi-wYSMlaUz4MzgCkAwNuYLE5xflzgDAVhEzeqovR4b9jStQIJj8QkLqV2Wq2wkTzK9ocgbsV83a6oRIfSK26Cxyg1AgI3CDaVmMC1fFhLrDDpPj2bloOLPIILpUA9XEi5o9IUX7bYHVeo1Fnm5bfSJW7H7k75OMNkST~JX5I-VsM4KNlcWSgSnvQgHV~lEv4WZwgL0X4xlHJGwdLMgji5oM1nxyBIHblAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
