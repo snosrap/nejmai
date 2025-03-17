@@ -4,30 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830240",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830240",
-            "title": "Patients\u2019 Trust in Health Systems to Use Artificial Intelligence",
-            "summary": "This survey study evaluates whether US adults trust health systems to use artificial intelligence responsibly and examines characteristics associated with attitudes related to the use of artificial intelligence in health care.",
-            "content_text": "This survey study evaluates whether US adults trust health systems to use artificial intelligence responsibly and examines characteristics associated with attitudes related to the use of artificial intelligence in health care.",
-            "date_published": "2025-02-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830340",
+            "title": "Launching the Trustworthy and Responsible AI Network (TRAIN): A Consortium to Facilitate Safe and Effective AI",
+            "summary": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
+            "content_text": "This Viewpoint lays out the genesis of Trustworthy and Responsible AI Network (TRAIN) and strategies for ensuring effective and safe use of AI throughout the US health care system.",
+            "date_published": "2025-02-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Paige Nong, PhD"
+                    "name": "Peter J. Emb\u00ed, MD, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "attitude",
                 "health care systems",
-                "informatics (discipline)"
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830240/nong_2025_ld_240317_1738862719.66026.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830340/jama_emb_2025_vp_250019_1738942291.693.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zld240317f1_1738862719.75525.png?Expires=2147483647&Signature=wgEN69js0XW8o5RQZxlQrK~tPhwDpez0R6hd544KV6rksg1B3wt2c2zB19JNikBEPeRoV0oRnQ5yHJvZKprL4PxFGbAlID6QiFvy~7uFEwYOOLSz9CBkMqDfUAFyV-PGWPRTq0pe7FGEGk6FYeiRS9eN5saP~cBWSLQG~X3J4pkkwM7hUq-xtE84bzGmgIIoTByonKAA4aI92xTsw~IFWszZTLPyiU1EBMN87Dwo2rMA~qQiX4g6v4Rs-aQFHmXf-CbJrXWWw9h8zvim6b7qhmkjXA9Resd5Abhfq4oVVFQbTs-05INmzHTAEsoAlDheuwueifnUanxF3VnfGbyw0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250019f1_1738942291.85405.png?Expires=2147483647&Signature=TNl3~mn3GP2Sb3LtHqlt4ftyXpNdyPYR2ppnrvJld7ErIlV3O41I8Lmrxjc6T1dpYvyYwXRGrsjxrNtKnoyIGOms4QT60AzbXfRLIAkYmhJwY15SwSV42RNfIhEhv~Kg69uTCcv2PVgD8-I5ZzSdzFP~f176zDLRUeTgLzo~s~NsE7FKuyiOgV0cC4wgNs4~~qlq6y1z6Mc3y2bPqMMqmJHO3O8vsGvuBLJ9OLZ4DYaTIQGq2XPqisB18GksKfWNUxQJQ27XYQb8339jbQbpAPf0bXPUJzVDTPn0I4Wzl9jEkLe5HMia4k~~wvU8dXueqFXvrE8GTyUPIq0K9AOGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
