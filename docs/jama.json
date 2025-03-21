@@ -4,29 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
-            "title": "Trusting Health Care Systems to Use Artificial Intelligence",
-            "summary": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
-            "content_text": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
-            "date_published": "2025-02-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jessica S. Ancker, MPH, PhD"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "health care systems",
-                "informatics (discipline)"
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830241/ancker_2025_ic_240370_1738862720.98597.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1734644558.85751.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
