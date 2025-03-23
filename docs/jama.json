@@ -4,28 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831206",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831206",
-            "title": "Comparison of Frontier Open-Source and Proprietary Large Language Models for Complex Diagnoses",
-            "summary": "This comparative effectiveness research assesses the performance of newer open-source large language models (LLMs) with that of closed-source proprietary large LLMs.",
-            "content_text": "This comparative effectiveness research assesses the performance of newer open-source large language models (LLMs) with that of closed-source proprietary large LLMs.",
-            "date_published": "2025-03-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "title": "Trusting Health Care Systems to Use Artificial Intelligence",
+            "summary": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "content_text": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "date_published": "2025-02-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Thomas A. Buckley, BS"
+                    "name": "Jessica S. Ancker, MPH, PhD"
                 }
             ],
             "tags": [
-                "comparative effectiveness research",
-                "large language models"
+                "artificial intelligence",
+                "health care systems",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831206/buckley_2025_ld_250002_1741789304.57618.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830241/ancker_2025_ic_240370_1738862720.98597.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939564/ald250002f1_1741789304.73118.png?Expires=2147483647&Signature=cKnBowZUmYVMymTVC86VxcUDLh6eE-IzJdwr2fV3ObR-zN3OvmQ8bBVQJdTDBpXF0d7-UWGQdv9YUKlZjPnAkm4dRPw3s0-JGf2apApsRKqRQEuU6AHpnRXMSdLM-zK~il2DfylowO0m4po2CRTVXFoAlN5fF2HasFQxWg2-obW-wtXJZO2ro6OYZ-o6LA0onlUVBVOuY31cgJkixoW0Q-wy9zLrnh32mhDBMsEDEZ2nehKb2wLf4BXQyPTBI115xugUoOjFkU23RVasTYeJ5ecGiCy2CDSQj3N11UabuHQb4Jm1ieHEsa7ZuqoBVal2DD~s~qV1HKqJWfd~gRid9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
