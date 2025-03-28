@@ -128,7 +128,7 @@
       "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2401250",
       "title": "Cross-National Trends in the Regulation of Health-Related Artificial Intelligence",
       "summary": "An analysis of the evolving landscape of international health AI regulation, comparing approaches in leading industrialized democracies, and highlighting differences in regulating pregenerative versus generative AI, the role of data privacy laws, and the challenges and opportunities for global regulatory harmonization.",
-      "content_text": "An analysis of the evolving landscape of international health AI regulation, comparing approaches in leading industrialized democracies, and highlighting differences in regulating pregenerative versus generative AI, the role of data privacy laws, and the challenges and opportunities for global regulatory harmonization.",
+      "content_text": "## Abstract\n\nThe rapid spread of artificial intelligence (AI) has prompted global interest\nin its use and regulation. International regulatory efforts offer\nopportunities for cross-national learning, but risk complicating innovation\nacross national boundaries. In leading industrialized democracies, approaches\nto regulating health AI are just taking shape, vary significantly, and could\nchange dramatically with shifts in national governments. Regulatory policies\nfor pregenerative AI (PGAI) \u2014 which utilizes machine learning\u2013based predictive\nanalytics \u2014 are more established and consistent than those for generative AI \u2014\nwhich encompasses foundation models and their derivative applications. This is\nbecause PGAI has been available for decades and has been managed under\nestablished regulatory pathways that have treated health AI as \u201csoftware as a\nmedical device.\u201d Given the dependence of AI health care applications on\npatient data, existing and new regulations on access to such data will play a\nrole in the development and use of health care AI. Cross-national\nharmonization of regulatory regimes is nascent and likely to be challenging,\nbut approaches to regulating PGAI seem to be amenable to international\nalignment. Research on standardized metrics and evaluation frameworks for\nhealth care AI presents a promising avenue for international collaboration.\n(Funded by the Commonwealth Fund.)\n\n",
       "date_published": "2025-03-25T00:00:00+00:00",
       "authors": [
         {
@@ -143,14 +143,15 @@
           "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2401250",
           "mime_type": "application/pdf"
         }
-      ]
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">The rapid spread of artificial intelligence (AI) has prompted global interest in its use and regulation. International regulatory efforts offer opportunities for cross-national learning, but risk complicating innovation across national boundaries. In leading industrialized democracies, approaches to regulating health AI are just taking shape, vary significantly, and could change dramatically with shifts in national governments. Regulatory policies for pregenerative AI (PGAI) \u2014 which utilizes machine learning\u2013based predictive analytics \u2014 are more established and consistent than those for generative AI \u2014 which encompasses foundation models and their derivative applications. This is because PGAI has been available for decades and has been managed under established regulatory pathways that have treated health AI as \u201csoftware as a medical device.\u201d Given the dependence of AI health care applications on patient data, existing and new regulations on access to such data will play a role in the development and use of health care AI. Cross-national harmonization of regulatory regimes is nascent and likely to be challenging, but approaches to regulating PGAI seem to be amenable to international alignment. Research on standardized metrics and evaluation frameworks for health care AI presents a promising avenue for international collaboration. (Funded by the Commonwealth Fund.)</div>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401252",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401252",
       "title": "Lewis Thomas on Artificial Intelligence",
       "summary": "This perspective explores Lewis Thomas\u2019s reflections on artificial intelligence (AI), highlighting his concerns about AI\u2019s limitations and its inability to replicate human creativity, moral agency, and the capacity for error-driven discovery. It examines the evolving role of AI in knowledge production and the enduring value of human effort in shaping wisdom and innovation.",
-      "content_text": "This perspective explores Lewis Thomas\u2019s reflections on artificial intelligence (AI), highlighting his concerns about AI\u2019s limitations and its inability to replicate human creativity, moral agency, and the capacity for error-driven discovery. It examines the evolving role of AI in knowledge production and the enduring value of human effort in shaping wisdom and innovation.",
+      "content_text": "## Abstract\n\nPhysician-humanist Lewis Thomas presciently explored artificial intelligence\n(AI) in his essay \u201cOn Artificial Intelligence,\u201d expressing deep misgivings\nabout a world in which machines have surpassed human intelligence. While some\ndismissed his concerns as hyperbolic, his reflections on AI\u2019s lack of moral\nagency remain relevant. Thomas emphasized human fallibility as essential to\ncreativity, learning, and ethical responsibility \u2014 qualities AI cannot\nreplicate. While AI can assist us, the essence of wisdom and creation must\nremain a deeply human endeavor.\n\n",
       "date_published": "2025-03-25T00:00:00+00:00",
       "authors": [
         {
@@ -165,14 +166,15 @@
           "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401252",
           "mime_type": "application/pdf"
         }
-      ]
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Physician-humanist Lewis Thomas presciently explored artificial intelligence (AI) in his essay \u201cOn Artificial Intelligence,\u201d expressing deep misgivings about a world in which machines have surpassed human intelligence. While some dismissed his concerns as hyperbolic, his reflections on AI\u2019s lack of moral agency remain relevant. Thomas emphasized human fallibility as essential to creativity, learning, and ethical responsibility \u2014 qualities AI cannot replicate. While AI can assist us, the essence of wisdom and creation must remain a deeply human endeavor.</div>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500143",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500143",
       "title": "When It Comes to Benchmarks, Humans Are the Only Way",
       "summary": "Four recommendations for researchers to better evaluate large language models for clinical practice.",
-      "content_text": "Four recommendations for researchers to better evaluate large language models for clinical practice.",
+      "content_text": "## Abstract\n\nImproved performance of large language models (LLMs) on traditional reasoning\nassessments has led to benchmark saturation. This has spurred efforts to\ndevelop new benchmarks, including synthetic computational simulations of\nclinical practice involving multiple AI agents. We argue that it is crucial to\nground such efforts in extensive human validation. We conclude by providing\nfour recommendations for researchers to better evaluate LLMs for clinical\npractice.\n\n",
       "date_published": "2025-03-25T00:00:00+00:00",
       "authors": [
         {
@@ -187,14 +189,15 @@
           "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500143",
           "mime_type": "application/pdf"
         }
-      ]
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Improved performance of large language models (LLMs) on traditional reasoning assessments has led to benchmark saturation. This has spurred efforts to develop new benchmarks, including synthetic computational simulations of clinical practice involving multiple AI agents. We argue that it is crucial to ground such efforts in extensive human validation. We conclude by providing four recommendations for researchers to better evaluate LLMs for clinical practice.</div>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400977",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400977",
       "title": "Quality Assurance during the Rapid Implementation of an AI-Assisted Clinical Documentation Support Tool",
       "summary": "A rapid quality assurance process with early deployment of an AI-assisted clinical documentation support tool in an integrated delivery system uses multiple workstreams and crowdsourced data to inform decisions regarding continued system deployment, design user training materials, and provide feedback to the vendor.",
-      "content_text": "A rapid quality assurance process with early deployment of an AI-assisted clinical documentation support tool in an integrated delivery system uses multiple workstreams and crowdsourced data to inform decisions regarding continued system deployment, design user training materials, and provide feedback to the vendor.",
+      "content_text": "## Abstract\n\nWe describe a quality assurance evaluation process undertaken during the\ndeployment of an artificial intelligence (AI)\u2013assisted clinical documentation\nsupport tool throughout a large integrated delivery system. AI clinical\ndocumentation support tools have improved dramatically with the latest\ngeneration of large language models but have not been used in the variety of\nclinical specialties, geographic settings, and real-world situations available\nto large care delivery systems. In parallel with our deployment process, a\nsmall evaluation team assessed the level of risk for planned use cases,\nmodified existing approaches, and leveraged the deployment teams and early\nadopters to provide a robust viewpoint on the technology through crowdsourced\ndata and both quantitative and qualitative approaches. The results of the\nevaluation were used to modify training, provide feedback to the vendor, stage\ndeployment, and transition to postdeployment monitoring.\n\n",
       "date_published": "2025-03-25T00:00:00+00:00",
       "authors": [
         {
@@ -210,7 +213,8 @@
           "mime_type": "application/pdf"
         }
       ],
-      "image": "https://ai.nejm.org/cms/asset/be6cc6e6-7722-40a9-bec2-b9772c9b6ea0/aics2400977_f1.gif"
+      "image": "https://ai.nejm.org/cms/asset/be6cc6e6-7722-40a9-bec2-b9772c9b6ea0/aics2400977_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">We describe a quality assurance evaluation process undertaken during the deployment of an artificial intelligence (AI)\u2013assisted clinical documentation support tool throughout a large integrated delivery system. AI clinical documentation support tools have improved dramatically with the latest generation of large language models but have not been used in the variety of clinical specialties, geographic settings, and real-world situations available to large care delivery systems. In parallel with our deployment process, a small evaluation team assessed the level of risk for planned use cases, modified existing approaches, and leveraged the deployment teams and early adopters to provide a robust viewpoint on the technology through crowdsourced data and both quantitative and qualitative approaches. The results of the evaluation were used to modify training, provide feedback to the vendor, stage deployment, and transition to postdeployment monitoring.</div>"
     }
   ]
 }
