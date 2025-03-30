@@ -4,27 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
-            "title": "Patient Portals\u2014Balancing Workload and Opportunity",
-            "summary": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
-            "content_text": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
-            "date_published": "2025-02-24T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "title": "Prospects for Artificial Intelligence in Health Policy and Practice",
+            "summary": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "content_text": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "date_published": "2025-03-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ilana B. Richman, MD, MHS"
+                    "name": "John Z. Ayanian, MD, MPP"
                 }
             ],
             "tags": [
-                "workload"
+                "artificial intelligence",
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2830187/jamainternal_richman_2025_er_250001_1738772602.43188.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831207/ayanian_2025_en_250001_1741789307.15754.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
