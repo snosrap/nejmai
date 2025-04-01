@@ -4,27 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2830187",
-            "title": "Patient Portals\u2014Balancing Workload and Opportunity",
-            "summary": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
-            "content_text": "Soon after the earliest email systems were developed in the late 1960s, electronic messages began to pile up. The onslaught of messages surprised early adopters and spurred the development of message management systems from which modern email applications descended. 1 Sixty years later, health care email has arrived in earnest with the development of patient portal messaging systems. And despite the history, the recent growth of patient portal messaging has caught clinicians and health systems by surprise. As health care systems struggle to adapt, understanding the scale of portal messaging and its potential impacts on clinicians and patients is crucial for designing and implementing effective solutions.",
-            "date_published": "2025-02-24T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "title": "Ambient Listening\u2014Legal and Ethical Issues",
+            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "date_published": "2025-02-19T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ilana B. Richman, MD, MHS"
+                    "name": "I. Glenn Cohen, JD"
                 }
             ],
             "tags": [
-                "workload"
+                "ethics",
+                "health policy",
+                "listening",
+                "principles of law and justice"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2830187/jamainternal_richman_2025_er_250001_1738772602.43188.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
