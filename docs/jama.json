@@ -4,39 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831744",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831744",
-            "title": "Generalizability of Treatment Outcome Prediction Across Antidepressant Treatment Trials in Depression",
-            "summary": "This prognostic study examines whether neuroimaging and clinical features predict response to sertraline and escitalopram in patients with major depressive disorder across 2 multisite studies using machine learning.",
-            "content_html": "<h3>Importance</h3><p>Although several predictive models for response to antidepressant treatment have emerged on the basis of individual clinical trials, it is unclear whether such models generalize to different clinical and geographical contexts.</p><h3>Objective</h3><p>To assess whether neuroimaging and clinical features predict response to sertraline and escitalopram in patients with major depressive disorder (MDD) across 2 multisite studies using machine learning and to predict change in depression severity in 2 independent studies.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included structural and functional resting-state magnetic resonance imaging and clinical and demographic data from the Establishing Moderators and Biosignatures of Antidepressant Response in Clinical Care (EMBARC) randomized clinical trial (RCT), which administered sertraline (in stage 1 and stage 2) and placebo, and the Canadian Biomarker Integration Network in Depression (CANBIND-1) RCT, which administered escitalopram. EMBARC recruited participants with MDD (aged 18-65 years) at 4 academic sites across the US between August 2011 and December 2015. CANBIND-1 recruited participants with MDD from 6 outpatient centers across Canada between August 2013 and December 2016. Data were analyzed from October 2023 to May 2024.</p><h3>Main Outcomes and Measures</h3><p>Prediction performance for treatment response was assessed using balanced classification accuracy and area under the curve (AUC). In secondary analyses, prediction performance was assessed using observed vs predicted correlations between change in depression severity.</p><h3>Results</h3><p>In 363 adult patients (225 from EMBARC and 138 from CANBIND-1; mean [SD] age, 36.6 [13.1] years; 235 women [64.7%]), the best-performing models using pretreatment clinical features and functional connectivity of the dorsal anterior cingulate had moderate cross-trial generalizability for antidepressant treatment (trained on CANBIND-1 and tested on EMBARC, AUC\u2009=\u20090.62 for stage 1 and AUC\u2009=\u20090.67 for stage 2; trained on EMBARC stage 1 and tested on CANBIND-1, AUC\u2009=\u20090.66). The addition of neuroimaging features improved the prediction performance of antidepressant response compared with clinical features only. The use of early-treatment (week 2) instead of pretreatment depression severity scores resulted in the best generalization performance, comparable to within-trial performance. Multivariate regressions showed substantial cross-trial generalizability in change in depression severity (predicted vs observed<i>r</i>ranging from 0.31 to 0.39).</p><h3>Conclusions and Relevance</h3><p>In this prognostic study of depression outcomes, models predicting response to antidepressants show substantial generalizability across different RCTs of adult MDD.</p>",
-            "date_published": "2025-03-20T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
+            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "date_published": "2024-12-23T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Peter Zhukovsky, PhD"
+                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
                 }
             ],
             "tags": [
-                "anterior cingulate gyrus",
-                "antidepressive agents",
-                "biological markers",
-                "depressive disorder",
-                "escitalopram",
-                "machine learning",
-                "magnetic resonance imaging",
-                "major",
-                "neoadjuvant chemoradiation followed by surgery versus surgery alone for patients with adenocarcinomas or squamous cell carcinomas of the esophagus trial",
-                "neuroimaging",
-                "sertraline",
-                "signs and symptoms",
-                "treatment outcome"
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831744/zhukovsky_2025_oi_250093_1741884751.30773.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1739806076.66736.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939562/zoi250093t1_1741884751.53779.png?Expires=2147483647&Signature=nRyjrZxrBSIfmghcTScx~w09VM-Zi6OV6iM~jODJzDn58~LURp~euTWpq-WAV1pJVwANdAlp79J5lDkPc5fy1oYaUCj91RjdujiW6Ygc~D5771KzHXDv8TYHynMNz3Rk8JsQkSOPqgSOp-Mm8mYiIae0~ohCMrZw2YrAr~PLJ~Xu98JlWXmf8itsym7hmNmpl6~h-rmmMNxBUzAAPcCDZEVu1Q7uQ0dANQLh4MGAMsmh7lJq5bABuiDXTgYNPAHb6JcHqmppQ~-Bb7ypYCL2acKh9oqMUUDDgUUChVEcBxGOHS6yD~SGxGE9v13f1FSFMSFwfD~E2wAa8jBBN~bV3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
