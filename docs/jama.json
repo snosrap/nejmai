@@ -4,30 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830738",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830738",
-            "title": "How AI Could Reshape Health Care\u2014Rise in Direct-to-Consumer Models",
-            "summary": "This Viewpoint examines how artificial intelligence could reshape health care, as new technologies enable the move from traditional health care organizations to direct-to-consumer models.",
-            "content_text": "This Viewpoint examines how artificial intelligence could reshape health care, as new technologies enable the move from traditional health care organizations to direct-to-consumer models.",
-            "date_published": "2025-02-24T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
+            "title": "Generative Artificial Intelligence Guidelines of Ophthalmology Journals",
+            "summary": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
+            "content_text": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
+            "date_published": "2025-03-01T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Kenneth D. Mandl, MD, MPH"
+                    "name": "David E. Rabinovitch, MD"
                 }
             ],
             "tags": [
-                "access to primary care",
-                "artificial intelligence",
-                "privacy",
-                "technology"
+                "generative artificial intelligence",
+                "guidelines",
+                "ophthalmology specialty"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830738/jama_mandl_2025_vp_250014_1739911042.33695.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2830079/jamaophthalmology_rabinovitch_2025_ld_240010_1741981286.46912.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939573/eld240010t1_1741981286.57411.png?Expires=2147483647&Signature=wBWTt3k4nkd-55d5fenavKb1uTGBR7MX0kdfHqP4okrAll4iJeeUOpp03Jggjox-Wfhx7QXgaeJh9ZtoGQsUEWL-fhrt3SgmPIvKMvz7-9eEgG1yGjFUQKyozv-RTlt1hRFER1vAo~US6aTeQ3sqfmgGQ00CC5qUpXjMfDoGZQBdwzf4fLcfL2QmrZbIdrYqCqRPO8SFpf11ifMNnuYZAEgn-La4qo9SNRc3gQMaXbeGzmBLkVgCT5zG4TaXjz4RaQY~bfrHHiyCUqEPSDdzbsRHSfoD40VV6ib6WML4YN5Gn7r3uG6IXH3W3sg4yea6bZcMSAErxBjpFwZWANw1lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
