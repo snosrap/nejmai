@@ -4,27 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830681",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830681",
-            "title": "Regulation of Artificial Intelligence in Health Care and Biomedicine\u2014Reply",
-            "summary": "In Reply The US Food and Drug Administration (FDA) is committed to including patient perspectives in the development and evaluation of all medical products, and AI- and machine learning\u2013enabled products are no different. We thank Mr Jaiswal and colleagues for highlighting the importance of patient and caregiver perspectives in response to our Special Communication investigating the FDA\u2019s regulation of AI. 1 While truly achieving a patient-centric approach to AI will take concerted effort from all involved entities, the FDA has taken several actions focused on priority issues to place patients at the center of the health AI life cycle.",
-            "content_text": "In Reply The US Food and Drug Administration (FDA) is committed to including patient perspectives in the development and evaluation of all medical products, and AI- and machine learning\u2013enabled products are no different. We thank Mr Jaiswal and colleagues for highlighting the importance of patient and caregiver perspectives in response to our Special Communication investigating the FDA\u2019s regulation of AI. 1 While truly achieving a patient-centric approach to AI will take concerted effort from all involved entities, the FDA has taken several actions focused on priority issues to place patients at the center of the health AI life cycle.",
-            "date_published": "2025-03-18T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
+            "title": "Generative Artificial Intelligence Guidelines of Ophthalmology Journals",
+            "summary": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
+            "content_text": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
+            "date_published": "2025-03-01T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Haider Warraich, MD"
+                    "name": "David E. Rabinovitch, MD"
                 }
             ],
             "tags": [
-                ""
+                "generative artificial intelligence",
+                "guidelines",
+                "ophthalmology specialty"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830681/jama_warraich_2025_lr_240116_1741284947.60599.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2830079/jamaophthalmology_rabinovitch_2025_ld_240010_1741981286.46912.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939573/eld240010t1_1741981286.57411.png?Expires=2147483647&Signature=wBWTt3k4nkd-55d5fenavKb1uTGBR7MX0kdfHqP4okrAll4iJeeUOpp03Jggjox-Wfhx7QXgaeJh9ZtoGQsUEWL-fhrt3SgmPIvKMvz7-9eEgG1yGjFUQKyozv-RTlt1hRFER1vAo~US6aTeQ3sqfmgGQ00CC5qUpXjMfDoGZQBdwzf4fLcfL2QmrZbIdrYqCqRPO8SFpf11ifMNnuYZAEgn-La4qo9SNRc3gQMaXbeGzmBLkVgCT5zG4TaXjz4RaQY~bfrHHiyCUqEPSDdzbsRHSfoD40VV6ib6WML4YN5Gn7r3uG6IXH3W3sg4yea6bZcMSAErxBjpFwZWANw1lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
