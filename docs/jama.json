@@ -4,30 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830681",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830681",
+            "title": "Regulation of Artificial Intelligence in Health Care and Biomedicine\u2014Reply",
+            "summary": "In Reply The US Food and Drug Administration (FDA) is committed to including patient perspectives in the development and evaluation of all medical products, and AI- and machine learning\u2013enabled products are no different. We thank Mr Jaiswal and colleagues for highlighting the importance of patient and caregiver perspectives in response to our Special Communication investigating the FDA\u2019s regulation of AI. 1 While truly achieving a patient-centric approach to AI will take concerted effort from all involved entities, the FDA has taken several actions focused on priority issues to place patients at the center of the health AI life cycle.",
+            "content_text": "In Reply The US Food and Drug Administration (FDA) is committed to including patient perspectives in the development and evaluation of all medical products, and AI- and machine learning\u2013enabled products are no different. We thank Mr Jaiswal and colleagues for highlighting the importance of patient and caregiver perspectives in response to our Special Communication investigating the FDA\u2019s regulation of AI. 1 While truly achieving a patient-centric approach to AI will take concerted effort from all involved entities, the FDA has taken several actions focused on priority issues to place patients at the center of the health AI life cycle.",
+            "date_published": "2025-03-18T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "I. Glenn Cohen, JD"
+                    "name": "Haider Warraich, MD"
                 }
             ],
             "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
+                ""
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830681/jama_warraich_2025_lr_240116_1741284947.60599.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
