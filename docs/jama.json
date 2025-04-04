@@ -4,29 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2830079",
-            "title": "Generative Artificial Intelligence Guidelines of Ophthalmology Journals",
-            "summary": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
-            "content_text": "This cross-sectional study investigates the current landscape of generative artificial intelligence (GenAI) guidelines across ophthalmology journals.",
-            "date_published": "2025-03-01T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2829644",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2829644",
+            "title": "Pursuing Equity With Artificial Intelligence in Health Care",
+            "summary": "This Viewpoint discusses the pursuit of fairness and equity in artificial intelligence in health care to drive transformative changes and reduce health disparities.",
+            "content_text": "This Viewpoint discusses the pursuit of fairness and equity in artificial intelligence in health care to drive transformative changes and reduce health disparities.",
+            "date_published": "2025-01-31T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "David E. Rabinovitch, MD"
+                    "name": "Kevin B. Johnson, MD, MS"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "guidelines",
-                "ophthalmology specialty"
+                "artificial intelligence",
+                "equity",
+                "health disparity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2830079/jamaophthalmology_rabinovitch_2025_ld_240010_1741981286.46912.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2829644/johnson_2025_vp_240049_1738183216.42081.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939573/eld240010t1_1741981286.57411.png?Expires=2147483647&Signature=wBWTt3k4nkd-55d5fenavKb1uTGBR7MX0kdfHqP4okrAll4iJeeUOpp03Jggjox-Wfhx7QXgaeJh9ZtoGQsUEWL-fhrt3SgmPIvKMvz7-9eEgG1yGjFUQKyozv-RTlt1hRFER1vAo~US6aTeQ3sqfmgGQ00CC5qUpXjMfDoGZQBdwzf4fLcfL2QmrZbIdrYqCqRPO8SFpf11ifMNnuYZAEgn-La4qo9SNRc3gQMaXbeGzmBLkVgCT5zG4TaXjz4RaQY~bfrHHiyCUqEPSDdzbsRHSfoD40VV6ib6WML4YN5Gn7r3uG6IXH3W3sg4yea6bZcMSAErxBjpFwZWANw1lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
