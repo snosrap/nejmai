@@ -4,27 +4,25 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
-            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "date_published": "2025-03-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "title": "Trusting Health Care Systems to Use Artificial Intelligence",
+            "summary": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "content_text": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "date_published": "2025-02-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Shefali V. Patil, PhD"
+                    "name": "Jessica S. Ancker, MPH, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "calibration",
-                "decision making",
-                "health policy",
-                "personal satisfaction"
+                "health care systems",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830241/ancker_2025_ic_240370_1738862720.98597.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
