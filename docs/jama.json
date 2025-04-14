@@ -4,29 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2829644",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2829644",
-            "title": "Pursuing Equity With Artificial Intelligence in Health Care",
-            "summary": "This Viewpoint discusses the pursuit of fairness and equity in artificial intelligence in health care to drive transformative changes and reduce health disparities.",
-            "content_text": "This Viewpoint discusses the pursuit of fairness and equity in artificial intelligence in health care to drive transformative changes and reduce health disparities.",
-            "date_published": "2025-01-31T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832147",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832147",
+            "title": "Building the AI-Enabled Medical School of the Future",
+            "summary": "This Viewpoint discusses preparing medical students to succeed in AI-integrated medical schools.",
+            "content_text": "This Viewpoint discusses preparing medical students to succeed in AI-integrated medical schools.",
+            "date_published": "2025-03-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Kevin B. Johnson, MD, MS"
+                    "name": "Marc D. Succi, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "equity",
-                "health disparity"
+                "medical",
+                "schools",
+                "students"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2829644/johnson_2025_vp_240049_1738183216.42081.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832147/jama_succi_2025_vp_250030_1742922371.32068.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
