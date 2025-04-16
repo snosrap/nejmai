@@ -4,30 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831705",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831705",
-            "title": "Closing Gaps in Diabetic Retinopathy Screening in India Using a Deep Learning System",
-            "summary": "Diabetes is a global concern that is expected to affect 600 million people worldwide by 2040. 1 More than 3 in 4 individuals with diabetes live in low- and middle-income countries such as India, where an estimated 77 million individuals have diabetes and 12.5% of those with diabetes have diabetic retinopathy (DR). 2 Diabetic macular edema (DME), severe nonproliferative DR (NPDR), and proliferative DR (PDR) are severe stages of DR that can result in visual impairment or blindness if left untreated; these stages are estimated to affect 3 million people 40 years or older in India. 2 To prevent vision loss from DR, it is important to implement screening programs at a community level or nationally for all patients living with diabetes, and refer, in a timely fashion, those with severe levels of DR. 1 Scarcity of ophthalmologists and optometrists who can provide these screenings, lack of patient awareness, difficulty for patients to get to these eye appointments, and lack of appropriate equipment, support staff and resources are some of the challenges that limit adherence to national screening guidelines. 1 Even telemedicine programs have been beset by the lack of availability of trained professionals who can grade the images.",
-            "content_text": "Diabetes is a global concern that is expected to affect 600 million people worldwide by 2040. 1 More than 3 in 4 individuals with diabetes live in low- and middle-income countries such as India, where an estimated 77 million individuals have diabetes and 12.5% of those with diabetes have diabetic retinopathy (DR). 2 Diabetic macular edema (DME), severe nonproliferative DR (NPDR), and proliferative DR (PDR) are severe stages of DR that can result in visual impairment or blindness if left untreated; these stages are estimated to affect 3 million people 40 years or older in India. 2 To prevent vision loss from DR, it is important to implement screening programs at a community level or nationally for all patients living with diabetes, and refer, in a timely fashion, those with severe levels of DR. 1 Scarcity of ophthalmologists and optometrists who can provide these screenings, lack of patient awareness, difficulty for patients to get to these eye appointments, and lack of appropriate equipment, support staff and resources are some of the challenges that limit adherence to national screening guidelines. 1 Even telemedicine programs have been beset by the lack of availability of trained professionals who can grade the images.",
-            "date_published": "2025-03-19T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830767",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830767",
+            "title": "Consumer Confidence in the Responsible Use of Digital Health Data After the COVID-19 Pandemic",
+            "summary": "This study compares 2020 and 2022 surveys to identify changes in how respondents view use of their health information by public and private organizations, including by political leaning.",
+            "content_text": "This study compares 2020 and 2022 surveys to identify changes in how respondents view use of their health information by public and private organizations, including by political leaning.",
+            "date_published": "2025-02-26T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Sally S. Ong, MD"
+                    "name": "Ravi Gupta, MD, MSHP"
                 }
             ],
             "tags": [
-                "deep learning",
-                "diabetic retinopathy screening",
-                "india",
-                "ophthalmology specialty"
+                "covid19 (disease)",
+                "digital health",
+                "ethics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831705/ong_2025_ic_250026_1741798617.75359.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830767/gupta_2025_ld_240324_1739997013.9863.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zld240324f1_1739997014.13451.png?Expires=2147483647&Signature=WOtD9h9MXXzZrgpfuQyuVg02rfqzA5hpfDCQkDyf6rffEQl1LBxc86Wfav-3~mowzJncICBul~S9vm6rqaQVtEFRBETnYzwuISAtEmIEZ7L5H9Grp75FVyBWEPaICo8XyejpM7A5AG85RPeNyV89BJam9DUu2XEXwSMpWsy~Go4z0Fa8SyZxssydjpS1maxEu1I7ghxvHrtSLTSynWzjFka~DfSoG2~UMknCUyXlG05BMxlReT02~CFa52tOlsEbfdMsUVv6UH-UZ7zwY207iojI85LU4dyri5V9kzXp3N6DJf-NcmLnDEAEjtFBjmFVnv3iVdFvHccn8iKlzbkadg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
