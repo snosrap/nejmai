@@ -4,29 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830767",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830767",
-            "title": "Consumer Confidence in the Responsible Use of Digital Health Data After the COVID-19 Pandemic",
-            "summary": "This study compares 2020 and 2022 surveys to identify changes in how respondents view use of their health information by public and private organizations, including by political leaning.",
-            "content_text": "This study compares 2020 and 2022 surveys to identify changes in how respondents view use of their health information by public and private organizations, including by political leaning.",
-            "date_published": "2025-02-26T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831206",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831206",
+            "title": "Comparison of Frontier Open-Source and Proprietary Large Language Models for Complex Diagnoses",
+            "summary": "This comparative effectiveness research assesses the performance of newer open-source large language models (LLMs) with that of closed-source proprietary large LLMs.",
+            "content_text": "This comparative effectiveness research assesses the performance of newer open-source large language models (LLMs) with that of closed-source proprietary large LLMs.",
+            "date_published": "2025-03-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ravi Gupta, MD, MSHP"
+                    "name": "Thomas A. Buckley, BS"
                 }
             ],
             "tags": [
-                "covid19 (disease)",
-                "digital health",
-                "ethics"
+                "comparative effectiveness research",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830767/gupta_2025_ld_240324_1739997013.9863.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831206/buckley_2025_ld_250002_1741789304.57618.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939547/zld240324f1_1739997014.13451.png?Expires=2147483647&Signature=WOtD9h9MXXzZrgpfuQyuVg02rfqzA5hpfDCQkDyf6rffEQl1LBxc86Wfav-3~mowzJncICBul~S9vm6rqaQVtEFRBETnYzwuISAtEmIEZ7L5H9Grp75FVyBWEPaICo8XyejpM7A5AG85RPeNyV89BJam9DUu2XEXwSMpWsy~Go4z0Fa8SyZxssydjpS1maxEu1I7ghxvHrtSLTSynWzjFka~DfSoG2~UMknCUyXlG05BMxlReT02~CFa52tOlsEbfdMsUVv6UH-UZ7zwY207iojI85LU4dyri5V9kzXp3N6DJf-NcmLnDEAEjtFBjmFVnv3iVdFvHccn8iKlzbkadg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939564/ald250002f1_1741789304.73118.png?Expires=2147483647&Signature=cKnBowZUmYVMymTVC86VxcUDLh6eE-IzJdwr2fV3ObR-zN3OvmQ8bBVQJdTDBpXF0d7-UWGQdv9YUKlZjPnAkm4dRPw3s0-JGf2apApsRKqRQEuU6AHpnRXMSdLM-zK~il2DfylowO0m4po2CRTVXFoAlN5fF2HasFQxWg2-obW-wtXJZO2ro6OYZ-o6LA0onlUVBVOuY31cgJkixoW0Q-wy9zLrnh32mhDBMsEDEZ2nehKb2wLf4BXQyPTBI115xugUoOjFkU23RVasTYeJ5ecGiCy2CDSQj3N11UabuHQb4Jm1ieHEsa7ZuqoBVal2DD~s~qV1HKqJWfd~gRid9w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
