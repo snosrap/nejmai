@@ -4,24 +4,24 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
-            "title": "Integrating Artificial Intelligence Support in Patient Care While Respecting Ethical Principles",
-            "summary": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
-            "content_text": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "title": "Prospects for Artificial Intelligence in Health Policy and Practice",
+            "summary": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "content_text": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "date_published": "2025-03-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Marianne Sharko, MD, MS"
+                    "name": "John Z. Ayanian, MD, MPP"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "ethics"
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831224/sharko_2025_ic_250013_1741025151.25682.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831207/ayanian_2025_en_250001_1741789307.15754.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
