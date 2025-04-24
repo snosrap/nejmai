@@ -5,157 +5,15 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400802",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400802",
-      "title": "Randomized Trial of a Generative AI Chatbot for Mental Health Treatment",
-      "summary": "A national randomized controlled trial tested Therabot, a fine-tuned generative artificial intelligence (AI) chatbot, for mental health treatment in adults with depression, anxiety, or those at clinically high risk for feeding and eating disorders. The study found significant symptom reductions, high rates of user engagement, and a therapeutic alliance comparable to human therapists, supporting the potential of AI-driven mental health interventions at scale.",
-      "content_text": "## Abstract\n\n### Background\n\nGenerative artificial intelligence (Gen-AI) chatbots hold promise for building\nhighly personalized, effective mental health treatments at scale, while also\naddressing user engagement and retention issues common among digital\ntherapeutics. We present a randomized controlled trial (RCT) testing an\nexpert\u2013fine-tuned Gen-AI\u2013powered chatbot, Therabot, for mental health\ntreatment.\n\n### Methods\n\nWe conducted a national, randomized controlled trial of adults (N=210) with\nclinically significant symptoms of major depressive disorder (MDD),\ngeneralized anxiety disorder (GAD), or at clinically high risk for feeding and\neating disorders (CHR-FED). Participants were randomly assigned to a 4-week\nTherabot intervention (N=106) or waitlist control (WLC; N=104). WLC\nparticipants received no app access during the study period but gained access\nafter its conclusion (8 weeks). Participants were stratified into one of three\ngroups based on mental health screening results: those with clinically\nsignificant symptoms of MDD, GAD, or CHR-FED. Primary outcomes were symptom\nchanges from baseline to postintervention (4 weeks) and to follow-up (8\nweeks). Secondary outcomes included user engagement, acceptability, and\ntherapeutic alliance (i.e., the collaborative patient and therapist\nrelationship). Cumulative-link mixed models examined differential changes.\nCohen\u2019s d effect sizes were unbounded and calculated based on the log-odds\nratio, representing differential change between groups.\n\n### Results\n\nTherabot users showed significantly greater reductions in symptoms of MDD\n(mean changes: \u22126.13 [standard deviation {SD}=6.12] vs. \u22122.63 [6.03] at 4\nweeks; \u22127.93 [5.97] vs. \u22124.22 [5.94] at 8 weeks; d=0.845\u20130.903), GAD (mean\nchanges: \u22122.32 [3.55] vs. \u22120.13 [4.00] at 4 weeks; \u22123.18 [3.59] vs. \u22121.11\n[4.00] at 8 weeks; d=0.794\u20130.840), and CHR-FED (mean changes: \u22129.83 [14.37]\nvs. \u22121.66 [14.29] at 4 weeks; \u221210.23 [14.70] vs. \u22123.70 [14.65] at 8 weeks;\nd=0.627\u20130.819) relative to controls at postintervention and follow-up.\nTherabot was well utilized (average use >6 hours), and participants rated the\ntherapeutic alliance as comparable to that of human therapists.\n\n### Conclusions\n\nThis is the first RCT demonstrating the effectiveness of a fully Gen-AI\ntherapy chatbot for treating clinical-level mental health symptoms. The\nresults were promising for MDD, GAD, and CHR-FED symptoms. Therabot was well\nutilized and received high user ratings. Fine-tuned Gen-AI chatbots offer a\nfeasible approach to delivering personalized mental health interventions at\nscale, although further research with larger clinical samples is needed to\nconfirm their effectiveness and generalizability. (Funded by Dartmouth\nCollege; ClinicalTrials.gov number,\n[NCT06013137](https://clinicaltrials.gov/ct2/show/NCT06013137).)\n\n",
-      "date_published": "2025-03-27T00:00:00+00:00",
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2500005",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2500005",
+      "title": "Harnessing Moravec\u2019s Paradox in Health Care: A New Era of Collaborative Intelligence",
+      "summary": "This perspective examines the ongoing challenges in integrating artificial intelligence into health care, emphasizing the persistent issues of algorithmic bias, privacy concerns, and the necessity for rigorous validation. It highlights the balance between automation and human oversight, particularly in ethical decision-making and informed consent processes.",
+      "content_text": "## Abstract\n\nArtificial intelligence excels at complex data analytics, yet struggles with\nnuanced, sensorimotor tasks that humans perform almost effortlessly \u2014 a\ndichotomy encapsulated by Moravec\u2019s paradox. By strategically harnessing these\ncomplementary strengths, health care can usher in an era of collaborative\nintelligence, optimizing data-intensive workflows, such as clinical trial\nenrollment, and creating more patient-centric models of care.\n\n",
+      "date_published": "2025-04-24T00:00:00+00:00",
       "authors": [
         {
-          "name": "M.V. Heinz and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400802",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/13797d88-d8e8-4d9f-91b5-4c7fd0332cbb/aioa2400802_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Generative artificial intelligence (Gen-AI) chatbots hold promise for building highly personalized, effective mental health treatments at scale, while also addressing user engagement and retention issues common among digital therapeutics. We present a randomized controlled trial (RCT) testing an expert\u2013fine-tuned Gen-AI\u2013powered chatbot, Therabot, for mental health treatment.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We conducted a national, randomized controlled trial of adults (N=210) with clinically significant symptoms of major depressive disorder (MDD), generalized anxiety disorder (GAD), or at clinically high risk for feeding and eating disorders (CHR-FED). Participants were randomly assigned to a 4-week Therabot intervention (N=106) or waitlist control (WLC; N=104). WLC participants received no app access during the study period but gained access after its conclusion (8 weeks). Participants were stratified into one of three groups based on mental health screening results: those with clinically significant symptoms of MDD, GAD, or CHR-FED. Primary outcomes were symptom changes from baseline to postintervention (4 weeks) and to follow-up (8 weeks). Secondary outcomes included user engagement, acceptability, and therapeutic alliance (i.e., the collaborative patient and therapist relationship). Cumulative-link mixed models examined differential changes. Cohen\u2019s d effect sizes were unbounded and calculated based on the log-odds ratio, representing differential change between groups.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Therabot users showed significantly greater reductions in symptoms of MDD (mean changes: \u22126.13 [standard deviation {SD}=6.12] vs. \u22122.63 [6.03] at 4 weeks; \u22127.93 [5.97] vs. \u22124.22 [5.94] at 8 weeks; d=0.845\u20130.903), GAD (mean changes: \u22122.32 [3.55] vs. \u22120.13 [4.00] at 4 weeks; \u22123.18 [3.59] vs. \u22121.11 [4.00] at 8 weeks; d=0.794\u20130.840), and CHR-FED (mean changes: \u22129.83 [14.37] vs. \u22121.66 [14.29] at 4 weeks; \u221210.23 [14.70] vs. \u22123.70 [14.65] at 8 weeks; d=0.627\u20130.819) relative to controls at postintervention and follow-up. Therabot was well utilized (average use &gt;6 hours), and participants rated the therapeutic alliance as comparable to that of human therapists.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">This is the first RCT demonstrating the effectiveness of a fully Gen-AI therapy chatbot for treating clinical-level mental health symptoms. The results were promising for MDD, GAD, and CHR-FED symptoms. Therabot was well utilized and received high user ratings. Fine-tuned Gen-AI chatbots offer a feasible approach to delivering personalized mental health interventions at scale, although further research with larger clinical samples is needed to confirm their effectiveness and generalizability. (Funded by Dartmouth College; ClinicalTrials.gov number, <a href=\"https://clinicaltrials.gov/ct2/show/NCT06013137\" target=\"_blank\">NCT06013137</a>.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400747",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400747",
-      "title": "AI to Assist in the Fetal Anomaly Ultrasound Scan: A Randomized Controlled Trial",
-      "summary": "An evaluation of the impact of artificial intelligence (AI) on fetal anomaly ultrasound screening by comparing AI-assisted and standard scanning methods in terms of diagnostic accuracy, scan duration, and sonographer cognitive load.",
-      "content_text": "## Abstract\n\n### Background\n\nArtificial intelligence (AI) has shown potential in improving the performance\nof screening fetal anomaly ultrasound scans. We aimed to assess the effect of\nAI on fetal ultrasound scanning in terms of diagnostic performance, biometry,\nscan duration, and sonographer cognitive load.\n\n### Methods\n\nThis was a randomized, single-center, open-label trial in a large teaching\nhospital. Pregnant participants with fetal congenital heart disease (CHD) and\nparticipants with healthy fetuses were recruited and scanned with both\nmethods. Sonographers were recruited from regional hospitals and were randomly\nassigned to scan with either the AI tool or the standard method, blinded to\nthe fetal CHD status. For the AI-assisted scans, the AI models identified and\nsaved 13 standard image planes and measured four biometrics (but did not\nautomate CHD diagnosis). The primary outcome was the diagnostic performance of\nthe scan; secondary outcomes were scan duration and sonographer cognitive\nload, as well as biometry performance.\n\n### Results\n\nIn total, 78 pregnant participants (26 with fetal CHD) and 58 sonographers\nwere recruited. The sensitivity and specificity of the AI-assisted scan in\ndetecting fetal malformation were 88.9% and 98.0%, respectively, with the\nstandard scan achieving 81.5% and 92.2% (differences in proportions 7.4% for\nsensitivity (97.5% [CI] confidence interval, \u221215.9 to 30.7%) and 5.9% for\nspecificity (97.5% CI, \u22123.8 to 15.5%)). AI-assisted scans were shorter in\nduration than standard scans (median 11.4 minutes vs. 19.7 minutes, 95% CI for\nmean difference 7.4 to 11.1). Sonographer cognitive load was lower in the AI-\nassisted group (median National Aeronautics and Space Administration \u2014 Task\nLoad Index [NASA TLX] score 35.2 vs. 46.5, 95% CI for mean difference 4.6 to\n15.4). For all biometrics, the AI repeatability and reproducibility were\nsuperior to manual measurements. No adverse events were noted during the\ntrial.\n\n### Conclusions\n\nAI assistance in the routine fetal anomaly ultrasound scan results in\nsignificant time savings, and a reduction in sonographer cognitive load,\nwithout a reduction in diagnostic performance. (The study was funded by an\nNIHR doctoral fellowship [NIHR301448] and others; ISRCTN number, 65824874.)\n\n",
-      "date_published": "2025-03-27T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "T.G. Day and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400747",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/56d05e50-c39f-4519-953b-a24aa91d5b3c/aioa2400747_f2.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI) has shown potential in improving the performance of screening fetal anomaly ultrasound scans. We aimed to assess the effect of AI on fetal ultrasound scanning in terms of diagnostic performance, biometry, scan duration, and sonographer cognitive load.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">This was a randomized, single-center, open-label trial in a large teaching hospital. Pregnant participants with fetal congenital heart disease (CHD) and participants with healthy fetuses were recruited and scanned with both methods. Sonographers were recruited from regional hospitals and were randomly assigned to scan with either the AI tool or the standard method, blinded to the fetal CHD status. For the AI-assisted scans, the AI models identified and saved 13 standard image planes and measured four biometrics (but did not automate CHD diagnosis). The primary outcome was the diagnostic performance of the scan; secondary outcomes were scan duration and sonographer cognitive load, as well as biometry performance.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">In total, 78 pregnant participants (26 with fetal CHD) and 58 sonographers were recruited. The sensitivity and specificity of the AI-assisted scan in detecting fetal malformation were 88.9% and 98.0%, respectively, with the standard scan achieving 81.5% and 92.2% (differences in proportions 7.4% for sensitivity (97.5% [CI] confidence interval, \u221215.9 to 30.7%) and 5.9% for specificity (97.5% CI, \u22123.8 to 15.5%)). AI-assisted scans were shorter in duration than standard scans (median 11.4 minutes vs. 19.7 minutes, 95% CI for mean difference 7.4 to 11.1). Sonographer cognitive load was lower in the AI-assisted group (median National Aeronautics and Space Administration \u2014 Task Load Index [NASA TLX] score 35.2 vs. 46.5, 95% CI for mean difference 4.6 to 15.4). For all biometrics, the AI repeatability and reproducibility were superior to manual measurements. No adverse events were noted during the trial.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">AI assistance in the routine fetal anomaly ultrasound scan results in significant time savings, and a reduction in sonographer cognitive load, without a reduction in diagnostic performance. (The study was funded by an NIHR doctoral fellowship [NIHR301448] and others; ISRCTN number, 65824874.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400738",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400738",
-      "title": "Machine Learning Achieves Pathologist-Level Celiac Disease Diagnosis",
-      "summary": "A machine learning model that diagnoses celiac disease from duodenal biopsy images demonstrates strong generalizability across multiple hospitals and has the potential to enhance diagnostic efficiency and reliability in clinical practice.",
-      "content_text": "## Abstract\n\n### Background\n\nThe diagnosis of celiac disease (CD), an autoimmune disorder with an estimated\nglobal prevalence of around 1%, generally relies on the histologic examination\nof duodenal biopsies. However, interpathologist agreement for CD diagnosis is\nestimated at no more than 80%. We aim to improve CD diagnosis by developing an\naccurate, machine-learning-based diagnostic classifier.\n\n### Methods\n\nWe present a machine learning model that diagnoses the presence or absence of\nCD from a set of duodenal biopsies representative of real-world clinical data.\nOur model was trained on a diverse dataset of 3383 whole-slide images of\nhematoxylin- and eosin-stained duodenal biopsies from four hospitals featuring\nfive different WSI scanners along with their clinical diagnoses. We trained\nour model using the multiple-instance-learning paradigm in a weakly supervised\nmanner with cross-validation. We evaluated it on an independent test set\nfeaturing 644 unseen scans from a different regional NHS trust. In addition,\nwe compared the model\u2019s predictions with independent diagnoses from four\nspecialist pathologists on a subset of the test data.\n\n### Results\n\nOur model diagnosed CD in an independent test set from a previously unseen\nsource with accuracy, sensitivity, and specificity exceeding 95% and an area\nunder the receiver operating characteristic curve exceeding 99%. These results\nindicate that the model has the potential to outperform pathologists. In\ncomparing the model\u2019s predictions with diagnoses on unseen test data from four\nindependent pathologists, we found statistically indistinguishable results\nbetween pathologist\u2013pathologist and pathologist\u2013model interobserver agreement\n(P>96%).\n\n### Conclusions\n\nOur model achieved pathologist-level performance in diagnosing the presence or\nabsence of CD from a representative set of duodenal biopsies, including\nbiopsies from a previously unseen hospital. We concluded that our model has\nthe potential to accurately identify or rule out CD, thereby significantly\nreducing the time required for pathologists to make a diagnosis. (Funded by\nthe National Institute of Health and Care [NIHR205502] and others.)\n\n",
-      "date_published": "2025-03-27T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "F. Jaeckle and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400738",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/835e442e-2bbe-42af-b7ce-ab8396268267/aioa2400738_f2.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">The diagnosis of celiac disease (CD), an autoimmune disorder with an estimated global prevalence of around 1%, generally relies on the histologic examination of duodenal biopsies. However, interpathologist agreement for CD diagnosis is estimated at no more than 80%. We aim to improve CD diagnosis by developing an accurate, machine-learning-based diagnostic classifier.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We present a machine learning model that diagnoses the presence or absence of CD from a set of duodenal biopsies representative of real-world clinical data. Our model was trained on a diverse dataset of 3383 whole-slide images of hematoxylin- and eosin-stained duodenal biopsies from four hospitals featuring five different WSI scanners along with their clinical diagnoses. We trained our model using the multiple-instance-learning paradigm in a weakly supervised manner with cross-validation. We evaluated it on an independent test set featuring 644 unseen scans from a different regional NHS trust. In addition, we compared the model\u2019s predictions with independent diagnoses from four specialist pathologists on a subset of the test data.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Our model diagnosed CD in an independent test set from a previously unseen source with accuracy, sensitivity, and specificity exceeding 95% and an area under the receiver operating characteristic curve exceeding 99%. These results indicate that the model has the potential to outperform pathologists. In comparing the model\u2019s predictions with diagnoses on unseen test data from four independent pathologists, we found statistically indistinguishable results between pathologist\u2013pathologist and pathologist\u2013model interobserver agreement (P&gt;96%).</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Our model achieved pathologist-level performance in diagnosing the presence or absence of CD from a representative set of duodenal biopsies, including biopsies from a previously unseen hospital. We concluded that our model has the potential to accurately identify or rule out CD, thereby significantly reducing the time required for pathologists to make a diagnosis. (Funded by the National Institute of Health and Care [NIHR205502] and others.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500129",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500129",
-      "title": "Artificial Intelligence\u2013Assisted Automation of Fetal Anomaly Ultrasound Scanning",
-      "summary": "This editorial discusses the contributions and limitations of artificial intelligence\u2013assisted automation of fetal anomaly ultrasound scanning.",
-      "content_text": "## Abstract\n\nImproving sensitivity and specificity of fetal anomaly ultrasound screening\nmay be feasible with implementation of AI models. This study describes a\nprospective trial to test an AI model in real world fetal anomaly ultrasound\nscreening. Despite limitations of cohort size, variability in sonographer\ntraining and experience, and focus on detection of anomalies in a single organ\n(the heart), the study provides evidence of noninferiority of AI-assisted\nfetal anomaly ultrasound screening vs. manual unassisted screening.\n\n",
-      "date_published": "2025-03-27T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "F. Sessions Cole"
-        }
-      ],
-      "tags": [
-        "Editorial"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500129",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Improving sensitivity and specificity of fetal anomaly ultrasound screening may be feasible with implementation of AI models. This study describes a prospective trial to test an AI model in real world fetal anomaly ultrasound screening. Despite limitations of cohort size, variability in sonographer training and experience, and focus on detection of anomalies in a single organ (the heart), the study provides evidence of noninferiority of AI-assisted fetal anomaly ultrasound screening vs. manual unassisted screening.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIdbp2400537",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIdbp2400537",
-      "title": "Deidentifying Medical Documents with Local, Privacy-Preserving Large Language Models: The LLM-Anonymizer",
-      "summary": "A locally deployable, open-source LLM-Anonymizer can remove personal identifiers with high accuracy, offering a scalable and accessible solution for secure medical data processing.",
-      "content_text": "## Abstract\n\n### Background\n\nMedical research with real-world clinical data is challenging as a result of\nprivacy requirements. Patient data should be anonymized before analysis in\nresearch studies. Anonymization procedures aim to reduce the reidentification\nrisk below a certain threshold, while maintaining the usefulness of the data\nfor research purposes. However, in the context of medical text, these\nprocedures are notoriously hard to automate and, therefore, are not scalable.\nRecent advancements in natural language processing (NLP), driven by the\ndevelopment of large language models (LLMs), have markedly improved the\nautomatic processing of unstructured text.\n\n### Methods\n\nWe hypothesize that LLMs are highly effective tools for extracting patient-\nrelated information, which can subsequently be used to remove personal\ninformation from medical reports, while at the same time preserving\ninformation required for downstream research purposes. To test this, we\nconducted a benchmark study using eight local LLMs (Llama-3 8B, Llama-3 70B,\nLlama-2 7B, Llama-2 70B, Llama-2 7B Sauerkraut, Llama-2 70B Sauerkraut,\nMistral 7B, and Phi-3 Mini) to extract and remove patient-related information\nfrom a dataset of 250 real-world clinical letters.\n\n### Results\n\nOur results demonstrate that our LLM-Anonymizer, when used with Llama-3 70B,\nachieved a success rate of 99.24% in removing text characters carrying\npersonal identifying information. It missed only 0.76% of text characters with\nidentified personal information and mistakenly redacted 2.43% of characters.\n\n### Conclusions\n\nWe provide our full LLM-based Anonymizer pipeline under an open-source\nlicense. Its user-friendly web interface operates on local hardware and\nrequires no programming skills. This tool has the potential to facilitate\nmedical research by enabling the secure and efficient deidentification of\nclinical free-text data on-site, thereby addressing key challenges in medical\ndata sharing. (Funded by German Federal Ministry of Education and Research,\nCAMINO, 01EO2101, and the European Research Council, ERC; NADIR, 101114631.)\n\n",
-      "date_published": "2025-03-27T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "I.C. Wiest and Others"
-        }
-      ],
-      "tags": [
-        "Datasets, Benchmarks, and Protocols"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIdbp2400537",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIdbp2400537_Wiest(Kather).jpg",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Medical research with real-world clinical data is challenging as a result of privacy requirements. Patient data should be anonymized before analysis in research studies. Anonymization procedures aim to reduce the reidentification risk below a certain threshold, while maintaining the usefulness of the data for research purposes. However, in the context of medical text, these procedures are notoriously hard to automate and, therefore, are not scalable. Recent advancements in natural language processing (NLP), driven by the development of large language models (LLMs), have markedly improved the automatic processing of unstructured text.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We hypothesize that LLMs are highly effective tools for extracting patient-related information, which can subsequently be used to remove personal information from medical reports, while at the same time preserving information required for downstream research purposes. To test this, we conducted a benchmark study using eight local LLMs (Llama-3 8B, Llama-3 70B, Llama-2 7B, Llama-2 70B, Llama-2 7B Sauerkraut, Llama-2 70B Sauerkraut, Mistral 7B, and Phi-3 Mini) to extract and remove patient-related information from a dataset of 250 real-world clinical letters.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Our results demonstrate that our LLM-Anonymizer, when used with Llama-3 70B, achieved a success rate of 99.24% in removing text characters carrying personal identifying information. It missed only 0.76% of text characters with identified personal information and mistakenly redacted 2.43% of characters.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">We provide our full LLM-based Anonymizer pipeline under an open-source license. Its user-friendly web interface operates on local hardware and requires no programming skills. This tool has the potential to facilitate medical research by enabling the secure and efficient deidentification of clinical free-text data on-site, thereby addressing key challenges in medical data sharing. (Funded by German Federal Ministry of Education and Research, CAMINO, 01EO2101, and the European Research Council, ERC; NADIR, 101114631.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2401250",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2401250",
-      "title": "Cross-National Trends in the Regulation of Health-Related Artificial Intelligence",
-      "summary": "An analysis of the evolving landscape of international health AI regulation, comparing approaches in leading industrialized democracies, and highlighting differences in regulating pregenerative versus generative AI, the role of data privacy laws, and the challenges and opportunities for global regulatory harmonization.",
-      "content_text": "## Abstract\n\nThe rapid spread of artificial intelligence (AI) has prompted global interest\nin its use and regulation. International regulatory efforts offer\nopportunities for cross-national learning, but risk complicating innovation\nacross national boundaries. In leading industrialized democracies, approaches\nto regulating health AI are just taking shape, vary significantly, and could\nchange dramatically with shifts in national governments. Regulatory policies\nfor pregenerative AI (PGAI) \u2014 which utilizes machine learning\u2013based predictive\nanalytics \u2014 are more established and consistent than those for generative AI \u2014\nwhich encompasses foundation models and their derivative applications. This is\nbecause PGAI has been available for decades and has been managed under\nestablished regulatory pathways that have treated health AI as \u201csoftware as a\nmedical device.\u201d Given the dependence of AI health care applications on\npatient data, existing and new regulations on access to such data will play a\nrole in the development and use of health care AI. Cross-national\nharmonization of regulatory regimes is nascent and likely to be challenging,\nbut approaches to regulating PGAI seem to be amenable to international\nalignment. Research on standardized metrics and evaluation frameworks for\nhealth care AI presents a promising avenue for international collaboration.\n(Funded by the Commonwealth Fund.)\n\n",
-      "date_published": "2025-03-25T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "S. Ghafur, R. Callahan, and D. Blumenthal"
-        }
-      ],
-      "tags": [
-        "Policy Corner"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2401250",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">The rapid spread of artificial intelligence (AI) has prompted global interest in its use and regulation. International regulatory efforts offer opportunities for cross-national learning, but risk complicating innovation across national boundaries. In leading industrialized democracies, approaches to regulating health AI are just taking shape, vary significantly, and could change dramatically with shifts in national governments. Regulatory policies for pregenerative AI (PGAI) \u2014 which utilizes machine learning\u2013based predictive analytics \u2014 are more established and consistent than those for generative AI \u2014 which encompasses foundation models and their derivative applications. This is because PGAI has been available for decades and has been managed under established regulatory pathways that have treated health AI as \u201csoftware as a medical device.\u201d Given the dependence of AI health care applications on patient data, existing and new regulations on access to such data will play a role in the development and use of health care AI. Cross-national harmonization of regulatory regimes is nascent and likely to be challenging, but approaches to regulating PGAI seem to be amenable to international alignment. Research on standardized metrics and evaluation frameworks for health care AI presents a promising avenue for international collaboration. (Funded by the Commonwealth Fund.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401252",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401252",
-      "title": "Lewis Thomas on Artificial Intelligence",
-      "summary": "This perspective explores Lewis Thomas\u2019s reflections on artificial intelligence (AI), highlighting his concerns about AI\u2019s limitations and its inability to replicate human creativity, moral agency, and the capacity for error-driven discovery. It examines the evolving role of AI in knowledge production and the enduring value of human effort in shaping wisdom and innovation.",
-      "content_text": "## Abstract\n\nPhysician-humanist Lewis Thomas presciently explored artificial intelligence\n(AI) in his essay \u201cOn Artificial Intelligence,\u201d expressing deep misgivings\nabout a world in which machines have surpassed human intelligence. While some\ndismissed his concerns as hyperbolic, his reflections on AI\u2019s lack of moral\nagency remain relevant. Thomas emphasized human fallibility as essential to\ncreativity, learning, and ethical responsibility \u2014 qualities AI cannot\nreplicate. While AI can assist us, the essence of wisdom and creation must\nremain a deeply human endeavor.\n\n",
-      "date_published": "2025-03-25T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J.J. Fins"
+          "name": "A. Loaiza-Bonilla and S. Penberthy"
         }
       ],
       "tags": [
@@ -163,22 +21,139 @@
       ],
       "attachments": [
         {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401252",
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2500005",
           "mime_type": "application/pdf"
         }
       ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Physician-humanist Lewis Thomas presciently explored artificial intelligence (AI) in his essay \u201cOn Artificial Intelligence,\u201d expressing deep misgivings about a world in which machines have surpassed human intelligence. While some dismissed his concerns as hyperbolic, his reflections on AI\u2019s lack of moral agency remain relevant. Thomas emphasized human fallibility as essential to creativity, learning, and ethical responsibility \u2014 qualities AI cannot replicate. While AI can assist us, the essence of wisdom and creation must remain a deeply human endeavor.</div>"
+      "image": "https://ai.nejm.org/cms/asset/18aa6402-273f-4c7d-9bf0-df8ba7ca2930/aip2500005_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence excels at complex data analytics, yet struggles with nuanced, sensorimotor tasks that humans perform almost effortlessly \u2014 a dichotomy encapsulated by Moravec\u2019s paradox. By strategically harnessing these complementary strengths, health care can usher in an era of collaborative intelligence, optimizing data-intensive workflows, such as clinical trial enrollment, and creating more patient-centric models of care.</div>"
     },
     {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500143",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500143",
-      "title": "When It Comes to Benchmarks, Humans Are the Only Way",
-      "summary": "Four recommendations for researchers to better evaluate large language models for clinical practice.",
-      "content_text": "## Abstract\n\nImproved performance of large language models (LLMs) on traditional reasoning\nassessments has led to benchmark saturation. This has spurred efforts to\ndevelop new benchmarks, including synthetic computational simulations of\nclinical practice involving multiple AI agents. We argue that it is crucial to\nground such efforts in extensive human validation. We conclude by providing\nfour recommendations for researchers to better evaluate LLMs for clinical\npractice.\n\n",
-      "date_published": "2025-03-25T00:00:00+00:00",
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401122",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401122",
+      "title": "Why Is Primary Care Different? Considerations for Machine Learning Development with Electronic Medical Record Data",
+      "summary": "This perspective explains how the unique nature of primary care translates to important differences in machine learning model development and adoption for clinical use. Four key considerations are presented to address the use of ML in primary care settings.",
+      "content_text": "## Abstract\n\nPrimary care is the foundation of the health care system and a core driver of\npopulation health. Machine learning (ML) has the potential to enhance primary\ncare by improving efficiency, quality, and accessibility, but ML development\nand implementation in primary care remains limited compared with other medical\nspecialties. There are rich opportunities for collaboration and activity in\nthis area. Effective integration requires methods tailored to the unique\ncharacteristics of primary care, including its core functions \u2014 first contact,\ncomprehensiveness, coordination, and continuity \u2014 as well as the distinct\nnature of electronic medical record data. Key considerations include using\nrepresentative primary care data, constructing cohorts that reflect whole-\nperson care, aligning target outcomes with primary care objectives, and\ndeveloping validation strategies suited to decentralized clinical settings.\nAddressing these challenges requires interdisciplinary collaboration and\nincreased investment in primary care-specific ML research. Optimizing ML for\nprimary care could enhance clinical decision-making, improve patient outcomes,\nand drive meaningful innovation in health care.\n\n",
+      "date_published": "2025-04-24T00:00:00+00:00",
       "authors": [
         {
-          "name": "A. Rodman and Others"
+          "name": "J.K. Kueper and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401122",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Primary care is the foundation of the health care system and a core driver of population health. Machine learning (ML) has the potential to enhance primary care by improving efficiency, quality, and accessibility, but ML development and implementation in primary care remains limited compared with other medical specialties. There are rich opportunities for collaboration and activity in this area. Effective integration requires methods tailored to the unique characteristics of primary care, including its core functions \u2014 first contact, comprehensiveness, coordination, and continuity \u2014 as well as the distinct nature of electronic medical record data. Key considerations include using representative primary care data, constructing cohorts that reflect whole-person care, aligning target outcomes with primary care objectives, and developing validation strategies suited to decentralized clinical settings. Addressing these challenges requires interdisciplinary collaboration and increased investment in primary care-specific ML research. Optimizing ML for primary care could enhance clinical decision-making, improve patient outcomes, and drive meaningful innovation in health care.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401116",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401116",
+      "title": "Challenges in the Postmarket Surveillance of Clinical Prediction Models",
+      "summary": "This paper discusses the challenges of postdeployment assessment of predictive artificial intelligence (AI) models in health care, particularly how confounding medical interventions can distort performance evaluation. It explores current limitations in monitoring strategies and suggests advanced causal modeling as a potential solution to ensure that AI models remain effective in dynamic clinical settings.",
+      "content_text": "## Abstract\n\nPredictive artificial intelligence (AI) models enhance clinical workflows with\napplications such as prognostication and decision support, yet suffer from\npostdeployment performance challenges due to dataset shifts. Regulatory\nguidelines emphasize the need for continuous monitoring, but actionable\nstrategies are lacking. A significant issue is postdeployment assessment of\npredictive AI models due to confounding medical interventions where effective\ninterventions modify outcomes, introducing bias into performance assessment.\nThis can falsely suggest model decay, leading to unwarranted updates or\ndecommissioning, harming clinical outcomes.\n\nProposed solutions include withholding model outputs, monitoring outcomes as\nsurrogates, or including clinician interventions in models, each with ethical\nor practical limitations. The lack of effective solutions for this problem can\nlead to an abundance of models that cannot be later evaluated, tuned, or\nwithdrawn if they become ineffective, leading to patient harm. Advanced causal\nmodeling to assess counterfactual outcomes may offer a reliable validation\nmethod. Until effective methods for postdeployment monitoring of predictive\nmodels are developed and validated, decisions on model updates should consider\nthe causal pathways and be evidence based, ensuring the sustained utility of\nAI models in dynamic clinical environments.\n\n",
+      "date_published": "2025-04-24T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "S. Ansari and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401116",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/58aef956-e171-4b04-8a14-e4bbc32e8040/aip2401116_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Predictive artificial intelligence (AI) models enhance clinical workflows with applications such as prognostication and decision support, yet suffer from postdeployment performance challenges due to dataset shifts. Regulatory guidelines emphasize the need for continuous monitoring, but actionable strategies are lacking. A significant issue is postdeployment assessment of predictive AI models due to confounding medical interventions where effective interventions modify outcomes, introducing bias into performance assessment. This can falsely suggest model decay, leading to unwarranted updates or decommissioning, harming clinical outcomes.</div><div role=\"paragraph\">Proposed solutions include withholding model outputs, monitoring outcomes as surrogates, or including clinician interventions in models, each with ethical or practical limitations. The lack of effective solutions for this problem can lead to an abundance of models that cannot be later evaluated, tuned, or withdrawn if they become ineffective, leading to patient harm. Advanced causal modeling to assess counterfactual outcomes may offer a reliable validation method. Until effective methods for postdeployment monitoring of predictive models are developed and validated, decisions on model updates should consider the causal pathways and be evidence based, ensuring the sustained utility of AI models in dynamic clinical environments.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401059",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401059",
+      "title": "Regulation of AI: Learnings from Medical Education",
+      "summary": "This perspective draws parallels between artificial intelligence (AI) regulation and competency-based medical education (CBME), an existing framework that addresses similar complexities in training human clinicians. The authors propose a CBME framework as a life-cycle approach to regulating AI in health care that offers a dynamic, continuous, and outcomes-based regulatory model to address the unique challenges posed by AI technologies.",
+      "content_text": "This perspective draws parallels between artificial intelligence (AI) regulation and competency-based medical education (CBME), an existing framework that addresses similar complexities in training human clinicians. The authors propose a CBME framework as a life-cycle approach to regulating AI in health care that offers a dynamic, continuous, and outcomes-based regulatory model to address the unique challenges posed by AI technologies.",
+      "date_published": "2025-04-24T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "K.N. Vokinger, D.R. Soled, and R.-E.E. Abdulnour"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401059",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/74ec29df-fda9-4363-a666-d53a4539bbdd/aip2401059_f1.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400703",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400703",
+      "title": "Longitudinal Risk Prediction for Pediatric Glioma with Temporal Deep Learning",
+      "summary": "This study describes the development and application of a self-supervised deep-learning approach called temporal learning for analyzing longitudinal medical imaging. It demonstrates that temporal learning improves longitudinal, imaging-based recurrence prediction in pediatric gliomas, and that performance increases incrementally with the number of historical scans available to the algorithm.",
+      "content_text": "This study describes the development and application of a self-supervised deep-learning approach called temporal learning for analyzing longitudinal medical imaging. It demonstrates that temporal learning improves longitudinal, imaging-based recurrence prediction in pediatric gliomas, and that performance increases incrementally with the number of historical scans available to the algorithm.",
+      "date_published": "2025-04-24T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "D. Tak and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400703",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/79a26797-4e7a-4570-8a67-8e26d478314c/aioa2400703_f4.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400421",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400421",
+      "title": "Calibration of ECG-Based Deep-Learning Algorithm Scores for Patients Flagged as High Risk for Hypertrophic Cardiomyopathy",
+      "summary": "This study finds that an out-of-the-box risk classification by a U.S. Food and Drug Administration\u2013cleared artificial intelligence\u2013enabled algorithm for identifying hypertrophic cardiomyopathy from electrocardiograms can have a low predictive value when used for diagnosis in a screened population. Calibrated model scores approximate the probability of disease among those flagged and can both improve the interpretability of model outputs and inform decision-making about subsequent follow-up.",
+      "content_text": "This study finds that an out-of-the-box risk classification by a U.S. Food and Drug Administration\u2013cleared artificial intelligence\u2013enabled algorithm for identifying hypertrophic cardiomyopathy from electrocardiograms can have a low predictive value when used for diagnosis in a screened population. Calibrated model scores approximate the probability of disease among those flagged and can both improve the interpretability of model outputs and inform decision-making about subsequent follow-up.",
+      "date_published": "2025-04-24T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J. Lampert and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400421",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400421_Lampert-1745497839993.jpg"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500297",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500297",
+      "title": "Model Calibration, Interpretability, and Decision-Making with AI-Based Risk Scores",
+      "summary": "Unpacking an important application of model calibration for an out-of-the-box artificial intelligence algorithm used to flag patients who are at high risk for hypertrophic cardiomyopathy, this article explains the use of calibrated scores for patient-level decision-making.",
+      "content_text": "Unpacking an important application of model calibration for an out-of-the-box artificial intelligence algorithm used to flag patients who are at high risk for hypertrophic cardiomyopathy, this article explains the use of calibrated scores for patient-level decision-making.",
+      "date_published": "2025-04-24T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J.W. Hogan and V.L. Murthy"
         }
       ],
       "tags": [
@@ -186,22 +161,21 @@
       ],
       "attachments": [
         {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500143",
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500297",
           "mime_type": "application/pdf"
         }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Improved performance of large language models (LLMs) on traditional reasoning assessments has led to benchmark saturation. This has spurred efforts to develop new benchmarks, including synthetic computational simulations of clinical practice involving multiple AI agents. We argue that it is crucial to ground such efforts in extensive human validation. We conclude by providing four recommendations for researchers to better evaluate LLMs for clinical practice.</div>"
+      ]
     },
     {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400977",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400977",
-      "title": "Quality Assurance during the Rapid Implementation of an AI-Assisted Clinical Documentation Support Tool",
-      "summary": "A rapid quality assurance process with early deployment of an AI-assisted clinical documentation support tool in an integrated delivery system uses multiple workstreams and crowdsourced data to inform decisions regarding continued system deployment, design user training materials, and provide feedback to the vendor.",
-      "content_text": "## Abstract\n\nWe describe a quality assurance evaluation process undertaken during the\ndeployment of an artificial intelligence (AI)\u2013assisted clinical documentation\nsupport tool throughout a large integrated delivery system. AI clinical\ndocumentation support tools have improved dramatically with the latest\ngeneration of large language models but have not been used in the variety of\nclinical specialties, geographic settings, and real-world situations available\nto large care delivery systems. In parallel with our deployment process, a\nsmall evaluation team assessed the level of risk for planned use cases,\nmodified existing approaches, and leveraged the deployment teams and early\nadopters to provide a robust viewpoint on the technology through crowdsourced\ndata and both quantitative and qualitative approaches. The results of the\nevaluation were used to modify training, provide feedback to the vendor, stage\ndeployment, and transition to postdeployment monitoring.\n\n",
-      "date_published": "2025-03-25T00:00:00+00:00",
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2401008",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2401008",
+      "title": "Clinical Deployment of Real-Time Left Ventricular Ejection Fraction Estimation from Coronary Angiography",
+      "summary": "This study evaluates the CathEF deep-learning algorithm, which estimates left ventricular ejection fraction directly from routine left coronary angiograms in acute coronary syndrome patients, eliminating the need for additional contrast or catheterization. The study found that CathEF achieved diagnostic performance comparable to ventriculography, although its accuracy was lower in patients with ST-elevation myocardial infarction or right coronary artery involvement.",
+      "content_text": "This study evaluates the CathEF deep-learning algorithm, which estimates left ventricular ejection fraction directly from routine left coronary angiograms in acute coronary syndrome patients, eliminating the need for additional contrast or catheterization. The study found that CathEF achieved diagnostic performance comparable to ventriculography, although its accuracy was lower in patients with ST-elevation myocardial infarction or right coronary artery involvement.",
+      "date_published": "2025-04-24T00:00:00+00:00",
       "authors": [
         {
-          "name": "C.H. Cain and Others"
+          "name": "P. Th\u00e9riault-Lauzier and Others"
         }
       ],
       "tags": [
@@ -209,12 +183,33 @@
       ],
       "attachments": [
         {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400977",
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2401008",
           "mime_type": "application/pdf"
         }
       ],
-      "image": "https://ai.nejm.org/cms/asset/be6cc6e6-7722-40a9-bec2-b9772c9b6ea0/aics2400977_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">We describe a quality assurance evaluation process undertaken during the deployment of an artificial intelligence (AI)\u2013assisted clinical documentation support tool throughout a large integrated delivery system. AI clinical documentation support tools have improved dramatically with the latest generation of large language models but have not been used in the variety of clinical specialties, geographic settings, and real-world situations available to large care delivery systems. In parallel with our deployment process, a small evaluation team assessed the level of risk for planned use cases, modified existing approaches, and leveraged the deployment teams and early adopters to provide a robust viewpoint on the technology through crowdsourced data and both quantitative and qualitative approaches. The results of the evaluation were used to modify training, provide feedback to the vendor, stage deployment, and transition to postdeployment monitoring.</div>"
+      "image": "https://ai.nejm.org/cms/asset/c97740f9-4b4d-484e-bb17-c57ccf06edf9/aics2401008_f2.gif"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2401164",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2401164",
+      "title": "The Use of Artificial Intelligence for Cancer Therapeutic Decision-Making",
+      "summary": "This review examines the evolving role of artificial intelligence (AI) in oncology, particularly in radiology and pathology, and treatment selection using large language models. It highlights key challenges \u2014 such as data quality, model validation, and clinical integration \u2014 and proposes strategies to overcome them to support the effective adoption of AI to improve cancer care and patient outcomes.",
+      "content_text": "This review examines the evolving role of artificial intelligence (AI) in oncology, particularly in radiology and pathology, and treatment selection using large language models. It highlights key challenges \u2014 such as data quality, model validation, and clinical integration \u2014 and proposes strategies to overcome them to support the effective adoption of AI to improve cancer care and patient outcomes.",
+      "date_published": "2025-04-17T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "O. Elemento, S. Khozin, and C.N. Sternberg"
+        }
+      ],
+      "tags": [
+        "Review Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2401164",
+          "mime_type": "application/pdf"
+        }
+      ]
     }
   ]
 }
