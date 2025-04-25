@@ -4,27 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831831",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831831",
-            "title": "Regulation of Health and Health Care Artificial Intelligence",
-            "summary": "This Viewpoint discusses prospects for populating the regulatory landscape for health and health care AI in the coming years.",
-            "content_text": "This Viewpoint discusses prospects for populating the regulatory landscape for health and health care AI in the coming years.",
-            "date_published": "2025-03-17T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830241",
+            "title": "Trusting Health Care Systems to Use Artificial Intelligence",
+            "summary": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "content_text": "Do patients trust their health care systems to use artificial intelligence (AI) responsibly? Not really, according to Nong et al. 1 Their nationally representative survey suggests that people do not have much trust in how their health care system might use AI and that those who already distrust the health care system are even more likely to be wary about its use of AI.",
+            "date_published": "2025-02-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Michelle M. Mello, JD, PhD, MPhil"
+                    "name": "Jessica S. Ancker, MPH, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "artificial intelligence",
+                "health care systems",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831831/jama_mello_2025_vp_250032_1741965704.56156.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830241/ancker_2025_ic_240370_1738862720.98597.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
