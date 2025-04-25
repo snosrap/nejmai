@@ -4,28 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
-            "title": "Prospects for Artificial Intelligence in Health Policy and Practice",
-            "summary": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
-            "content_text": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
-            "date_published": "2025-03-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831831",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831831",
+            "title": "Regulation of Health and Health Care Artificial Intelligence",
+            "summary": "This Viewpoint discusses prospects for populating the regulatory landscape for health and health care AI in the coming years.",
+            "content_text": "This Viewpoint discusses prospects for populating the regulatory landscape for health and health care AI in the coming years.",
+            "date_published": "2025-03-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "John Z. Ayanian, MD, MPP"
+                    "name": "Michelle M. Mello, JD, PhD, MPhil"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831207/ayanian_2025_en_250001_1741789307.15754.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831831/jama_mello_2025_vp_250032_1741965704.56156.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
