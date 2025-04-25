@@ -4,40 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
-            "title": "2024 Year in Review and Looking to 2025",
-            "summary": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
-            "content_text": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
-            "date_published": "2025-04-23T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "title": "Prospects for Artificial Intelligence in Health Policy and Practice",
+            "summary": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "content_text": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "date_published": "2025-03-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Kirsten Bibbins-Domingo, PhD, MD, MAS"
+                    "name": "John Z. Ayanian, MD, MPP"
                 }
             ],
             "tags": [
-                "acetaminophen",
-                "alzheimer's disease",
                 "artificial intelligence",
-                "autistic disorder",
-                "biological markers",
-                "breast neoplasm screening",
-                "malignant neoplasm of thyroid",
-                "non-small cell lung carcinoma",
-                "pediatric discipline",
-                "podcasts as topic",
-                "pregnancy",
-                "sepsis",
-                "septic shock",
-                "united states preventive services task force"
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833206/jama_bibbinsdomingo_2025_ed_250023_1744903550.99998.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831207/ayanian_2025_en_250001_1741789307.15754.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jed250023t1_1744903551.0875.png?Expires=2147483647&Signature=shyK2k19pa64Yftx4T8NpcvKye62hFX1B~A2kQW4UZ2HqZYchTPbChroD8NvopNmEMHKn2ZW0bZm3WXgxHiBBcfki2bkS-mmUW~ZPD~h1HkB-cdasQSN41NRUwoJgIhslLPqD~aKJvb~QZzqBLOh66JddKXEsdO5-Z2FDxJeF08uEfyRN2hogdObIKyVm7cCeQwPFgqDxOtGF5~XQXEH76-NKtuVis~GWju6p2ck1LXfrIcVMx4RVt~OAmoxCzsddxlarx6gdEPoanD3akD-y1~4bsE53paOBQ52kiO0K5c2YZLn9PdBXqoTuxZLOzCpmRff8F6F8Bq81hiLde50OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
