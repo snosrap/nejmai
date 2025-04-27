@@ -4,30 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2832211",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2832211",
+            "title": "Perspectives on AI and Novel Technologies Among Older Adults, Clinicians, Payers, Investors, and Developers",
+            "summary": "This qualitative interview study examines the priorities and suggested applications for artificial intelligence (AI) and novel technologies for older adults among key partners including older adults, caregivers, clinicians, payers, investors, and technology developers.",
+            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) and novel technologies, such as remote sensors, robotics, and decision support algorithms, offer the potential for improving the health and well-being of older adults, but the priorities of key partners across the technology innovation continuum are not well understood.</p><h3>Objective</h3><p>To examine the priorities and suggested applications for AI and novel technologies for older adults among key partners.</p><h3>Design, Setting, and Participants</h3><p>This qualitative study comprised individual interviews using grounded theory conducted from May 24, 2023, to January 24, 2024. Recruitment occurred via referrals through the Johns Hopkins Artificial Intelligence and Technology Collaboratory for Aging Research. Participants included adults aged 60 years or older or their caregivers, clinicians, leaders in health systems or insurance plans (ie, payers), investors, and technology developers.</p><h3>Main Outcomes and Measures</h3><p>To assess priority areas, older adults, caregivers, clinicians, and payers were asked about the most important challenges faced by older adults and their caregivers, and investors and technology developers were asked about the most important opportunities associated with older adults and technology. All participants were asked for suggestions regarding AI and technology applications. Payers, investors, and technology developers were asked about end user engagement, and all groups except technology developers were asked about suggestions for technology development. Interviews were analyzed using qualitative thematic analysis. Distinct priority areas were identified, and the frequency and type of priority areas were compared by participant groups to assess the extent of overlap in priorities across groups.</p><h3>Results</h3><p>Participants included 15 older adults or caregivers (mean age, 71.3 years [range, 65-93 years]; 4 men [26.7%]), 15 clinicians (mean age, 50.3 years [range, 33-69 years]; 8 men [53.3%]), 8 payers (mean age, 51.6 years [range, 36-65 years]; 5 men [62.5%]), 5 investors (mean age, 42.4 years [range, 31-56 years]; 5 men [100%]), and 6 technology developers (mean age, 42.0 years [range, 27-62 years]; 6 men [100%]). There were different priorities across key partners, with the most overlap between older adults or caregivers and clinicians and the least overlap between older adults or caregivers and investors and technology developers. Participants suggested novel applications, such as using reminders for motivating self-care or social engagement. There were few to no suggestions that addressed activities of daily living, which was the most frequently reported priority for older adults or caregivers. Although all participants agreed on the importance of engaging end users, engagement challenges included regulatory barriers and stronger influence of payers relative to other end users.</p><h3>Conclusions and Relevance</h3><p>This qualitative interview study found important differences in priorities for AI and novel technologies for older adults across key partners. Public health, regulatory, and advocacy strategies are needed to raise awareness about these priorities, foster engagement, and align incentives to effectively use AI to improve the health of older adults.</p>",
+            "date_published": "2025-04-04T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "I. Glenn Cohen, JD"
+                    "name": "Nancy L. Schoenborn, MD, MHS"
                 }
             ],
             "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
+                "artificial intelligence",
+                "caregiver",
+                "elderly",
+                "healthcare payer",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2832211/schoenborn_2025_oi_250166_1743011242.25587.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250166f1_1743011242.4189.png?Expires=2147483647&Signature=SII39QqZMRGw1sh9SNvcnDXSAcY3eFhzZwsaprJe3fwAHI88G~aXLdU9IiB8o8W0mlMV4YijX72qut~wEodEkEoLCnqgHXbNeWgpwvgVztY6g-zPimW7XRIPcNpJpziOsbbLIMPb1O52G~QT9c~H5JlolEgZQroKecdsORCyBbBNK63-MQryZ9RSliCH93RTxuNOIDKkxtVlS70-FJaHTYnrV4ZpAsylFPCLPIQOkOpOnHvEO3K4h8EDfW4kYaPL3IoWifExLf5pYJ-yHSgDbJOWC22PxVV8CdgOsMBzJyYlZkOER7eM4bD-uzrzr0KpreebzqACssEbXkNARSb2NQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
