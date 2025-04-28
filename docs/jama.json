@@ -4,31 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
-            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
-            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
-            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
-            "date_published": "2024-12-03T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833045",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833045",
+            "title": "NIH Caps Indirect Cost Rates",
+            "summary": "JAMA readers are well aware that on February 7, 2025, the National Institutes of Health (NIH) issued a Rate Change Notice , which set indirect cost rates for NIH grants at 15%. This rate is substantially lower than traditional rates, which are often at levels of 30% to 60% or more. Each research university negotiates its individual indirect rate with the NIH.",
+            "content_text": "JAMA readers are well aware that on February 7, 2025, the National Institutes of Health (NIH) issued a Rate Change Notice , which set indirect cost rates for NIH grants at 15%. This rate is substantially lower than traditional rates, which are often at levels of 30% to 60% or more. Each research university negotiates its individual indirect rate with the NIH.",
+            "date_published": "2025-04-16T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Adam B. Landman, MD"
+                    "name": "Gregory Curfman, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "emergency medicine (field)",
-                "emergency service",
-                "hospital",
-                "transition of care"
+                "facilities and administrative costs"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833045/jama_curfman_2025_en_250001_1744661957.23994.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
