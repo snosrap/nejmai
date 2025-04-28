@@ -4,26 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831705",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831705",
-            "title": "Closing Gaps in Diabetic Retinopathy Screening in India Using a Deep Learning System",
-            "summary": "Diabetes is a global concern that is expected to affect 600 million people worldwide by 2040. 1 More than 3 in 4 individuals with diabetes live in low- and middle-income countries such as India, where an estimated 77 million individuals have diabetes and 12.5% of those with diabetes have diabetic retinopathy (DR). 2 Diabetic macular edema (DME), severe nonproliferative DR (NPDR), and proliferative DR (PDR) are severe stages of DR that can result in visual impairment or blindness if left untreated; these stages are estimated to affect 3 million people 40 years or older in India. 2 To prevent vision loss from DR, it is important to implement screening programs at a community level or nationally for all patients living with diabetes, and refer, in a timely fashion, those with severe levels of DR. 1 Scarcity of ophthalmologists and optometrists who can provide these screenings, lack of patient awareness, difficulty for patients to get to these eye appointments, and lack of appropriate equipment, support staff and resources are some of the challenges that limit adherence to national screening guidelines. 1 Even telemedicine programs have been beset by the lack of availability of trained professionals who can grade the images.",
-            "content_text": "Diabetes is a global concern that is expected to affect 600 million people worldwide by 2040. 1 More than 3 in 4 individuals with diabetes live in low- and middle-income countries such as India, where an estimated 77 million individuals have diabetes and 12.5% of those with diabetes have diabetic retinopathy (DR). 2 Diabetic macular edema (DME), severe nonproliferative DR (NPDR), and proliferative DR (PDR) are severe stages of DR that can result in visual impairment or blindness if left untreated; these stages are estimated to affect 3 million people 40 years or older in India. 2 To prevent vision loss from DR, it is important to implement screening programs at a community level or nationally for all patients living with diabetes, and refer, in a timely fashion, those with severe levels of DR. 1 Scarcity of ophthalmologists and optometrists who can provide these screenings, lack of patient awareness, difficulty for patients to get to these eye appointments, and lack of appropriate equipment, support staff and resources are some of the challenges that limit adherence to national screening guidelines. 1 Even telemedicine programs have been beset by the lack of availability of trained professionals who can grade the images.",
-            "date_published": "2025-03-19T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827336",
+            "title": "Artificial Intelligence\u2013Generated Emergency Department Summaries and Hospital Handoffs",
+            "summary": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "content_text": "Artificial intelligence (AI) holds significant promise for enhancing quality, safety, efficiency, experience, and equity in health care delivery. Since the widespread release of large language models (LLMs) in late 2022, their capabilities to summarize complex text, extract structured data, and generate new content have fueled growing interest and hype around AI in health care. While applications of LLMs for clinical documentation, drafting in-basket messages, and summarizing patient encounters are emerging, comprehensive evaluations of their validity and impact remain limited, especially when compared with clinician-generated content, the current standard of care. Even less examined are discussions of AI use in acute care settings.",
+            "date_published": "2024-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Sally S. Ong, MD"
+                    "name": "Adam B. Landman, MD"
                 }
             ],
             "tags": [
-                "deep learning",
-                "diabetic retinopathy screening",
-                "india",
-                "ophthalmology specialty"
+                "artificial intelligence",
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
+                "transition of care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831705/ong_2025_ic_250026_1741798617.75359.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2827336/landman_2024_ic_240307_1732208195.9056.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
