@@ -4,29 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832967",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832967",
+            "title": "Exploring Detection Methods for Synthetic Medical Datasets Created With a Large Language Model",
+            "summary": "This quality improvement study investigates the limits of generative artificial intelligence by using a large language model to create synthetic datasets and forensic analysis to identify statistical patterns that may suggest fabrication.",
+            "content_html": "<h3>Importance</h3><p>Recently, it was proved that the large language model Generative Pre-trained Transformer 4 (GPT-4; OpenAI) can fabricate synthetic medical datasets designed to support false scientific evidence.</p><h3>Objective</h3><p>To uncover statistical patterns that may suggest fabrication in datasets produced by large language models and to improve these synthetic datasets by attempting to remove detectable marks of nonauthenticity, investigating the limits of generative artificial intelligence.</p><h3>Design, Setting, and Participants</h3><p>In this quality improvement study, synthetic datasets were produced for 3 fictional clinical studies designed to compare the outcomes of 2 alternative treatments for specific ocular diseases. Synthetic datasets were produced using the default GPT-4o model and a custom GPT. Data fabrication was conducted in November 2024.</p><h3>Exposure</h3><p>Prompts were submitted to GPT-4o to produce 12 \u201cunrefined\u201d datasets, which underwent forensic examination. Based on the outcomes of this analysis, the custom GPT Synthetic Data Creator was built with detailed instructions to generate 12 \u201crefined\u201d datasets designed to evade authenticity checks. Then, forensic analysis was repeated on these enhanced datasets.</p><h3>Main Outcomes and Measures</h3><p>Forensic analysis was performed to identify statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Datasets were also qualitatively assessed for the presence of unrealistic clinical records.</p><h3>Results</h3><p>Forensic analysis identified 103 fabrication marks among 304 tests (33.9%) in unrefined datasets. Notable flaws included mismatch between patient names and gender (n\u2009=\u200912), baseline visits occurring during weekends (n\u2009=\u200912), age calculation errors (n\u2009=\u20099), lack of uniformity (n\u2009=\u20094), and repetitive numerical patterns in last digits (n\u2009=\u20097). Very weak correlations (<i>r</i>\u2009&lt;\u20090.1) were observed between study variables (n\u2009=\u200912). In addition, variables showed a suspicious distribution shape (n\u2009=\u20096). Compared with unrefined datasets, refined ones showed 29.3% (95% CI, 23.5%-35.1%) fewer signs of fabrication (14 of 304 statistical tests performed [4.6%]). Four refined datasets passed forensic analysis as authentic; however, suspicious distribution shape or other issues were found in others.</p><h3>Conclusions and Relevance</h3><p>Sufficiently sophisticated custom GPTs can perform complex statistical tasks and may be abused to fabricate synthetic datasets that can pass forensic analysis as authentic.</p>",
+            "date_published": "2025-04-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Andrea Taloni, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "generative artificial intelligence",
+                "large language models",
+                "quality improvement"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1734644557.58026.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2832967/jamaophthalmology_taloni_2025_br_250001_1744385831.63765.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/ebr250001t1_1744385831.78341.png?Expires=2147483647&Signature=3jJ39YCObbjoC9D~Kn4jCy-ZUirMdxcTDiLPgQezuVBFgy-ZhNiujZ7Ws8ybhZ5y0jExK6TrTYvYMyUpszS1PHnapmzDVJeGvJWo4ncZP~weNKy-aasTWrMCM3u5ga0C3jasX9mveZNJVMczEoJY6NqWdt1vV1n8PZW~HwXktmronfjkEJ7va2vs~R0xbNcQVyj49irl1HwK9ygyf4CjgIrQPCRaV1Xk97GgYu6Mfx304M0K3ovKEmGfTQaKidV0gWPPXt8OuTxJBWSRrHG4GL6PKu2m4NV~fguHeht5P2tDuOAysjmirakGGTQPH9uta~~uvou4UYgKalOekLBd0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
