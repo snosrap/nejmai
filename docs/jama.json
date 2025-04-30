@@ -4,31 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
-            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "date_published": "2025-03-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830682",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830682",
+            "title": "Regulation of Artificial Intelligence in Health Care and Biomedicine",
+            "summary": "To the Editor A recent Special Communication provided a detailed, succinct discussion on the regulatory challenges presented by the increasing use of artificial intelligence (AI) in health care. 1 However, we are compelled to point out the critical need for patient and caregiver involvement in creating safeguards for technologies that will ultimately affect the quality of care they receive.",
+            "content_text": "To the Editor A recent Special Communication provided a detailed, succinct discussion on the regulatory challenges presented by the increasing use of artificial intelligence (AI) in health care. 1 However, we are compelled to point out the critical need for patient and caregiver involvement in creating safeguards for technologies that will ultimately affect the quality of care they receive.",
+            "date_published": "2025-02-20T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Shefali V. Patil, PhD"
+                    "name": "Nikhil Jaiswal, BSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "calibration",
-                "decision making",
-                "health policy",
-                "personal satisfaction"
+                ""
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830682/jama_jaiswal_2025_le_240178_1741284949.78347.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
