@@ -4,27 +4,40 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2830682",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2830682",
-            "title": "Regulation of Artificial Intelligence in Health Care and Biomedicine",
-            "summary": "To the Editor A recent Special Communication provided a detailed, succinct discussion on the regulatory challenges presented by the increasing use of artificial intelligence (AI) in health care. 1 However, we are compelled to point out the critical need for patient and caregiver involvement in creating safeguards for technologies that will ultimately affect the quality of care they receive.",
-            "content_text": "To the Editor A recent Special Communication provided a detailed, succinct discussion on the regulatory challenges presented by the increasing use of artificial intelligence (AI) in health care. 1 However, we are compelled to point out the critical need for patient and caregiver involvement in creating safeguards for technologies that will ultimately affect the quality of care they receive.",
-            "date_published": "2025-02-20T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
+            "title": "2024 Year in Review and Looking to 2025",
+            "summary": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
+            "content_text": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
+            "date_published": "2025-04-23T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Nikhil Jaiswal, BSc"
+                    "name": "Kirsten Bibbins-Domingo, PhD, MD, MAS"
                 }
             ],
             "tags": [
-                ""
+                "acetaminophen",
+                "alzheimer's disease",
+                "artificial intelligence",
+                "autistic disorder",
+                "biological markers",
+                "breast neoplasm screening",
+                "malignant neoplasm of thyroid",
+                "non-small cell lung carcinoma",
+                "pediatric discipline",
+                "podcasts as topic",
+                "pregnancy",
+                "sepsis",
+                "septic shock",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2830682/jama_jaiswal_2025_le_240178_1741284949.78347.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833206/jama_bibbinsdomingo_2025_ed_250023_1744903550.99998.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jed250023t1_1744903551.0875.png?Expires=2147483647&Signature=shyK2k19pa64Yftx4T8NpcvKye62hFX1B~A2kQW4UZ2HqZYchTPbChroD8NvopNmEMHKn2ZW0bZm3WXgxHiBBcfki2bkS-mmUW~ZPD~h1HkB-cdasQSN41NRUwoJgIhslLPqD~aKJvb~QZzqBLOh66JddKXEsdO5-Z2FDxJeF08uEfyRN2hogdObIKyVm7cCeQwPFgqDxOtGF5~XQXEH76-NKtuVis~GWju6p2ck1LXfrIcVMx4RVt~OAmoxCzsddxlarx6gdEPoanD3akD-y1~4bsE53paOBQ52kiO0K5c2YZLn9PdBXqoTuxZLOzCpmRff8F6F8Bq81hiLde50OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
