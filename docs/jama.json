@@ -4,38 +4,40 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "title": "Clinical Trial Notifications Triggered by Artificial Intelligence\u2013Detected Cancer Progression: A Randomized",
-            "summary": "This randomized trial examines whether notifying oncologists about genomically targeted clinical trials for eligible patients identified by artificial intelligence (AI) affects clinical trial participation.",
-            "content_html": "<h3>Importance</h3><p>Historically, fewer than 10% of adults with cancer have enrolled in clinical trials. Computational tools have been developed to match patients to trials, but these tools are relevant only when patients need new treatment.</p><h3>Objective</h3><p>To evaluate whether notifying oncologists about genomically targeted clinical trials for patients with cancer progression, as detected by artificial intelligence (AI), impacts clinical trial participation.</p><h3>Design, Setting, and Participants</h3><p>This single-center randomized trial was conducted from January 30, 2023, to June 30, 2024, at a tertiary academic cancer center. Participants were patients aged at least 18 years in a precision oncology clinical trial matching database who had solid tumors that underwent next-generation sequencing from July 2013 to December 2022, and were alive as of January 30, 2023.</p><h3>Intervention</h3><p>Patients were randomly assigned 2:1 to the intervention or control arm. In the intervention arm, when patients had cancer progression and an elevated probability of starting new treatment based on AI applied to their imaging reports, notifications about genomically matched clinical trials were sent to their oncologists. In the control arm, no such notifications were sent.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was enrollment in any therapeutic clinical trial. Prespecified secondary outcomes included consent to any therapeutic trial, consent and enrollment among patients ever ascertained as trial ready, the proportion of new systemic therapies that were given as part of clinical trials, and survey responses from clinicians who received notifications.</p><h3>Results</h3><p>Of 20\u202f707 patients randomized (57.26% female; median age at the time of sequencing, 60 years [IQR, 50-69 years]), 13\u202f802 were randomized to the intervention arm and 6905 to the control arm. The intervention had no significant impact on the trial enrollment rate (intervention, 2.20% [95% CI, 1.97%-2.46%]; control, 2.03% [95% CI, 1.72%-2.39%]; difference, 0.18 [95% CI, \u22120.25 to 0.58] percentage points;<i>P</i>\u2009=\u2009.41). Similarly, there were no significant differences in trial enrollment between the intervention and control arms among the 2127 patients ever ascertained as trial ready (18.05% [95% CI, 16.15%-20.12%] vs 18.50% [95% CI, 15.78%-21.56%]; difference, \u22120.45 [95% CI, \u22124.01 to 3.02] percentage points;<i>P</i>\u2009=\u2009.80) or among the 2036 patients who ever started new systemic therapy (22.67% [95% CI, 20.51%-24.99%] vs 20.14% [95% CI, 17.33%-23.29%]; difference, 2.53 [95% CI, \u22121.25 to 6.21] percentage points;<i>P</i>\u2009=\u2009.19).</p><h3>Conclusions and Relevance</h3><p>In this randomized trial, prompting academic medical oncologists with information about genomically matched therapeutic clinical trials for patients with tumor progression based on AI interpretation of imaging reports did not increase therapeutic trial enrollment. The findings suggest that future use of AI to optimize enrollment in cancer clinical trials should include tasks beyond predicting treatment change and/or populations beyond those whose tumors have undergone comprehensive genetic sequencing.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06888089</p>",
-            "date_published": "2025-04-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
+            "title": "2024 Year in Review and Looking to 2025",
+            "summary": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
+            "content_text": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
+            "date_published": "2025-04-23T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tali Mazor, PhD"
+                    "name": "Kirsten Bibbins-Domingo, PhD, MD, MAS"
                 }
             ],
             "tags": [
-                "arm",
+                "acetaminophen",
+                "alzheimer's disease",
                 "artificial intelligence",
-                "diagnostic imaging",
-                "malignant neoplasms",
-                "massively-parallel sequencing",
-                "medical oncology specialty",
-                "neoplasms",
-                "oncologists",
-                "solid neoplasm",
-                "systemic therapy",
-                "treatment modification",
-                "tumor progression"
+                "autistic disorder",
+                "biological markers",
+                "breast neoplasm screening",
+                "malignant neoplasm of thyroid",
+                "non-small cell lung carcinoma",
+                "pediatric discipline",
+                "podcasts as topic",
+                "pregnancy",
+                "sepsis",
+                "septic shock",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833029/mazor_2025_oi_250122_1744660364.2066.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833206/jama_bibbinsdomingo_2025_ed_250023_1744903550.99998.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250122f1_1744660364.87438.png?Expires=2147483647&Signature=fOIc4sJTuDUyBgv95IyapvhsmpVo2M1hFb3t9hPQCxYCwtXbUqGxhFZMAEIF8nwzMR047ofzaMcCDyG8ic6YmxQaBLrKJwMiVUMXopB9DYsfCe8MB~2QxJKGt5WRDoLAcLHFZPaU4WB4ef95mgM4mG2-lHCl57MPIQmyWouRP2svS-0iWv-l~qqy95rip2wlf~6HFlwB3sLlkMlVSy7kh-qAyIvYYCmTNMaRusUkf3BUWYGV4bdPEg~pi7PLWFhrdruNubwR2wj3UB0-1UpK8Fvy4QjGz5V43mbmOp9k38kJ7SmI2eIHzMSBMT6-xNBXFoLMEGAHDXetMUwGDaJk8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jed250023t1_1744903551.0875.png?Expires=2147483647&Signature=shyK2k19pa64Yftx4T8NpcvKye62hFX1B~A2kQW4UZ2HqZYchTPbChroD8NvopNmEMHKn2ZW0bZm3WXgxHiBBcfki2bkS-mmUW~ZPD~h1HkB-cdasQSN41NRUwoJgIhslLPqD~aKJvb~QZzqBLOh66JddKXEsdO5-Z2FDxJeF08uEfyRN2hogdObIKyVm7cCeQwPFgqDxOtGF5~XQXEH76-NKtuVis~GWju6p2ck1LXfrIcVMx4RVt~OAmoxCzsddxlarx6gdEPoanD3akD-y1~4bsE53paOBQ52kiO0K5c2YZLn9PdBXqoTuxZLOzCpmRff8F6F8Bq81hiLde50OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
