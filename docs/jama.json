@@ -4,32 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2831500",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2831500",
-            "title": "3D Total-Body Photography in Patients at High Risk for Melanoma: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial compares usual care to usual care plus 3-dimensional total-body photography and sequential digital dermoscopy imaging for early detection of skin cancer in patients at high risk of melanoma.",
-            "content_html": "<h3>Importance</h3><p>Three-dimensional (3D) total-body photography (TBP) can support clinicians in monitoring and identifying changes to skin lesions in patients at high risk of melanoma.</p><h3>Objective</h3><p>To assess clinical outcomes between patients at high risk of melanoma receiving usual clinical care compared with those receiving usual care plus 3D TBP and sequential digital dermoscopy imaging (SDDI) every 6 months via teledermatology.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial was conducted at a research hospital in Brisbane, Australia, from April 2018 to October 2021, with adult patients (\u226518 years) at high risk of developing a primary or subsequent melanoma. Data analysis was conducted from March 2022 to June 2024.</p><h3>Intervention</h3><p>Usual care plus 3D-TBP in person and SDDI via teledermatology at baseline, 6, 12, 18, and 24 months. The control group continued usual care and completed online surveys every 6 months.</p><h3>Main Outcome Measures</h3><p>Number and rates of excisions and/or biopsies of lesions suggestive of melanoma, and results of histopathologic testing.</p><h3>Results</h3><p>The analysis included 314 participants (mean [SD] age, 51.6 [12.8] years; 194 females [62%]) who completed all of the study procedures (158 in the intervention and 156 in the control). In all, 1527 excisions (905 intervention and 622 in the control) were performed among 226 participants (122 intervention and 104 controls), with 67 (4%) histopathologically confirmed as melanoma and 402 (26%)\u2009as keratinocyte cancer (KC). The mean (SD) number of lesions of any type excised per person was significantly higher in the intervention (5.73 [6.77]; 95% CI, 4.66-6.79) compared to the control group (3.99 [5.72]; 95% CI, 3.08-4.89;<i>P</i>\u2009=\u2009.02). Fewer melanomas were detected among the intervention group compared with the control (24 [35%] vs 43 [64%], respectively), and therefore, a lower incidence rate: 2.03 (95% CI, 1.30-3.02) vs 3.62 (95% CI, 2.62-4.88), respectively. After 1 year of follow-up, the intervention had a lower, but not statistically significant, rate of melanoma per person: 0.08 (95% CI, 0.03-0.13) compared with 0.16 (95% CI, 0.08-0.25) in the control; an average of 0.86 (95% CI, 0.55-1.16) vs 0.42 (95% CI, 0.24-0.59) KCs per person; and 2.01 (95% CI, 1.50-2.51) vs 1.39 (95% CI, 0.98-1.82) excisions or biopsies per person, respectively.</p><h3>Conclusions and Relevance</h3><p>The results of this randomized clinical trial indicate that the addition of 3D-TPB and SDDI to usual care in a teledermatology setting without AI (artificial intelligence) increased the number and rate of skin excisions and biopsies performed. Further studies are required to compare teledermatology to usual care rather than adding it, and to study whether the use of AI can improve the teledermatology outcomes. Larger studies in multiple settings with a greater number of teledermatologists are needed. This study shows that conducting clinical trials in this setting is feasible.</p><h3>Trial Registration</h3><p>anzctr.org.auIdentifier:ACTRN12618000267257</p>",
-            "date_published": "2025-03-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
+            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "date_published": "2024-12-23T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "H. Peter Soyer, MD"
+                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
                 }
             ],
             "tags": [
-                "biopsy",
-                "dermoscopy",
-                "diagnostic imaging",
-                "excision",
-                "melanoma",
-                "photography"
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2831500/jamadermatology_soyer_2025_oi_250006_1741303122.08346.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1739806076.66736.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250006f1_1741303122.47762.png?Expires=2147483647&Signature=LZR4eoUR~ZK~Dyk9JI0xefvNXMnxMo4ziyDXIPqIo7N~abTV9OY4YFaXBQl72tGL6Va1VzZ~U0J4JqdPYDwvAAUSPwHn6qT40enoSqSNfucmS3K9zMSkMMR6NuNm-Z6A32CyvLVqAG0PBQ9MN7v6UOYle-xyCmJdi7ZA3wqOp4balXeyrK5gq6W02SbA8NSmi~-HjpWCr0ayW9hIMj8VQkQ2amwuor6~-HiA3Meanbu~ChXFjF09crB2cA-Z6GAEQ2cv0SF-2fe3Y~wf0sQLl~GnLVh347k8oQdHcSoj3nbTr2aUgOJ9eI3X0U3ZSBvvOpMDUhet3cM8XM97cP45~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
