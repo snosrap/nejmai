@@ -4,27 +4,36 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
-            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
-            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
-            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
-            "date_published": "2024-12-23T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2832554",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2832554",
+            "title": "Automated Deep Learning Phenotyping of Tricuspid Regurgitation in Echocardiography",
+            "summary": "This study describes the development and testing of a deep learning computer vision workflow for identifying color Doppler echocardiogram videos and characterizing tricuspid regurgitation presence and severity using cohorts from 2 sites.",
+            "content_html": "<h3>Importance</h3><p>Accurate assessment of tricuspid regurgitation (TR) is necessary for identification and risk stratification.</p><h3>Objective</h3><p>To design a deep learning computer vision workflow for identifying color Doppler echocardiogram videos and characterizing TR severity.</p><h3>Design, Setting, and Participants</h3><p>An automated deep learning workflow was developed using 47\u202f312 studies (2\u202f079\u202f898 videos) from Cedars-Sinai Medical Center (CSMC) between 2011 and 2021. Data analysis was performed in 2024. The pipeline was tested on a temporally distinct test set of 2462 studies (108\u202f138 videos) obtained in 2022 at CSMC and a geographically distinct cohort of 5549 studies (278\u202f377 videos) from Stanford Healthcare (SHC). Training and validation cohorts contained data from 31\u202f708 patients at CSMC receiving care between 2011 and 2021. Patients were chosen for parity across TR severity classes, with no exclusion criteria based on other clinical or demographic characteristics. The 2022 CSMC test cohort and SHC test cohorts contained studies from 2170 patients and 5014 patients, respectively.</p><h3>Exposure</h3><p>Deep learning computer vision model.</p><h3>Main Outcomes and Measures</h3><p>The main outcomes were area under the receiver operating characteristic curve (AUC), sensitivity, and specificity in identifying apical 4-chamber (A4C) videos with color Doppler across the tricuspid valve and AUC in identifying studies with moderate to severe or severe TR.</p><h3>Results</h3><p>In the CSMC test dataset, the view classifier demonstrated an AUC of 1.000 (95% CI, 0.999-1.000) and identified at least 1 A4C video with color Doppler across the tricuspid valve in 2410 of 2462 studies with a sensitivity of 0.975 (95% CI, 0.968-0.982) and a specificity of 1.000 (95% CI, 1.000-1.000). In the CSMC test cohort, moderate or severe TR was detected with an AUC of 0.928 (95% CI, 0.913-0.943), and severe TR was detected with an AUC of 0.956 (95% CI, 0.940-0.969). In the SHC cohort, the view classifier correctly identified at least 1 TR color Doppler video in 5268 of the 5549 studies, resulting in an AUC of 0.999 (95% CI, 0.998-0.999), a sensitivity of 0.949 (95% CI, 0.944-0.955), and a specificity of 0.999 (95% CI, 0.999-0.999). The artificial intelligence model detected moderate or severe TR with an AUC of 0.951 (95% CI, 0.938-0.962) and severe TR with an AUC of 0.980 (95% CI, 0.966-0.988).</p><h3>Conclusions and Relevance</h3><p>In this study, an automated pipeline was developed to identify clinically significant TR with excellent performance. With open-source code and weights, this project can serve as the foundation for future prospective evaluation of artificial intelligence\u2013assisted workflows in echocardiography.</p>",
+            "date_published": "2025-04-16T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
+                    "name": "Amey Vrudhula, MD"
                 }
             ],
             "tags": [
-                "machine learning"
+                "computer vision systems",
+                "deep learning",
+                "doppler",
+                "doppler color flow",
+                "echocardiography",
+                "phenotype determination",
+                "transthoracic echocardiography",
+                "tricuspid valve insufficiency",
+                "tricuspid valve structure",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1739806076.66736.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2832554/jamacardiology_vrudhula_2025_oi_250010_1743693463.64671.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250010f1_1743693463.81171.png?Expires=2147483647&Signature=2i0Vc-t068fZ1bFES8wvzT~diF3bh-fY9dNpKoFHH0ElXiSJwZH10NvHo3RRUqXpJBc8KoQfCHlfJ9WuixQ0~SSjiZD3HPndriF4EIo1mJ9zb-mCgvoo5iWN58Bbf2OVDdSBcsr236ZkGcha802SpXxv~1PxsbrcIVym43S4W2BQ4zOU764rOJ1kvZDdxB~6zlF5QJW07IPTogyAmil8XK0M~GKO~A6V1ELJBUOATitVdbPwKw0SeSf2zEsUvdINP7ejgZyU1ohwjMRbioqCDdRUfbko~ylBo09kT-Q6w8E-PHXiHyc-tpefXmhV6PAv7XBHQKBfgdR-exC5qUNYEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
