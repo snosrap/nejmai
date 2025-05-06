@@ -5,6 +5,29 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2500163",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2500163",
+      "title": "More Fragmented, More Complex: State Regulation of AI in Health Care",
+      "summary": "Increased state involvement \u2014 especially in the absence of strong federal legislation \u2014 could either hinder AI development through regulatory fragmentation or encourage self-regulation to meet high standards set by states and international bodies.",
+      "content_text": "## Abstract\n\nSeveral U.S. states have enacted or are considering legislation to regulate\nthe use of artificial intelligence (AI) in health care. These bills focus on\nseveral key areas: establishing commissions and/or agencies to study and\nmanage health AI; ensuring data privacy and security; addressing bias and\ndiscrimination in AI; promoting transparency in AI usage; overseeing claims\nprocessing by insurance companies; and training the health care workforce\nregarding AI. State activities concerning health AI are likely to become more\nwidespread and influential if, as seems likely, the federal government reduces\nits involvement in ensuring the safety, efficacy, and reliability of health AI\napplications. A surge in diverse state regulations could impede the AI\nindustry\u2019s efforts to develop and market promising health AI applications.\nAlternatively, however, producers of AI tools may choose to self-regulate to\nmeet the stringent standards set by states and international authorities, such\nas the European Union, enabling them to confidently sell their products across\nall jurisdictions. (Funded by the Commonwealth Fund of New York City.)\n\n",
+      "date_published": "2025-05-05T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "D. Blumenthal and A. Marellapudi"
+        }
+      ],
+      "tags": [
+        "Policy Corner"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2500163",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Several U.S. states have enacted or are considering legislation to regulate the use of artificial intelligence (AI) in health care. These bills focus on several key areas: establishing commissions and/or agencies to study and manage health AI; ensuring data privacy and security; addressing bias and discrimination in AI; promoting transparency in AI usage; overseeing claims processing by insurance companies; and training the health care workforce regarding AI. State activities concerning health AI are likely to become more widespread and influential if, as seems likely, the federal government reduces its involvement in ensuring the safety, efficacy, and reliability of health AI applications. A surge in diverse state regulations could impede the AI industry\u2019s efforts to develop and market promising health AI applications. Alternatively, however, producers of AI tools may choose to self-regulate to meet the stringent standards set by states and international authorities, such as the European Union, enabling them to confidently sell their products across all jurisdictions. (Funded by the Commonwealth Fund of New York City.)</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2500005",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIp2500005",
       "title": "Harnessing Moravec\u2019s Paradox in Health Care: A New Era of Collaborative Intelligence",
