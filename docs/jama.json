@@ -4,38 +4,35 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "title": "Clinical Trial Notifications Triggered by Artificial Intelligence\u2013Detected Cancer Progression: A Randomized",
-            "summary": "This randomized trial examines whether notifying oncologists about genomically targeted clinical trials for eligible patients identified by artificial intelligence (AI) affects clinical trial participation.",
-            "content_html": "<h3>Importance</h3><p>Historically, fewer than 10% of adults with cancer have enrolled in clinical trials. Computational tools have been developed to match patients to trials, but these tools are relevant only when patients need new treatment.</p><h3>Objective</h3><p>To evaluate whether notifying oncologists about genomically targeted clinical trials for patients with cancer progression, as detected by artificial intelligence (AI), impacts clinical trial participation.</p><h3>Design, Setting, and Participants</h3><p>This single-center randomized trial was conducted from January 30, 2023, to June 30, 2024, at a tertiary academic cancer center. Participants were patients aged at least 18 years in a precision oncology clinical trial matching database who had solid tumors that underwent next-generation sequencing from July 2013 to December 2022, and were alive as of January 30, 2023.</p><h3>Intervention</h3><p>Patients were randomly assigned 2:1 to the intervention or control arm. In the intervention arm, when patients had cancer progression and an elevated probability of starting new treatment based on AI applied to their imaging reports, notifications about genomically matched clinical trials were sent to their oncologists. In the control arm, no such notifications were sent.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was enrollment in any therapeutic clinical trial. Prespecified secondary outcomes included consent to any therapeutic trial, consent and enrollment among patients ever ascertained as trial ready, the proportion of new systemic therapies that were given as part of clinical trials, and survey responses from clinicians who received notifications.</p><h3>Results</h3><p>Of 20\u202f707 patients randomized (57.26% female; median age at the time of sequencing, 60 years [IQR, 50-69 years]), 13\u202f802 were randomized to the intervention arm and 6905 to the control arm. The intervention had no significant impact on the trial enrollment rate (intervention, 2.20% [95% CI, 1.97%-2.46%]; control, 2.03% [95% CI, 1.72%-2.39%]; difference, 0.18 [95% CI, \u22120.25 to 0.58] percentage points;<i>P</i>\u2009=\u2009.41). Similarly, there were no significant differences in trial enrollment between the intervention and control arms among the 2127 patients ever ascertained as trial ready (18.05% [95% CI, 16.15%-20.12%] vs 18.50% [95% CI, 15.78%-21.56%]; difference, \u22120.45 [95% CI, \u22124.01 to 3.02] percentage points;<i>P</i>\u2009=\u2009.80) or among the 2036 patients who ever started new systemic therapy (22.67% [95% CI, 20.51%-24.99%] vs 20.14% [95% CI, 17.33%-23.29%]; difference, 2.53 [95% CI, \u22121.25 to 6.21] percentage points;<i>P</i>\u2009=\u2009.19).</p><h3>Conclusions and Relevance</h3><p>In this randomized trial, prompting academic medical oncologists with information about genomically matched therapeutic clinical trials for patients with tumor progression based on AI interpretation of imaging reports did not increase therapeutic trial enrollment. The findings suggest that future use of AI to optimize enrollment in cancer clinical trials should include tasks beyond predicting treatment change and/or populations beyond those whose tumors have undergone comprehensive genetic sequencing.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06888089</p>",
-            "date_published": "2025-04-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832965",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832965",
+            "title": "Scientific Data Fabrication and AI\u2014Pandora\u2019s Box",
+            "summary": "Since the advent of OpenAI\u2019s large language model (LLM) ChatGPT in 2022, LLMs have been used to take Ophthalmic Knowledge Assessment Program examinations, create ophthalmic scientific abstracts, and manage glaucoma and retina clinical scenarios, among other impressive feats. 1 - 3 The study in this issue of JAMA Ophthalmology by Taloni et al 4 demonstrated the ability of ChatGPT 4 to create synthetic datasets and expanded on a previous study that evaluated the ability of GPT-4 ADA (September 11, 2023, version) to create a fake dataset. 5 However, all of these initial datasets failed forensic analysis and showed signs of fabrication. 4 A custom GPT Synthetic Data Creator then was able to create refined datasets in which 4 of 12 passed forensic analysis as authentic. Forensic analysis included identification of statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Notable flaws included mismatch between patient names and gender, baseline visits occurring during weekends, and age calculation errors.",
+            "content_text": "Since the advent of OpenAI\u2019s large language model (LLM) ChatGPT in 2022, LLMs have been used to take Ophthalmic Knowledge Assessment Program examinations, create ophthalmic scientific abstracts, and manage glaucoma and retina clinical scenarios, among other impressive feats. 1 - 3 The study in this issue of JAMA Ophthalmology by Taloni et al 4 demonstrated the ability of ChatGPT 4 to create synthetic datasets and expanded on a previous study that evaluated the ability of GPT-4 ADA (September 11, 2023, version) to create a fake dataset. 5 However, all of these initial datasets failed forensic analysis and showed signs of fabrication. 4 A custom GPT Synthetic Data Creator then was able to create refined datasets in which 4 of 12 passed forensic analysis as authentic. Forensic analysis included identification of statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Notable flaws included mismatch between patient names and gender, baseline visits occurring during weekends, and age calculation errors.",
+            "date_published": "2025-04-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tali Mazor, PhD"
+                    "name": "Hong-Uyen Hua, MD"
                 }
             ],
             "tags": [
-                "arm",
-                "artificial intelligence",
-                "diagnostic imaging",
-                "malignant neoplasms",
-                "massively-parallel sequencing",
-                "medical oncology specialty",
-                "neoplasms",
-                "oncologists",
-                "solid neoplasm",
-                "systemic therapy",
-                "treatment modification",
-                "tumor progression"
+                "chatgpt",
+                "generative artificial intelligence",
+                "glaucoma",
+                "measles",
+                "mumps",
+                "ophthalmology specialty",
+                "research integrity",
+                "rubella virus vaccine",
+                "weekend"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833029/mazor_2025_oi_250122_1744660364.2066.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2832965/jamaophthalmology_hua_2025_ic_250011_1744385829.02951.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250122f1_1744660364.87438.png?Expires=2147483647&Signature=fOIc4sJTuDUyBgv95IyapvhsmpVo2M1hFb3t9hPQCxYCwtXbUqGxhFZMAEIF8nwzMR047ofzaMcCDyG8ic6YmxQaBLrKJwMiVUMXopB9DYsfCe8MB~2QxJKGt5WRDoLAcLHFZPaU4WB4ef95mgM4mG2-lHCl57MPIQmyWouRP2svS-0iWv-l~qqy95rip2wlf~6HFlwB3sLlkMlVSy7kh-qAyIvYYCmTNMaRusUkf3BUWYGV4bdPEg~pi7PLWFhrdruNubwR2wj3UB0-1UpK8Fvy4QjGz5V43mbmOp9k38kJ7SmI2eIHzMSBMT6-xNBXFoLMEGAHDXetMUwGDaJk8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
