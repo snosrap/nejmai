@@ -4,28 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2833236",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2833236",
-            "title": "Time to Study Implementation of AI-Generated Discharge Summaries",
-            "summary": "Discharge summaries are a form of communication between hospital-based and outpatient clinicians. In addition to providing an overview of the hospital course, discharge summaries frequently include information such as abnormal test results, necessary follow-up testing, and medication changes\u2014critical information for ensuring safe continuity of care. Although discharge summaries are a recognized patient safety tool, they are also time-consuming to generate and contribute to the substantial administrative burden placed on clinicians\u20142 factors strongly associated with the national physician burnout crisis. Enter large language models (LLMs).",
-            "content_text": "Discharge summaries are a form of communication between hospital-based and outpatient clinicians. In addition to providing an overview of the hospital course, discharge summaries frequently include information such as abnormal test results, necessary follow-up testing, and medication changes\u2014critical information for ensuring safe continuity of care. Although discharge summaries are a recognized patient safety tool, they are also time-consuming to generate and contribute to the substantial administrative burden placed on clinicians\u20142 factors strongly associated with the national physician burnout crisis. Enter large language models (LLMs).",
-            "date_published": "2025-05-05T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833431",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833431",
+            "title": "DeepSeek\u2019s \u201cLow-Cost\u201d Adoption Across China\u2019s Hospital Systems: Too Fast, Too Soon?",
+            "summary": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence\u2013enabled models in health care.",
+            "content_text": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence\u2013enabled models in health care.",
+            "date_published": "2025-04-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Daniel J. Morgan, MD, MS"
+                    "name": "Dian Zeng, MD, PhD"
                 }
             ],
             "tags": [
-                "hallucinations",
+                "artificial intelligence",
+                "china",
                 "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2833236/jamainternal_morgan_2025_ic_250006_1744989835.30607.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833431/jama_zeng_2025_pp_250005_1745523824.56645.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250005f1_1745523824.6775.png?Expires=2147483647&Signature=PxxIBYJu3gOGMldUWuZvRv3Ly-RJw7kPbFRMnPEkH~2ACo5OLVXcOYuKe~8m-w1oCCSF~zQSCnIw2FeWYEkrgPoie5njuwVNcCjFlTzzERsFsqaG6UcaBTdI3L6isTbuS6QFNN-4-PrAdEhcT0ZElUXHsjkwovV3GIfjek~GM1-w22GAjMS6mq-tifAMr4032MpZM-85dUtlIaHpgTSqus8P7R5fJfZY61pS-QOnjIG77s8AgDO~LrrdGiL8vDaUIc3H~2mZkLsZUS6AJ8~J28zfFP6ic1bJMFD9u0MgkM9Jkfa4vMPYMd1fmhdqerbS~7MeUhUcU2kwc0a4KB3slg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
