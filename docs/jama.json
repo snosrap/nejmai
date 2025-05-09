@@ -4,36 +4,47 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833619",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833619",
-            "title": "Real-Time AI-Assisted Insulin Titration System for Glucose Control in Patients With Type 2 Diabetes: A",
-            "summary": "This randomized clinical trial of adults with type 2 diabetes assesses the efficacy and safety of an artificial intelligence\u2013based insulin clinical decision support system in achieving glucose control.",
-            "content_html": "<h3>Importance</h3><p>Type 2 diabetes (T2D) is one of the most prevalent chronic diseases in the world. Insulin titration for glycemic control in T2D is crucial but limited by the lack of personalized and real-time tools.</p><h3>Objective</h3><p>To examine whether an artificial intelligence\u2013based insulin clinical decision support system (iNCDSS) for glycemic control in hospitalized patients with T2D is noninferior to standard insulin therapy administered by senior physicians.</p><h3>Design, Setting, and Participants</h3><p>This multicenter, single-blind, parallel randomized clinical trial (RCT) was conducted between October 1, 2021, and September 8, 2022, in endocrinology wards of 3 medical centers. Eligible participants were adults (aged \u226518 years) with glycated hemoglobin levels between 7.0% and 11.0% who had received antidiabetic treatments in the previous 3 months.</p><h3>Interventions</h3><p>Participants were randomized in a 1:1 ratio to receive insulin dosage titration by iNCDSS or senior endocrinology physicians for 5 consecutive days.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the proportion of time in the target glucose range (70-180 mg/dL) during the 5-day study period; the noninferiority margin was 6 percentage points. Secondary outcomes included other glycemic control measurements and adverse events.</p><h3>Results</h3><p>A total of 149 participants (mean [SD] age, 64.2 [12.0] years; 84 male [56.4%]) were enrolled and randomized to the iNCDSS group (n\u2009=\u200975) or physician group (n\u2009=\u200974). The mean (SD) target glucose range (primary outcome) was 76.4% (16.4%) in the iNCDSS group and 73.6% (16.8%) in the physician group, which achieved the prespecified noninferiority criterion (estimated treatment difference, 2.7%; 95% CI, \u22122.7% to 8.0%). There were no significant differences in adverse events between the 2 groups. Most physicians were satisfied with the iNCDSS for its clear, time-saving, effective, and safe clinical support.</p><h3>Conclusions and Relevance</h3><p>In this RCT of an iNCDSS, the system demonstrated noninferiority to senior endocrinology physicians in insulin titration in an inpatient setting, indicating its potential as a favorable tool for insulin titration in patients with T2D.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT04642378</p>",
-            "date_published": "2025-05-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833286",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833286",
+            "title": "Cumulative Burden of Digital Health Technologies for Patients With Multimorbidity: A Systematic Review",
+            "summary": "This systematic review identifies digital health technologies (DHTs) prescribable for a hypothetical patient with 5 conditions and models the number of DHTs this patient would need to use to receive benefits health professionals considered important.",
+            "content_html": "<h3>Importance</h3><p>Digital health technologies (DHTs) aiming to monitor, treat, and manage diseases can be prescribed for patients with multimorbidity; yet most DHTs are designed for individual conditions or problems, while approximately half of patients with chronic conditions have multiple chronic conditions.</p><h3>Objectives</h3><p>To identify DHTs approved by the US Food and Drug Administration (FDA) or listed in the Organisation for the Review of Care and Health Apps (ORCHA) library and prescribable for a hypothetical patient with 5 conditions and to model the number of DHTs this patient should be prescribed to receive benefits health professionals considered important.</p><h3>Evidence Review</h3><p>The FDA databases (Premarket Notification 510(k), Premarket Approval, and De Novo) and the ORCHA App Library from National Health Service Somerset were systematically searched for DHTs registered or updated between January 1, 2019, and December 31, 2022, that could be prescribed to a hypothetical woman with 5 chronic conditions (type 2 diabetes, hypertension, chronic obstructive pulmonary disease, osteoporosis, and osteoarthritis). After abstracting each DHT\u2019s elementary functions (ie, simple and delineated features to monitor, treat, and/or manage conditions), an assessment was undertaken to determine the fewest DHTs this hypothetical patient should be prescribed to receive benefit from digital functions health professionals considered important.</p><h3>Findings</h3><p>A total of 148 DHTs were identified (68 [46%] from FDA databases), of which 96 (65%) involved devices and 52 (35%) were standalone health apps. Only 5 DHTs (3.4%) were intended for 2 or more conditions. DHTs offered 140 elementary functions, ranging from recording, tracking, or visualizing health parameters to providing information to digital therapeutics with just-in-time interventions. The hypothetical patient would need to be prescribed up to 13 apps and 7 devices (a blood pressure monitor, a smartwatch, a pulse oximeter, a connected weight scale, a sensor-attached inhaler to monitor adherence, a lung function monitor, and a blood glucose sensor) to receive benefits from 28 functions at least 3 of 5 health professionals considered important.</p><h3>Conclusions and Relevance</h3><p>This systematic review found that almost all prescribable DHTs were developed for a single condition or problem. Thus, patients with multiple chronic conditions would have to routinize many DHTs concurrently in daily life to benefit from digital functions health professionals considered important.</p>",
+            "date_published": "2025-04-25T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Zhen Ying, MD"
+                    "name": "Ngan Thi Thuy Phi, MSc"
                 }
             ],
             "tags": [
-                "adverse event",
-                "artificial intelligence",
-                "clinical",
-                "decision support systems",
+                "blood glucose",
+                "chronic disease",
+                "degenerative polyarthritis",
                 "diabetes mellitus",
-                "endocrinology",
-                "glycemic control",
-                "insulin",
+                "digital health",
+                "health personnel",
+                "hypertension chronic",
+                "inhaler",
+                "lung diseases",
+                "mobile applications",
+                "multiple chronic conditions",
                 "non-insulin-dependent",
-                "titration method"
+                "organization administrative structures",
+                "osteoporosis",
+                "oximetry",
+                "pulmonary function tests",
+                "pulse",
+                "sensor (device)",
+                "smartwatches",
+                "technology",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833619/ying_2025_oi_250326_1745961524.42762.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833286/phi_2025_oi_250273_1744992051.46282.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250326f1_1745961524.66746.png?Expires=2147483647&Signature=BOaLydFi645H~zCQdfT~Q~YmHLUIYON36uP2lpOR0f~bt9d990QtgnBD423t-9SkDnXjjSbOzEYEndcCu5-3ToDmW4xSawsIFDswxkaBtTyC~TdkoqZRCt7DH4TFAU9SsdoOLCKy3HfMpxxOAH5nNaTtKEbtqqGGKaPwrJQ8iUTLH7dR3iNCBUeNYeUzH99bxd2pnU0EfNjfvbK5MCDs72M3lztCyfK5pPcnsFD5vaKNVKNC11faUlSSEjg8Rpucrmps~u6v~reMgxbkBkuxzUXkkO5FpLrkB18kG9P3oUCdaGFl5yK4h18cIBgS3wvQwng5g7n2~cZlq8MIwSvf8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250273f1_1744992051.66724.png?Expires=2147483647&Signature=Uus38EG1ixTLSxUrm3ijCyPqPmKLmjQJxySFRUC6O4OyNuto-tW5MF687W8J-yw5ywEqQCZp1d9Y89NbEAuQSLrqIBGlS1auX7ElL6hE7vvpfpr1H-W9iKvZsOxQGhK6ELsDnZHI2JKRV0EH4aFXtiKPEr-DxWtctPU4TcI2ohe3e1rEAHMULnjJuNpbSNXYqzHM6rdYzHhL7HWW33Hc-99ox9BTgHv3-fspAYGthguA7OCkxZSzggnaHy-eSiwhjMirfFuohwbjhfBzlJrzFL39arupd9nGcyBnP~eHp2qL5RE9sY3ijB6UAW9y62ihRbz6JPzDhHr9Ye-Ot7Ye3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
