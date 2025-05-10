@@ -4,36 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
-            "title": "Deep Learning Model of Primary Tumor and Metastatic Cervical Lymph Nodes From CT for Outcome Predictions in",
-            "summary": "This prognostic study tests a computed tomography\u2013based deep learning model that integrates primary tumor and lymph node features to predict outcomes in p16+ oropharyngeal squamous cell carcinoma and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.",
-            "content_html": "<h3>Importance</h3><p>Primary tumor (PT) and metastatic cervical lymph node (LN) characteristics are highly associated with oropharyngeal squamous cell carcinoma (OPSCC) prognosis. Currently, there is a lack of studies to combine imaging characteristics of both regions for predictions of p16+ OPSCC outcomes.</p><h3>Objectives</h3><p>To develop and validate a computed tomography (CT)\u2013based deep learning classifier that integrates PT and LN features to predict outcomes in p16+ OPSCC and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.</p><h3>Design, Setting, and Participants</h3><p>In this retrospective prognostic study, radiographic CT scans were analyzed of 811 patients with p16+ OPSCC treated with definitive radiotherapy or chemoradiotherapy from 3 independent cohorts. One cohort from the Cancer Imaging Archive (1998-2013) was used for model development and validation and the 2 remaining cohorts (2002-2015) were used to externally test the model performance. The Swin Transformer architecture was applied to fuse the features from both PT and LN into a multiregion imaging risk score (SwinScore) to predict survival outcomes across and within subpopulations at various stages. Data analysis was performed between February and July 2024.</p><h3>Exposures</h3><p>Definitive radiotherapy or chemoradiotherapy treatment for patients with p16+ OPSCC.</p><h3>Main Outcomes and Measures</h3><p>Hazard ratios (HRs), log-rank tests, concordance index (C index), and net benefit were used to evaluate the associations between multiregion imaging risk score and disease-free survival (DFS), overall survival (OS), and locoregional failure (LRF). Interaction tests were conducted to assess whether the association of chemotherapy with outcome significantly differs across dichotomized multiregion imaging risk score subgroups.</p><h3>Results</h3><p>The total patient cohort comprised 811 patients with p16+ OPSCC (median age, 59.0 years [IQR, 47.4-70.6 years]; 683 men [84.2%]). In the external test set, the multiregion imaging risk score was found to be prognostic of DFS (HR, 3.76 [95% CI, 1.99-7.10];<i>P</i>\u2009&lt;\u2009.001), OS (HR, 4.80 [95% CI, 2.22-10.40];<i>P</i>\u2009&lt;\u2009.001), and LRF (HR, 4.47 [95% CI, 1.43-14.00];<i>P</i>\u2009=\u2009.01) among all patients with p16+ OPSCC. The multiregion imaging risk score, integrating both PT and LN information, demonstrated a higher C index (0.63) compared with models focusing solely on PT (0.61) or LN (0.58). Chemotherapy was associated with improved DFS only among patients with high scores (HR, 0.09 [95% CI, 0.02-0.47];<i>P</i>\u2009=\u2009.004) but not those with low scores (HR, 0.83 [95% CI, 0.32-2.10];<i>P</i>\u2009=\u2009.69).</p><h3>Conclusions and Relevance</h3><p>This prognostic study of p16+ OPSCC describes the development of a CT-based imaging risk score integrating PT and metastatic cervical LN features to predict recurrence risk and identify suitable candidates for treatment tailoring. This tool could optimize treatment modulations of p16+ OPSCC at a highly granular level.</p>",
-            "date_published": "2025-05-01T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833431",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833431",
+            "title": "DeepSeek\u2019s \u201cLow-Cost\u201d Adoption Across China\u2019s Hospital Systems: Too Fast, Too Soon?",
+            "summary": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence\u2013enabled models in health care.",
+            "content_text": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence\u2013enabled models in health care.",
+            "date_published": "2025-04-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Bolin Song, PhD"
+                    "name": "Dian Zeng, MD, PhD"
                 }
             ],
             "tags": [
-                "cervical lymph node group",
-                "chemoradiotherapy",
-                "chemotherapy regimen",
-                "deep learning",
-                "diagnostic imaging",
-                "malignant neoplasm of oropharynx",
-                "neoplasms",
-                "radiation therapy",
-                "squamous cell carcinoma of oropharynx",
-                "x-ray computed tomography"
+                "artificial intelligence",
+                "china",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833354/song_2025_oi_250299_1745349640.65412.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833431/jama_zeng_2025_pp_250005_1745523824.56645.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250299t1_1745349640.9143.png?Expires=2147483647&Signature=WZje472Zbrky4mdJ8IPAE0ZP~lSeD2fQVdm55mvofXLAwZfT4Sp3RCEX6zP8n54OMmvuoGarUcq8Q6SKBuw5P63mosqt1NXzXuToMwV-rCaQ9pxQXmAaG89ZPqbjBsX3sVt0hH28ibe3WmU2DAL2a4p-aD49J3lPLJz9Yv~HKfFz-LsMS~MMhXJBLZ6XEfPilDCknJlV-Q~wWR3crGib1XcI6NavcvoYKVPtzMdzR6mwAGaKifo-pbqWhHv15Xnt4wwZUnp6ce0u~4cTu6utwpywzMsmzKgkPBlPUDMXOhH7NqClznpqA8zJoRvClSZ9M-RqBj7Zn3E8z9vCZW1-lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250005f1_1745523824.6775.png?Expires=2147483647&Signature=PxxIBYJu3gOGMldUWuZvRv3Ly-RJw7kPbFRMnPEkH~2ACo5OLVXcOYuKe~8m-w1oCCSF~zQSCnIw2FeWYEkrgPoie5njuwVNcCjFlTzzERsFsqaG6UcaBTdI3L6isTbuS6QFNN-4-PrAdEhcT0ZElUXHsjkwovV3GIfjek~GM1-w22GAjMS6mq-tifAMr4032MpZM-85dUtlIaHpgTSqus8P7R5fJfZY61pS-QOnjIG77s8AgDO~LrrdGiL8vDaUIc3H~2mZkLsZUS6AJ8~J28zfFP6ic1bJMFD9u0MgkM9Jkfa4vMPYMd1fmhdqerbS~7MeUhUcU2kwc0a4KB3slg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
