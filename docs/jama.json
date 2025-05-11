@@ -4,38 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "title": "Clinical Trial Notifications Triggered by Artificial Intelligence\u2013Detected Cancer Progression: A Randomized",
-            "summary": "This randomized trial examines whether notifying oncologists about genomically targeted clinical trials for eligible patients identified by artificial intelligence (AI) affects clinical trial participation.",
-            "content_html": "<h3>Importance</h3><p>Historically, fewer than 10% of adults with cancer have enrolled in clinical trials. Computational tools have been developed to match patients to trials, but these tools are relevant only when patients need new treatment.</p><h3>Objective</h3><p>To evaluate whether notifying oncologists about genomically targeted clinical trials for patients with cancer progression, as detected by artificial intelligence (AI), impacts clinical trial participation.</p><h3>Design, Setting, and Participants</h3><p>This single-center randomized trial was conducted from January 30, 2023, to June 30, 2024, at a tertiary academic cancer center. Participants were patients aged at least 18 years in a precision oncology clinical trial matching database who had solid tumors that underwent next-generation sequencing from July 2013 to December 2022, and were alive as of January 30, 2023.</p><h3>Intervention</h3><p>Patients were randomly assigned 2:1 to the intervention or control arm. In the intervention arm, when patients had cancer progression and an elevated probability of starting new treatment based on AI applied to their imaging reports, notifications about genomically matched clinical trials were sent to their oncologists. In the control arm, no such notifications were sent.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was enrollment in any therapeutic clinical trial. Prespecified secondary outcomes included consent to any therapeutic trial, consent and enrollment among patients ever ascertained as trial ready, the proportion of new systemic therapies that were given as part of clinical trials, and survey responses from clinicians who received notifications.</p><h3>Results</h3><p>Of 20\u202f707 patients randomized (57.26% female; median age at the time of sequencing, 60 years [IQR, 50-69 years]), 13\u202f802 were randomized to the intervention arm and 6905 to the control arm. The intervention had no significant impact on the trial enrollment rate (intervention, 2.20% [95% CI, 1.97%-2.46%]; control, 2.03% [95% CI, 1.72%-2.39%]; difference, 0.18 [95% CI, \u22120.25 to 0.58] percentage points;<i>P</i>\u2009=\u2009.41). Similarly, there were no significant differences in trial enrollment between the intervention and control arms among the 2127 patients ever ascertained as trial ready (18.05% [95% CI, 16.15%-20.12%] vs 18.50% [95% CI, 15.78%-21.56%]; difference, \u22120.45 [95% CI, \u22124.01 to 3.02] percentage points;<i>P</i>\u2009=\u2009.80) or among the 2036 patients who ever started new systemic therapy (22.67% [95% CI, 20.51%-24.99%] vs 20.14% [95% CI, 17.33%-23.29%]; difference, 2.53 [95% CI, \u22121.25 to 6.21] percentage points;<i>P</i>\u2009=\u2009.19).</p><h3>Conclusions and Relevance</h3><p>In this randomized trial, prompting academic medical oncologists with information about genomically matched therapeutic clinical trials for patients with tumor progression based on AI interpretation of imaging reports did not increase therapeutic trial enrollment. The findings suggest that future use of AI to optimize enrollment in cancer clinical trials should include tasks beyond predicting treatment change and/or populations beyond those whose tumors have undergone comprehensive genetic sequencing.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06888089</p>",
-            "date_published": "2025-04-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2831500",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2831500",
+            "title": "3D Total-Body Photography in Patients at High Risk for Melanoma: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial compares usual care to usual care plus 3-dimensional total-body photography and sequential digital dermoscopy imaging for early detection of skin cancer in patients at high risk of melanoma.",
+            "content_html": "<h3>Importance</h3><p>Three-dimensional (3D) total-body photography (TBP) can support clinicians in monitoring and identifying changes to skin lesions in patients at high risk of melanoma.</p><h3>Objective</h3><p>To assess clinical outcomes between patients at high risk of melanoma receiving usual clinical care compared with those receiving usual care plus 3D TBP and sequential digital dermoscopy imaging (SDDI) every 6 months via teledermatology.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial was conducted at a research hospital in Brisbane, Australia, from April 2018 to October 2021, with adult patients (\u226518 years) at high risk of developing a primary or subsequent melanoma. Data analysis was conducted from March 2022 to June 2024.</p><h3>Intervention</h3><p>Usual care plus 3D-TBP in person and SDDI via teledermatology at baseline, 6, 12, 18, and 24 months. The control group continued usual care and completed online surveys every 6 months.</p><h3>Main Outcome Measures</h3><p>Number and rates of excisions and/or biopsies of lesions suggestive of melanoma, and results of histopathologic testing.</p><h3>Results</h3><p>The analysis included 314 participants (mean [SD] age, 51.6 [12.8] years; 194 females [62%]) who completed all of the study procedures (158 in the intervention and 156 in the control). In all, 1527 excisions (905 intervention and 622 in the control) were performed among 226 participants (122 intervention and 104 controls), with 67 (4%) histopathologically confirmed as melanoma and 402 (26%)\u2009as keratinocyte cancer (KC). The mean (SD) number of lesions of any type excised per person was significantly higher in the intervention (5.73 [6.77]; 95% CI, 4.66-6.79) compared to the control group (3.99 [5.72]; 95% CI, 3.08-4.89;<i>P</i>\u2009=\u2009.02). Fewer melanomas were detected among the intervention group compared with the control (24 [35%] vs 43 [64%], respectively), and therefore, a lower incidence rate: 2.03 (95% CI, 1.30-3.02) vs 3.62 (95% CI, 2.62-4.88), respectively. After 1 year of follow-up, the intervention had a lower, but not statistically significant, rate of melanoma per person: 0.08 (95% CI, 0.03-0.13) compared with 0.16 (95% CI, 0.08-0.25) in the control; an average of 0.86 (95% CI, 0.55-1.16) vs 0.42 (95% CI, 0.24-0.59) KCs per person; and 2.01 (95% CI, 1.50-2.51) vs 1.39 (95% CI, 0.98-1.82) excisions or biopsies per person, respectively.</p><h3>Conclusions and Relevance</h3><p>The results of this randomized clinical trial indicate that the addition of 3D-TPB and SDDI to usual care in a teledermatology setting without AI (artificial intelligence) increased the number and rate of skin excisions and biopsies performed. Further studies are required to compare teledermatology to usual care rather than adding it, and to study whether the use of AI can improve the teledermatology outcomes. Larger studies in multiple settings with a greater number of teledermatologists are needed. This study shows that conducting clinical trials in this setting is feasible.</p><h3>Trial Registration</h3><p>anzctr.org.auIdentifier:ACTRN12618000267257</p>",
+            "date_published": "2025-03-26T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tali Mazor, PhD"
+                    "name": "H. Peter Soyer, MD"
                 }
             ],
             "tags": [
-                "arm",
-                "artificial intelligence",
+                "biopsy",
+                "dermoscopy",
                 "diagnostic imaging",
-                "malignant neoplasms",
-                "massively-parallel sequencing",
-                "medical oncology specialty",
-                "neoplasms",
-                "oncologists",
-                "solid neoplasm",
-                "systemic therapy",
-                "treatment modification",
-                "tumor progression"
+                "excision",
+                "melanoma",
+                "photography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833029/mazor_2025_oi_250122_1744660364.2066.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2831500/jamadermatology_soyer_2025_oi_250006_1741303122.08346.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250122f1_1744660364.87438.png?Expires=2147483647&Signature=fOIc4sJTuDUyBgv95IyapvhsmpVo2M1hFb3t9hPQCxYCwtXbUqGxhFZMAEIF8nwzMR047ofzaMcCDyG8ic6YmxQaBLrKJwMiVUMXopB9DYsfCe8MB~2QxJKGt5WRDoLAcLHFZPaU4WB4ef95mgM4mG2-lHCl57MPIQmyWouRP2svS-0iWv-l~qqy95rip2wlf~6HFlwB3sLlkMlVSy7kh-qAyIvYYCmTNMaRusUkf3BUWYGV4bdPEg~pi7PLWFhrdruNubwR2wj3UB0-1UpK8Fvy4QjGz5V43mbmOp9k38kJ7SmI2eIHzMSBMT6-xNBXFoLMEGAHDXetMUwGDaJk8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250006f1_1741303122.47762.png?Expires=2147483647&Signature=LZR4eoUR~ZK~Dyk9JI0xefvNXMnxMo4ziyDXIPqIo7N~abTV9OY4YFaXBQl72tGL6Va1VzZ~U0J4JqdPYDwvAAUSPwHn6qT40enoSqSNfucmS3K9zMSkMMR6NuNm-Z6A32CyvLVqAG0PBQ9MN7v6UOYle-xyCmJdi7ZA3wqOp4balXeyrK5gq6W02SbA8NSmi~-HjpWCr0ayW9hIMj8VQkQ2amwuor6~-HiA3Meanbu~ChXFjF09crB2cA-Z6GAEQ2cv0SF-2fe3Y~wf0sQLl~GnLVh347k8oQdHcSoj3nbTr2aUgOJ9eI3X0U3ZSBvvOpMDUhet3cM8XM97cP45~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
