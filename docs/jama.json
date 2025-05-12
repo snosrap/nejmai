@@ -4,28 +4,35 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831331",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831331",
-            "title": "How Artificial Intelligence Can Promote Inclusive Health",
-            "summary": "This Viewpoint explores the potential utilities of artificial intelligence for achieving inclusive health care for people with intellectual and developmental disabilities.",
-            "content_text": "This Viewpoint explores the potential utilities of artificial intelligence for achieving inclusive health care for people with intellectual and developmental disabilities.",
-            "date_published": "2025-03-17T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832965",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832965",
+            "title": "Scientific Data Fabrication and AI\u2014Pandora\u2019s Box",
+            "summary": "Since the advent of OpenAI\u2019s large language model (LLM) ChatGPT in 2022, LLMs have been used to take Ophthalmic Knowledge Assessment Program examinations, create ophthalmic scientific abstracts, and manage glaucoma and retina clinical scenarios, among other impressive feats. 1 - 3 The study in this issue of JAMA Ophthalmology by Taloni et al 4 demonstrated the ability of ChatGPT 4 to create synthetic datasets and expanded on a previous study that evaluated the ability of GPT-4 ADA (September 11, 2023, version) to create a fake dataset. 5 However, all of these initial datasets failed forensic analysis and showed signs of fabrication. 4 A custom GPT Synthetic Data Creator then was able to create refined datasets in which 4 of 12 passed forensic analysis as authentic. Forensic analysis included identification of statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Notable flaws included mismatch between patient names and gender, baseline visits occurring during weekends, and age calculation errors.",
+            "content_text": "Since the advent of OpenAI\u2019s large language model (LLM) ChatGPT in 2022, LLMs have been used to take Ophthalmic Knowledge Assessment Program examinations, create ophthalmic scientific abstracts, and manage glaucoma and retina clinical scenarios, among other impressive feats. 1 - 3 The study in this issue of JAMA Ophthalmology by Taloni et al 4 demonstrated the ability of ChatGPT 4 to create synthetic datasets and expanded on a previous study that evaluated the ability of GPT-4 ADA (September 11, 2023, version) to create a fake dataset. 5 However, all of these initial datasets failed forensic analysis and showed signs of fabrication. 4 A custom GPT Synthetic Data Creator then was able to create refined datasets in which 4 of 12 passed forensic analysis as authentic. Forensic analysis included identification of statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Notable flaws included mismatch between patient names and gender, baseline visits occurring during weekends, and age calculation errors.",
+            "date_published": "2025-04-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Dimitri A. Christakis, MD, MPH"
+                    "name": "Hong-Uyen Hua, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "developmental disabilities"
+                "chatgpt",
+                "generative artificial intelligence",
+                "glaucoma",
+                "measles",
+                "mumps",
+                "ophthalmology specialty",
+                "research integrity",
+                "rubella virus vaccine",
+                "weekend"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2831331/jamapediatrics_christakis_2025_vp_250004_1745613475.32965.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2832965/jamaophthalmology_hua_2025_ic_250011_1744385829.02951.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -103,32 +110,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939503/jvp240145f1_1732559811.49463.png?Expires=2147483647&Signature=GGD~-43RSNW-9TnjR1H8o8KAzxbB7Jphn~kbMMEEyISEx9muUHKIY664~bkPraMFM52SnYRe76pb2kKBb-yn7~4L4doeKfUbpWdWrbQHPG6AMz1SZT1rRzZ5ILjpnEnrmlwg~1jxFeIdBwgqn2NWiSLA0WVfdWGVz9lHiU0bCyyI3BrUgwqtOrSejTSrhGG3rjfd6mmQqUOVzGoWVCrZvAdGDkyS7R9TB6ceetWUs8aCZI060ZkSRNieZ~M5XEXWQBc5tRZycce-GOxaHxQecsN9SDe3dC2f5zv55ssdYcNgJtDsO0Uicm5A48I5jGKehroZicQl~8Ffs-q2BV5gHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
-            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "date_published": "2024-11-22T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Farid Ghareh Mohammadi, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "informatics (discipline)",
-                "physical and emotional exhaustion state",
-                "radiologist"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
             "title": "Artificial Intelligence and Radiologist Burnout",
@@ -155,6 +136,32 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241365t1_1731684044.06019.png?Expires=2147483647&Signature=ze3APbXsOF4VtXwuSaCiCOMkfPcEHihxucX5dwHCiJYZzjpY1o-dvE7xSWDRbcP0IML4HEjC3UVqnStK8lgU24JaquWhmJx4C21gd45WJER8b9~lSLH5WYB0-rlEf1STVNNVHHtbai0UgTSn06m1WtfK5bHrUE9B~iohD4caGDQ~8Za5kI80AIGGg-5tjeKV3NIlKHxFPCibIbFWpah4PbvZJqGfFfofRld2zucw92OyDphtjZ~tAaoWTiHRohTTylIM~h~8~xbeYKwcPf1tqSEkQRDUB5OdBW6x9F-4jMVJ5YNklKc387uwiPJUBZ2nxqwWhcBj7j9OHE3VGk2O0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
+            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "date_published": "2024-11-22T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Farid Ghareh Mohammadi, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "informatics (discipline)",
+                "physical and emotional exhaustion state",
+                "radiologist"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826511",
@@ -254,6 +261,31 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
+            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "date_published": "2024-11-07T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Grace K. Sun, BS"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)",
+                "natural language processing",
+                "triage"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
             "title": "Performance of Risk Models for Antimicrobial Resistance in Adult Patients With Sepsis",
@@ -281,31 +313,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241246t1_1730394547.41392.png?Expires=2147483647&Signature=FSC2y3JA-qK-Kgh1~d2zI85WJkQWmh7wpEFsHRU0~lYBCB1zRqCCucTQKkfbaH5DTwfutBzSHf9vjf0I~O632wyh1qNyuyv7aaneKvn0cewmXZVvoiRfkgbFqwCPX5BA-9WZTDbdCzMfVCyf6JkjMY7jnTpi2W1LWZz4NlVvYZqg75MKgl-easXJ1orBYLWPvyB4UJQi8XVI6DkxGuu7Z-i7rtzAqei6ahl3JZLMefs2j6ULhXBKBTMJVXXIMlnXEfgs9836MZy5RlgN8m-eUAPwvgrmNJum~D~IrRQhV9E4WVn3wa3cIlv9V1DgA9fu7B7iIDxo9-~qCSMGsLDv9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
-            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "date_published": "2024-11-07T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Grace K. Sun, BS"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)",
-                "natural language processing",
-                "triage"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
@@ -465,6 +472,30 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
+            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "date_published": "2024-10-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Andrew Gonzalez, MD, JD, MPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "machine learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
             "title": "Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial",
@@ -490,30 +521,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939467/zoi241182f1_1729527081.5449.png?Expires=2147483647&Signature=3ekbX2qtg2we0UEDs85fc8mIbpunw6yVZ9RixFhv-7wsbIhkuxVJyinRve6Q7a-YO9akijgF84cLzFzcLOG~z1MEneiA3RScpDCzVnsl4Cnmh7dXoiK~jkP0Drf7LF2I-bwEFhgsTgdK8kYTDv0SyQFydIDPNL0Sh1FRatBd2iF4nmNa-puvaGNifFodpadTrYjj9j3Y7PDFkCkP5VoWnC-DKd4xfqDELz-Dv~HXnXBctVWdBBHNAZZEcjvPiyF5WLAo0s5zGLgmTZOiXMBKYLYvLj5tfPpeGYkVkeU-e8EccuAZ1A-ShjCdvg0Gwx~6UO5LL7G5MoMQe3j9r-FHDA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
-            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "date_published": "2024-10-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Andrew Gonzalez, MD, JD, MPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "machine learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825235",
@@ -741,6 +748,30 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
+            "title": "Travel Guide From the Brave New World of Artificial Intelligence",
+            "summary": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
+            "content_text": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
+            "date_published": "2024-08-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Daniel E. Hall, MD, MDiv, MHSc"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "travel"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2819797/jamasurgery_hall_2024_ic_240029_1723061390.4786.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819793",
             "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819793",
             "title": "Deep Learning for Video-Based Assessment in Surgery",
@@ -764,30 +795,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939434/ssi240001f1_1723061349.03528.png?Expires=2147483647&Signature=JJwsEN-hiug2kmNfdFlMksVLUQnjVZ5JMDl83JJGj0JUfaWPFRXd4mhuCHOfwh9ImqrpoLHTC0lCvPxKfzF~XJgKa09vFJo0PSprvBPUGpBajsSFLySmEzKBrh6qBQfvDXQlUPk3TC14lOe6ilbxWAV-eo04G4WcwmNOR69fhGR7sh00cS6Eg5pkGrRDZJf292bZf6m1Rgcjwqa8qKPUa~k3P~nmsRcAke-7rejmQaEEFtBvuMfSfHQuSYkNCODU3OXELxzzsE9~pXL49-LmIpqQrWGFicpT5aV71LBGUEEGdoWDHc~EBtDwBTy7BfafWdNsBt0CDYaC3mXIr2RwJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
-            "title": "Travel Guide From the Brave New World of Artificial Intelligence",
-            "summary": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
-            "content_text": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
-            "date_published": "2024-08-01T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Daniel E. Hall, MD, MDiv, MHSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "travel"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2819797/jamasurgery_hall_2024_ic_240029_1723061390.4786.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2820406",
@@ -841,31 +848,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939354/avp240008t1_1712770392.41458.png?Expires=2147483647&Signature=NZ5rYVUd8MBrfpPfRsLnW~be~bq-GJJRCKg6p8CZRgVD7CxaZeJgjZfqJrWV3qoUj29ICgAqL5DLK-rsZS1LY3QhNsK4ZT-KX3KKbv9mXcYabq45KVxjZA0I3DkQmjqmJD1W68hBxTQ0XVXW9NDI9ZxRzgKxVGXn8eyVtH43J4bhPL4lCHsgGCkQBBmEtqEP8QQTirx-j-45F7TYViMes3mngrsnVTaCiUs1RiXxL8~qUlpOBJVnFl2k1Tf94t1AsqPYZDxsahoQmLHWXZWkIw~U18~hLkO15ZEspMI9uC7-I~zKCODXuz8at0MS2I3N-SN2aswexpgo36kgdTd1OA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
-            "title": "Practical Guide to Machine Learning and Artificial Intelligence in Surgical Education Research",
-            "summary": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
-            "content_text": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
-            "date_published": "2024-04-01T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Daniel A. Hashimoto, MD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "machine learning",
-                "operative surgical procedures"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2813494/jamasurgery_hashimoto_2024_gm_230006_1711661306.13439.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2814978",
             "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2814978",
             "title": "Academic Surgery in the Era of Large Language Models: A Review",
@@ -889,6 +871,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939353/srv230010f1_1711661264.54467.png?Expires=2147483647&Signature=Ozq-91RuyXuWpynfCIAhuix8q1S-eFchmcK1OVu1qeLUvg4ybxnS26Q9B4AeXuZCsdL2zWWv-zyDZj9VJUokrQ0CY5-5rRFPwpFL4f~pJYb1yZGzhWzsVPlXqFWf71JDxPXPvWBAnlMLV~gAsyNF72Ho8zP91cYZECNs1zVW~1kipTyFiPkb7Q0xpoYFPtIUJU4ZOp~WaBCgLXxlBzy8mGTQ3UmS2JuCjQju75PyiNk0j6cABPPu6xipWGlMPrwetwvw2RhntFta7LI2rcYWGPOW21i1edjehAGAwTv8Wck7h4B1skHl58mJ3Ce6RJMXUQj23JOKuYDKUvBlFLyN2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2813494",
+            "title": "Practical Guide to Machine Learning and Artificial Intelligence in Surgical Education Research",
+            "summary": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
+            "content_text": "This Guide to Statistics and Methods gives an overview of artificial intelligence techniques and tools in surgical education research.",
+            "date_published": "2024-04-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Daniel A. Hashimoto, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "machine learning",
+                "operative surgical procedures"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2813494/jamasurgery_hashimoto_2024_gm_230006_1711661306.13439.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
