@@ -4,35 +4,38 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832965",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2832965",
-            "title": "Scientific Data Fabrication and AI\u2014Pandora\u2019s Box",
-            "summary": "Since the advent of OpenAI\u2019s large language model (LLM) ChatGPT in 2022, LLMs have been used to take Ophthalmic Knowledge Assessment Program examinations, create ophthalmic scientific abstracts, and manage glaucoma and retina clinical scenarios, among other impressive feats. 1 - 3 The study in this issue of JAMA Ophthalmology by Taloni et al 4 demonstrated the ability of ChatGPT 4 to create synthetic datasets and expanded on a previous study that evaluated the ability of GPT-4 ADA (September 11, 2023, version) to create a fake dataset. 5 However, all of these initial datasets failed forensic analysis and showed signs of fabrication. 4 A custom GPT Synthetic Data Creator then was able to create refined datasets in which 4 of 12 passed forensic analysis as authentic. Forensic analysis included identification of statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Notable flaws included mismatch between patient names and gender, baseline visits occurring during weekends, and age calculation errors.",
-            "content_text": "Since the advent of OpenAI\u2019s large language model (LLM) ChatGPT in 2022, LLMs have been used to take Ophthalmic Knowledge Assessment Program examinations, create ophthalmic scientific abstracts, and manage glaucoma and retina clinical scenarios, among other impressive feats. 1 - 3 The study in this issue of JAMA Ophthalmology by Taloni et al 4 demonstrated the ability of ChatGPT 4 to create synthetic datasets and expanded on a previous study that evaluated the ability of GPT-4 ADA (September 11, 2023, version) to create a fake dataset. 5 However, all of these initial datasets failed forensic analysis and showed signs of fabrication. 4 A custom GPT Synthetic Data Creator then was able to create refined datasets in which 4 of 12 passed forensic analysis as authentic. Forensic analysis included identification of statistical anomalies in demographic data, distribution uniformity, and repetitive patterns of last digits, as well as linear correlations, distribution shape, and outliers of study variables. Notable flaws included mismatch between patient names and gender, baseline visits occurring during weekends, and age calculation errors.",
-            "date_published": "2025-04-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833584",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833584",
+            "title": "AI-Based Virtual Triage and Telemedical Health Care for Ukrainian War Refugees and Displaced Persons",
+            "summary": "This cross-sectional study examines use of an artificial intelligence (AI)\u2013based virtual triage and referral platform to treat mental health\u2013related conditions among Polish citizens and Ukranian migrants in Poland during the Russia-Ukraine War.",
+            "content_text": "This cross-sectional study examines use of an artificial intelligence (AI)\u2013based virtual triage and referral platform to treat mental health\u2013related conditions among Polish citizens and Ukranian migrants in Poland during the Russia-Ukraine War.",
+            "date_published": "2025-05-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Hong-Uyen Hua, MD"
+                    "name": "George A. Gellert, MD, MPH, MPA"
                 }
             ],
             "tags": [
-                "chatgpt",
-                "generative artificial intelligence",
-                "glaucoma",
-                "measles",
-                "mumps",
-                "ophthalmology specialty",
-                "research integrity",
-                "rubella virus vaccine",
-                "weekend"
+                "artificial intelligence",
+                "country of poland",
+                "informatics (discipline)",
+                "mental health",
+                "patient referral",
+                "polish language",
+                "refugees",
+                "russia",
+                "triage",
+                "ukraine",
+                "ukranian language",
+                "war"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2832965/jamaophthalmology_hua_2025_ic_250011_1744385829.02951.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833584/gellert_2025_ld_250053_1745870516.44105.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zld250053t1_1745870516.58186.png?Expires=2147483647&Signature=tQvLbkL9fx9mWSYenkhlcyXmnbrXKMj4NndMrRt0wpAquCnQB5xOBfsvCgI-utoM1oEAg7EUpgJbrvGiCEO~QGmPQNPCvpIKGg13l4Q102ZLvXUTDn3XVJqPQPHJri-8XStWGnx1z0yOQIG6-ZlMW-noLT7KlTP1MqBitTBPMU8mjZjdLUcr-py9cqLm~-sKy3ER1SyEAR5ZPLYpDLtrcTbLixUtzpWApPOy8Ivg4V93JQDpr0M7YQT8lTAvtpCt--Xsk-AyqRfnWnn4jbwFNahGt8NMNQZCp-3a7jX7N97fqHAj7fxW~gYx5hU-FHeq~9NfxaotptXNU3AaZDpzWA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
