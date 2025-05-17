@@ -4,31 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833433",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833433",
-            "title": "Evaluation of an Ambient Artificial Intelligence Documentation Platform for Clinicians",
-            "summary": "This quality improvement study investigates the association of an ambient artificial intelligence documentation platform with clinician work time and well-being.",
-            "content_html": "<h3>Importance</h3><p>The increase of electronic health record (EHR) work negatively impacts clinician well-being. One potential solution is incorporating an ambient artificial intelligence (AI) documentation platform.</p><h3>Objective</h3><p>To understand clinician experience before and after implementing ambient AI.</p><h3>Design, Setting, and Participants</h3><p>This quality improvement study was a pilot evaluation with before and after survey and EHR metrics conducted at a large health care organization in Northern and Central California. Clinicians were purposively sampled to be representative of region and specialty. Ambient AI was implemented in April 2024 with EHR data from 3 months before and after implementation. Data were analyzed from May to September 2024.</p><h3>Exposure</h3><p>Ambient AI access.</p><h3>Main Outcomes and Measures</h3><p>Metrics of time were examined in notes per appointment, off-hour EHR activities (5:30pmto 7:00amon weekdays and nonscheduled weekends and holidays), documentation note length, progress note length, NASA Task Load Index (NASA-TLX) score, mini-<i>Z</i>burnout question, and overall experience. It was hypothesized that time in notes per appointment would decrease and clinical well-being would improve. Logistic regression and linear mixed-effect models were used.</p><h3>Results</h3><p>Among 100 clinicians (53 male [53.0%]; mean [SD] age, 48.9 [11.0] years), 58 clinicians (58.0%) were in primary care and 92 clinicians had EHR metrics. Among 57 clinicians who completed both preimplementation and postimplementation surveys, there was a decrease in burnout from 24 clinicians (42.1%) to 20 clinicians (35.1%), although this was not a significant difference (<i>P</i>\u2009=\u2009.12). Mean (SD) NASA-TLX scores all decreased after using ambient AI: mental demand of note writing (12.2 [4.0] to 6.3 [3.7]), hurried or rushed pace (13.2 [4.0] to 6.4 [4.2]), and effort to accomplish note writing (12.5 [4.1] to 7.4 [4.3]) (all<i>P</i>\u2009&lt;\u2009.001). Mean (SD) time in notes per appointment significantly decreased from 6.2 (4.0) to 5.3 (3.5) minutes (<i>P</i>\u2009&lt;\u2009.001), with a bigger decrease for female vs male clinicians (8.1 [3.9] to 6.7 [3.6] minutes vs 4.7 [3.5] to 4.2 [3.1] minutes;<i>P</i>\u2009=\u2009.001). More primary care clinicians (33 of 38 clinicians [85.8%]) reported that ambient AI improved overall satisfaction at work compared with clinicians in medical (4 of 11 clinicians [36.4%]) and surgical (4 of 8 clinicians [50.0%]) subspecialties (<i>P</i>\u2009&lt;\u2009.001). After adjusting for participant characteristics, model results suggested that mean scores for NASA-TLX decreased for mental demand (\u22126.12 [95% CI, \u22127.52 to \u22124.72]), hurried or rushed pace (\u22126.96 [95% CI, \u22128.42 to \u22125.50]), and effort to accomplish note writing (\u22125.57 [95% CI, \u22126.93 to \u22124.21]), while mean time in note taking decreased by less than 1 minute per appointment (0.91 minutes [95% CI, \u22121.20 to \u22120.62 minutes]) (all<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>This study found that ambient AI was associated with improved overall experience and time in notes for clinicians but with varying outcomes by sex and specialty. Future research should investigate outcomes after widescale expansion of this rapidly evolving technology.</p>",
-            "date_published": "2025-05-02T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Cheryl D. Stults, PhD"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "operative surgical procedures",
-                "personal satisfaction",
-                "physical and emotional exhaustion state",
-                "quality improvement"
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833433/stults_2025_oi_250316_1745525878.50138.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1745936766.62475.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250316t1_1745525878.69919.png?Expires=2147483647&Signature=KEfC8iX7A82kKp2tyf2J~8p04Pag0EB-obnVnwBH9pz1G9HKDvb3PFxR1a8sXNavrGSMKzlpBDujbhf-AimH8DqShMnv3M~cMphJkVdTJAB~GpD9PNE4yGT~-I2w1saZleR~Bk630xWfHF9xDF02nFD8qXHZ2fXUKjvMALnKsOYnXW21QieuvV~gmaShipptC9khEBZ66KuM4nG7xb6w~ePiucbxFoXOEOVYgdtdG1BJZZgfsGfULCqrXusx1WD6KnTcLN1ptr77YdCtpJxcyMx9mI2qsmMT66ZVtZHCkI-x~lSHFw-LPUFygOZprlXrwxvaBlFxwzhEbl5dHQunqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/esc250001f1_1745936766.76295.png?Expires=2147483647&Signature=4~fijx-QyzUH5n8FHCo16k84APT7sqwdgZzGU8K3H9jolDFi0cV6AhPHc4r2D9HbXlfjwlIYJkjaSELWoMYTDwtVjm0XM6VUGRQ~gN-4qoZsaQ6GmfgBEEpNyHDBqLYPTeI3GNgsoLvQCxMqOpAulrIHwIENjxNsLpBAdyu9tuaq6jKoT5-MiDguzNzUVwKG~Dy7g9QBVUoUI2PGmpya8uKw4wifO4hCCxr-8CskkmDwOrB33ppiPGyf800jVkpFyUYVwHxWFPDJKOHlgrnX-Ez3hayrjjUWV5d5fB856a1BoBmA95K3LhdTb2IwtrZNBUHdJWOwfhcPBV-TgQR3mA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
