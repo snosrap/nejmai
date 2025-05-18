@@ -4,34 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
-            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
-            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
-            "date_published": "2025-05-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833583",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833583",
+            "title": "Research Participant Interest in Learning Results of Biomarker Tests for Alzheimer Disease",
+            "summary": "This cohort study quantitatively and qualitatively assesses research participants\u2019 decision to learn individual Alzheimer disease biomarker research results and what factors are associated with this decision.",
+            "content_html": "<h3>Importance</h3><p>While available evidence suggests there are not major psychosocial harms of return of research results, there are limited data on uptake of Alzheimer disease (AD) research results or reasons for declining to learn results among participants in AD research studies.</p><h3>Objectives</h3><p>To quantitatively and qualitatively evaluate who declines to learn individual AD biomarker research results and what factors are associated with the decision.</p><h3>Design, Setting, and Participants</h3><p>This observational cohort study was conducted between November 1, 2020, and April 15, 2024, among participants aged 65 years or older with unimpaired cognition and available biomarker data (apolipoprotein E genotype and either imaging [amyloid positron emission tomography and magnetic resonance imaging] or plasma amyloid level) enrolled in a longitudinal cohort of cognitive aging at the Knight Alzheimer Disease Research Center.</p><h3>Exposure</h3><p>Participants with no prior option to receive research results were offered the option to learn these results.</p><h3>Main Outcome and Measures</h3><p>The primary outcome was the decision to receive AD research biomarker results. Associations of this decision with demographic factors including self-identified race, parental history of AD, age, gender, and type of biomarker result offered (imaging or plasma) were assessed using \u03c7<sup>2</sup>tests and semiparametric log-binomial regression. Semistructured qualitative interviews with a subset of participants who declined receiving research results explored reasons for declining.</p><h3>Results</h3><p>Of the 274 participants who were offered their research results (mean [SD] age, 75.9 [5.8] years; 158 women [58%]; 35 Black [13%]; and 239 White [87%]), 110 (40%) declined. Black participants were more likely to decline than White participants (adjusted risk ratio, 1.89; 95% CI, 1.43-2.50). Participants with a known parental history of AD dementia were more likely to decline than those without (adjusted risk ratio, 1.49; 95% CI, 1.12-1.98). Qualitative interviews found the following reasons for declining: knowing would be a burden, negative experiences and perceptions of AD dementia, feeling good about memory currently, familial burden, already being prepared, and the uncertainty of results.</p><h3>Conclusions and Relevance</h3><p>In this study of participants enrolled in a longitudinal aging study offered their research results, those with a parental history of AD dementia and Black participants were significantly more likely to decline. Qualitative interviews suggest that a family history of AD may create negative experiences and perceptions of the disease, which may influence the decision to learn results. Further research is needed to better understand racial differences in uptake and ensure that the choice to receive research results reflects individual preferences and wishes.</p>",
+            "date_published": "2025-05-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robert N. Weinreb, MD"
+                    "name": "Spondita Goswami, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "delivery of health care",
-                "diagnostic imaging of retina",
-                "eye",
-                "health services accessibility",
-                "ophthalmic examination and evaluation",
-                "screening procedure",
-                "technology"
+                "alzheimer's disease",
+                "biological markers"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1745936766.62475.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833583/goswami_2025_oi_250156_1745870513.67743.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/esc250001f1_1745936766.76295.png?Expires=2147483647&Signature=4~fijx-QyzUH5n8FHCo16k84APT7sqwdgZzGU8K3H9jolDFi0cV6AhPHc4r2D9HbXlfjwlIYJkjaSELWoMYTDwtVjm0XM6VUGRQ~gN-4qoZsaQ6GmfgBEEpNyHDBqLYPTeI3GNgsoLvQCxMqOpAulrIHwIENjxNsLpBAdyu9tuaq6jKoT5-MiDguzNzUVwKG~Dy7g9QBVUoUI2PGmpya8uKw4wifO4hCCxr-8CskkmDwOrB33ppiPGyf800jVkpFyUYVwHxWFPDJKOHlgrnX-Ez3hayrjjUWV5d5fB856a1BoBmA95K3LhdTb2IwtrZNBUHdJWOwfhcPBV-TgQR3mA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250156f1_1745870513.83819.png?Expires=2147483647&Signature=w95mblZrpj3bMk6AAOkuPZfm7wxldaH4QJWZfXAOyn7RMtn7MxF4mNV-fuSnp5JNUuqw30152NO-rzJ5ctDC5115Z5bRVrTfcgfI6MUnzR08MEUaHmRy6JPXKg6~BafXvYEV0UCA2hsPEIRGA6SrP25XtqmgIK8~XcSZNTiaHOtgMr~0XOOQUeEYfqYcury2GukdPx5rLeJmFpI~KXQ6HnUEtLmryYqNACMMrm7PAy2-yujS1qKoDSNkL0uqkNy9O11L4bexErDxmUdb2bzqQCMMv4pPzEryh11sJp1ybVt0ugohJfs37pQWbMrVIuLeSr-g~owV4yZa-mjotPvIfw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
