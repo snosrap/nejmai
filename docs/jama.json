@@ -4,28 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833583",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833583",
-            "title": "Research Participant Interest in Learning Results of Biomarker Tests for Alzheimer Disease",
-            "summary": "This cohort study quantitatively and qualitatively assesses research participants\u2019 decision to learn individual Alzheimer disease biomarker research results and what factors are associated with this decision.",
-            "content_html": "<h3>Importance</h3><p>While available evidence suggests there are not major psychosocial harms of return of research results, there are limited data on uptake of Alzheimer disease (AD) research results or reasons for declining to learn results among participants in AD research studies.</p><h3>Objectives</h3><p>To quantitatively and qualitatively evaluate who declines to learn individual AD biomarker research results and what factors are associated with the decision.</p><h3>Design, Setting, and Participants</h3><p>This observational cohort study was conducted between November 1, 2020, and April 15, 2024, among participants aged 65 years or older with unimpaired cognition and available biomarker data (apolipoprotein E genotype and either imaging [amyloid positron emission tomography and magnetic resonance imaging] or plasma amyloid level) enrolled in a longitudinal cohort of cognitive aging at the Knight Alzheimer Disease Research Center.</p><h3>Exposure</h3><p>Participants with no prior option to receive research results were offered the option to learn these results.</p><h3>Main Outcome and Measures</h3><p>The primary outcome was the decision to receive AD research biomarker results. Associations of this decision with demographic factors including self-identified race, parental history of AD, age, gender, and type of biomarker result offered (imaging or plasma) were assessed using \u03c7<sup>2</sup>tests and semiparametric log-binomial regression. Semistructured qualitative interviews with a subset of participants who declined receiving research results explored reasons for declining.</p><h3>Results</h3><p>Of the 274 participants who were offered their research results (mean [SD] age, 75.9 [5.8] years; 158 women [58%]; 35 Black [13%]; and 239 White [87%]), 110 (40%) declined. Black participants were more likely to decline than White participants (adjusted risk ratio, 1.89; 95% CI, 1.43-2.50). Participants with a known parental history of AD dementia were more likely to decline than those without (adjusted risk ratio, 1.49; 95% CI, 1.12-1.98). Qualitative interviews found the following reasons for declining: knowing would be a burden, negative experiences and perceptions of AD dementia, feeling good about memory currently, familial burden, already being prepared, and the uncertainty of results.</p><h3>Conclusions and Relevance</h3><p>In this study of participants enrolled in a longitudinal aging study offered their research results, those with a parental history of AD dementia and Black participants were significantly more likely to decline. Qualitative interviews suggest that a family history of AD may create negative experiences and perceptions of the disease, which may influence the decision to learn results. Further research is needed to better understand racial differences in uptake and ensure that the choice to receive research results reflects individual preferences and wishes.</p>",
-            "date_published": "2025-05-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "title": "Ambient Listening\u2014Legal and Ethical Issues",
+            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "date_published": "2025-02-19T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Spondita Goswami, PhD"
+                    "name": "I. Glenn Cohen, JD"
                 }
             ],
             "tags": [
-                "alzheimer's disease",
-                "biological markers"
+                "ethics",
+                "health policy",
+                "listening",
+                "principles of law and justice"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833583/goswami_2025_oi_250156_1745870513.67743.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250156f1_1745870513.83819.png?Expires=2147483647&Signature=w95mblZrpj3bMk6AAOkuPZfm7wxldaH4QJWZfXAOyn7RMtn7MxF4mNV-fuSnp5JNUuqw30152NO-rzJ5ctDC5115Z5bRVrTfcgfI6MUnzR08MEUaHmRy6JPXKg6~BafXvYEV0UCA2hsPEIRGA6SrP25XtqmgIK8~XcSZNTiaHOtgMr~0XOOQUeEYfqYcury2GukdPx5rLeJmFpI~KXQ6HnUEtLmryYqNACMMrm7PAy2-yujS1qKoDSNkL0uqkNy9O11L4bexErDxmUdb2bzqQCMMv4pPzEryh11sJp1ybVt0ugohJfs37pQWbMrVIuLeSr-g~owV4yZa-mjotPvIfw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
