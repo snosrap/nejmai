@@ -4,34 +4,36 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833621",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833621",
-            "title": "Machine Learning Multimodal Model for Delirium Risk Stratification",
-            "summary": "This quality improvement study describes the development, operationalization, and validation of a multimodal machine learning\u2013based model for delirium risk stratification in clinical practice and its associations with workflow and clinical outcomes.",
-            "content_html": "<h3>Importance</h3><p>Automating the identification of risk for developing hospital delirium with models that use machine learning (ML) could facilitate more rapid prevention, identification, and treatment of delirium. However, there are very few reports on the performance of ML models for delirium risk stratification in live clinical practice.</p><h3>Objective</h3><p>To report on development, operationalization, and validation of a multimodal ML model for delirium risk stratification in live clinical practice and its associations with workflow and clinical outcomes.</p><h3>Design, Setting, and Participants</h3><p>This quality improvement study developed an ML model supported by automated electronic medical records to stratify the risk of non\u2013intensive care unit delirium in live clinical practice using the Confusion Assessment Method as the diagnostic reference standard, with an iterative model update method. Data from patients aged at least 60 years admitted to non\u2013intensive care units at Mount Sinai Hospital between January 2016 and January 2020 were used to train and test the ML model presented. The model was validated in live clinical practice from March 2023 to March 2024. Analysis of the model\u2019s associations with workflow and clinical outcomes was conducted retrospectively in 2024, comparing hospitalized patients prior to deployment of any model version (pre-ML cohort) and during model clinical deployment (post-ML cohort).</p><h3>Main Outcomes and Measures</h3><p>Outcomes of interest were area under the receiver operating characteristic curve, monthly delirium detection rates, median length of hospital stay, and daily doses of opiate, benzodiazepine, and antipsychotic medications administered.</p><h3>Results</h3><p>The overall sample included 32\u202f284 inpatient admissions (mean [SD] age, 73.56 (9.67) years, 15\u202f157 [46.9%] women). A total of 25\u202f261 inpatient admissions of older patients with both medical and surgical primary diagnoses represented the combined model testing and training cohort (median age, 73.37 [66.42-81.36] years) and live clinical deployment validation cohort (median [IQR] age, 72.11 [62.26-78.97] years), while 7023 inpatient admissions of older patients with both medical and surgical primary diagnoses represented the combined pre-ML (median [IQR] age, 74.00 [68.00-81.00] years) and post-ML (median [IQR] age, 75.33 [68.34-82.91] years) cohorts. The model presented is a fusion of electronic medical record patient data features and clinical note features processed by natural language processing. The results of model validation in live clinical practice included an area under the curve of 0.94 (95% CI, 0.93-0.95). Median (IQR) monthly delirium detection rates of inpatients assessed for delirium with the Confusion Assessment Method increased from 4.42% (95% CI, 3.70%-5.14%) in the pre-ML cohort to 17.17% (95% CI, 15.54%-18.80%) in the post-ML cohort (<i>P</i>\u2009&lt;\u2009.001). Post-ML vs pre-ML cohorts received lower daily doses of benzodiazepines (median [IQR] 0.93 [0.42-2.28] diazepam dose equivalents vs 1.60 [0.66-4.27] diazepam dose equivalents;<i>P</i>\u2009&lt;\u2009.001) and olanzapine (median [IQR], 1.09 [0.38-2.46] mg vs 2.50 [1.17-6.65] mg;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>This quality improvement study demonstrates the feasibility of a novel multimodal ML model to automate delirium risk stratification in live clinical practice. The model demonstrated acceptable performance in live clinical practice and may facilitate resource allocation to enhance delirium identification and care.</p>",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833619",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833619",
+            "title": "Real-Time AI-Assisted Insulin Titration System for Glucose Control in Patients With Type 2 Diabetes: A",
+            "summary": "This randomized clinical trial of adults with type 2 diabetes assesses the efficacy and safety of an artificial intelligence\u2013based insulin clinical decision support system in achieving glucose control.",
+            "content_html": "<h3>Importance</h3><p>Type 2 diabetes (T2D) is one of the most prevalent chronic diseases in the world. Insulin titration for glycemic control in T2D is crucial but limited by the lack of personalized and real-time tools.</p><h3>Objective</h3><p>To examine whether an artificial intelligence\u2013based insulin clinical decision support system (iNCDSS) for glycemic control in hospitalized patients with T2D is noninferior to standard insulin therapy administered by senior physicians.</p><h3>Design, Setting, and Participants</h3><p>This multicenter, single-blind, parallel randomized clinical trial (RCT) was conducted between October 1, 2021, and September 8, 2022, in endocrinology wards of 3 medical centers. Eligible participants were adults (aged \u226518 years) with glycated hemoglobin levels between 7.0% and 11.0% who had received antidiabetic treatments in the previous 3 months.</p><h3>Interventions</h3><p>Participants were randomized in a 1:1 ratio to receive insulin dosage titration by iNCDSS or senior endocrinology physicians for 5 consecutive days.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the proportion of time in the target glucose range (70-180 mg/dL) during the 5-day study period; the noninferiority margin was 6 percentage points. Secondary outcomes included other glycemic control measurements and adverse events.</p><h3>Results</h3><p>A total of 149 participants (mean [SD] age, 64.2 [12.0] years; 84 male [56.4%]) were enrolled and randomized to the iNCDSS group (n\u2009=\u200975) or physician group (n\u2009=\u200974). The mean (SD) target glucose range (primary outcome) was 76.4% (16.4%) in the iNCDSS group and 73.6% (16.8%) in the physician group, which achieved the prespecified noninferiority criterion (estimated treatment difference, 2.7%; 95% CI, \u22122.7% to 8.0%). There were no significant differences in adverse events between the 2 groups. Most physicians were satisfied with the iNCDSS for its clear, time-saving, effective, and safe clinical support.</p><h3>Conclusions and Relevance</h3><p>In this RCT of an iNCDSS, the system demonstrated noninferiority to senior endocrinology physicians in insulin titration in an inpatient setting, indicating its potential as a favorable tool for insulin titration in patients with T2D.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT04642378</p>",
             "date_published": "2025-05-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Joseph I. Friedman, MD"
+                    "name": "Zhen Ying, MD"
                 }
             ],
             "tags": [
-                "antipsychotic agents",
-                "benzodiazepines",
-                "confusion assessment method (cam)",
-                "delirium",
-                "machine learning",
-                "quality improvement",
-                "treatment outcome",
-                "workflow"
+                "adverse event",
+                "artificial intelligence",
+                "clinical",
+                "decision support systems",
+                "diabetes mellitus",
+                "endocrinology",
+                "glycemic control",
+                "insulin",
+                "non-insulin-dependent",
+                "titration method"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833621/friedman_2025_oi_250324_1745961531.26102.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833619/ying_2025_oi_250326_1745961524.42762.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250324t1_1745961531.48101.png?Expires=2147483647&Signature=tmTpCebKz6x9N3ETqjGy~k4MAq4Inb5FDr0-Vilj5jKOMBzuLzNeHVrQpv4WUn2VxGwf94VZ9LFVLm2XRmGaHa53vK8Oj1hj4sr570eq-Bf3IU0vqFdBq2yVlNFSQky6Nj8M7ImIyGrtMTLG5NxEWqOaam0Y01rUIqdHzX5Xk6A0gYR0T6seFK~gYfGhDcBzcJAcMTL4ZfNcKMPdgqEf~JfXT85JOMSWWViVcrBcjPmlA09ERydBnnmF0TR~rDEfha5e5PmGulNW0O7O7nrY9i7lSx3kUgflY8c~tVRBBDVjSi8X2ttfXXecIk2hwg-yiTFzNYK29jEW4oS3c2wOSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250326f1_1745961524.66746.png?Expires=2147483647&Signature=BOaLydFi645H~zCQdfT~Q~YmHLUIYON36uP2lpOR0f~bt9d990QtgnBD423t-9SkDnXjjSbOzEYEndcCu5-3ToDmW4xSawsIFDswxkaBtTyC~TdkoqZRCt7DH4TFAU9SsdoOLCKy3HfMpxxOAH5nNaTtKEbtqqGGKaPwrJQ8iUTLH7dR3iNCBUeNYeUzH99bxd2pnU0EfNjfvbK5MCDs72M3lztCyfK5pPcnsFD5vaKNVKNC11faUlSSEjg8Rpucrmps~u6v~reMgxbkBkuxzUXkkO5FpLrkB18kG9P3oUCdaGFl5yK4h18cIBgS3wvQwng5g7n2~cZlq8MIwSvf8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
