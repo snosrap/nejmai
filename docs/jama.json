@@ -4,30 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833618",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833618",
-            "title": "Predicting Agitation Events in the Emergency Department Through Artificial Intelligence",
-            "summary": "This cohort study evaluates whether artificial intelligence (AI) can be used to accurately predict agitation events among adult patients visiting the emergency department.",
-            "content_html": "<h3>Importance</h3><p>Agitation events are increasing in emergency departments (EDs), exacerbating safety risks for patients and clinicians. A wide range of clinical etiologies and behavioral patterns in the emergency setting make agitation prediction difficult in this setting.</p><h3>Objective</h3><p>To develop, train, and validate an agitation-specific prediction model based on a large, diverse set of past ED visit data.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included electronic health record data collected from 9 ED sites within a large, urban health system in the Northeast US. All ED visits featuring patients aged 18 years or older from January 1, 2015, to December 31, 2022, were included in the analysis and modeling. Data analysis occurred between May 2023 and September 2024.</p><h3>Exposures</h3><p>Variables that served as potential exposures of interest, encompassing demographic information, patient history, initial vital signs, visit information, mode of arrival, and health services utilization.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome of agitation was defined as the presence of an intramuscular chemical sedation and/or violent physical restraint order during an ED visit. A clinical model was developed to identify risk factors that predict agitation development during an ED visit prior to symptom onset. Model performance was measured using area under the receiver operating characteristic curve (AUROC) and area under the precision recall curve (PR-AUC).</p><h3>Results</h3><p>The final cohort comprised 3\u202f048\u202f780 visits. The cohort had a mean (SD) age of 50.2 (20.4) years, with 54.7% visits among female patients. The final artificial intelligence model used 50 predictors for the primary outcome of predicting agitation events. The model achieved an AUROC of 0.94 (95% CI, 0.93-0.94) and a PR-AUC of 0.41 (95% CI, 0.40-0.42) in cross-validation, indicating good discriminative ability. Calibration of the model was evaluated and demonstrated robustness across the range of predicted probabilities. The top predictors in the final model included factors such as number of past ED visits, initial vital signs, medical history, chief concern, and number of previous sedation and restraint events.</p><h3>Conclusions and Relevance</h3><p>Using a cross-sectional cohort of ED visits across 9 hospitals, the prediction model included factors for detecting risk of agitation that demonstrated high accuracy and applicability across diverse patient populations. These results suggest that clinical application of the model may enhance patient-centered care through preemptive deescalation and prevention of agitation.</p>",
-            "date_published": "2025-05-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2833149",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2833149",
+            "title": "The Role of Social Media in Fueling Bias in Oncology",
+            "summary": "This Viewpoint explores the role of social media in the dissemination of medical research findings and discusses how oversight, education, and media literacy can help prevent the spread of misinformation.",
+            "content_text": "This Viewpoint explores the role of social media in the dissemination of medical research findings and discusses how oversight, education, and media literacy can help prevent the spread of misinformation.",
+            "date_published": "2025-04-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ambrose H. Wong, MD, MSEd, MHS"
+                    "name": "Raffaele Giusti, MD"
                 }
             ],
             "tags": [
-                "agitation",
-                "artificial intelligence",
-                "emergency service",
-                "hospital"
+                "medical oncology specialty",
+                "medical research activity",
+                "misinformation",
+                "social media"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833618/wong_2025_oi_250327_1745961521.69281.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2833149/jamaoncology_giusti_2025_vp_250009_1744818528.46979.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250327f1_1745961521.91201.png?Expires=2147483647&Signature=itzwY2uwTOLNNS1C68THVYtMPWn6WoIPf41lS8jJztmHxXLqAXpniew2-ndeH02bOw3dAioYQOk8Rn2SgnxwvkIovvADwJuIemrLkib-oBh8tuEhXAm0LFMTMl4UsD~A1x7xnAVPc5SlNxJvCQfI1QNGaxxsb9ukJ20eUw0u8fCKoEeDdZPcNmUbKzuNcZEkvL0TG3ByPsQAMuceJHhrqkB-CIYGAOmwMihzkhMw7DwuWvKsmGqpGQ~eWWwViqwFn1IPa9GaxcgDD9qTmO9yrTGzT2l6f0xmBBromIUqext5Jx77RHB69NPou~bayXUXWfQTAhssA2LmeTWy45Uj5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Oncology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
