@@ -4,34 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833621",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833621",
-            "title": "Machine Learning Multimodal Model for Delirium Risk Stratification",
-            "summary": "This quality improvement study describes the development, operationalization, and validation of a multimodal machine learning\u2013based model for delirium risk stratification in clinical practice and its associations with workflow and clinical outcomes.",
-            "content_html": "<h3>Importance</h3><p>Automating the identification of risk for developing hospital delirium with models that use machine learning (ML) could facilitate more rapid prevention, identification, and treatment of delirium. However, there are very few reports on the performance of ML models for delirium risk stratification in live clinical practice.</p><h3>Objective</h3><p>To report on development, operationalization, and validation of a multimodal ML model for delirium risk stratification in live clinical practice and its associations with workflow and clinical outcomes.</p><h3>Design, Setting, and Participants</h3><p>This quality improvement study developed an ML model supported by automated electronic medical records to stratify the risk of non\u2013intensive care unit delirium in live clinical practice using the Confusion Assessment Method as the diagnostic reference standard, with an iterative model update method. Data from patients aged at least 60 years admitted to non\u2013intensive care units at Mount Sinai Hospital between January 2016 and January 2020 were used to train and test the ML model presented. The model was validated in live clinical practice from March 2023 to March 2024. Analysis of the model\u2019s associations with workflow and clinical outcomes was conducted retrospectively in 2024, comparing hospitalized patients prior to deployment of any model version (pre-ML cohort) and during model clinical deployment (post-ML cohort).</p><h3>Main Outcomes and Measures</h3><p>Outcomes of interest were area under the receiver operating characteristic curve, monthly delirium detection rates, median length of hospital stay, and daily doses of opiate, benzodiazepine, and antipsychotic medications administered.</p><h3>Results</h3><p>The overall sample included 32\u202f284 inpatient admissions (mean [SD] age, 73.56 (9.67) years, 15\u202f157 [46.9%] women). A total of 25\u202f261 inpatient admissions of older patients with both medical and surgical primary diagnoses represented the combined model testing and training cohort (median age, 73.37 [66.42-81.36] years) and live clinical deployment validation cohort (median [IQR] age, 72.11 [62.26-78.97] years), while 7023 inpatient admissions of older patients with both medical and surgical primary diagnoses represented the combined pre-ML (median [IQR] age, 74.00 [68.00-81.00] years) and post-ML (median [IQR] age, 75.33 [68.34-82.91] years) cohorts. The model presented is a fusion of electronic medical record patient data features and clinical note features processed by natural language processing. The results of model validation in live clinical practice included an area under the curve of 0.94 (95% CI, 0.93-0.95). Median (IQR) monthly delirium detection rates of inpatients assessed for delirium with the Confusion Assessment Method increased from 4.42% (95% CI, 3.70%-5.14%) in the pre-ML cohort to 17.17% (95% CI, 15.54%-18.80%) in the post-ML cohort (<i>P</i>\u2009&lt;\u2009.001). Post-ML vs pre-ML cohorts received lower daily doses of benzodiazepines (median [IQR] 0.93 [0.42-2.28] diazepam dose equivalents vs 1.60 [0.66-4.27] diazepam dose equivalents;<i>P</i>\u2009&lt;\u2009.001) and olanzapine (median [IQR], 1.09 [0.38-2.46] mg vs 2.50 [1.17-6.65] mg;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>This quality improvement study demonstrates the feasibility of a novel multimodal ML model to automate delirium risk stratification in live clinical practice. The model demonstrated acceptable performance in live clinical practice and may facilitate resource allocation to enhance delirium identification and care.</p>",
-            "date_published": "2025-05-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
+            "title": "Prospects for Artificial Intelligence in Health Policy and Practice",
+            "summary": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "content_text": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
+            "date_published": "2025-03-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Joseph I. Friedman, MD"
+                    "name": "John Z. Ayanian, MD, MPP"
                 }
             ],
             "tags": [
-                "antipsychotic agents",
-                "benzodiazepines",
-                "confusion assessment method (cam)",
-                "delirium",
-                "machine learning",
-                "quality improvement",
-                "treatment outcome",
-                "workflow"
+                "artificial intelligence",
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833621/friedman_2025_oi_250324_1745961531.26102.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831207/ayanian_2025_en_250001_1741789307.15754.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250324t1_1745961531.48101.png?Expires=2147483647&Signature=tmTpCebKz6x9N3ETqjGy~k4MAq4Inb5FDr0-Vilj5jKOMBzuLzNeHVrQpv4WUn2VxGwf94VZ9LFVLm2XRmGaHa53vK8Oj1hj4sr570eq-Bf3IU0vqFdBq2yVlNFSQky6Nj8M7ImIyGrtMTLG5NxEWqOaam0Y01rUIqdHzX5Xk6A0gYR0T6seFK~gYfGhDcBzcJAcMTL4ZfNcKMPdgqEf~JfXT85JOMSWWViVcrBcjPmlA09ERydBnnmF0TR~rDEfha5e5PmGulNW0O7O7nrY9i7lSx3kUgflY8c~tVRBBDVjSi8X2ttfXXecIk2hwg-yiTFzNYK29jEW4oS3c2wOSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
