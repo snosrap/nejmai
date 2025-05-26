@@ -4,28 +4,38 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831207",
-            "title": "Prospects for Artificial Intelligence in Health Policy and Practice",
-            "summary": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
-            "content_text": "Artificial intelligence (AI) is poised to transform health care through large language models (LLMs) and machine learning predictive models with a wide range of applications. In 2023, leaders of JAMA \u2014on behalf of all JAMA Network journals\u2014issued a call for innovative original research, review, and opinion articles on AI in health care, 1 focused on 6 domains:",
-            "date_published": "2025-03-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833584",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833584",
+            "title": "AI-Based Virtual Triage and Telemedical Health Care for Ukrainian War Refugees and Displaced Persons",
+            "summary": "This cross-sectional study examines use of an artificial intelligence (AI)\u2013based virtual triage and referral platform to treat mental health\u2013related conditions among Polish citizens and Ukranian migrants in Poland during the Russia-Ukraine War.",
+            "content_text": "This cross-sectional study examines use of an artificial intelligence (AI)\u2013based virtual triage and referral platform to treat mental health\u2013related conditions among Polish citizens and Ukranian migrants in Poland during the Russia-Ukraine War.",
+            "date_published": "2025-05-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "John Z. Ayanian, MD, MPP"
+                    "name": "George A. Gellert, MD, MPH, MPA"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "health policy"
+                "country of poland",
+                "informatics (discipline)",
+                "mental health",
+                "patient referral",
+                "polish language",
+                "refugees",
+                "russia",
+                "triage",
+                "ukraine",
+                "ukranian language",
+                "war"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831207/ayanian_2025_en_250001_1741789307.15754.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833584/gellert_2025_ld_250053_1745870516.44105.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zld250053t1_1745870516.58186.png?Expires=2147483647&Signature=tQvLbkL9fx9mWSYenkhlcyXmnbrXKMj4NndMrRt0wpAquCnQB5xOBfsvCgI-utoM1oEAg7EUpgJbrvGiCEO~QGmPQNPCvpIKGg13l4Q102ZLvXUTDn3XVJqPQPHJri-8XStWGnx1z0yOQIG6-ZlMW-noLT7KlTP1MqBitTBPMU8mjZjdLUcr-py9cqLm~-sKy3ER1SyEAR5ZPLYpDLtrcTbLixUtzpWApPOy8Ivg4V93JQDpr0M7YQT8lTAvtpCt--Xsk-AyqRfnWnn4jbwFNahGt8NMNQZCp-3a7jX7N97fqHAj7fxW~gYx5hU-FHeq~9NfxaotptXNU3AaZDpzWA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
