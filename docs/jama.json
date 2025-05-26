@@ -4,38 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833584",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833584",
-            "title": "AI-Based Virtual Triage and Telemedical Health Care for Ukrainian War Refugees and Displaced Persons",
-            "summary": "This cross-sectional study examines use of an artificial intelligence (AI)\u2013based virtual triage and referral platform to treat mental health\u2013related conditions among Polish citizens and Ukranian migrants in Poland during the Russia-Ukraine War.",
-            "content_text": "This cross-sectional study examines use of an artificial intelligence (AI)\u2013based virtual triage and referral platform to treat mental health\u2013related conditions among Polish citizens and Ukranian migrants in Poland during the Russia-Ukraine War.",
-            "date_published": "2025-05-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833431",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833431",
+            "title": "DeepSeek\u2019s \u201cLow-Cost\u201d Adoption Across China\u2019s Hospital Systems: Too Fast, Too Soon?",
+            "summary": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence\u2013enabled models in health care.",
+            "content_text": "This Perspective examines the rapid adoption of DeepSeek, a large language model, across Chinese hospitals and the regulatory and governance concerns surrounding the use of artificial intelligence\u2013enabled models in health care.",
+            "date_published": "2025-04-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "George A. Gellert, MD, MPH, MPA"
+                    "name": "Dian Zeng, MD, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "country of poland",
-                "informatics (discipline)",
-                "mental health",
-                "patient referral",
-                "polish language",
-                "refugees",
-                "russia",
-                "triage",
-                "ukraine",
-                "ukranian language",
-                "war"
+                "china",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833584/gellert_2025_ld_250053_1745870516.44105.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833431/jama_zeng_2025_pp_250005_1745523824.56645.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zld250053t1_1745870516.58186.png?Expires=2147483647&Signature=tQvLbkL9fx9mWSYenkhlcyXmnbrXKMj4NndMrRt0wpAquCnQB5xOBfsvCgI-utoM1oEAg7EUpgJbrvGiCEO~QGmPQNPCvpIKGg13l4Q102ZLvXUTDn3XVJqPQPHJri-8XStWGnx1z0yOQIG6-ZlMW-noLT7KlTP1MqBitTBPMU8mjZjdLUcr-py9cqLm~-sKy3ER1SyEAR5ZPLYpDLtrcTbLixUtzpWApPOy8Ivg4V93JQDpr0M7YQT8lTAvtpCt--Xsk-AyqRfnWnn4jbwFNahGt8NMNQZCp-3a7jX7N97fqHAj7fxW~gYx5hU-FHeq~9NfxaotptXNU3AaZDpzWA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250005f1_1745523824.6775.png?Expires=2147483647&Signature=PxxIBYJu3gOGMldUWuZvRv3Ly-RJw7kPbFRMnPEkH~2ACo5OLVXcOYuKe~8m-w1oCCSF~zQSCnIw2FeWYEkrgPoie5njuwVNcCjFlTzzERsFsqaG6UcaBTdI3L6isTbuS6QFNN-4-PrAdEhcT0ZElUXHsjkwovV3GIfjek~GM1-w22GAjMS6mq-tifAMr4032MpZM-85dUtlIaHpgTSqus8P7R5fJfZY61pS-QOnjIG77s8AgDO~LrrdGiL8vDaUIc3H~2mZkLsZUS6AJ8~J28zfFP6ic1bJMFD9u0MgkM9Jkfa4vMPYMd1fmhdqerbS~7MeUhUcU2kwc0a4KB3slg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
