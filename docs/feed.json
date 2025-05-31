@@ -5,6 +5,267 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2401260",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2401260",
+      "title": "Right Care, Right Place, First Time: How AI Is Improving National Virtual Front Doors",
+      "summary": "This policy commentary explores the transformative role of artificial intelligence (AI) in virtual front doors, which serve as the initial consumer interface in health systems. It highlights how AI is enabling more personalized, equitable, and efficient care triage in Australia, advancing the goal of delivering the right care, in the right place, the first time.",
+      "content_text": "## Abstract\n\nLarge-scale virtual front doors (VFDs) serve as the initial point of consumer\ncontact with a health system. Intended to improve consumer experience, health\nequity, evidence-based care, and utilization of available system capacity,\nVFDs are offered through digital and telephone channels, aiming to provide\nfirst-time resolution at the appropriate level of care.\n\nPreviously, VFDs faced challenges in personalizing triage for particular\nconsumer cohorts and had a tendency to contribute to overtriage. The use of\nartificial intelligence (AI)\u2013enabled VFDs across Australia has been shown to\novercome these limitations. However, ensuring transparency, accountability,\nand safety in AI-enabled VFDs requires clear communication about how AI is\nused, who operates the system, and the values driving its design, alongside\nrobust postimplementation monitoring for bias, shared oversight between\ngovernment and industry, and thoughtful change management to support clinical\nadoption.\n\nAI could become ubiquitous in triaging at scale to achieve the vision of right\ncare, right place, first time. AI-enabled VFDs can solve major health care\nchallenges by improving consumers\u2019 engagement in managing their own care,\nimproving equity of access, reducing unwarranted variability in care pathways,\nand matching demand with available capacity \u2014 all while reducing cost.\n\n",
+      "date_published": "2025-05-22T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "B. McMahon and D. McInerney"
+        }
+      ],
+      "tags": [
+        "Policy Corner"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2401260",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Large-scale virtual front doors (VFDs) serve as the initial point of consumer contact with a health system. Intended to improve consumer experience, health equity, evidence-based care, and utilization of available system capacity, VFDs are offered through digital and telephone channels, aiming to provide first-time resolution at the appropriate level of care.</div><div role=\"paragraph\">Previously, VFDs faced challenges in personalizing triage for particular consumer cohorts and had a tendency to contribute to overtriage. The use of artificial intelligence (AI)\u2013enabled VFDs across Australia has been shown to overcome these limitations. However, ensuring transparency, accountability, and safety in AI-enabled VFDs requires clear communication about how AI is used, who operates the system, and the values driving its design, alongside robust postimplementation monitoring for bias, shared oversight between government and industry, and thoughtful change management to support clinical adoption.</div><div role=\"paragraph\">AI could become ubiquitous in triaging at scale to achieve the vision of right care, right place, first time. AI-enabled VFDs can solve major health care challenges by improving consumers\u2019 engagement in managing their own care, improving equity of access, reducing unwarranted variability in care pathways, and matching demand with available capacity \u2014 all while reducing cost.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400785",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400785",
+      "title": "Randomized Study of the Impact of AI on Perceived Legal Liability for Radiologists",
+      "summary": "This article examines how the use of artificial intelligence (AI) in radiology influences public perceptions of liability when a radiologist misses a pathology. Participants were more likely to hold the radiologist accountable when AI detected the abnormality, but providing information about AI error rates reduced this effect, highlighting the potential legal and communication implications of integrating AI into clinical practice.",
+      "content_text": "## Abstract\n\n### Background\n\nArtificial intelligence (AI) will have unintended consequences for radiology\nas the applications of AI use in patient care continue to expand. When a\nradiologist misses an abnormality on an image, their perceived liability may\ndiffer according to whether or not AI also missed the abnormality.\n\n### Methods\n\nAdults in the United States viewed a vignette describing a radiologist being\nsued for missing a brain bleed (n=652) or cancer (n=682). We randomly assigned\nparticipants to one of five conditions. In four conditions, they were told an\nAI system was used. Either AI agreed with the radiologist, also failing to\nfind pathology (AI agree), or AI did find pathology (AI disagree). Some\nparticipants were given more context about the performance of AI: a 1% AI\nfalse omission rate (FOR) was presented when AI agreed with the radiologist\u2019s\nfinding (noted as AI agree + FOR), and a 50% AI false discovery rate (FDR) was\npresented when the AI disagreed with the radiologist\u2019s finding (noted as AI\ndisagree + FDR). There was also a \u201cno AI\u201d control condition. Otherwise,\nvignettes were identical. Participants indicated whether the radiologist met\ntheir duty of care as a proxy for whether they would side with the defense\n(radiologist) or the plaintiff.\n\n### Results\n\nParticipants were more likely to find the radiologist legally liable in the AI\ndisagree versus the AI agree condition (brain bleed: 72.9% vs. 50.0%, P=0.001;\ncancer: 78.7% vs. 63.5%, P=0.01) and in the AI disagree versus the no AI\ncondition (brain bleed: 72.9% vs. 56.3%, P=0.01; cancer: 78.7% vs. 65.2%,\nP=0.04). Participants were less likely to side with the plaintiff when the\nadditional context of FDR or FOR were provided for a brain bleed: AI disagree\nversus AI disagree + FDR (brain bleed: 72.9% vs. 48.8%, P=0.001; cancer: 78.7%\nvs. 73.1%, P=0.20), and AI agree versus AI agree + FOR (brain bleed: 50.0% vs.\n34.0%, P=0.01; cancer: 63.5% vs. 56.4%, P=0.19).\n\n### Conclusions\n\nRadiologists who failed to find an abnormality are viewed as more culpable\nwhen they used an AI system that detected the abnormality. Presenting\nparticipants with AI error data decreased perceived liability. These findings\nhave relevance for courtroom proceedings.\n\n",
+      "date_published": "2025-05-22T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "M.H. Bernstein and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400785",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/ccf2a08f-6a0b-428d-a72f-26a53031ea7c/aioa2400785_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI) will have unintended consequences for radiology as the applications of AI use in patient care continue to expand. When a radiologist misses an abnormality on an image, their perceived liability may differ according to whether or not AI also missed the abnormality.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">Adults in the United States viewed a vignette describing a radiologist being sued for missing a brain bleed (n=652) or cancer (n=682). We randomly assigned participants to one of five conditions. In four conditions, they were told an AI system was used. Either AI agreed with the radiologist, also failing to find pathology (AI agree), or AI did find pathology (AI disagree). Some participants were given more context about the performance of AI: a 1% AI false omission rate (FOR) was presented when AI agreed with the radiologist\u2019s finding (noted as AI agree + FOR), and a 50% AI false discovery rate (FDR) was presented when the AI disagreed with the radiologist\u2019s finding (noted as AI disagree + FDR). There was also a \u201cno AI\u201d control condition. Otherwise, vignettes were identical. Participants indicated whether the radiologist met their duty of care as a proxy for whether they would side with the defense (radiologist) or the plaintiff.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Participants were more likely to find the radiologist legally liable in the AI disagree versus the AI agree condition (brain bleed: 72.9% vs. 50.0%, P=0.001; cancer: 78.7% vs. 63.5%, P=0.01) and in the AI disagree versus the no AI condition (brain bleed: 72.9% vs. 56.3%, P=0.01; cancer: 78.7% vs. 65.2%, P=0.04). Participants were less likely to side with the plaintiff when the additional context of FDR or FOR were provided for a brain bleed: AI disagree versus AI disagree + FDR (brain bleed: 72.9% vs. 48.8%, P=0.001; cancer: 78.7% vs. 73.1%, P=0.20), and AI agree versus AI agree + FOR (brain bleed: 50.0% vs. 34.0%, P=0.01; cancer: 63.5% vs. 56.4%, P=0.19).</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Radiologists who failed to find an abnormality are viewed as more culpable when they used an AI system that detected the abnormality. Presenting participants with AI error data decreased perceived liability. These findings have relevance for courtroom proceedings.</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500388",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500388",
+      "title": "AI Streamlines Prostate Pathology Data Extraction",
+      "summary": "In this issue of NEJM AI, Azar et al. demonstrate that AI can accurately extract and enter data from prostatectomy pathology reports. This suggests that AI tools may be accurate enough to be deployed for research, minimizing the burden of manual data extraction and entry.",
+      "content_text": "## Abstract\n\nManual extraction of pathology data from electronic health records remains a\nlabor-intensive barrier to large-scale clinical research. In this editorial,\nwe discuss the findings of Azar et al., who demonstrate that a large language\nmodel can accurately extract structured data from radical prostatectomy\npathology reports, achieving near-perfect concordance with human reviewers.\nThis work highlights the feasibility of deploying AI for high-fidelity data\nabstraction in oncology research and outlines the potential for broader\nintegration into institutional databases and cancer registries. While\nlimitations in generalizability remain, the results signal a transformative\nstep toward scalable, automated research data curation.\n\n",
+      "date_published": "2025-05-22T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "S.P. Basourakos and J.E. Shoag"
+        }
+      ],
+      "tags": [
+        "Editorial"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500388",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Manual extraction of pathology data from electronic health records remains a labor-intensive barrier to large-scale clinical research. In this editorial, we discuss the findings of Azar et al., who demonstrate that a large language model can accurately extract structured data from radical prostatectomy pathology reports, achieving near-perfect concordance with human reviewers. This work highlights the feasibility of deploying AI for high-fidelity data abstraction in oncology research and outlines the potential for broader integration into institutional databases and cancer registries. While limitations in generalizability remain, the results signal a transformative step toward scalable, automated research data curation.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2500078",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2500078",
+      "title": "Incidental Prompt Injections on Vision\u2013Language Models in Real-Life Histopathology",
+      "summary": "This case study investigates how handwritten labels and watermarks on histopathological images can unintentionally act as prompt injections, misleading state-of-the-art vision\u2013language models such as GPT-4o and Claude. The findings reveal that these models often treat such visual text as authoritative, resulting in inaccurate outputs that highlight a critical vulnerability in medical AI systems.",
+      "content_text": "## Abstract\n\nVision\u2013language models (VLMs) can analyze multimodal medical data. However, a\nsignificant weakness of VLMs is their susceptibility to prompt injection\nattacks. Here, the model receives conflicting instructions, leading to\npotentially harmful outputs. We hypothesized that handwritten labels and\nwatermarks on histopathological images could act as inadvertent prompt\ninjections, influencing decision-making in histopathology. We conducted a\nquantitative analysis with a total of 3888 observations on the state-of-the-\nart VLMs Claude 3 Opus, Claude 3.5 Sonnet, and GPT-4o. We designed various\nreal-world\u2013inspired scenarios in which we investigated how VLMs react to\ndifferent labels and watermarks if presented with those next to the tissue.\nAll models reached almost perfect accuracies (90 to 100%) for ground-\ntruth\u2013leaking labels and abysmal accuracies (0 to 10%) for misleading labels\nor watermarks, despite baseline accuracies between 30 and 65% for various\nmulticlass problems. All VLMs relied on the human-provided labels and accepted\nthem as infallible, even when those inputs contained obvious errors.\nFurthermore, prompt engineering could not mitigate these effects. We therefore\nprovide evidence that labels, pen- and watermarks on histopathological images\nact as inadvertent prompt injections leading to blatant mistakes in decision-\nmaking by state-of-the-art VLMs. Our findings reveal a critical vulnerability\nthat could compromise diagnostic accuracy and patient safety in a real-world\nsetting. Future research should focus on developing robust methods to detect\nand neutralize potential prompt injections.\n\n",
+      "date_published": "2025-05-22T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "J. Clusmann and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2500078",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/7b0d6a37-b609-4ec2-9603-935e60514faf/aics2500078_f3.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Vision\u2013language models (VLMs) can analyze multimodal medical data. However, a significant weakness of VLMs is their susceptibility to prompt injection attacks. Here, the model receives conflicting instructions, leading to potentially harmful outputs. We hypothesized that handwritten labels and watermarks on histopathological images could act as inadvertent prompt injections, influencing decision-making in histopathology. We conducted a quantitative analysis with a total of 3888 observations on the state-of-the-art VLMs Claude 3 Opus, Claude 3.5 Sonnet, and GPT-4o. We designed various real-world\u2013inspired scenarios in which we investigated how VLMs react to different labels and watermarks if presented with those next to the tissue. All models reached almost perfect accuracies (90 to 100%) for ground-truth\u2013leaking labels and abysmal accuracies (0 to 10%) for misleading labels or watermarks, despite baseline accuracies between 30 and 65% for various multiclass problems. All VLMs relied on the human-provided labels and accepted them as infallible, even when those inputs contained obvious errors. Furthermore, prompt engineering could not mitigate these effects. We therefore provide evidence that labels, pen- and watermarks on histopathological images act as inadvertent prompt injections leading to blatant mistakes in decision-making by state-of-the-art VLMs. Our findings reveal a critical vulnerability that could compromise diagnostic accuracy and patient safety in a real-world setting. Future research should focus on developing robust methods to detect and neutralize potential prompt injections.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400943",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400943",
+      "title": "LLM-Mediated Data Extraction from Patient Records after Radical Prostatectomy",
+      "summary": "This study evaluates the accuracy of the National Institutes of Health Integrated Data Analysis Platform Text Extraction Program, a Generative Pretrained Transformer 4\u2013powered tool for extracting data from unstructured electronic health records. Compared with a manually curated ground-truth dataset from radical prostatectomy pathology reports, the Text Extraction Program achieved 99.8% accuracy, highlighting its effectiveness in extracting multiple variable types using Generative Pretrained Transformer 4 and robust prompt engineering.",
+      "content_text": "## Abstract\n\nIntegrating large language models (LLMs) into health care has the potential to\nimprove data extraction from electronic health records (EHRs). In this study,\nwe assess the extraction accuracy of our LLM-powered tool, the National\nInstitutes of Health (NIH) Integrated Data Analysis Platform Text Extraction\nProgram (NTEP), on radical prostatectomy pathology reports. A total of 369\npatients enrolled in a clinical trial\n([NCT02594202](https://clinicaltrials.gov/ct2/show/NCT02594202)) who underwent\nradical prostatectomy at the NIH were included. We compared a manually curated\nground-truth dataset containing 4797 data points for 13 variables abstracted\nfrom radical prostatectomy pathology reports to a dataset created using NTEP,\na platform that allows researchers to develop prompts aimed at extracting data\ndirectly from unstructured EHR documents using the Generative Pretrained\nTransformer 4 LLM. Comparison between extraction methods was assessed using\nCohen\u2019s kappa for binary and categorical variables and mean squared error\n(MSE) with Spearman\u2019s correlation for continuous and discrete variables.\nExtraction accuracy was calculated for each variable, and 95% confidence\nintervals were adjusted using the Agresti\u2013Coull method to account for sampling\nvariability. Overall, 4788 of 4797 (99.8%) data points were correctly\nextracted by the LLM. With discrete variables, the LLM demonstrated a 100%\nmatch between datasets for the number of positive lymph nodes but\nmiscalculated the total number of lymph nodes, resulting in an MSE of 0.0027\nand a Spearman\u2019s coefficient of 0.99. For continuous variables, the LLM\ndemonstrated a 100% match with the ground-truth dataset for prostate\ndimensions but failed to identify prostate weight in one patient. NTEP\ndemonstrated 99.8% accuracy in extracting data from radical prostatectomy\npathology reports, underscoring its effectiveness in accurately and securely\nprocessing variables from unstructured EHR data. Through robust prompt\nengineering, NTEP reliably extracted both discrete and continuous variables,\nwith only minor errors identified. These results highlight its potential for\nenhancing automated EHR data extraction while indicating areas for further\nrefinement.\n\n",
+      "date_published": "2025-05-22T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "W.S. Azar and Others"
+        }
+      ],
+      "tags": [
+        "Case Study"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400943",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/f1c0b9ac-9e17-46a3-80c8-fc32cdb1c9f6/aics2400943_f2.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Integrating large language models (LLMs) into health care has the potential to improve data extraction from electronic health records (EHRs). In this study, we assess the extraction accuracy of our LLM-powered tool, the National Institutes of Health (NIH) Integrated Data Analysis Platform Text Extraction Program (NTEP), on radical prostatectomy pathology reports. A total of 369 patients enrolled in a clinical trial (<a href=\"https://clinicaltrials.gov/ct2/show/NCT02594202\" target=\"_blank\">NCT02594202</a>) who underwent radical prostatectomy at the NIH were included. We compared a manually curated ground-truth dataset containing 4797 data points for 13 variables abstracted from radical prostatectomy pathology reports to a dataset created using NTEP, a platform that allows researchers to develop prompts aimed at extracting data directly from unstructured EHR documents using the Generative Pretrained Transformer 4 LLM. Comparison between extraction methods was assessed using Cohen\u2019s kappa for binary and categorical variables and mean squared error (MSE) with Spearman\u2019s correlation for continuous and discrete variables. Extraction accuracy was calculated for each variable, and 95% confidence intervals were adjusted using the Agresti\u2013Coull method to account for sampling variability. Overall, 4788 of 4797 (99.8%) data points were correctly extracted by the LLM. With discrete variables, the LLM demonstrated a 100% match between datasets for the number of positive lymph nodes but miscalculated the total number of lymph nodes, resulting in an MSE of 0.0027 and a Spearman\u2019s coefficient of 0.99. For continuous variables, the LLM demonstrated a 100% match with the ground-truth dataset for prostate dimensions but failed to identify prostate weight in one patient. NTEP demonstrated 99.8% accuracy in extracting data from radical prostatectomy pathology reports, underscoring its effectiveness in accurately and securely processing variables from unstructured EHR data. Through robust prompt engineering, NTEP reliably extracted both discrete and continuous variables, with only minor errors identified. These results highlight its potential for enhancing automated EHR data extraction while indicating areas for further refinement.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIdbp2400732",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIdbp2400732",
+      "title": "Multimodal Image Dataset for AI-Based Skin Cancer (MIDAS) Benchmarking",
+      "summary": "This article introduces the Melanoma Research Alliance Multimodal Image Dataset for Artificial Intelligence\u2013Based Skin Cancer (MIDAS), the largest publicly available dataset of biopsy-confirmed skin lesions with paired clinical and dermoscopic images. Using MIDAS, the authors evaluate the diagnostic performance of leading AI models and compare them with dermatologists\u2019 diagnoses, highlighting the need for diverse, real-world data to improve model generalizability and clinical relevance of AI use in dermatologic diagnostics.",
+      "content_text": "## Abstract\n\n### Background\n\nWith an estimated 3 billion people lacking dermatologic care globally,\nartificial intelligence (AI) offers potential improvements in access. However,\nhigh-quality, diverse datasets are crucial for developing and testing these\nalgorithms, including both unimodal and multimodal approaches. Most\ndermatology AI models are built on proprietary, siloed data, often from a\nsingle site with a single image type (i.e., clinical or dermoscopic). To\naddress this, we introduce the Melanoma Research Alliance Multimodal Image\nDataset for AI-based Skin Cancer (MIDAS), the largest publicly available,\nprospectively recruited dataset of biopsy-proven skin lesions with paired\ndermoscopic and clinical images.\n\n### Methods\n\nWe evaluated model performance on real-world MIDAS cases using four previously\npublished state-of-the-art (SOTA) models and compared model and clinician\ndiagnostic performance. We also assessed algorithm performance using clinical\nphotography taken at different distances from the lesion to assess its\ninfluence across diagnostic categories.\n\n### Results\n\nWe prospectively enrolled 796 patients through an institutional review\nboard\u2013approved protocol with informed consent, representing 1290 unique\nlesions and 3830 total images (including dermoscopic and clinical images taken\nat 15-cm and 30-cm distances), to build MIDAS. The images represented a\ndiverse range of lesions seen in general dermatology, including malignant,\nbenign, and inflammatory types. Among these were melanocytic nevi (22.4%),\ninvasive cutaneous melanomas (4.4%), and melanomas in situ (4.5%). We observed\nperformance reduction across all the dermatology SOTA models compared with\ntheir previously published metrics. As a baseline, dermatologists achieved 79%\naccuracy in identifying malignant lesions, and dermoscopic images yielded\nhigher sensitivity than clinical ones.\n\n### Conclusions\n\nImproving our understanding of the strengths and weaknesses of AI diagnostic\nalgorithms is critical as these tools advance toward widespread clinical\ndeployment. While many models report high performance, caution is warranted\ndue to a lack of model transportability across different patient populations.\nMIDAS\u2019s robust, multimodal dataset allows researchers to evaluate models on\nreal-world images, better assessing their generalizability and helping to\nbridge the gap between performance and clinical applicability. (Funded by the\nL\u2019Or\u00e9al Dermatological Beauty Brands-Melanoma Research Alliance Team Science\nAward and others.)\n\n",
+      "date_published": "2025-05-20T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "A.S. Chiou and Others"
+        }
+      ],
+      "tags": [
+        "Datasets, Benchmarks, and Protocols"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIdbp2400732",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/00261c00-0f4b-47a6-b7fa-348553ba822f/aidbp2400732_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">With an estimated 3 billion people lacking dermatologic care globally, artificial intelligence (AI) offers potential improvements in access. However, high-quality, diverse datasets are crucial for developing and testing these algorithms, including both unimodal and multimodal approaches. Most dermatology AI models are built on proprietary, siloed data, often from a single site with a single image type (i.e., clinical or dermoscopic). To address this, we introduce the Melanoma Research Alliance Multimodal Image Dataset for AI-based Skin Cancer (MIDAS), the largest publicly available, prospectively recruited dataset of biopsy-proven skin lesions with paired dermoscopic and clinical images.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We evaluated model performance on real-world MIDAS cases using four previously published state-of-the-art (SOTA) models and compared model and clinician diagnostic performance. We also assessed algorithm performance using clinical photography taken at different distances from the lesion to assess its influence across diagnostic categories.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">We prospectively enrolled 796 patients through an institutional review board\u2013approved protocol with informed consent, representing 1290 unique lesions and 3830 total images (including dermoscopic and clinical images taken at 15-cm and 30-cm distances), to build MIDAS. The images represented a diverse range of lesions seen in general dermatology, including malignant, benign, and inflammatory types. Among these were melanocytic nevi (22.4%), invasive cutaneous melanomas (4.4%), and melanomas in situ (4.5%). We observed performance reduction across all the dermatology SOTA models compared with their previously published metrics. As a baseline, dermatologists achieved 79% accuracy in identifying malignant lesions, and dermoscopic images yielded higher sensitivity than clinical ones.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Improving our understanding of the strengths and weaknesses of AI diagnostic algorithms is critical as these tools advance toward widespread clinical deployment. While many models report high performance, caution is warranted due to a lack of model transportability across different patient populations. MIDAS\u2019s robust, multimodal dataset allows researchers to evaluate models on real-world images, better assessing their generalizability and helping to bridge the gap between performance and clinical applicability. (Funded by the L\u2019Or\u00e9al Dermatological Beauty Brands-Melanoma Research Alliance Team Science Award and others.)</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400937",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400937",
+      "title": "AI Opportunistic Coronary Calcium Screening at Veterans Affairs Hospitals",
+      "summary": "This article presents AI-CAC, a deep learning algorithm developed to automatically quantify coronary artery calcium (CAC) from nongated, noncontrast chest computed tomography scans across the U.S. Veterans Affairs health care system. Validated against clinical electrocardiogram-gated CAC scoring, the model demonstrated high accuracy and prognostic value, enabling opportunistic cardiovascular risk assessment from routine imaging.",
+      "content_text": "## Abstract\n\n### Background\n\nCoronary artery calcium (CAC) is highly predictive of cardiovascular events.\nAlthough millions of chest computed tomography (CT) scans are performed\nannually in the United States, CAC is not routinely quantified from scans done\nfor noncardiac purposes.\n\n### Methods\n\nWe developed a deep learning algorithm, AI-CAC, using 446 expert segmentations\nto automatically quantify CAC on noncontrast, nongated CT scans. Our study\ndiffers from prior works by utilizing imaging data from 98 medical centers\nacross the Veterans Affairs national health care system, capturing extensive\nheterogeneity in imaging protocols, scanners, and patients. AI-CAC performance\non nongated scans was compared against clinical standard electrocardiogram\n(ECG)-gated CAC scoring in 795 patients with paired gated scans within 1 year\nof their nongated scan. In addition, the model was tested on 8052 low-dose CTs\n(LDCTs) to simulate opportunistic CAC screening.\n\n### Results\n\nNongated AI-CAC differentiated zero versus nonzero and less than 100 versus\n100 or greater Agatston scores with accuracies of 89.4% (F1 0.93) and 87.3%\n(F1 0.89), respectively. Nongated AI-CAC was predictive of 10-year all-cause\nmortality (CAC 0 vs. >400 group: 25.4% vs. 60.2%, Cox hazard ratio 3.49;\nP<0.005), and composite first-time stroke, myocardial infarction, or death\n(CAC 0 vs. >400 group: 33.5% vs. 63.8%, Cox hazard ratio 3.00; P<0.005). In\nthe LDCT dataset, 3091 out of 8052 (38.4%) individuals had AI-CAC scores\n>400\\. Four cardiologists qualitatively reviewed a random sample of the >400\nAI-CAC LDCT patients and verified that 527 of the 531 (99.2%) would benefit\nfrom lipid-lowering therapy.\n\n### Conclusions\n\nThis nongated CT CAC algorithm was developed across a national health care\nsystem and shows strong performance in evaluation against paired gated CT\nscans. The model code and weights are available at <https://github.com/Raffi-\nHagopian/AI-CAC/>. (Funded by the Veterans Affairs health care system.)\n\n",
+      "date_published": "2025-05-16T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "R. Hagopian and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400937",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400937_Hagopian-1747337531947.jpg",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Coronary artery calcium (CAC) is highly predictive of cardiovascular events. Although millions of chest computed tomography (CT) scans are performed annually in the United States, CAC is not routinely quantified from scans done for noncardiac purposes.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We developed a deep learning algorithm, AI-CAC, using 446 expert segmentations to automatically quantify CAC on noncontrast, nongated CT scans. Our study differs from prior works by utilizing imaging data from 98 medical centers across the Veterans Affairs national health care system, capturing extensive heterogeneity in imaging protocols, scanners, and patients. AI-CAC performance on nongated scans was compared against clinical standard electrocardiogram (ECG)-gated CAC scoring in 795 patients with paired gated scans within 1 year of their nongated scan. In addition, the model was tested on 8052 low-dose CTs (LDCTs) to simulate opportunistic CAC screening.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Nongated AI-CAC differentiated zero versus nonzero and less than 100 versus 100 or greater Agatston scores with accuracies of 89.4% (F1 0.93) and 87.3% (F1 0.89), respectively. Nongated AI-CAC was predictive of 10-year all-cause mortality (CAC 0 vs. &gt;400 group: 25.4% vs. 60.2%, Cox hazard ratio 3.49; P&lt;0.005), and composite first-time stroke, myocardial infarction, or death (CAC 0 vs. &gt;400 group: 33.5% vs. 63.8%, Cox hazard ratio 3.00; P&lt;0.005). In the LDCT dataset, 3091 out of 8052 (38.4%) individuals had AI-CAC scores &gt;400. Four cardiologists qualitatively reviewed a random sample of the &gt;400 AI-CAC LDCT patients and verified that 527 of the 531 (99.2%) would benefit from lipid-lowering therapy.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">This nongated CT CAC algorithm was developed across a national health care system and shows strong performance in evaluation against paired gated CT scans. The model code and weights are available at <a href=\"https://github.com/Raffi-Hagopian/AI-CAC/\" target=\"_blank\">https://github.com/Raffi-Hagopian/AI-CAC/</a>. (Funded by the Veterans Affairs health care system.)</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2300015",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2300015",
+      "title": "People Overtrust AI-Generated Medical Advice despite Low Accuracy",
+      "summary": "This article presents a comprehensive analysis of how artificial intelligence\u2013generated medical responses are perceived and evaluated by nonexperts. The results show that the accuracy of AI-generated responses, on average, was perceived as similar to or even better than the responses provided by doctors. Consequently, this could potentially lead to dependence on incorrect advice, misdiagnosis, and harmful consequences for individuals seeking medical help.",
+      "content_text": "## Abstract\n\n### Background\n\nThis article presents a comprehensive analysis of how artificial intelligence\n(AI)\u2013generated medical responses are perceived and evaluated by nonexperts.\n\n### Methods\n\nWe conducted a study in which a total of 300 participants gave evaluations for\nmedical responses that were either written by a medical doctor on an online\nhealth care platform or generated by a large language model and labeled by\nphysicians as having high accuracy or low accuracy.\n\n### Results\n\nResults showed that participants could not effectively distinguish between AI-\ngenerated responses and doctors\u2019 responses and demonstrated a preference for\nAI-generated responses, rating high-accuracy AI-generated responses as\nsignificantly more valid, trustworthy, and complete/satisfactory. Low-accuracy\nAI-generated responses on average performed very similarly to doctors\u2019\nresponses. Participants not only found these low-accuracy AI-generated\nresponses to be valid, trustworthy, and complete/satisfactory, but also\nindicated a high tendency to follow the potentially harmful medical advice and\nincorrectly seek unnecessary medical attention as a result of the response\nprovided. This problematic reaction was comparable with, if not stronger than,\nthe reaction they displayed toward doctors\u2019 responses. Both experts and\nnonexperts exhibited bias, finding AI-generated responses to be more thorough\nand accurate than doctors\u2019 responses but still valuing the involvement of a\ndoctor in the delivery of their medical advice.\n\n### Conclusions\n\nThe increased trust placed in inaccurate or inappropriate AI-generated medical\nadvice can lead to misdiagnosis and harmful consequences for individuals\nseeking help. Further, participants were more trusting of high-accuracy AI-\ngenerated responses when told they were given by a doctor, and experts rated\nAI-generated responses significantly higher when the source of the response\nwas unknown. Ultimately, AI systems should be implemented in collaboration\nwith medical professionals when used for the delivery of medical advice in\norder to prevent misinformation while reaping the benefits of such cutting-\nedge technology.\n\n",
+      "date_published": "2025-05-13T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "S. Shekar and Others"
+        }
+      ],
+      "tags": [
+        "Original Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2300015",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/8ce0d407-e5e7-4569-b024-b82b9085afa4/aioa2300015_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">This article presents a comprehensive analysis of how artificial intelligence (AI)\u2013generated medical responses are perceived and evaluated by nonexperts.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We conducted a study in which a total of 300 participants gave evaluations for medical responses that were either written by a medical doctor on an online health care platform or generated by a large language model and labeled by physicians as having high accuracy or low accuracy.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Results showed that participants could not effectively distinguish between AI-generated responses and doctors\u2019 responses and demonstrated a preference for AI-generated responses, rating high-accuracy AI-generated responses as significantly more valid, trustworthy, and complete/satisfactory. Low-accuracy AI-generated responses on average performed very similarly to doctors\u2019 responses. Participants not only found these low-accuracy AI-generated responses to be valid, trustworthy, and complete/satisfactory, but also indicated a high tendency to follow the potentially harmful medical advice and incorrectly seek unnecessary medical attention as a result of the response provided. This problematic reaction was comparable with, if not stronger than, the reaction they displayed toward doctors\u2019 responses. Both experts and nonexperts exhibited bias, finding AI-generated responses to be more thorough and accurate than doctors\u2019 responses but still valuing the involvement of a doctor in the delivery of their medical advice.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">The increased trust placed in inaccurate or inappropriate AI-generated medical advice can lead to misdiagnosis and harmful consequences for individuals seeking help. Further, participants were more trusting of high-accuracy AI-generated responses when told they were given by a doctor, and experts rated AI-generated responses significantly higher when the source of the response was unknown. Ultimately, AI systems should be implemented in collaboration with medical professionals when used for the delivery of medical advice in order to prevent misinformation while reaping the benefits of such cutting-edge technology.</div></section>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2500023",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2500023",
+      "title": "Essential Strategies for Leveraging AI in the Global HIV Response",
+      "summary": "This perspective explores 10 strategies for how artificial intelligence can be thoughtfully integrated into HIV programs amid tightening global health resources. It offers actionable guidance to ensure these tools reinforce \u2014 rather than disrupt \u2014 community priorities, ethical standards, and sustainable care delivery in high-need settings.",
+      "content_text": "## Abstract\n\nAs the global HIV response faces mounting financial pressures and shifting\ngeopolitical priorities, there is growing interest in how artificial\nintelligence (AI) can support progress in high-burden, low-resource settings.\nWhile AI offers the potential to enhance efficiency, optimize resource\nallocation, and support client-centered care, it is not a replacement for\nsustained funding, political will, or well-functioning health systems. The\nstrategies for AI implementation in the global HIV response presented here are\norganized around three core themes: data, governance, and regulation; client-\ncentered and community-led approaches; and stakeholder coordination and\ninvestment in a global AI commons. Key priorities include addressing data\ngaps, promoting ethical and inclusive data practices, ensuring local ownership\nand technological readiness, and building digital literacy. AI must complement\n\u2014 not replace \u2014 essential HIV services and be implemented through a rights-\nbased, community-driven lens to avoid deepening existing disparities. When\ndeployed responsibly, AI can contribute meaningfully to HIV response efforts\nand catalyze broader innovations in global health.\n\n",
+      "date_published": "2025-05-09T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "M.J. Reid and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2500023",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">As the global HIV response faces mounting financial pressures and shifting geopolitical priorities, there is growing interest in how artificial intelligence (AI) can support progress in high-burden, low-resource settings. While AI offers the potential to enhance efficiency, optimize resource allocation, and support client-centered care, it is not a replacement for sustained funding, political will, or well-functioning health systems. The strategies for AI implementation in the global HIV response presented here are organized around three core themes: data, governance, and regulation; client-centered and community-led approaches; and stakeholder coordination and investment in a global AI commons. Key priorities include addressing data gaps, promoting ethical and inclusive data practices, ensuring local ownership and technological readiness, and building digital literacy. AI must complement \u2014 not replace \u2014 essential HIV services and be implemented through a rights-based, community-driven lens to avoid deepening existing disparities. When deployed responsibly, AI can contribute meaningfully to HIV response efforts and catalyze broader innovations in global health.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401167",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401167",
+      "title": "A Call for Disclosure When Using AI for Patient Communications",
+      "summary": "The UC San Diego Health system examines the ethical and practical implications of using generative artificial intelligence (AI) to assist in drafting messages to patients through an approach that prioritizes transparency by disclosing AI involvement in clinical communication and calls for national guidelines to ensure consistent and trustworthy use of AI in patient care.",
+      "content_text": "## Abstract\n\nIn the spring of 2023, the UC San Diego Health system began generating draft\nreplies to patient messages with next-generation artificial intelligence (AI)\ntools as an early adopter. The rollout presented our AI governance committee\nwith novel challenges, particularly regarding transparency in the use of AI\nwith our patients, which we chose to make explicit with an automated\ndisclosure. Since our launch, hundreds of other institutions have adopted this\nsame tool without clear guidelines on transparency regarding the disclosure of\nAI use to patients. We share the subsequent experience and call for\nprofessional organizations to help create disclosure guidelines that can be\nused nationally.\n\n",
+      "date_published": "2025-05-09T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "M. Millen, M. Tai-Seale, and C.A. Longhurst"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401167",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/2433527d-7ee6-4c6d-8c0f-aa22716392f6/aip2401167_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">In the spring of 2023, the UC San Diego Health system began generating draft replies to patient messages with next-generation artificial intelligence (AI) tools as an early adopter. The rollout presented our AI governance committee with novel challenges, particularly regarding transparency in the use of AI with our patients, which we chose to make explicit with an automated disclosure. Since our launch, hundreds of other institutions have adopted this same tool without clear guidelines on transparency regarding the disclosure of AI use to patients. We share the subsequent experience and call for professional organizations to help create disclosure guidelines that can be used nationally.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401106",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401106",
+      "title": "Development, Evaluation, and Assessment of Large Language Models (DEAL) Checklist: A Technical Report",
+      "summary": "The Development, Evaluation, and Assessment of Large Language Models (DEAL) checklist offers two pathways \u2014 DEAL-A for advanced model development and DEAL-B for applied research \u2014 to ensure comprehensive and consistent reporting of LLM studies, fostering reliable scientific communication and evaluation.",
+      "content_text": "## Abstract\n\nLarge language models (LLMs) have advanced artificial intelligence research in\nmedicine, especially in natural language processing tasks. However, the\nnascent evolution of LLM practices presents challenges to the transparency,\nreproducibility, and rigor of research methods. Standardized reporting in\nresearch is critical to ensure reliable scientific communication and\nevaluation. This article introduces the Development, Evaluation, and\nAssessment of Large Language Models (DEAL) checklist, designed to guide\nauthors and reviewers in reporting LLM studies. The checklist comprises two\npathways: DEAL-A, tailored for advanced model development and fine-tuning, and\nDEAL-B, suited to applied research using pretrained models with minimal\nmodifications. Each pathway addresses critical elements such as model\nspecifications, data-handling practices, training procedures, evaluation\nmetrics, and transparency standards. The DEAL checklist provides a\ncomprehensive structure for documenting LLM research with the aim of making it\naccessible and reproducible. This structured approach aims to set a standard\nfor future research, facilitating peer review and encouraging best practices.\nThe DEAL checklist will serve as a valuable tool for enhancing the quality and\nreproducibility of LLM research. By offering clear guidelines on critical\nreporting elements, the DEAL checklist promotes robust and transparent\nscientific reporting, ultimately supporting the reliable advancement of LLM\ntechnologies.\n\n",
+      "date_published": "2025-05-09T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "S. Tripathi and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401106",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/9b27612d-d694-43e4-844d-afb927bee5c9/aip2401106_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Large language models (LLMs) have advanced artificial intelligence research in medicine, especially in natural language processing tasks. However, the nascent evolution of LLM practices presents challenges to the transparency, reproducibility, and rigor of research methods. Standardized reporting in research is critical to ensure reliable scientific communication and evaluation. This article introduces the Development, Evaluation, and Assessment of Large Language Models (DEAL) checklist, designed to guide authors and reviewers in reporting LLM studies. The checklist comprises two pathways: DEAL-A, tailored for advanced model development and fine-tuning, and DEAL-B, suited to applied research using pretrained models with minimal modifications. Each pathway addresses critical elements such as model specifications, data-handling practices, training procedures, evaluation metrics, and transparency standards. The DEAL checklist provides a comprehensive structure for documenting LLM research with the aim of making it accessible and reproducible. This structured approach aims to set a standard for future research, facilitating peer review and encouraging best practices. The DEAL checklist will serve as a valuable tool for enhancing the quality and reproducibility of LLM research. By offering clear guidelines on critical reporting elements, the DEAL checklist promotes robust and transparent scientific reporting, ultimately supporting the reliable advancement of LLM technologies.</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2500163",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2500163",
       "title": "More Fragmented, More Complex: State Regulation of AI in Health Care",
@@ -26,218 +287,6 @@
         }
       ],
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Several U.S. states have enacted or are considering legislation to regulate the use of artificial intelligence (AI) in health care. These bills focus on several key areas: establishing commissions and/or agencies to study and manage health AI; ensuring data privacy and security; addressing bias and discrimination in AI; promoting transparency in AI usage; overseeing claims processing by insurance companies; and training the health care workforce regarding AI. State activities concerning health AI are likely to become more widespread and influential if, as seems likely, the federal government reduces its involvement in ensuring the safety, efficacy, and reliability of health AI applications. A surge in diverse state regulations could impede the AI industry\u2019s efforts to develop and market promising health AI applications. Alternatively, however, producers of AI tools may choose to self-regulate to meet the stringent standards set by states and international authorities, such as the European Union, enabling them to confidently sell their products across all jurisdictions. (Funded by the Commonwealth Fund of New York City.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2500005",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2500005",
-      "title": "Harnessing Moravec\u2019s Paradox in Health Care: A New Era of Collaborative Intelligence",
-      "summary": "This perspective examines the ongoing challenges in integrating artificial intelligence into health care, emphasizing the persistent issues of algorithmic bias, privacy concerns, and the necessity for rigorous validation. It highlights the balance between automation and human oversight, particularly in ethical decision-making and informed consent processes.",
-      "content_text": "## Abstract\n\nArtificial intelligence excels at complex data analytics, yet struggles with\nnuanced, sensorimotor tasks that humans perform almost effortlessly \u2014 a\ndichotomy encapsulated by Moravec\u2019s paradox. By strategically harnessing these\ncomplementary strengths, health care can usher in an era of collaborative\nintelligence, optimizing data-intensive workflows, such as clinical trial\nenrollment, and creating more patient-centric models of care.\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "A. Loaiza-Bonilla and S. Penberthy"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2500005",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/18aa6402-273f-4c7d-9bf0-df8ba7ca2930/aip2500005_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence excels at complex data analytics, yet struggles with nuanced, sensorimotor tasks that humans perform almost effortlessly \u2014 a dichotomy encapsulated by Moravec\u2019s paradox. By strategically harnessing these complementary strengths, health care can usher in an era of collaborative intelligence, optimizing data-intensive workflows, such as clinical trial enrollment, and creating more patient-centric models of care.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401122",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401122",
-      "title": "Why Is Primary Care Different? Considerations for Machine Learning Development with Electronic Medical Record Data",
-      "summary": "This perspective explains how the unique nature of primary care translates to important differences in machine learning model development and adoption for clinical use. Four key considerations are presented to address the use of ML in primary care settings.",
-      "content_text": "## Abstract\n\nPrimary care is the foundation of the health care system and a core driver of\npopulation health. Machine learning (ML) has the potential to enhance primary\ncare by improving efficiency, quality, and accessibility, but ML development\nand implementation in primary care remains limited compared with other medical\nspecialties. There are rich opportunities for collaboration and activity in\nthis area. Effective integration requires methods tailored to the unique\ncharacteristics of primary care, including its core functions \u2014 first contact,\ncomprehensiveness, coordination, and continuity \u2014 as well as the distinct\nnature of electronic medical record data. Key considerations include using\nrepresentative primary care data, constructing cohorts that reflect whole-\nperson care, aligning target outcomes with primary care objectives, and\ndeveloping validation strategies suited to decentralized clinical settings.\nAddressing these challenges requires interdisciplinary collaboration and\nincreased investment in primary care-specific ML research. Optimizing ML for\nprimary care could enhance clinical decision-making, improve patient outcomes,\nand drive meaningful innovation in health care.\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J.K. Kueper and Others"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401122",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Primary care is the foundation of the health care system and a core driver of population health. Machine learning (ML) has the potential to enhance primary care by improving efficiency, quality, and accessibility, but ML development and implementation in primary care remains limited compared with other medical specialties. There are rich opportunities for collaboration and activity in this area. Effective integration requires methods tailored to the unique characteristics of primary care, including its core functions \u2014 first contact, comprehensiveness, coordination, and continuity \u2014 as well as the distinct nature of electronic medical record data. Key considerations include using representative primary care data, constructing cohorts that reflect whole-person care, aligning target outcomes with primary care objectives, and developing validation strategies suited to decentralized clinical settings. Addressing these challenges requires interdisciplinary collaboration and increased investment in primary care-specific ML research. Optimizing ML for primary care could enhance clinical decision-making, improve patient outcomes, and drive meaningful innovation in health care.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401116",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401116",
-      "title": "Challenges in the Postmarket Surveillance of Clinical Prediction Models",
-      "summary": "This paper discusses the challenges of postdeployment assessment of predictive artificial intelligence (AI) models in health care, particularly how confounding medical interventions can distort performance evaluation. It explores current limitations in monitoring strategies and suggests advanced causal modeling as a potential solution to ensure that AI models remain effective in dynamic clinical settings.",
-      "content_text": "## Abstract\n\nPredictive artificial intelligence (AI) models enhance clinical workflows with\napplications such as prognostication and decision support, yet suffer from\npostdeployment performance challenges due to dataset shifts. Regulatory\nguidelines emphasize the need for continuous monitoring, but actionable\nstrategies are lacking. A significant issue is postdeployment assessment of\npredictive AI models due to confounding medical interventions where effective\ninterventions modify outcomes, introducing bias into performance assessment.\nThis can falsely suggest model decay, leading to unwarranted updates or\ndecommissioning, harming clinical outcomes.\n\nProposed solutions include withholding model outputs, monitoring outcomes as\nsurrogates, or including clinician interventions in models, each with ethical\nor practical limitations. The lack of effective solutions for this problem can\nlead to an abundance of models that cannot be later evaluated, tuned, or\nwithdrawn if they become ineffective, leading to patient harm. Advanced causal\nmodeling to assess counterfactual outcomes may offer a reliable validation\nmethod. Until effective methods for postdeployment monitoring of predictive\nmodels are developed and validated, decisions on model updates should consider\nthe causal pathways and be evidence based, ensuring the sustained utility of\nAI models in dynamic clinical environments.\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "S. Ansari and Others"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401116",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/58aef956-e171-4b04-8a14-e4bbc32e8040/aip2401116_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Predictive artificial intelligence (AI) models enhance clinical workflows with applications such as prognostication and decision support, yet suffer from postdeployment performance challenges due to dataset shifts. Regulatory guidelines emphasize the need for continuous monitoring, but actionable strategies are lacking. A significant issue is postdeployment assessment of predictive AI models due to confounding medical interventions where effective interventions modify outcomes, introducing bias into performance assessment. This can falsely suggest model decay, leading to unwarranted updates or decommissioning, harming clinical outcomes.</div><div role=\"paragraph\">Proposed solutions include withholding model outputs, monitoring outcomes as surrogates, or including clinician interventions in models, each with ethical or practical limitations. The lack of effective solutions for this problem can lead to an abundance of models that cannot be later evaluated, tuned, or withdrawn if they become ineffective, leading to patient harm. Advanced causal modeling to assess counterfactual outcomes may offer a reliable validation method. Until effective methods for postdeployment monitoring of predictive models are developed and validated, decisions on model updates should consider the causal pathways and be evidence based, ensuring the sustained utility of AI models in dynamic clinical environments.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401059",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401059",
-      "title": "Regulation of AI: Learnings from Medical Education",
-      "summary": "This perspective draws parallels between artificial intelligence (AI) regulation and competency-based medical education (CBME), an existing framework that addresses similar complexities in training human clinicians. The authors propose a CBME framework as a life-cycle approach to regulating AI in health care that offers a dynamic, continuous, and outcomes-based regulatory model to address the unique challenges posed by AI technologies.",
-      "content_text": "## Abstract\n\nThe rapid integration of artificial intelligence (AI) into health care\npresents regulatory challenges due to the dynamic, opaque, and adaptive nature\nof AI \u2014 particularly with generative AI models. The U.S. Food and Drug\nAdministration has proposed a life-cycle approach extending beyond\nconventional frameworks, recognizing that traditional medical device\nregulations are ill-suited for such technologies. This perspective draws\nparallels between AI regulation and competency-based medical education (CBME),\nan existing framework that addresses similar complexities in training human\nclinicians who are also dynamic general-purpose problem-solvers with opaque\ncognitive processes. We propose adopting an AI\u2013CBME life-cycle framework for\nmedical AI regulation, leveraging the five core CBME components: defining\ncompetencies, sequenced progression, tailored learning experiences,\ncompetency-focused instruction, and programmatic assessment. By applying these\nprinciples, we can implement continuous outcomes-based assessments of AI\nsystems within their operational environments. This approach embeds real-time\nvalidation and safeguards for patient safety, building accountability and\ntrust, while maximizing the potential of AI technologies to enhance health\ncare. Engaging medical educators in this process offers an immediate and\npractical pathway to develop a robust regulatory framework aligned with\nexisting educational methodologies.\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "K.N. Vokinger, D.R. Soled, and R.-E.E. Abdulnour"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401059",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/bede5653-c685-48e5-8e16-3323bb710bbb/aip2401059_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">The rapid integration of artificial intelligence (AI) into health care presents regulatory challenges due to the dynamic, opaque, and adaptive nature of AI \u2014 particularly with generative AI models. The U.S. Food and Drug Administration has proposed a life-cycle approach extending beyond conventional frameworks, recognizing that traditional medical device regulations are ill-suited for such technologies. This perspective draws parallels between AI regulation and competency-based medical education (CBME), an existing framework that addresses similar complexities in training human clinicians who are also dynamic general-purpose problem-solvers with opaque cognitive processes. We propose adopting an AI\u2013CBME life-cycle framework for medical AI regulation, leveraging the five core CBME components: defining competencies, sequenced progression, tailored learning experiences, competency-focused instruction, and programmatic assessment. By applying these principles, we can implement continuous outcomes-based assessments of AI systems within their operational environments. This approach embeds real-time validation and safeguards for patient safety, building accountability and trust, while maximizing the potential of AI technologies to enhance health care. Engaging medical educators in this process offers an immediate and practical pathway to develop a robust regulatory framework aligned with existing educational methodologies.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400703",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400703",
-      "title": "Longitudinal Risk Prediction for Pediatric Glioma with Temporal Deep Learning",
-      "summary": "This study describes the development and application of a self-supervised deep-learning approach called temporal learning for analyzing longitudinal medical imaging. It demonstrates that temporal learning improves longitudinal, imaging-based recurrence prediction in pediatric gliomas, and that performance increases incrementally with the number of historical scans available to the algorithm.",
-      "content_text": "## Abstract\n\n### Background\n\nPediatric glioma recurrence can cause morbidity and mortality; however,\nrecurrence patterns and severity are heterogeneous and challenging to predict\nwith established clinical and genomic markers. As a result, almost all\nchildren undergo frequent, long-term, magnetic resonance imaging (MRI) brain\nsurveillance regardless of individual recurrence risk. Longitudinal deep-\nlearning analysis of serial MRI scans may be an effective approach for\nimproving individualized recurrence prediction in gliomas and other cancers,\nbut, thus far, progress has been limited by data availability and current\nmachine-learning approaches.\n\n### Methods\n\nWe developed a self-supervised temporal deep-learning approach tailored for\nlongitudinal medical imaging analysis, wherein a multistep model encodes\npatients\u2019 serial MRI scans and is trained to classify the correct\nchronological order as a pretext task. The pretrained model is then fine-tuned\nto predict the primary end point of interest \u2014 in this case, 1-year recurrence\nprediction for pediatric gliomas from the point of last scan \u2014 by leveraging a\npatient\u2019s historical postoperative surveillance scans. We apply the model\nacross 3994 scans from 715 patients followed at three separate institutions in\nthe setting of pediatric low- and high-grade gliomas.\n\n### Results\n\nLongitudinal imaging analysis with temporal learning improved recurrence\nprediction performance (F1 score) by up to 58.5% (range, 6.6 to 58.5%)\ncompared with traditional approaches across datasets, with performance\nimprovements in both low- and high-grade gliomas and area under the receiver\noperating characteristic curve of (range, 75 to 89%) across all datasets.\nRecurrence prediction performance increased incrementally with the number of\nhistorical scans available per patient, reaching plateaus between three and\nsix scans, depending on the dataset.\n\n### Conclusions\n\nTemporal deep learning enables high-performing longitudinal medical imaging\nanalysis and point-of-care decision support for pediatric brain tumors.\nTemporal learning may be broadly adaptable to track and predict risk in\npatients with other cancers and chronic diseases undergoing surveillance\nimaging. (Funded in part by the National Institutes of Health/National Cancer\nInstitute (U54 CA274516 and P50 CA165962), and Botha-Chan Low Grade Glioma\nConsortium.)\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "D. Tak and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400703",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/0f442c8c-8e00-42b8-aa7f-1e28e769f510/aioa2400703_f4.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Pediatric glioma recurrence can cause morbidity and mortality; however, recurrence patterns and severity are heterogeneous and challenging to predict with established clinical and genomic markers. As a result, almost all children undergo frequent, long-term, magnetic resonance imaging (MRI) brain surveillance regardless of individual recurrence risk. Longitudinal deep-learning analysis of serial MRI scans may be an effective approach for improving individualized recurrence prediction in gliomas and other cancers, but, thus far, progress has been limited by data availability and current machine-learning approaches.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We developed a self-supervised temporal deep-learning approach tailored for longitudinal medical imaging analysis, wherein a multistep model encodes patients\u2019 serial MRI scans and is trained to classify the correct chronological order as a pretext task. The pretrained model is then fine-tuned to predict the primary end point of interest \u2014 in this case, 1-year recurrence prediction for pediatric gliomas from the point of last scan \u2014 by leveraging a patient\u2019s historical postoperative surveillance scans. We apply the model across 3994 scans from 715 patients followed at three separate institutions in the setting of pediatric low- and high-grade gliomas.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Longitudinal imaging analysis with temporal learning improved recurrence prediction performance (F1 score) by up to 58.5% (range, 6.6 to 58.5%) compared with traditional approaches across datasets, with performance improvements in both low- and high-grade gliomas and area under the receiver operating characteristic curve of (range, 75 to 89%) across all datasets. Recurrence prediction performance increased incrementally with the number of historical scans available per patient, reaching plateaus between three and six scans, depending on the dataset.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Temporal deep learning enables high-performing longitudinal medical imaging analysis and point-of-care decision support for pediatric brain tumors. Temporal learning may be broadly adaptable to track and predict risk in patients with other cancers and chronic diseases undergoing surveillance imaging. (Funded in part by the National Institutes of Health/National Cancer Institute (U54 CA274516 and P50 CA165962), and Botha-Chan Low Grade Glioma Consortium.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400421",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400421",
-      "title": "Calibration of ECG-Based Deep-Learning Algorithm Scores for Patients Flagged as High Risk for Hypertrophic Cardiomyopathy",
-      "summary": "This study finds that an out-of-the-box risk classification by a U.S. Food and Drug Administration\u2013cleared artificial intelligence\u2013enabled algorithm for identifying hypertrophic cardiomyopathy from electrocardiograms can have a low predictive value when used for diagnosis in a screened population. Calibrated model scores approximate the probability of disease among those flagged and can both improve the interpretability of model outputs and inform decision-making about subsequent follow-up.",
-      "content_text": "## Abstract\n\n### Background\n\nDespite optimism for the incorporation of deep-learning (DL) algorithms into\nclinical practice, there is a lack of prospective data on how U.S. Food and\nDrug Administration (FDA)\u2013cleared algorithms function out of the box and\nclinicians\u2019 interpretations of model predictions. This study illustrates how\nmodel calibration, which rescales model outputs to represent probabilities of\ndisease among those flagged, enables improved interpretability of the scores\nby end users.\n\n### Methods\n\nUsing data from patients flagged as being at high risk for hypertrophic\ncardiomyopathy (HCM), patients 18 years of age and over were screened from a\nsingle health system using a DL electrocardiogram (ECG)\u2013based algorithm for\nHCM detection. Cardiologists manually reviewed medical records and imaging of\npatients flagged as being suggestive of HCM to classify individuals as HCM\npositive (HCM+) or HCM negative (HCM\u2212). Logistic regression was used for\ncalibration to transform model outputs to probabilities in the flagged sample.\nWe compare calibrated probabilities with the estimated probability of disease\nin the flagged sample and estimated positive predictive value (PPV) at\ndifferent thresholds of the calibrated score.\n\n### Results\n\nAmong 1522 patients were flagged as being high risk, 166 were classified as\nHCM+ and 1356 as HCM\u2212. Being flagged as being at high risk on the initial\nscreening has a PPV of 10.9% for HCM patients. Recalibrated model scores in\nthe flagged sample closely approximated the probability of HCM among those who\nwere initially flagged, lending improved interpretability. Setting a cutoff\nvalue that corresponds to the top 5 and 10 ranked values yields PPVs of 80%\nand 70%, respectively. As the ranks of the model outputs and the recalibrated\nscores are equivalent, PPVs derived from this approach do not depend on which\nscore is used, but the calibrated scores have context-relevant\ninterpretability as the probability of HCM.\n\n### Conclusions\n\nUsing the raw scores from an out-of-the-box\u2013FDA\u2013cleared algorithm for the\nidentification of HCM from ECGs may have low PPV for identifying patients who\ntruly have HCM. Calibration of scores for those flagged can improve the\ninterpretability of the scores in terms of disease probability. (Funded by\nViz.ai.)\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J. Lampert and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400421",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400421_Lampert-1745497839993.jpg",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Despite optimism for the incorporation of deep-learning (DL) algorithms into clinical practice, there is a lack of prospective data on how U.S. Food and Drug Administration (FDA)\u2013cleared algorithms function out of the box and clinicians\u2019 interpretations of model predictions. This study illustrates how model calibration, which rescales model outputs to represent probabilities of disease among those flagged, enables improved interpretability of the scores by end users.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">Using data from patients flagged as being at high risk for hypertrophic cardiomyopathy (HCM), patients 18 years of age and over were screened from a single health system using a DL electrocardiogram (ECG)\u2013based algorithm for HCM detection. Cardiologists manually reviewed medical records and imaging of patients flagged as being suggestive of HCM to classify individuals as HCM positive (HCM+) or HCM negative (HCM\u2212). Logistic regression was used for calibration to transform model outputs to probabilities in the flagged sample. We compare calibrated probabilities with the estimated probability of disease in the flagged sample and estimated positive predictive value (PPV) at different thresholds of the calibrated score.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Among 1522 patients were flagged as being high risk, 166 were classified as HCM+ and 1356 as HCM\u2212. Being flagged as being at high risk on the initial screening has a PPV of 10.9% for HCM patients. Recalibrated model scores in the flagged sample closely approximated the probability of HCM among those who were initially flagged, lending improved interpretability. Setting a cutoff value that corresponds to the top 5 and 10 ranked values yields PPVs of 80% and 70%, respectively. As the ranks of the model outputs and the recalibrated scores are equivalent, PPVs derived from this approach do not depend on which score is used, but the calibrated scores have context-relevant interpretability as the probability of HCM.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Using the raw scores from an out-of-the-box\u2013FDA\u2013cleared algorithm for the identification of HCM from ECGs may have low PPV for identifying patients who truly have HCM. Calibration of scores for those flagged can improve the interpretability of the scores in terms of disease probability. (Funded by Viz.ai.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500297",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500297",
-      "title": "Model Calibration, Interpretability, and Decision-Making with AI-Based Risk Scores",
-      "summary": "Unpacking an important application of model calibration for an out-of-the-box artificial intelligence algorithm used to flag patients who are at high risk for hypertrophic cardiomyopathy, this article explains the use of calibrated scores for patient-level decision-making.",
-      "content_text": "Unpacking an important application of model calibration for an out-of-the-box artificial intelligence algorithm used to flag patients who are at high risk for hypertrophic cardiomyopathy, this article explains the use of calibrated scores for patient-level decision-making.",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J.W. Hogan and V.L. Murthy"
-        }
-      ],
-      "tags": [
-        "Editorial"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500297",
-          "mime_type": "application/pdf"
-        }
-      ]
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2401008",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2401008",
-      "title": "Clinical Deployment of Real-Time Left Ventricular Ejection Fraction Estimation from Coronary Angiography",
-      "summary": "This study evaluates the CathEF deep-learning algorithm, which estimates left ventricular ejection fraction directly from routine left coronary angiograms in acute coronary syndrome patients, eliminating the need for additional contrast or catheterization. The study found that CathEF achieved diagnostic performance comparable to ventriculography, although its accuracy was lower in patients with ST-elevation myocardial infarction or right coronary artery involvement.",
-      "content_text": "## Abstract\n\nAssessment of left ventricular ejection fraction (LVEF) is crucial for\nprognosis and management in acute coronary syndrome (ACS). While\nechocardiography is the standard assessment method, assessment via left\nventriculography during angiography is often done and carries procedural\nrisks. The CathEF algorithm uses deep learning to estimate LVEF directly from\nroutine left coronary angiograms without additional contrast injection or\nprocedural risks. The CathEF study is a prospective, multicenter,\nobservational study of 207 patients from two Canadian institutions undergoing\ncoronary angiography for ACS. The diagnostic performance of CathEF was\nevaluated using the area under the receiver operating characteristic curve\n(AUROC), sensitivity, and specificity; metrics were compared with\nechocardiography and ventriculography. The AUROC for the CathEF algorithm was\n0.84 (95% confidence interval [CI], 0.79 to 0.89) in identifying LVEF less\nthan or equal to 50%, and 0.90 (95% CI, 0.86 to 0.96) in identifying LVEF less\nthan or equal to 40%. Performance was reduced in patients with ST-elevation\nmyocardial infarction (STEMI) (AUROC, 0.76; 95% CI, 0.66 to 0.88) and those\nwith right coronary artery involvement (AUROC, 0.73; 95% CI, 0.60 to 0.86). In\nsummary, the CathEF algorithm offers a reliable, noninvasive tool for real-\ntime screening for LV systolic dysfunction during coronary angiography in\npatients with ACS. (Funded by the Canadian Institute for Advanced Research\nSolution Network on Integrated AI for Health Imaging and others.)\n\n",
-      "date_published": "2025-04-24T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "P. Th\u00e9riault-Lauzier and Others"
-        }
-      ],
-      "tags": [
-        "Case Study"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2401008",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/f3d616d0-93a2-4322-8e32-fc45c0cf542c/aics2401008_f2.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Assessment of left ventricular ejection fraction (LVEF) is crucial for prognosis and management in acute coronary syndrome (ACS). While echocardiography is the standard assessment method, assessment via left ventriculography during angiography is often done and carries procedural risks. The CathEF algorithm uses deep learning to estimate LVEF directly from routine left coronary angiograms without additional contrast injection or procedural risks. The CathEF study is a prospective, multicenter, observational study of 207 patients from two Canadian institutions undergoing coronary angiography for ACS. The diagnostic performance of CathEF was evaluated using the area under the receiver operating characteristic curve (AUROC), sensitivity, and specificity; metrics were compared with echocardiography and ventriculography. The AUROC for the CathEF algorithm was 0.84 (95% confidence interval [CI], 0.79 to 0.89) in identifying LVEF less than or equal to 50%, and 0.90 (95% CI, 0.86 to 0.96) in identifying LVEF less than or equal to 40%. Performance was reduced in patients with ST-elevation myocardial infarction (STEMI) (AUROC, 0.76; 95% CI, 0.66 to 0.88) and those with right coronary artery involvement (AUROC, 0.73; 95% CI, 0.60 to 0.86). In summary, the CathEF algorithm offers a reliable, noninvasive tool for real-time screening for LV systolic dysfunction during coronary angiography in patients with ACS. (Funded by the Canadian Institute for Advanced Research Solution Network on Integrated AI for Health Imaging and others.)</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2401164",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2401164",
-      "title": "The Use of Artificial Intelligence for Cancer Therapeutic Decision-Making",
-      "summary": "This review examines the evolving role of artificial intelligence (AI) in oncology, particularly in radiology and pathology, and treatment selection using large language models. It highlights key challenges \u2014 such as data quality, model validation, and clinical integration \u2014 and proposes strategies to overcome them to support the effective adoption of AI to improve cancer care and patient outcomes.",
-      "content_text": "## Abstract\n\nArtificial intelligence (AI) has the potential to transform cancer therapeutic\ndecision-making by improving diagnostics and personalizing treatments. This\nreview explores the current and future impact of AI in oncology, focusing on\nits applications in radiology and pathology and the potential of large\nlanguage models in treatment selection. Despite significant advancements, AI\nintegration into clinical workflows is limited due to challenges such as data\nquality, model accuracy, and lack of validation through clinical trials. We\npropose key strategies to address these challenges, including developing\nrobust multicenter datasets, promoting practical AI model development,\nresearching workflow integration and human\u2013AI collaboration, leveraging\nlessons from AI in medical imaging, establishing evaluation guidelines, and\nincentivizing prospective clinical trials. By implementing these strategies,\nAI can significantly enhance cancer care and patient outcomes, paving the way\nfor its effective integration into oncology practice.\n\n",
-      "date_published": "2025-04-17T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "O. Elemento, S. Khozin, and C.N. Sternberg"
-        }
-      ],
-      "tags": [
-        "Review Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2401164",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Artificial intelligence (AI) has the potential to transform cancer therapeutic decision-making by improving diagnostics and personalizing treatments. This review explores the current and future impact of AI in oncology, focusing on its applications in radiology and pathology and the potential of large language models in treatment selection. Despite significant advancements, AI integration into clinical workflows is limited due to challenges such as data quality, model accuracy, and lack of validation through clinical trials. We propose key strategies to address these challenges, including developing robust multicenter datasets, promoting practical AI model development, researching workflow integration and human\u2013AI collaboration, leveraging lessons from AI in medical imaging, establishing evaluation guidelines, and incentivizing prospective clinical trials. By implementing these strategies, AI can significantly enhance cancer care and patient outcomes, paving the way for its effective integration into oncology practice.</div>"
     }
   ]
 }
