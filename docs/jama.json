@@ -4,28 +4,40 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
-            "title": "Assessing the Impact of AI in Inpatient Diabetes Management",
-            "summary": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
-            "content_text": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
-            "date_published": "2025-05-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2833206",
+            "title": "2024 Year in Review and Looking to 2025",
+            "summary": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
+            "content_text": "2025 has already been a dynamic year for science, medicine, and public health. In response to the uncertainty and ongoing concerns, JAMA editors recently reaffirmed our commitment to our core mission: to publish science, education, and perspectives that shape the practice of medicine and public health. 1 - 3 The groundwork we laid in 2024 will hold us in good stead during this time as we continue to meet the needs of our authors and readers worldwide.",
+            "date_published": "2025-04-23T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Eileen R. Faulds, PhD"
+                    "name": "Kirsten Bibbins-Domingo, PhD, MD, MAS"
                 }
             ],
             "tags": [
-                "diabetes mellitus",
-                "non-insulin-dependent"
+                "acetaminophen",
+                "alzheimer's disease",
+                "artificial intelligence",
+                "autistic disorder",
+                "biological markers",
+                "breast neoplasm screening",
+                "malignant neoplasm of thyroid",
+                "non-small cell lung carcinoma",
+                "pediatric discipline",
+                "podcasts as topic",
+                "pregnancy",
+                "sepsis",
+                "septic shock",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833625/faulds_2025_ic_250076_1745961538.81775.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2833206/jama_bibbinsdomingo_2025_ed_250023_1746722730.83047.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939615/jed250023t1_1746722731.1975.png?Expires=2147483647&Signature=Gi-nEyrIAWMjRFvDvg87NJg8NVdI0zKAQDfMN11HlhhYEvdjyINQfauO1ezrCeok~2dUD0htAqR9ERfYUP0St~eHPMwRCtqGWgEhWmE7q9MYqSUJ91-xpF14yC1pBwByILlEs~LK6kouY6RCWyx8H6RzOVKsjkY~pe1vDymyuQGMGE6MNYzskDjznoD7B5kPFs5hACeNuOVDhrqr-08E29QUyVfxxWXQ2ZUTFfYR~v5n5U54oiLS7vMDXawYqTXMpzL02gU2Ju1F9G6tlU85c3d-DxBp-S3vzzu6EM0YC-dtkDxz2egfHf79tE7SCi05rHnXH2b5zUTvK3ASrfH2HA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
