@@ -4,28 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834360",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834360",
-            "title": "Identification of Long-Term Care Facility Residence From Admission Notes Using Large Language Models",
-            "summary": "This cross-sectional study evaluates whether a large language model (LLM) can use unstructured health record notes to accurately identify adult patients who had past-year residence in a long-term care facility.",
-            "content_html": "<h3>Importance</h3><p>An estimated half of all long-term care facility (LTCF) residents are colonized with antimicrobial-resistant organisms, and early identification of these patients on admission to acute care hospitals is a core strategy for preventing intrahospital spread. However, because LTCF exposure is not reliably captured in structured electronic health record data, LTCF-exposed patients routinely go undetected. Large language models (LLMs) offer a promising, but untested, opportunity for extracting this information from patient admission histories.</p><h3>Objective</h3><p>To evaluate the performance of an LLM against human review for identifying recent LTCF exposure from identifiable patient admission histories.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional, multicenter study used the history and physical (H&amp;P) notes from unique, randomly sampled adult admissions occurring between January 1, 2016, and December 31, 2021, at 13 hospitals in the University of Maryland Medical System (UMMS) and the John Hopkins (Hopkins) health care system to compare the performance of an LLM (GPT-4-Turbo) using zero-shot learning and prompting against humans in identifying patients with recent LTCF exposure. LLM analyses were conducted from August to September 2024.</p><h3>Exposure</h3><p>Recent (\u226412 months) LTCF exposure documented in the H&amp;P note, as adjudicated by (1) humans and (2) an LLM.</p><h3>Main Outcomes and Measures</h3><p>LLM sensitivity and specificity with Clopper-Pearson 95% CIs. Secondary outcomes were note review time and cost. The LLM was also prompted to provide a rationale and supporting note-text for each classification.</p><h3>Results</h3><p>The study included 359\u202f601 eligible adult admissions, of which 2087 randomly sampled H&amp;P notes were manually reviewed at UMMS (1020 individuals; median [IQR] age, 58 [41-71] years; 493 [48%] male) and Hopkins (1067 individuals; median [IQR] age, 58 [48-67] years; 561 [53%] male) for LTCF residence. Compared with human review, the LLM achieved a sensitivity of 97% (95% CI, 91%-100%) and a specificity of 98% (95% CI, 97%-99%) at UMMS, and 96% (95% CI, 86%-100%) and 93% (95% CI, 92%-95%) sensitivity and specificity, respectively, at Hopkins; specificity at Hopkins improved with prompt revision (96% [95% CI, 95%-97%]). Of 117 manually reviewed LLM rationales, all were factually correct and quoted note-text accurately, and some demonstrated inferential logic and external knowledge. The LLM identified 37 (1.8%) human errors. Human review time had a mean of 2.5 minutes and cost $0.63 to $0.83 per note vs a mean of 4 to 6 seconds and $0.03 per note for LLM review.</p><h3>Conclusions and Relevance</h3><p>In this 13-hospital study of 2087 adult admissions, an LLM accurately identified LTCF residence from H&amp;P notes and was more than 25 times faster and 20 times less expensive than human review.</p>",
-            "date_published": "2025-05-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828401",
+            "title": "Can Machine Learning Help Us Understand Social Connection and Its Impact on Health?",
+            "summary": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "content_text": "The role of social connection in influencing health outcomes has become an increasingly discussed topic globally for people across the lifespan. A prescient report by the National Academies of Sciences, Engineering, and Medicine (NASEM) released in February 2020 outlined the need for health systems to address loneliness and social isolation among older adults. 1 And very soon after that, a global pandemic ensued, making experiences of social isolation and loneliness commonplace. 2 As we emerge from the pandemic, attention on this subject continues, with the 2023 Surgeon General Advisory and the World Health Organization Commission on Social Connection calling for cross-sector collaboration and interventions to enhance social connection. Personalized strategies that account for the nuanced differences in people\u2019s social lives and address their particular needs are necessary.",
+            "date_published": "2024-12-23T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Katherine E. Goodman, JD, PhD"
+                    "name": "Thomas K. M. Cudjoe, MD, MPH, MA"
                 }
             ],
             "tags": [
-                "large language models",
-                "long-term care"
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834360/goodman_2025_oi_250403_1747250674.25899.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2828401/cudjoe_2024_ic_240325_1739806076.66736.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250403f1_1747250674.42007.png?Expires=2147483647&Signature=x5PKNUKWeb-0lnI9gCH~6KXYGaZ2EUMtXvaGYcIf0t8QpWtBkBRTEOzi~ur7m-VewFMCbZ2JxGueR30qo5DVFGvKwK~Ry~Y-rIzNrriwjoQ7103IS8ivrdpdCXunbe31Nu0suHYEEjDhgqFWG3CdVw~fBee9xsnX3tyJ3b278ALY9zBiYZ7maz~CY8i8edQST4g3XoipLkbcbR8PrkK26IpsICQV6kXx1198d0oOVRPBfzglQNO3Q6IIOqlQWguQWc1A49iMQJDFtg5HT23vgAscC8ofOhGHas-a~6bh7gGawVx-u-rsM2xisirmyUJee~S2rP0rgoUxB7lxdTRxYA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
