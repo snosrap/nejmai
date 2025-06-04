@@ -4,34 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
-            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
-            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
-            "date_published": "2025-05-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834550",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834550",
+            "title": "Dedicated AI Expert System vs Generative AI With Large Language Model for Clinical Diagnoses",
+            "summary": "This diagnostic study compares the performance of 2 widely used large language models with an artificial intelligence diagnostic decision support system on 36 unpublished general medicine cases.",
+            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) have not yet been compared with traditional diagnostic decision support systems (DDSSs) on unpublished clinical cases.</p><h3>Objective</h3><p>To compare the performance of 2 widely used LLMs (ChatGPT, version 4 [hereafter,<i>LLM1</i>] and Gemini, version 1.5 [hereafter,<i>LLM2</i>]) with a DDSS (DXplain [hereafter,<i>DDSS</i>]) on 36 unpublished general medicine cases.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study, conducted from October 6, 2023, to November 22, 2024, looked for the presence of the known case diagnosis in the differential diagnoses of the LLMs and DDSS after data from previously unpublished clinical cases from 3 academic medical centers were entered. The systems\u2019 performance was assessed both with and without laboratory test data. Each case was reviewed by 3 physicians blinded to the case diagnosis. Physicians identified all clinical findings as well as the subset deemed relevant to making the diagnosis for mapping to the DDSS\u2019s controlled vocabulary. Two other physicians, also blinded to the diagnoses, entered the data from these cases into the DDSS, LLM1, and LLM2.</p><h3>Exposures</h3><p>All cases were entered into each LLM twice, with and without laboratory test results. For the DDSS, each case was entered 4 times: for all findings and for findings relevant to the diagnosis, each with and without laboratory test results. The top 25 diagnoses in each resulting differential diagnosis were reviewed.</p><h3>Main Outcomes and Measures</h3><p>Presence or absence of the case diagnosis in the system\u2019s differential diagnosis and, when present, in which quintile it appeared in the top 25 diagnoses.</p><h3>Results</h3><p>Among 36 patient cases of various races and ethnicities, genders, and ages (mean [SD] age, 51.4 [16.4] years), in the version with all findings but no laboratory test results, the DDSS listed the case diagnosis in its differential diagnosis more often (56% [20 of 36]) than LLM1 (42% [15 of 36]) and LLM2 (39% [14 of 36]), although this difference did not reach statistical significance (DDSS vs LLMI,<i>P</i>\u2009=\u2009.09; DDSS vs LLM2,<i>P</i>\u2009=\u2009.08). All 3 systems listed the case diagnosis in most cases if laboratory test results were included (all findings DDSS, 72% [26 of 36]; LLM1, 64% [23 of 36]; and LLM2, 58% [21 of 36]).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study comparing the performance of a traditional DDSS and current LLMs on unpublished clinical cases, in most cases, every system listed the case diagnosis in their top 25 diagnoses if laboratory test results were included. A hybrid approach that combines the parsing and expository linguistic capabilities of LLMs with the deterministic and explanatory capabilities of traditional DDSSs may produce synergistic benefits.</p>",
+            "date_published": "2025-05-29T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robert N. Weinreb, MD"
+                    "name": "Mitchell J. Feldman, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "delivery of health care",
-                "diagnostic imaging of retina",
-                "eye",
-                "health services accessibility",
-                "ophthalmic examination and evaluation",
-                "screening procedure",
-                "technology"
+                "clinical",
+                "decision support systems",
+                "diagnosis",
+                "expert systems",
+                "generative artificial intelligence",
+                "laboratory test finding",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1745936766.62475.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834550/feldman_2025_oi_250429_1747687239.52875.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/esc250001f1_1745936766.76295.png?Expires=2147483647&Signature=4~fijx-QyzUH5n8FHCo16k84APT7sqwdgZzGU8K3H9jolDFi0cV6AhPHc4r2D9HbXlfjwlIYJkjaSELWoMYTDwtVjm0XM6VUGRQ~gN-4qoZsaQ6GmfgBEEpNyHDBqLYPTeI3GNgsoLvQCxMqOpAulrIHwIENjxNsLpBAdyu9tuaq6jKoT5-MiDguzNzUVwKG~Dy7g9QBVUoUI2PGmpya8uKw4wifO4hCCxr-8CskkmDwOrB33ppiPGyf800jVkpFyUYVwHxWFPDJKOHlgrnX-Ez3hayrjjUWV5d5fB856a1BoBmA95K3LhdTb2IwtrZNBUHdJWOwfhcPBV-TgQR3mA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250429f1_1747687239.79767.png?Expires=2147483647&Signature=Zz0s9T69D7LcvHv96NeiaYiNq6yxKr9vto4~tuD~q346WyQeux8UUelg3Csw313l~J96wj9OuvDgBopR9vgvrR-jppJ1JJZB-S~TtXp9QsZz2mpjb2-5mWArzoGhqfY0~KSEscR5AeXYgu-n-AzY5feGIOHJsA5nFMRizPbCaFzGH-OoJyAo-dviVFS9rxeYVYef5fRxYqIhgAHhalbI0E3ixL-lClqGMV2ENpcfuAiMc60z4oBa2Aufsob9I6ANH54T~S4Dw0S-AfOkyRSpmOy8Km9gixHVc8ZHFEg5jU2ZIlgc4FdYzWkO8zpK6Fc503BEWPu7EAR-MzLXJcLbsg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
