@@ -4,30 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2833152",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2833152",
+            "title": "Patient-Centered Research Through Artificial Intelligence to Identify Priorities in Cancer Care",
+            "summary": "This case series uses artificial intelligence and natural language processing to analyze a large dataset of patient messages to inform patient-centered research, counseling, and quality improvement initiatives in cancer care.",
+            "content_html": "<h3>Importance</h3><p>Patient-centered research is essential for bridging the gap between research and patient care, yet patient perspectives are often inadequately represented in health research.</p><h3>Objective</h3><p>To leverage artificial intelligence (AI) and natural language processing (NLP) to analyze a large dataset of patient messages, defining patient concerns and generating relevant research topics, and to quantify the quality of these AI-generated topics.</p><h3>Design, Setting, and Participants</h3><p>This case series was conducted using an automated framework involving a 2-staged unsupervised NLP topic model and AI-generated research topic suggestions. The study was based on deidentified patient portal message data from individuals with breast or skin cancer at Stanford Health Care and 22 affiliated centers over July 2013 to April 2024.</p><h3>Exposures</h3><p>A widely used large language model (ChatGPT-4o [OpenAI]; April 2024) was used and guided through multiple prompt-engineering strategies to perform multilevel tasks, including knowledge interpretation and summarization (eg, interpreting and summarizing the NLP-defined topics), knowledge generation (eg, generating research ideas corresponding to patients\u2019 issues), self-reflection and correction (eg, ensuring and revising the research ideas after searching for scientific articles), and self-reassurance (eg, confirming and finalizing the research ideas).</p><h3>Main Outcomes and Measures</h3><p>Three breast oncologists (J.L.C., A.W.K., F.R) and 3 dermatologists (K.Y.S, J.Y.T., E.L.) evaluated the meaningfulness and novelty of the AI-generated research topics using a 5-point Likert scale (1 representing exceptional to 5 representing poor). Mean (SD) scores for meaningfulness and novelty were computed for each topic.</p><h3>Results</h3><p>A total of 614\u202f464 patient messages were analyzed from 25\u202f549 individuals, 10\u202f665 with breast cancer (98.6% female) and 14\u202f884 had skin cancer (49.0% female). The overall mean (SD) scores for meaningfulness and novelty were 3.00 (0.50) and 3.29 (0.74), respectively, for breast cancer topics and 2.67 (0.45) and 3.09 (0.68), respectively, for skin cancer topics. One-third of the AI-suggested research topics were highly meaningful and novel when both scores were lower than the average (5 of 15 for breast cancer and 6 of 15 for skin cancer). Notably, two-thirds of the AI-suggested topics were novel (10 of 15 for breast cancer and 11 of 15 for skin cancer).</p><h3>Conclusions and Relevance</h3><p>This case series demonstrates that AI/NLP-driven analysis of large volumes of patient messages can generate quality research topics in cancer care that reflect patient perspectives, providing valuable guidance for future patient-centered health research endeavors.</p>",
+            "date_published": "2025-04-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "I. Glenn Cohen, JD"
+                    "name": "Jiyeong Kim, PhD, MPH"
                 }
             ],
             "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
+                "artificial intelligence",
+                "breast",
+                "comparative effectiveness research",
+                "malignant neoplasm of breast",
+                "malignant neoplasm of skin",
+                "malignant neoplasms",
+                "natural language processing",
+                "patient-centered care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2833152/jamaoncology_kim_2025_oi_250011_1744818532.70874.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250011f1_1744818532.9177.png?Expires=2147483647&Signature=X7oiXmdhJhg0sflAsQEi1b5AUiBy1USpzT63-XyM3sdSu0utN6lwsDnCT9niQEc7ouvOXkt8~VlS9XRBwa0LxwZLKUxQM~oaQi3BtBDvE250~-W2NDoFxczGWN5KmQLbRpNkgAzIeM7nWFtPbp04reXXHs7JUkf8rIikhwy2BnvWJ0C7eCK78WXgVhRsgoEtV27T3QM8l026Jrbl0UJbtm6H~L0NvTErSm0i1x2CTaY0KLAdoNZCG-C6duxSu30fcYejl0i5fuBdcX22dtJGwQvr-SlYQrepcrons0WimEn02CuOJrEVWGQVlpsLPsZZxXGUmFp75oJc2tFekOoXRQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
