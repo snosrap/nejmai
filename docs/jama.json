@@ -4,30 +4,36 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834882",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834882",
+            "title": "Detecting and Remediating Harmful Data Shifts for the Responsible Deployment of Clinical AI Models",
+            "summary": "This prognostic study uses hospital admission data to evaluate a proactive, label-agnostic monitoring pipeline incorporating transfer learning and continual learning strategies to detect and mitigate harmful data shifts in clinical artificial intelligence (AI) systems.",
+            "content_html": "<h3>Importance</h3><p>Clinical artificial intelligence (AI) systems are susceptible to performance degradation due to data shifts, which can lead to erroneous predictions and potential patient harm. Proactively detecting and mitigating these shifts is crucial for maintaining AI effectiveness and safety in clinical practice.</p><h3>Objectives</h3><p>To develop and evaluate a proactive, label-agnostic monitoring pipeline to detect and mitigate harmful data shifts in clinical AI systems and to assess the use of transfer learning and continual learning strategies in maintaining model performance.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study was conducted using electronic health record data for admissions to general internal medicine wards of 7 large hospitals (5 academic and 2 community) in Toronto, Canada, between January 1, 2010, to August 31, 2020. Inpatients (aged \u226518 years) with a hospital stay of at least 24 hours were included. Data analysis was performed from January to August 2022.</p><h3>Exposures</h3><p>Data shifts due to changes in hospital type, critical laboratory assays, patient demographics, admission type, and the COVID-19 pandemic.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was predictive performance for all-cause in-hospital mortality within the next 2 weeks, evaluated using the area under the receiver operating characteristic curve (AUROC) and the area under the precision-recall curve (AUPRC). Data shifts were detected using a label-agnostic monitoring pipeline employing a black box shift estimator with maximum mean discrepancy testing.</p><h3>Results</h3><p>Data were available for 143\u202f049 adult inpatients (mean [SD] age, 67.8 [19.6] years; 50.7% female). Significant data shifts were detected as a result of changes in younger age groups and admissions from nursing homes and acute care centers, transferring from community to academic hospitals, and changes in brain natriuretic peptide and D-dimer. Transfer learning improved model performance of community hospitals in a hospital type\u2013dependent manner (Delta AUROC [SD], 0.05 [0.03]; Delta AUPRC [SD], 0.06 [0.04]). During the COVID-19 pandemic, drift-triggered continual learning improved overall model performance (Delta AUROC [SD], 0.44 [0.02];<i>P</i>\u2009=\u2009.007, Mann-Whitney<i>U</i>test).</p><h3>Conclusions and Relevance</h3><p>In this prognostic study, a proactive, label-agnostic monitoring pipeline detected harmful data shifts for a clinical AI system predicting in-hospital mortality. Transfer learning and drift-triggered continual learning strategies mitigated performance degradation, maintaining model performance across health care settings. These findings suggest that the approach used here may ensure the robust and equitable deployment of clinical AI models. Future research should explore the generalizability of this framework across diverse clinical domains, data modalities, and longer deployment periods to further validate its effectiveness.</p>",
+            "date_published": "2025-06-04T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "I. Glenn Cohen, JD"
+                    "name": "Vallijah Subasri, PhD"
                 }
             ],
             "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
+                "acute care",
+                "artificial intelligence",
+                "brain natriuretic peptide",
+                "community",
+                "fibrin fragment d",
+                "hospital admission",
+                "hospitals",
+                "internal medicine specialty",
+                "nursing homes",
+                "transfer technique"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834882/subasri_2025_oi_250452_1748437536.77101.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250452f1_1748437536.94047.png?Expires=2147483647&Signature=2QgY3fUo8h3Ps4D3VZimKqpP4sR9lFezM3yUPIheQAedr0Lr-NHzcRvh7nVV5GozzeQAPtpth-SnKcVR3UEt3h71U5jvdTlaKxEEBZwykx7DuRJvVbiiqFgsLYwwayEWE1Z9rBYi1uMJBrBcivGleIO8f3YqQSdTHNmf0iP-z~s5X1CT261BP20tWSglyGFL0pSX30C1CS~-BeSfocOKeKHJnihn6u2m852Fu4g0BoSUxCH3yNfrjfHHnUfK29kLlNHS9bLsEmlR8zQzQ3hEY2zcJYgj-vMRkYDReHiuK2d7F87s8Y0Gic~2UgSE72D6119JLDccANf1AnqQf0-hvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
