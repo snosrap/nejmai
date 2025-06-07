@@ -4,29 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834524",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834524",
-            "title": "Evaluating the Quality of Guidelines Using the AGREE II Tool by a Large Language Model vs Human Appraisers",
-            "summary": "This quality improvement study examines the efficacy of a large language model to evaluate guidelines for therapeutic drug monitoring compared with human apparaisers.",
-            "content_text": "This quality improvement study examines the efficacy of a large language model to evaluate guidelines for therapeutic drug monitoring compared with human apparaisers.",
-            "date_published": "2025-05-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2834396",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2834396",
+            "title": "Master of Digital Health Degree\u2014Reply",
+            "summary": "In Reply We appreciate the perspective from Dr Emb\u00ed and colleagues, who raise concern about our call for a master of digital health (MDH) modeled on the master of public health (MPH) and creation of a more unified professional identity. 1 History can be a powerful teacher\u2014the MPH degrees emerged in the US in the early 20th century at Johns Hopkins University to tackle health challenges at the population level. The MPH degrees were created to give public health practitioners a practice-focused, professional qualification, bridging the gap between medicine and community health. Distinct from the more academic master of science (MSc), which emphasizes research, the MPH combined applied interdisciplinary skills in epidemiology, statistical analysis, health policy, leadership, and communication to tackle real-world public health challenges. 2",
+            "content_text": "In Reply We appreciate the perspective from Dr Emb\u00ed and colleagues, who raise concern about our call for a master of digital health (MDH) modeled on the master of public health (MPH) and creation of a more unified professional identity. 1 History can be a powerful teacher\u2014the MPH degrees emerged in the US in the early 20th century at Johns Hopkins University to tackle health challenges at the population level. The MPH degrees were created to give public health practitioners a practice-focused, professional qualification, bridging the gap between medicine and community health. Distinct from the more academic master of science (MSc), which emphasizes research, the MPH combined applied interdisciplinary skills in epidemiology, statistical analysis, health policy, leadership, and communication to tackle real-world public health challenges. 2",
+            "date_published": "2025-05-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Bingyi Wang, MMed"
+                    "name": "Josip Car, MD, PhD"
                 }
             ],
             "tags": [
-                "guidelines",
-                "large language models",
-                "therapeutic monitoring of drug levels required"
+                ""
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834524/wang_2025_ld_250074_1747416634.46258.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2834396/jama_car_2025_lr_250028_1747323811.45704.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zld250074f1_1747416634.6049.png?Expires=2147483647&Signature=T3KitCSS1BZHySpI0XgPosULHILKOV3Y-4zf-SPZrjc4oDY2C2BrT0m9UG8R4QN42UR1zSwddgrzz9XNSB2a1IX4n-X9j7T0tWR-H2bGdn1QDY3xZJuZJ9OaZfY3cIkNfSzA7lZO8tB3wfOcbM3fG6-NMDjwQWEgrigeugJRF4NnTGZ6BWezQYHFxGAJVYK-wpvHfHH8SUFTrgGTr8Fp1zG5STmCWKzJB8yj5x5mlon0xyWmH1~aRDgjWuL3QKb20a8Y9CHy1dDWK9PbrKzN8ddGhvd1IAccfznWq93udMIUyxsovDYA9cCy~6iONC9gbURpMkA3i~XMbZHqMcD7Wg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
