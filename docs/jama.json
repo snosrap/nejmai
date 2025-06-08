@@ -4,34 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834550",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834550",
-            "title": "Dedicated AI Expert System vs Generative AI With Large Language Model for Clinical Diagnoses",
-            "summary": "This diagnostic study compares the performance of 2 widely used large language models with an artificial intelligence diagnostic decision support system on 36 unpublished general medicine cases.",
-            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) have not yet been compared with traditional diagnostic decision support systems (DDSSs) on unpublished clinical cases.</p><h3>Objective</h3><p>To compare the performance of 2 widely used LLMs (ChatGPT, version 4 [hereafter,<i>LLM1</i>] and Gemini, version 1.5 [hereafter,<i>LLM2</i>]) with a DDSS (DXplain [hereafter,<i>DDSS</i>]) on 36 unpublished general medicine cases.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study, conducted from October 6, 2023, to November 22, 2024, looked for the presence of the known case diagnosis in the differential diagnoses of the LLMs and DDSS after data from previously unpublished clinical cases from 3 academic medical centers were entered. The systems\u2019 performance was assessed both with and without laboratory test data. Each case was reviewed by 3 physicians blinded to the case diagnosis. Physicians identified all clinical findings as well as the subset deemed relevant to making the diagnosis for mapping to the DDSS\u2019s controlled vocabulary. Two other physicians, also blinded to the diagnoses, entered the data from these cases into the DDSS, LLM1, and LLM2.</p><h3>Exposures</h3><p>All cases were entered into each LLM twice, with and without laboratory test results. For the DDSS, each case was entered 4 times: for all findings and for findings relevant to the diagnosis, each with and without laboratory test results. The top 25 diagnoses in each resulting differential diagnosis were reviewed.</p><h3>Main Outcomes and Measures</h3><p>Presence or absence of the case diagnosis in the system\u2019s differential diagnosis and, when present, in which quintile it appeared in the top 25 diagnoses.</p><h3>Results</h3><p>Among 36 patient cases of various races and ethnicities, genders, and ages (mean [SD] age, 51.4 [16.4] years), in the version with all findings but no laboratory test results, the DDSS listed the case diagnosis in its differential diagnosis more often (56% [20 of 36]) than LLM1 (42% [15 of 36]) and LLM2 (39% [14 of 36]), although this difference did not reach statistical significance (DDSS vs LLMI,<i>P</i>\u2009=\u2009.09; DDSS vs LLM2,<i>P</i>\u2009=\u2009.08). All 3 systems listed the case diagnosis in most cases if laboratory test results were included (all findings DDSS, 72% [26 of 36]; LLM1, 64% [23 of 36]; and LLM2, 58% [21 of 36]).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study comparing the performance of a traditional DDSS and current LLMs on unpublished clinical cases, in most cases, every system listed the case diagnosis in their top 25 diagnoses if laboratory test results were included. A hybrid approach that combines the parsing and expository linguistic capabilities of LLMs with the deterministic and explanatory capabilities of traditional DDSSs may produce synergistic benefits.</p>",
-            "date_published": "2025-05-29T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
+            "title": "Machine Learning to Predict Critical Events in Pediatric Care",
+            "summary": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
+            "content_text": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
+            "date_published": "2025-05-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Mitchell J. Feldman, MD"
+                    "name": "Muhammad Mahbubur Rahman, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "clinical",
-                "decision support systems",
-                "diagnosis",
-                "expert systems",
-                "generative artificial intelligence",
-                "laboratory test finding",
-                "large language models"
+                "machine learning",
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834550/feldman_2025_oi_250429_1747687239.52875.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834661/rahman_2025_ic_250103_1747842053.2432.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250429f1_1747687239.79767.png?Expires=2147483647&Signature=Zz0s9T69D7LcvHv96NeiaYiNq6yxKr9vto4~tuD~q346WyQeux8UUelg3Csw313l~J96wj9OuvDgBopR9vgvrR-jppJ1JJZB-S~TtXp9QsZz2mpjb2-5mWArzoGhqfY0~KSEscR5AeXYgu-n-AzY5feGIOHJsA5nFMRizPbCaFzGH-OoJyAo-dviVFS9rxeYVYef5fRxYqIhgAHhalbI0E3ixL-lClqGMV2ENpcfuAiMc60z4oBa2Aufsob9I6ANH54T~S4Dw0S-AfOkyRSpmOy8Km9gixHVc8ZHFEg5jU2ZIlgc4FdYzWkO8zpK6Fc503BEWPu7EAR-MzLXJcLbsg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
