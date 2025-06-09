@@ -5,6 +5,53 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIra2500061",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2500061",
+      "title": "Development and Commercialization Pathways of AI Medical Devices in the United States: Implications for Safety and Regulatory Oversight",
+      "summary": "This review analyzes 950 U.S. Food and Drug Administration\u2013regulated artificial intelligence medical devices, revealing stark contrasts between public and private manufacturers in production scale, transparency, and recall rates. It highlights how commercialization strategies and firm characteristics influence device performance and regulatory outcomes, emphasizing areas needing greater oversight.",
+      "content_text": "## Abstract\n\nThe landscape of U.S. Food and Drug Administration\u2013regulated artificial\nintelligence\u2013enabled medical devices (AIMDs) has expanded rapidly, with\nclearances and authorizations increasing, on average, from 1.4 to 146 per year\n(1995 through 2014 vs. 2020 through 2024, respectively). In this review of 950\nAIMDs and their associated commercialization trends, private firms comprise\n68.9% of the manufacturers, yet public companies produce more devices per firm\non average (5.1 vs. 2.0), reflecting their larger scale and better resources.\nDeep learning now powers half of all new AIMDs, underscoring its growing role\nin medical AI. Transparency has improved, as the proportion of devices without\nexplicit AI descriptions declined from 62.4% (2015 through 2019) to 8.9% (2020\nthrough 2024). However, public companies exhibit a 30-fold higher recall rate\nthan private firms, raising concerns about patient safety and regulatory\noversight. This review examines disparities in development models, market\npositioning, and postmarket performance, highlighting the distinct\ncommercialization strategies of public and private manufacturers. These\nfindings contextualize how AI medical device manufacturers\u2019 characteristics\nrelate to transparency and recall rates, highlighting commercialization\naspects requiring regulatory and provider attention. (Funded by Johns Hopkins\nUniversity.)\n\n",
+      "date_published": "2025-06-02T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "B. Lee and Others"
+        }
+      ],
+      "tags": [
+        "Review Article"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIra2500061",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/c8d2da1c-7087-42f2-8c51-02aef7b98d36/aira2500061_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">The landscape of U.S. Food and Drug Administration\u2013regulated artificial intelligence\u2013enabled medical devices (AIMDs) has expanded rapidly, with clearances and authorizations increasing, on average, from 1.4 to 146 per year (1995 through 2014 vs. 2020 through 2024, respectively). In this review of 950 AIMDs and their associated commercialization trends, private firms comprise 68.9% of the manufacturers, yet public companies produce more devices per firm on average (5.1 vs. 2.0), reflecting their larger scale and better resources. Deep learning now powers half of all new AIMDs, underscoring its growing role in medical AI. Transparency has improved, as the proportion of devices without explicit AI descriptions declined from 62.4% (2015 through 2019) to 8.9% (2020 through 2024). However, public companies exhibit a 30-fold higher recall rate than private firms, raising concerns about patient safety and regulatory oversight. This review examines disparities in development models, market positioning, and postmarket performance, highlighting the distinct commercialization strategies of public and private manufacturers. These findings contextualize how AI medical device manufacturers\u2019 characteristics relate to transparency and recall rates, highlighting commercialization aspects requiring regulatory and provider attention. (Funded by Johns Hopkins University.)</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401257",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401257",
+      "title": "Can a Chatbot Be a Medical Surrogate? The Use of Large Language Models in Medical Ethics Decision-Making",
+      "summary": "This perspective explores the capabilities of five large language models (ChatGPT-4o mini, Claude 3.5 Sonnet, Copilot for Microsoft 365, Meta AI Llama 3, and Gemini 1.5 Flash) to respond to ethics scenarios that may emerge when AI is used in health care, and finds that though AI can be used as a tool to support ethical decision-making, it is not currently able to provide autonomous ethics consultation regarding the care of human patients.",
+      "content_text": "## Abstract\n\nThe use of AI in health care has raised numerous ethical challenges. Issues\nconcerning data privacy, accountability, bias perpetuation, and the\nidentification of appropriate uses and users have prompted scholars and\nscientists to tackle these challenges. The application of AI to address\npractical ethical issues in clinical settings has not been thoroughly\nexplored. We investigated the capacity of five publicly available large\nlanguage models (Chat Generative Pretrained Transformer 4o mini, Claude 3.5\nSonnet, Copilot for Microsoft 365, Meta AI Llama 3, and Gemini 1.5 Flash) to\nrespond to medical ethics scenarios that may arise when AI is implemented in\nhealth care. We assessed and compared these responses with those of a human\nexpert in medical ethics to analyze the extent to which AI can replicate human\nethical decision-making, outline the distinctions between AI and human\ncognition, and evaluate the effectiveness of AI in medical ethical decision-\nmaking. Our findings indicate that while AI systems may assist in identifying\nconsiderations and guidelines for ethical decision-making, they do not\nconsistently demonstrate the flexibility of thought that humans exhibit when\naddressing novel ethical cases. AI can support ethical decision-making, but it\nis not currently capable of showing autonomous ethical reasoning for\nconsultation regarding patient care.\n\n",
+      "date_published": "2025-06-02T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "I. Harshe, K.W. Goodman, and G. Agarwal"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401257",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">The use of AI in health care has raised numerous ethical challenges. Issues concerning data privacy, accountability, bias perpetuation, and the identification of appropriate uses and users have prompted scholars and scientists to tackle these challenges. The application of AI to address practical ethical issues in clinical settings has not been thoroughly explored. We investigated the capacity of five publicly available large language models (Chat Generative Pretrained Transformer 4o mini, Claude 3.5 Sonnet, Copilot for Microsoft 365, Meta AI Llama 3, and Gemini 1.5 Flash) to respond to medical ethics scenarios that may arise when AI is implemented in health care. We assessed and compared these responses with those of a human expert in medical ethics to analyze the extent to which AI can replicate human ethical decision-making, outline the distinctions between AI and human cognition, and evaluate the effectiveness of AI in medical ethical decision-making. Our findings indicate that while AI systems may assist in identifying considerations and guidelines for ethical decision-making, they do not consistently demonstrate the flexibility of thought that humans exhibit when addressing novel ethical cases. AI can support ethical decision-making, but it is not currently capable of showing autonomous ethical reasoning for consultation regarding patient care.</div>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2401260",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2401260",
       "title": "Right Care, Right Place, First Time: How AI Is Improving National Virtual Front Doors",
