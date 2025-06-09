@@ -4,27 +4,24 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
-            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "date_published": "2025-03-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
+            "title": "Integrating Artificial Intelligence Support in Patient Care While Respecting Ethical Principles",
+            "summary": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
+            "content_text": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
+            "date_published": "2025-03-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shefali V. Patil, PhD"
+                    "name": "Marianne Sharko, MD, MS"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "calibration",
-                "decision making",
-                "health policy",
-                "personal satisfaction"
+                "ethics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831224/sharko_2025_ic_250013_1741025151.25682.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
