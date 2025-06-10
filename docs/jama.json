@@ -4,61 +4,24 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834118",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834118",
-            "title": "Digital Health Technology Use Among Spanish Speakers in the US: A Scoping Review",
-            "summary": "This scoping review summarizes factors that are associated with digital health technology use among Spanish speakers in the US.",
-            "content_html": "<h3>Importance</h3><p>Digital health technologies include patient portals, telehealth, mobile health, and web-based resources; they have the potential to expand health care access, increase quality of care, and improve health outcomes. An emerging literature describes factors associated with disparities between Spanish and English speakers with the use of digital health tools and documents.</p><h3>Objective</h3><p>To characterize barriers and facilitators and to inform hypothesis-generating questions and intervention planning associated with digital health technology use among Spanish-speaking populations in the US.</p><h3>Evidence Review</h3><p>Between January 2023 and April 2024, PubMed, Scopus, Web of Science, and Google Scholar were searched for publications between January 2013 and April 2024. Systematic reviews, protocols, editorials, abstracts, unpublished literature, non\u2013peer-reviewed literature, and non\u2013US-based and non-English studies were excluded. The Covidence platform was used to avoid duplicate records, and an abstract and full-text screening were then conducted for exclusions. Unstructured text in the final dataset was thematically analyzed.</p><h3>Findings</h3><p>Of 688 publications searched, 192 were excluded as duplications, 277 were excluded from abstract screenings, and 113 were excluded from full-text screenings. Among the 106 included studies (68% of which were published between 2019 and 2024), 73 (69%) used quantitative methods, 15 (14%) used qualitative methods, and 18 (17%) used applied mixed methods. The primary technologies studied were characterized as portal (21% [n = 22]), telehealth (42% [n = 45]), mobile health (16% [n = 17]), web-based resources (9% [n = 10]), and mixed (studies reporting &gt;1 technology; 11% [n = 12]). Compared with English speakers, studies revealed consistently lower portal account activation, portal use, telehealth adoption, and online resource use among Spanish speakers. Barriers to use across all technologies included limited access to technology and Wi-Fi, low literacy, and limited digital literacy. Barriers to portal and telehealth use included lack of awareness of digital tools, limited patient-facing instructions in Spanish, and interpreter-related challenges. Facilitators cited across multiple technologies included use of text messaging and social media interventions, interventions involving care partners and/or interpreters, and culturally and linguistically tailored Spanish materials.</p><h3>Conclusions and Relevance</h3><p>The results of this scoping review suggest that Spanish-speaking persons in the US faced technology, language, and literacy-related barriers to digital technology use. Embracing support for care partners, facilitating text message or social media\u2013oriented workflows, and ensuring that materials are linguistically and culturally tailored represent approaches for health systems, electronic health record vendors, and community health organizations to mitigate these disparities.</p>",
-            "date_published": "2025-05-15T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
+            "title": "Integrating Artificial Intelligence Support in Patient Care While Respecting Ethical Principles",
+            "summary": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
+            "content_text": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
+            "date_published": "2025-03-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robin T. Higashi, PhD"
+                    "name": "Marianne Sharko, MD, MS"
                 }
             ],
             "tags": [
-                "digital health",
-                "equity",
-                "health disparity",
-                "health outcomes",
-                "internet",
-                "interpreter",
-                "literacy",
-                "mobile health",
-                "screening procedure",
-                "symptom aggravating factors",
-                "technology",
-                "telehealth",
-                "text messaging"
+                "artificial intelligence",
+                "ethics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834118/higashi_2025_oi_250370_1746730729.22102.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250370f1_1746730729.39338.png?Expires=2147483647&Signature=Kk5kfVmxqNfJ0h8DEhRblgwDVr90NYsEaYd-kM6K4~Kkj3UYHZalOY5CDL81ScYROXg25mD-eOV9GQhBPnJsQcIF0KNpHKL3EVuK11BBrzOzuAA3XRBLB44yQPPKItR9c4QIwXNV490hDmgmb7SrZGLVM5hQ~w1prub~MqSfH-CJDdssvPLm65twgQiPRr8zDlHQGDwtIJgPEj8Od~vFfZJ2Zfyyf53Q~QvG0~4-4JMBus7cawnK~Mxk9dFJeg7lxKddYBehYLlCgOA787X~gjx0jk7PxbkIMmz1MhdHldND1s11~34fnQx1IhgaHqQ8zjiqBJn6WhDLNWcQL6TzqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "I. Glenn Cohen, JD"
-                }
-            ],
-            "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831224/sharko_2025_ic_250013_1741025151.25682.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
@@ -752,6 +715,37 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
