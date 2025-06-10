@@ -4,27 +4,65 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2834699",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2834699",
-            "title": "Return on Investment in Digital Mental Health Solutions",
-            "summary": "Behavioral health conditions affect millions of patients worldwide and often lead to decreased productivity and retention in the workplace. 1 Many organizations do not offer digital health solutions for employees seeking behavioral health care, despite findings suggesting positive outcomes when investing in these programs.",
-            "content_text": "Behavioral health conditions affect millions of patients worldwide and often lead to decreased productivity and retention in the workplace. 1 Many organizations do not offer digital health solutions for employees seeking behavioral health care, despite findings suggesting positive outcomes when investing in these programs.",
-            "date_published": "2025-05-29T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834118",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834118",
+            "title": "Digital Health Technology Use Among Spanish Speakers in the US: A Scoping Review",
+            "summary": "This scoping review summarizes factors that are associated with digital health technology use among Spanish speakers in the US.",
+            "content_html": "<h3>Importance</h3><p>Digital health technologies include patient portals, telehealth, mobile health, and web-based resources; they have the potential to expand health care access, increase quality of care, and improve health outcomes. An emerging literature describes factors associated with disparities between Spanish and English speakers with the use of digital health tools and documents.</p><h3>Objective</h3><p>To characterize barriers and facilitators and to inform hypothesis-generating questions and intervention planning associated with digital health technology use among Spanish-speaking populations in the US.</p><h3>Evidence Review</h3><p>Between January 2023 and April 2024, PubMed, Scopus, Web of Science, and Google Scholar were searched for publications between January 2013 and April 2024. Systematic reviews, protocols, editorials, abstracts, unpublished literature, non\u2013peer-reviewed literature, and non\u2013US-based and non-English studies were excluded. The Covidence platform was used to avoid duplicate records, and an abstract and full-text screening were then conducted for exclusions. Unstructured text in the final dataset was thematically analyzed.</p><h3>Findings</h3><p>Of 688 publications searched, 192 were excluded as duplications, 277 were excluded from abstract screenings, and 113 were excluded from full-text screenings. Among the 106 included studies (68% of which were published between 2019 and 2024), 73 (69%) used quantitative methods, 15 (14%) used qualitative methods, and 18 (17%) used applied mixed methods. The primary technologies studied were characterized as portal (21% [n = 22]), telehealth (42% [n = 45]), mobile health (16% [n = 17]), web-based resources (9% [n = 10]), and mixed (studies reporting &gt;1 technology; 11% [n = 12]). Compared with English speakers, studies revealed consistently lower portal account activation, portal use, telehealth adoption, and online resource use among Spanish speakers. Barriers to use across all technologies included limited access to technology and Wi-Fi, low literacy, and limited digital literacy. Barriers to portal and telehealth use included lack of awareness of digital tools, limited patient-facing instructions in Spanish, and interpreter-related challenges. Facilitators cited across multiple technologies included use of text messaging and social media interventions, interventions involving care partners and/or interpreters, and culturally and linguistically tailored Spanish materials.</p><h3>Conclusions and Relevance</h3><p>The results of this scoping review suggest that Spanish-speaking persons in the US faced technology, language, and literacy-related barriers to digital technology use. Embracing support for care partners, facilitating text message or social media\u2013oriented workflows, and ensuring that materials are linguistically and culturally tailored represent approaches for health systems, electronic health record vendors, and community health organizations to mitigate these disparities.</p>",
+            "date_published": "2025-05-15T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Yulin Hswen, ScD, MPH"
+                    "name": "Robin T. Higashi, PhD"
                 }
             ],
             "tags": [
-                ""
+                "digital health",
+                "equity",
+                "health disparity",
+                "health outcomes",
+                "internet",
+                "interpreter",
+                "literacy",
+                "mobile health",
+                "screening procedure",
+                "symptom aggravating factors",
+                "technology",
+                "telehealth",
+                "text messaging"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2834699/jama_hswen_2025_ed_250033_1747854608.8141.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834118/higashi_2025_oi_250370_1746730729.22102.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jed250033fa_1747854609.05925.png?Expires=2147483647&Signature=pSeyBi8DaXhGuN2xT7hmxWVIVLpkkwxzuprmKlFyGMgkufVmFIJnzO5o5CYv~XSwXr0jhYtMyyX8qxBnW-liSGv5FBriiEnhWacCagRe1qR7GNbbeTpqM01XrJ6J9UkTuMf~pT4iC0Os1zOK6I9AsqnQvQpFPFKSRk0y2JMCiOVFSStWL5GkQLm8XQgqg96ts6W2AemINj2mRRPtdxdOWezsYDBxj0Za~MQ0sF05V-7styV75PP1j4RFVT5GU0eacYExml3uLZigT9ykSjioW3wdTHtQ5gOQETfaxdKinrjs3LfxziqVoRXaqbz2YYzP6rur3PZwY319FRjpFhesGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250370f1_1746730729.39338.png?Expires=2147483647&Signature=Kk5kfVmxqNfJ0h8DEhRblgwDVr90NYsEaYd-kM6K4~Kkj3UYHZalOY5CDL81ScYROXg25mD-eOV9GQhBPnJsQcIF0KNpHKL3EVuK11BBrzOzuAA3XRBLB44yQPPKItR9c4QIwXNV490hDmgmb7SrZGLVM5hQ~w1prub~MqSfH-CJDdssvPLm65twgQiPRr8zDlHQGDwtIJgPEj8Od~vFfZJ2Zfyyf53Q~QvG0~4-4JMBus7cawnK~Mxk9dFJeg7lxKddYBehYLlCgOA787X~gjx0jk7PxbkIMmz1MhdHldND1s11~34fnQx1IhgaHqQ8zjiqBJn6WhDLNWcQL6TzqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "title": "Ambient Listening\u2014Legal and Ethical Issues",
+            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "date_published": "2025-02-19T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "I. Glenn Cohen, JD"
+                }
+            ],
+            "tags": [
+                "ethics",
+                "health policy",
+                "listening",
+                "principles of law and justice"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
