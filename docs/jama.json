@@ -4,28 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
-            "title": "Integrating Artificial Intelligence Support in Patient Care While Respecting Ethical Principles",
-            "summary": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
-            "content_text": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "title": "Ambient Listening\u2014Legal and Ethical Issues",
+            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "date_published": "2025-02-19T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Marianne Sharko, MD, MS"
+                    "name": "I. Glenn Cohen, JD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "ethics"
+                "ethics",
+                "health policy",
+                "listening",
+                "principles of law and justice"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831224/sharko_2025_ic_250013_1741025151.25682.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Tyler J. Loftus, MD, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -103,32 +131,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939503/jvp240145f1_1732559811.49463.png?Expires=2147483647&Signature=GGD~-43RSNW-9TnjR1H8o8KAzxbB7Jphn~kbMMEEyISEx9muUHKIY664~bkPraMFM52SnYRe76pb2kKBb-yn7~4L4doeKfUbpWdWrbQHPG6AMz1SZT1rRzZ5ILjpnEnrmlwg~1jxFeIdBwgqn2NWiSLA0WVfdWGVz9lHiU0bCyyI3BrUgwqtOrSejTSrhGG3rjfd6mmQqUOVzGoWVCrZvAdGDkyS7R9TB6ceetWUs8aCZI060ZkSRNieZ~M5XEXWQBc5tRZycce-GOxaHxQecsN9SDe3dC2f5zv55ssdYcNgJtDsO0Uicm5A48I5jGKehroZicQl~8Ffs-q2BV5gHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
-            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "date_published": "2024-11-22T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Farid Ghareh Mohammadi, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "informatics (discipline)",
-                "physical and emotional exhaustion state",
-                "radiologist"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
             "title": "Artificial Intelligence and Radiologist Burnout",
@@ -155,6 +157,32 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241365t1_1731684044.06019.png?Expires=2147483647&Signature=ze3APbXsOF4VtXwuSaCiCOMkfPcEHihxucX5dwHCiJYZzjpY1o-dvE7xSWDRbcP0IML4HEjC3UVqnStK8lgU24JaquWhmJx4C21gd45WJER8b9~lSLH5WYB0-rlEf1STVNNVHHtbai0UgTSn06m1WtfK5bHrUE9B~iohD4caGDQ~8Za5kI80AIGGg-5tjeKV3NIlKHxFPCibIbFWpah4PbvZJqGfFfofRld2zucw92OyDphtjZ~tAaoWTiHRohTTylIM~h~8~xbeYKwcPf1tqSEkQRDUB5OdBW6x9F-4jMVJ5YNklKc387uwiPJUBZ2nxqwWhcBj7j9OHE3VGk2O0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
+            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "date_published": "2024-11-22T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Farid Ghareh Mohammadi, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "informatics (discipline)",
+                "physical and emotional exhaustion state",
+                "radiologist"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826511",
@@ -254,33 +282,31 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
-            "title": "Performance of Risk Models for Antimicrobial Resistance in Adult Patients With Sepsis",
-            "summary": "This cohort study evaluates the performance of a risk stratification model for resistant gram-negative bacilli infection among patients with sepsis.",
-            "content_html": "<h3>Importance</h3><p>The results of prediction models that stratify patients with sepsis and risk of resistant gram-negative bacilli (GNB) infections inform treatment guidelines. However, these models do not extrapolate well across hospitals.</p><h3>Objective</h3><p>To assess whether patient case mix and local prevalence rates of resistance contributed to the variable performance of a general risk stratification GNB sepsis model for community-onset and hospital-onset sepsis across hospitals.</p><h3>Design, Setting, and Participants</h3><p>This was a retrospective cohort study conducted from January 2016 and October 2021. Adult patients with sepsis at 10 acute-care hospitals in rural and urban areas across Missouri and Illinois were included. Inclusion criteria were blood cultures indicating sepsis, having received 4 days of antibiotic treatment, and having organ dysfunction (vasopressor use, mechanical ventilation, increased creatinine or bilirubin levels, and thrombocytopenia). Analyses were completed in April 2024.</p><h3>Exposure</h3><p>The model included demographic characteristics, comorbidities, vital signs, laboratory values, procedures, and medications administered.</p><h3>Main Outcomes and Measures</h3><p>Culture results were stratified for ceftriaxone-susceptible GNB (SS), ceftriaxone-resistant but cefepime-susceptible GNB (RS), and ceftriaxone- and cefepime-resistant GNB (RR). Negative cultures and other pathogens were labeled SS. Deep learning models were developed separately for community-onset (patient presented with sepsis) and hospital-onset (sepsis developed \u226548 hours after admission) sepsis. The models were tested across hospitals and patient subgroups. Models were assessed using area under the receiver operating characteristic curve (AUROC) and area under precision recall curve (AUPRC).</p><h3>Results</h3><p>A total of 39\u202f893 patients with 85\u202f238 sepsis episodes (43\u202f207 [50.7%] community onset; 42\u202f031 [48.3%] hospital onset) were included. Median (IQR) age was 65 (54-74) years, 21\u202f241 patients (53.2%) were male, and 18\u202f830 (47.2%) had a previous episode of sepsis. RS contributed to 3.9% (1667 episodes) and 5.7% (2389 episodes) of community-onset and hospital-onset sepsis episodes, respectively, and RR contributed to 1.8% (796 episodes) and 3.9% (1626 episodes), respectively. Previous infections and exposure to antibiotics were associated with the risk of resistant GNB. For example, in community-onset sepsis, 375 RR episodes (47.1%), 420 RS episodes (25.2%) and 3483 of 40\u202f744 (8.5%) SS episodes were among patients with resistance to antimicrobial drugs (P\u2009&lt;\u2009.001). The AUROC and AUPRC results varied across hospitals and patient subgroups for both community-onset and hospital-onset sepsis. AUPRC values correlated with the prevalence rates of resistant GNB (<i>R</i>\u2009=\u20090.79;<i>P</i>\u2009=\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this cohort study of 39\u202f893 patients with sepsis, variable model performance was associated with prevalence rates of antimicrobial resistance rather than patient case mix. This variability suggests caution is needed when using generalized models for predicting resistant GNB etiologies in sepsis.</p>",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
+            "title": "Natural Language Processing of Clinical Documentation to Assess Functional Status in Patients With Heart",
+            "summary": "This diagnostic study describes the development and validation of a deep learning natural language processing strategy for extracting functional status assessments from unstructured clinical documentation among patients with heart failure (HF).",
+            "content_html": "<h3>Importance</h3><p>Serial functional status assessments are critical to heart failure (HF) management but are often described narratively in documentation, limiting their use in quality improvement or patient selection for clinical trials.</p><h3>Objective</h3><p>To develop and validate a deep learning natural language processing (NLP) strategy for extracting functional status assessments from unstructured clinical documentation.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study used electronic health record data collected from January 1, 2013, through June 30, 2022, from patients diagnosed with HF seeking outpatient care within 3 large practice networks in Connecticut (Yale New Haven Hospital [YNHH], Northeast Medical Group [NMG], and Greenwich Hospital [GH]). Expert-annotated notes were used for NLP model development and validation. Data were analyzed from February to April 2024.</p><h3>Exposures</h3><p>Development and validation of NLP models to detect explicit New York Heart Association (NYHA) classification, HF symptoms during activity or rest, and frequency of functional status assessments.</p><h3>Main Outcomes and Measures</h3><p>Outcomes of interest were model performance metrics, including area under the receiver operating characteristic curve (AUROC), and frequency of NYHA class documentation and HF symptom descriptions in unannotated notes.</p><h3>Results</h3><p>This study included 34\u202f070 patients with HF (mean [SD] age 76.1 [12.6] years; 17\u202f728 [52.0]% female). Among 3000 expert-annotated notes (2000 from YNHH and 500 each from NMG and GH), 374 notes (12.4%) mentioned NYHA class and 1190 notes (39.7%) described HF symptoms. The NYHA class detection model achieved a class-weighted AUROC of 0.99 (95% CI, 0.98-1.00) at YNHH, the development site. At the 2 validation sites, NMG and GH, the model achieved class-weighted AUROCs of 0.98 (95% CI, 0.96-1.00) and 0.98 (95% CI, 0.92-1.00), respectively. The model for detecting activity- or rest-related symptoms achieved an AUROC of 0.94 (95% CI, 0.89-0.98) at YNHH, 0.94 (95% CI, 0.91-0.97) at NMG, and 0.95 (95% CI, 0.92-0.99) at GH. Deploying the NYHA model among 182\u202f308 unannotated notes from the 3 sites identified 23\u202f830 (13.1%) notes with NYHA mentions, specifically 10\u202f913 notes (6.0%) with class I, 12\u202f034 notes (6.6%) with classes II or III, and 883 notes (0.5%) with class IV. An additional 19\u202f730 encounters (10.8%) could be classified into functional status groups based on activity- or rest-related symptoms, resulting in a total of 43\u202f560 medical notes (23.9%) categorized by NYHA, an 83% increase compared with explicit mentions alone.</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of 34\u202f070 patients with HF, the NLP approach accurately extracted a patient\u2019s NYHA symptom class and activity- or rest-related HF symptoms from clinical notes, enhancing the ability to track optimal care delivery and identify patients eligible for clinical trial participation from unstructured documentation.</p>",
             "date_published": "2024-11-07T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "M. Cristina Vazquez Guillamet, MD"
+                    "name": "Philip Adejumo, BS"
                 }
             ],
             "tags": [
-                "cefepime",
-                "ceftriaxone",
-                "drug resistance",
-                "gram-negative bacillus",
-                "infection",
-                "microbial",
-                "sepsis"
+                "deep learning",
+                "heart",
+                "heart failure",
+                "natural language processing",
+                "new york heart association classification"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825990/vazquez_guillamet_2024_oi_241246_1730394547.30392.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825987/adejumo_2024_oi_241254_1730394538.57768.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241246t1_1730394547.41392.png?Expires=2147483647&Signature=FSC2y3JA-qK-Kgh1~d2zI85WJkQWmh7wpEFsHRU0~lYBCB1zRqCCucTQKkfbaH5DTwfutBzSHf9vjf0I~O632wyh1qNyuyv7aaneKvn0cewmXZVvoiRfkgbFqwCPX5BA-9WZTDbdCzMfVCyf6JkjMY7jnTpi2W1LWZz4NlVvYZqg75MKgl-easXJ1orBYLWPvyB4UJQi8XVI6DkxGuu7Z-i7rtzAqei6ahl3JZLMefs2j6ULhXBKBTMJVXXIMlnXEfgs9836MZy5RlgN8m-eUAPwvgrmNJum~D~IrRQhV9E4WVn3wa3cIlv9V1DgA9fu7B7iIDxo9-~qCSMGsLDv9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241254t1_1730394538.76268.png?Expires=2147483647&Signature=kePpVSW3A329gL0Zkl53OJRGbz5bY4jZwxs60s~PaQ3lF9rmJEforuN9bSxqTi-Z8VD1bDPkJu6OezPj95lTwrmZlsKYDW5lwpjBVXdmCjoqYXaH~QDLbLl~n1qWtQDRkrHx7aaLY-pXrKC3sQgCJ4DgI7iTKvzUtrCXRUicu~2gvw0qSUj6wTvqr-AvJXucHP7uyvqs7E564AkOciIvIqdEDD49Tgw5PlkyQCXw9H4vGOYzGzeNDdbIfj1mCYRQj6QKh~VpEe3D74smiddXNyix6-yzXq2rDSKdXoPIQi39Rca1ECb5Diy3vf5k0BpxQLxHAu~W3AhmG~WcEeQM6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
@@ -308,31 +334,33 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
-            "title": "Natural Language Processing of Clinical Documentation to Assess Functional Status in Patients With Heart",
-            "summary": "This diagnostic study describes the development and validation of a deep learning natural language processing strategy for extracting functional status assessments from unstructured clinical documentation among patients with heart failure (HF).",
-            "content_html": "<h3>Importance</h3><p>Serial functional status assessments are critical to heart failure (HF) management but are often described narratively in documentation, limiting their use in quality improvement or patient selection for clinical trials.</p><h3>Objective</h3><p>To develop and validate a deep learning natural language processing (NLP) strategy for extracting functional status assessments from unstructured clinical documentation.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study used electronic health record data collected from January 1, 2013, through June 30, 2022, from patients diagnosed with HF seeking outpatient care within 3 large practice networks in Connecticut (Yale New Haven Hospital [YNHH], Northeast Medical Group [NMG], and Greenwich Hospital [GH]). Expert-annotated notes were used for NLP model development and validation. Data were analyzed from February to April 2024.</p><h3>Exposures</h3><p>Development and validation of NLP models to detect explicit New York Heart Association (NYHA) classification, HF symptoms during activity or rest, and frequency of functional status assessments.</p><h3>Main Outcomes and Measures</h3><p>Outcomes of interest were model performance metrics, including area under the receiver operating characteristic curve (AUROC), and frequency of NYHA class documentation and HF symptom descriptions in unannotated notes.</p><h3>Results</h3><p>This study included 34\u202f070 patients with HF (mean [SD] age 76.1 [12.6] years; 17\u202f728 [52.0]% female). Among 3000 expert-annotated notes (2000 from YNHH and 500 each from NMG and GH), 374 notes (12.4%) mentioned NYHA class and 1190 notes (39.7%) described HF symptoms. The NYHA class detection model achieved a class-weighted AUROC of 0.99 (95% CI, 0.98-1.00) at YNHH, the development site. At the 2 validation sites, NMG and GH, the model achieved class-weighted AUROCs of 0.98 (95% CI, 0.96-1.00) and 0.98 (95% CI, 0.92-1.00), respectively. The model for detecting activity- or rest-related symptoms achieved an AUROC of 0.94 (95% CI, 0.89-0.98) at YNHH, 0.94 (95% CI, 0.91-0.97) at NMG, and 0.95 (95% CI, 0.92-0.99) at GH. Deploying the NYHA model among 182\u202f308 unannotated notes from the 3 sites identified 23\u202f830 (13.1%) notes with NYHA mentions, specifically 10\u202f913 notes (6.0%) with class I, 12\u202f034 notes (6.6%) with classes II or III, and 883 notes (0.5%) with class IV. An additional 19\u202f730 encounters (10.8%) could be classified into functional status groups based on activity- or rest-related symptoms, resulting in a total of 43\u202f560 medical notes (23.9%) categorized by NYHA, an 83% increase compared with explicit mentions alone.</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of 34\u202f070 patients with HF, the NLP approach accurately extracted a patient\u2019s NYHA symptom class and activity- or rest-related HF symptoms from clinical notes, enhancing the ability to track optimal care delivery and identify patients eligible for clinical trial participation from unstructured documentation.</p>",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
+            "title": "Performance of Risk Models for Antimicrobial Resistance in Adult Patients With Sepsis",
+            "summary": "This cohort study evaluates the performance of a risk stratification model for resistant gram-negative bacilli infection among patients with sepsis.",
+            "content_html": "<h3>Importance</h3><p>The results of prediction models that stratify patients with sepsis and risk of resistant gram-negative bacilli (GNB) infections inform treatment guidelines. However, these models do not extrapolate well across hospitals.</p><h3>Objective</h3><p>To assess whether patient case mix and local prevalence rates of resistance contributed to the variable performance of a general risk stratification GNB sepsis model for community-onset and hospital-onset sepsis across hospitals.</p><h3>Design, Setting, and Participants</h3><p>This was a retrospective cohort study conducted from January 2016 and October 2021. Adult patients with sepsis at 10 acute-care hospitals in rural and urban areas across Missouri and Illinois were included. Inclusion criteria were blood cultures indicating sepsis, having received 4 days of antibiotic treatment, and having organ dysfunction (vasopressor use, mechanical ventilation, increased creatinine or bilirubin levels, and thrombocytopenia). Analyses were completed in April 2024.</p><h3>Exposure</h3><p>The model included demographic characteristics, comorbidities, vital signs, laboratory values, procedures, and medications administered.</p><h3>Main Outcomes and Measures</h3><p>Culture results were stratified for ceftriaxone-susceptible GNB (SS), ceftriaxone-resistant but cefepime-susceptible GNB (RS), and ceftriaxone- and cefepime-resistant GNB (RR). Negative cultures and other pathogens were labeled SS. Deep learning models were developed separately for community-onset (patient presented with sepsis) and hospital-onset (sepsis developed \u226548 hours after admission) sepsis. The models were tested across hospitals and patient subgroups. Models were assessed using area under the receiver operating characteristic curve (AUROC) and area under precision recall curve (AUPRC).</p><h3>Results</h3><p>A total of 39\u202f893 patients with 85\u202f238 sepsis episodes (43\u202f207 [50.7%] community onset; 42\u202f031 [48.3%] hospital onset) were included. Median (IQR) age was 65 (54-74) years, 21\u202f241 patients (53.2%) were male, and 18\u202f830 (47.2%) had a previous episode of sepsis. RS contributed to 3.9% (1667 episodes) and 5.7% (2389 episodes) of community-onset and hospital-onset sepsis episodes, respectively, and RR contributed to 1.8% (796 episodes) and 3.9% (1626 episodes), respectively. Previous infections and exposure to antibiotics were associated with the risk of resistant GNB. For example, in community-onset sepsis, 375 RR episodes (47.1%), 420 RS episodes (25.2%) and 3483 of 40\u202f744 (8.5%) SS episodes were among patients with resistance to antimicrobial drugs (P\u2009&lt;\u2009.001). The AUROC and AUPRC results varied across hospitals and patient subgroups for both community-onset and hospital-onset sepsis. AUPRC values correlated with the prevalence rates of resistant GNB (<i>R</i>\u2009=\u20090.79;<i>P</i>\u2009=\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this cohort study of 39\u202f893 patients with sepsis, variable model performance was associated with prevalence rates of antimicrobial resistance rather than patient case mix. This variability suggests caution is needed when using generalized models for predicting resistant GNB etiologies in sepsis.</p>",
             "date_published": "2024-11-07T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Philip Adejumo, BS"
+                    "name": "M. Cristina Vazquez Guillamet, MD"
                 }
             ],
             "tags": [
-                "deep learning",
-                "heart",
-                "heart failure",
-                "natural language processing",
-                "new york heart association classification"
+                "cefepime",
+                "ceftriaxone",
+                "drug resistance",
+                "gram-negative bacillus",
+                "infection",
+                "microbial",
+                "sepsis"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825987/adejumo_2024_oi_241254_1730394538.57768.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825990/vazquez_guillamet_2024_oi_241246_1730394547.30392.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241254t1_1730394538.76268.png?Expires=2147483647&Signature=kePpVSW3A329gL0Zkl53OJRGbz5bY4jZwxs60s~PaQ3lF9rmJEforuN9bSxqTi-Z8VD1bDPkJu6OezPj95lTwrmZlsKYDW5lwpjBVXdmCjoqYXaH~QDLbLl~n1qWtQDRkrHx7aaLY-pXrKC3sQgCJ4DgI7iTKvzUtrCXRUicu~2gvw0qSUj6wTvqr-AvJXucHP7uyvqs7E564AkOciIvIqdEDD49Tgw5PlkyQCXw9H4vGOYzGzeNDdbIfj1mCYRQj6QKh~VpEe3D74smiddXNyix6-yzXq2rDSKdXoPIQi39Rca1ECb5Diy3vf5k0BpxQLxHAu~W3AhmG~WcEeQM6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241246t1_1730394547.41392.png?Expires=2147483647&Signature=FSC2y3JA-qK-Kgh1~d2zI85WJkQWmh7wpEFsHRU0~lYBCB1zRqCCucTQKkfbaH5DTwfutBzSHf9vjf0I~O632wyh1qNyuyv7aaneKvn0cewmXZVvoiRfkgbFqwCPX5BA-9WZTDbdCzMfVCyf6JkjMY7jnTpi2W1LWZz4NlVvYZqg75MKgl-easXJ1orBYLWPvyB4UJQi8XVI6DkxGuu7Z-i7rtzAqei6ahl3JZLMefs2j6ULhXBKBTMJVXXIMlnXEfgs9836MZy5RlgN8m-eUAPwvgrmNJum~D~IrRQhV9E4WVn3wa3cIlv9V1DgA9fu7B7iIDxo9-~qCSMGsLDv9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2825500",
@@ -441,30 +469,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eld240007t1_1728936602.24537.png?Expires=2147483647&Signature=jzKftewxojEf-nZ7DBH7I2Y1HzcvI6SvsQhf~6RhF6wWiI6LAYFXxCfHqGYNmofLXMqMkUty1ihVC~ZvT1V9~hAJWu1Qu6bArMWkWxrN4zlOMUDD-QhLEbo2LNCy7J1HuFgVN1Mw4542C6VVoi9DRpra3DxCeoH77aLswQOHASgFQCi3kg~e-UQ1u8ulXKB6nWKt4RWW0ahQnIuwixgKV6C~GB9l94VpBton97mUkmvKp3uVqvYE-jeiRKCXJcU7XLLHTGyEFbytSWcLekZ6gCJmiNfsLkM4jlxByLZ4097RGS5ERxzyfIkJrLw~drlaEpIQ3dsk7Aeww2J1xmN6bg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825399",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825399",
-            "title": "Large Language Models\u2014Misdiagnosing Diagnostic Excellence?",
-            "summary": "When the results of the Goh et al study 1 were presented at a recent National Academies of Medicine meeting, the audience was amazed\u2014and concerned. The randomized clinical trial assessed diagnostic performance by generalist physicians, who were asked to provide diagnoses for 6 simulated cases using either conventional online resources or a large language model (LLM) (ChatGPT Plus [GPT-4]; OpenAI) in addition to standard resources. The study also evaluated the ability of the LLM to solve the cases alone. The authors developed a rubric for measuring diagnostic performance in which blinded experts evaluated participants\u2019 overall clinical reasoning process, including their proposed final diagnosis, their differential diagnosis, and factors supporting or opposing the diagnoses on their list.",
-            "content_text": "When the results of the Goh et al study 1 were presented at a recent National Academies of Medicine meeting, the audience was amazed\u2014and concerned. The randomized clinical trial assessed diagnostic performance by generalist physicians, who were asked to provide diagnoses for 6 simulated cases using either conventional online resources or a large language model (LLM) (ChatGPT Plus [GPT-4]; OpenAI) in addition to standard resources. The study also evaluated the ability of the LLM to solve the cases alone. The authors developed a rubric for measuring diagnostic performance in which blinded experts evaluated participants\u2019 overall clinical reasoning process, including their proposed final diagnosis, their differential diagnosis, and factors supporting or opposing the diagnoses on their list.",
-            "date_published": "2024-10-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Sumant R. Ranji, MD"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825399/ranji_2024_ic_240239_1729527088.61839.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
             "title": "Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial",
@@ -514,6 +518,30 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825399",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825399",
+            "title": "Large Language Models\u2014Misdiagnosing Diagnostic Excellence?",
+            "summary": "When the results of the Goh et al study 1 were presented at a recent National Academies of Medicine meeting, the audience was amazed\u2014and concerned. The randomized clinical trial assessed diagnostic performance by generalist physicians, who were asked to provide diagnoses for 6 simulated cases using either conventional online resources or a large language model (LLM) (ChatGPT Plus [GPT-4]; OpenAI) in addition to standard resources. The study also evaluated the ability of the LLM to solve the cases alone. The authors developed a rubric for measuring diagnostic performance in which blinded experts evaluated participants\u2019 overall clinical reasoning process, including their proposed final diagnosis, their differential diagnosis, and factors supporting or opposing the diagnoses on their list.",
+            "content_text": "When the results of the Goh et al study 1 were presented at a recent National Academies of Medicine meeting, the audience was amazed\u2014and concerned. The randomized clinical trial assessed diagnostic performance by generalist physicians, who were asked to provide diagnoses for 6 simulated cases using either conventional online resources or a large language model (LLM) (ChatGPT Plus [GPT-4]; OpenAI) in addition to standard resources. The study also evaluated the ability of the LLM to solve the cases alone. The authors developed a rubric for measuring diagnostic performance in which blinded experts evaluated participants\u2019 overall clinical reasoning process, including their proposed final diagnosis, their differential diagnosis, and factors supporting or opposing the diagnoses on their list.",
+            "date_published": "2024-10-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Sumant R. Ranji, MD"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825399/ranji_2024_ic_240239_1729527088.61839.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825235",
@@ -590,6 +618,31 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939467/zld240183f1_1728310498.85625.png?Expires=2147483647&Signature=qb2GE7SZWXkszFd0WWpH7vP~bagdL0huZ9N8PfRO-HcI~pwb8kJpBf16~3mVYt6ByAHuYtYgOX5NOQ~Xuy~hVbXVo2j79EKTJdW7j-GWzXPzK25kpoEOm3uV15Z0Tg25hasiWLyWUDbVzuuZbRzVz231esTjUMseakp0amW~TXU7dLNHs5m6ym-aHzjwyH-DG0peFW3w4E1x5BcwOp0Vmt8bqRnFOGX68urupDIf~RP8pAeJ0Mwo2u5gdJ6sbsrO-NY61vj0cw1s-eNmD4hUngV8OzEruH52IO5XKAqMud8Po-7KbYOm9LeRqg1Q2KiuguQFazaDK5Wb7IFRZd~Cbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
+            "title": "Testing and Evaluation of Health Care Applications of Large Language Models: A Systematic Review",
+            "summary": "This systematic review characterizes the current performance of large language models in evaluating clinical health care settings, including uniformity, thoroughness, and robustness and proposes a framework for their testing and evaluation across health care applications.",
+            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) can assist in various health care activities, but current evaluation approaches may not adequately identify the most useful application areas.</p><h3>Objective</h3><p>To summarize existing evaluations of LLMs in health care in terms of 5 components: (1) evaluation data type, (2) health care task, (3) natural language processing (NLP) and natural language understanding (NLU) tasks, (4) dimension of evaluation, and (5) medical specialty.</p><h3>Data Sources</h3><p>A systematic search of PubMed and Web of Science was performed for studies published between January 1, 2022, and February 19, 2024.</p><h3>Study Selection</h3><p>Studies evaluating 1 or more LLMs in health care.</p><h3>Data Extraction and Synthesis</h3><p>Three independent reviewers categorized studies via keyword searches based on the data used, the health care tasks, the NLP and NLU tasks, the dimensions of evaluation, and the medical specialty.</p><h3>Results</h3><p>Of 519 studies reviewed, published between January 1, 2022, and February 19, 2024, only 5% used real patient care data for LLM evaluation. The most common health care tasks were assessing medical knowledge such as answering medical licensing examination questions (44.5%) and making diagnoses (19.5%). Administrative tasks such as assigning billing codes (0.2%) and writing prescriptions (0.2%) were less studied. For NLP and NLU tasks, most studies focused on question answering (84.2%), while tasks such as summarization (8.9%) and conversational dialogue (3.3%) were infrequent. Almost all studies (95.4%) used accuracy as the primary dimension of evaluation; fairness, bias, and toxicity (15.8%), deployment considerations (4.6%), and calibration and uncertainty (1.2%) were infrequently measured. Finally, in terms of medical specialty area, most studies were in generic health care applications (25.6%), internal medicine (16.4%), surgery (11.4%), and ophthalmology (6.9%), with nuclear medicine (0.6%), physical medicine (0.4%), and medical genetics (0.2%) being the least represented.</p><h3>Conclusions and Relevance</h3><p>Existing evaluations of LLMs mostly focus on accuracy of question answering for medical examinations, without consideration of real patient care data. Dimensions such as fairness, bias, and toxicity and deployment considerations received limited attention. Future evaluations should adopt standardized applications and metrics, use clinical data, and broaden focus to include a wider range of tasks and specialties.</p>",
+            "date_published": "2024-10-15T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Suhana Bedi, BA"
+                }
+            ],
+            "tags": [
+                "large language models",
+                "natural language processing",
+                "toxic effect"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2825147/jama_bedi_2024_oi_240124_1730324416.60876.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi240124f1_1730324416.78684.png?Expires=2147483647&Signature=EzSJWPA8wZ8M4EItkW5uUvcHAYbNLdTxfOL11CFixhRRKqUExoM7rP0dJ6ycvskqOWZO1BTAgv0UNKZjTHhGrvF~Djsfb3hpt20UHy2cye71bMyd0~O~qQbVym5qKeHiLLyDlaJdAWdPOtCklt9YJImVSE1hS-I6ylfcdhH6SO6-EdCKXIQX8kOU298BQv6-oxo12ApYG0HI5azY~JGYraAEAAPNxZKTidp7izrp-LuxxIp0oOtlsdDeuLhvTyQiHhPzEXz1YzKxdMZLh0lTTty5iUKo6adFxDv~WS0tzNVRDhZHOgJqqRSVVuTIklNR1PgU0jknvkx4Pe~dT5SoHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
             "title": "Toward the Rigorous Evaluation of Early Warning Scores",
@@ -644,31 +697,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc240014f1_1728674739.97756.png?Expires=2147483647&Signature=P4lIg3LTH6JyLytnXRH4LM46vgd0ofmG3AHp1V2Va2ZIIwlw99rPslEprnlElxKSUfbQz2ZKcMWp~4dw6LlobwcwyvRmXgCdM5bo7C8MImsdredJOMJlIs~TR3IvFM3F-YaPG-HX3DBfC6aXkt~9QcKtkXJgAGpribYQEh804Ow-2CQTxVlnDYl0x09ceVpdQLbutOYIOfa8A16fIC-kYHogFefXqQqE3JwM-QXwIW6BJHKNCYhiN4wCNIG2j22ocWff7BHW9jSPUEgmgLIn5QBRKfT86mrrNB~8XxSMkyQcpS6zIHg4UR~3tLCnXekyyk4kFxXytXFQStE4OFvPAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
-            "title": "Testing and Evaluation of Health Care Applications of Large Language Models: A Systematic Review",
-            "summary": "This systematic review characterizes the current performance of large language models in evaluating clinical health care settings, including uniformity, thoroughness, and robustness and proposes a framework for their testing and evaluation across health care applications.",
-            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) can assist in various health care activities, but current evaluation approaches may not adequately identify the most useful application areas.</p><h3>Objective</h3><p>To summarize existing evaluations of LLMs in health care in terms of 5 components: (1) evaluation data type, (2) health care task, (3) natural language processing (NLP) and natural language understanding (NLU) tasks, (4) dimension of evaluation, and (5) medical specialty.</p><h3>Data Sources</h3><p>A systematic search of PubMed and Web of Science was performed for studies published between January 1, 2022, and February 19, 2024.</p><h3>Study Selection</h3><p>Studies evaluating 1 or more LLMs in health care.</p><h3>Data Extraction and Synthesis</h3><p>Three independent reviewers categorized studies via keyword searches based on the data used, the health care tasks, the NLP and NLU tasks, the dimensions of evaluation, and the medical specialty.</p><h3>Results</h3><p>Of 519 studies reviewed, published between January 1, 2022, and February 19, 2024, only 5% used real patient care data for LLM evaluation. The most common health care tasks were assessing medical knowledge such as answering medical licensing examination questions (44.5%) and making diagnoses (19.5%). Administrative tasks such as assigning billing codes (0.2%) and writing prescriptions (0.2%) were less studied. For NLP and NLU tasks, most studies focused on question answering (84.2%), while tasks such as summarization (8.9%) and conversational dialogue (3.3%) were infrequent. Almost all studies (95.4%) used accuracy as the primary dimension of evaluation; fairness, bias, and toxicity (15.8%), deployment considerations (4.6%), and calibration and uncertainty (1.2%) were infrequently measured. Finally, in terms of medical specialty area, most studies were in generic health care applications (25.6%), internal medicine (16.4%), surgery (11.4%), and ophthalmology (6.9%), with nuclear medicine (0.6%), physical medicine (0.4%), and medical genetics (0.2%) being the least represented.</p><h3>Conclusions and Relevance</h3><p>Existing evaluations of LLMs mostly focus on accuracy of question answering for medical examinations, without consideration of real patient care data. Dimensions such as fairness, bias, and toxicity and deployment considerations received limited attention. Future evaluations should adopt standardized applications and metrics, use clinical data, and broaden focus to include a wider range of tasks and specialties.</p>",
-            "date_published": "2024-10-15T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Suhana Bedi, BA"
-                }
-            ],
-            "tags": [
-                "large language models",
-                "natural language processing",
-                "toxic effect"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2825147/jama_bedi_2024_oi_240124_1730324416.60876.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi240124f1_1730324416.78684.png?Expires=2147483647&Signature=EzSJWPA8wZ8M4EItkW5uUvcHAYbNLdTxfOL11CFixhRRKqUExoM7rP0dJ6ycvskqOWZO1BTAgv0UNKZjTHhGrvF~Djsfb3hpt20UHy2cye71bMyd0~O~qQbVym5qKeHiLLyDlaJdAWdPOtCklt9YJImVSE1hS-I6ylfcdhH6SO6-EdCKXIQX8kOU298BQv6-oxo12ApYG0HI5azY~JGYraAEAAPNxZKTidp7izrp-LuxxIp0oOtlsdDeuLhvTyQiHhPzEXz1YzKxdMZLh0lTTty5iUKo6adFxDv~WS0tzNVRDhZHOgJqqRSVVuTIklNR1PgU0jknvkx4Pe~dT5SoHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823641",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823641",
             "title": "The Need for Continuous Evaluation of Artificial Intelligence Prediction Algorithms",
@@ -715,37 +743,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
@@ -946,6 +943,33 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
+            "title": "A Nationwide Network of Health AI Assurance Laboratories",
+            "summary": "This article outlines the need for a nationwide public-private network of assurance laboratories that would aid in the evaluation and development of artificial intelligence (AI) in health care.",
+            "content_html": "<h3>Importance</h3><p>Given the importance of rigorous development and evaluation standards needed of artificial intelligence (AI) models used in health care, nationwide accepted procedures to provide assurance that the use of AI is fair, appropriate, valid, effective, and safe are urgently needed.</p><h3>Observations</h3><p>While there are several efforts to develop standards and best practices to evaluate AI, there is a gap between having such guidance and the application of such guidance to both existing and new AI models being developed. As of now, there is no publicly available, nationwide mechanism that enables objective evaluation and ongoing assessment of the consequences of using health AI models in clinical care settings.</p><h3>Conclusion and Relevance</h3><p>The need to create a public-private partnership to support a nationwide health AI assurance labs network is outlined here. In this network, community best practices could be applied for testing health AI models to produce reports on their performance that can be widely shared for managing the lifecycle of AI models over time and across populations and sites where these models are deployed.</p>",
+            "date_published": "2024-01-16T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Nigam H. Shah, MBBS, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "best practice",
+                "laboratory techniques and procedures",
+                "laboratory test finding",
+                "partnership"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2813425/jama_shah_2023_sc_230010_1704388743.12177.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230010f1_1704388743.37082.png?Expires=2147483647&Signature=hKbKpEzXo~ur6lHISvH6Yi4n~BNV~O98VVPo7bUfvikETpoOglDqfJA50a14JmylSIub-FKCUneBQv5r5pOv~Tw9mb1J23B7ZuyuqSF7UrR~zfihrUbGkjejNmozPx-XfZgk4Kc3NjvoSszs~oRFd6-0dbKXWqhJWL2uBIGK8Jl0mpvKIcCg44yN-jWiGH86YGd8HFtrDgdSHJ0Cg3UAygCVV80OIV5DJpssyvRMeapj4tiWxhg~GRNA4olnzeFnptJ7ZYkLyQ0TF-N0JmcDc~beoMLD8mhnSp1DqXiRTl8Fc-AN70IG7CVOpKS4AeIzYH~ui6I1bsHbJmPat~Gavw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
             "title": "Three Epochs of Artificial Intelligence in Health Care",
@@ -972,33 +996,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230009f1_1704388744.43262.png?Expires=2147483647&Signature=EtUVNILw27a2MT9~PlU46ZH2HiydY7Iv6p7OGP2TKU7pgMPjs8eppQbCFXsw0IhiYqzYbtM8MBgk1iTasjdLyeMTDTYpd2ho5nY5nIS~vdMdwOp7lXtetR3JF7PEdtVhzaOPYc03mz9B-iuKsWAtv457KO3y3bnAClUh4pCSXW4nxNCZyz64l7nGIVtJQM~MBhcOOs1~RT2DkqQBz8Ifs4Y-Wu-W9HxdFLg69V~ORKrgmt1jK-zbYsevLrxMWgTOsZ0AO38s~Jnw6ui~mY2Vz8QopO9ThENJnltrZRcNy5XlDwG6vrbfTRfanuPFvkt2gVmDPDg0Cj46vzBaMaBG5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
-            "title": "A Nationwide Network of Health AI Assurance Laboratories",
-            "summary": "This article outlines the need for a nationwide public-private network of assurance laboratories that would aid in the evaluation and development of artificial intelligence (AI) in health care.",
-            "content_html": "<h3>Importance</h3><p>Given the importance of rigorous development and evaluation standards needed of artificial intelligence (AI) models used in health care, nationwide accepted procedures to provide assurance that the use of AI is fair, appropriate, valid, effective, and safe are urgently needed.</p><h3>Observations</h3><p>While there are several efforts to develop standards and best practices to evaluate AI, there is a gap between having such guidance and the application of such guidance to both existing and new AI models being developed. As of now, there is no publicly available, nationwide mechanism that enables objective evaluation and ongoing assessment of the consequences of using health AI models in clinical care settings.</p><h3>Conclusion and Relevance</h3><p>The need to create a public-private partnership to support a nationwide health AI assurance labs network is outlined here. In this network, community best practices could be applied for testing health AI models to produce reports on their performance that can be widely shared for managing the lifecycle of AI models over time and across populations and sites where these models are deployed.</p>",
-            "date_published": "2024-01-16T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Nigam H. Shah, MBBS, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "best practice",
-                "laboratory techniques and procedures",
-                "laboratory test finding",
-                "partnership"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2813425/jama_shah_2023_sc_230010_1704388743.12177.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230010f1_1704388743.37082.png?Expires=2147483647&Signature=hKbKpEzXo~ur6lHISvH6Yi4n~BNV~O98VVPo7bUfvikETpoOglDqfJA50a14JmylSIub-FKCUneBQv5r5pOv~Tw9mb1J23B7ZuyuqSF7UrR~zfihrUbGkjejNmozPx-XfZgk4Kc3NjvoSszs~oRFd6-0dbKXWqhJWL2uBIGK8Jl0mpvKIcCg44yN-jWiGH86YGd8HFtrDgdSHJ0Cg3UAygCVV80OIV5DJpssyvRMeapj4tiWxhg~GRNA4olnzeFnptJ7ZYkLyQ0TF-N0JmcDc~beoMLD8mhnSp1DqXiRTl8Fc-AN70IG7CVOpKS4AeIzYH~ui6I1bsHbJmPat~Gavw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2812615",
