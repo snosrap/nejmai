@@ -4,34 +4,61 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2834963",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2834963",
+            "title": "Fundus Refraction Offset as an Individualized Myopia Biomarker",
+            "summary": "This cross-sectional study evaluates the use of fundus refraction offset as a potential biomarker for myopia.",
+            "content_html": "<h3>Importance</h3><p>As on-axis metrics, spherical equivalent refraction (SER) and axial length (AL) are limited in capturing individual-level differences in posterior segment anatomy.</p><h3>Objective</h3><p>To propose a fundus-level metric\u2014fundus refraction offset (FRO)\u2014and investigate its association with ocular parameters derived from optical coherence tomography (OCT).</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional, population-based study used data from 45\u202f180 healthy eyes in the UK Biobank (2009-2010). Fundus photographs from a random subset (70%) were used to train a deep learning model to predict SER, with the goal of developing a model that learned to capture the nonpathological variations in fundus appearance from \u221215.50 D to 9.25 D. The trained model was applied to the remaining subset (internal unseen set) to derive FRO for each eye. FRO was also computed for an external dataset (the Caledonian cohort, 2023-2024) with enhanced depth imaging OCT and AL data for 152 right eyes. Data were analyzed from July to November 2024.</p><h3>Exposure</h3><p>FRO, defined as the error in fundus-predicted SER. A more negative FRO indicated a more myopic-looking fundus than typical for an eye with the same SER.</p><h3>Main Outcomes and Measures</h3><p>The association between FRO and macular thickness (MT) was tested using linear mixed-effects regression in the internal unseen set, controlling for SER, age, sex, and race. In the external dataset, the associations of FRO with choroidal area, choroidal vascularity index (CVI), and MT were examined using linear fixed-effects regression, controlling for SER (and subsequently AL) and other aforementioned covariates.</p><h3>Results</h3><p>High-quality OCT data were available from 9524 eyes in the internal unseen set and 152 eyes in the external dataset among individuals with a mean (SD) age of 54.5 (8.2) years and 19.3 (3.8) years, respectively. In the internal unseen set, a more negative FRO was independently associated with lower MT (\u03b2, 0.64; 95% CI, 0.37-0.90;<i>P</i>\u2009&lt;\u2009.001). A similar association was observed in the external dataset\u2014whether adjusted for SER (\u03b2, 2.45; 95% CI, 0.64-4.26;<i>P</i>\u2009=\u2009.008) or AL (\u03b2, 2.09; 95% CI, 0.28-3.91;<i>P</i>\u2009=\u2009.02). Additionally, CVI decreased as FRO became more negative\u2014both in the SER-adjusted (\u03b2, 0.01; 95% CI, 0.01-0.02;<i>P</i>\u2009&lt;\u2009.001) and AL-adjusted (\u03b2, 0.01, 95% CI, 0.004-0.02;<i>P</i>\u2009=\u2009.001) analyses.</p><h3>Conclusion and Relevance</h3><p>In this study, FRO reflected the individual-level mismatch between SER (or AL) and the anatomical severity of ametropia. This may have prognostic relevance for personalized risk prediction of myopia and its complications.</p>",
+            "date_published": "2025-06-05T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Fabian Yii, BSc"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
-                "screening procedure",
-                "united states preventive services task force"
+                "biological markers",
+                "deep learning",
+                "eye",
+                "fundus photography",
+                "light refraction",
+                "myopia",
+                "refractive errors",
+                "uk biobank"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2834963/jamaophthalmology_yii_2025_oi_250026_1748530285.62295.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250026f1_1748530286.28274.png?Expires=2147483647&Signature=2Rjbh-WS3RxbqS2Hu7CMaQqGiOTSKEKlEguRB0QBgf-2ONXTfJLNLYF2llmgL4eER3yNPab-BxxrBoQn9URRc3lc2juLX99ob6oujyU-fqSNc5V-Ra4sLizpp6jjCNkxSyuavpyTuc5V2kUUF8DhRIezM0-RTyWycQBKQcINl9qOgltdO~WHlsersuS6tyXYCreK8BOA610VX4tQNs4ON6o0pYwplasoWrSMpmt2~UJksP~PPCtbNHm2KX-nAwXtG-HefCJAZkt3IDIjxc1PIA2~hB7Cp8W670-m1nKbjo~QDW7mD9jlBpN2gj0PaxPrFRBxhDQgVms7CGP6PToIUw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Maximilian U. Friedrich, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -919,33 +946,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
