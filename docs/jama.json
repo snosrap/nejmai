@@ -4,28 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
-            "title": "Machine Learning to Predict Critical Events in Pediatric Care",
-            "summary": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
-            "content_text": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
-            "date_published": "2025-05-30T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834943",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834943",
+            "title": "Efficiency and Quality of Generative AI\u2013Assisted Radiograph Reporting",
+            "summary": "This cohort study evaluates whether use of a generative artificial intelligence (AI) model for interpreting draft radiograph reports is associated with documentation efficiency, clinical accuracy, and ability to promptly detect pneumothorax requiring intervention.",
+            "content_html": "<h3>Importance</h3><p>Diagnostic imaging interpretation involves distilling multimodal clinical information into text form, a task well-suited to augmentation by generative artificial intelligence (AI). However, to our knowledge, impacts of AI-based draft radiological reporting remain unstudied in clinical settings.</p><h3>Objective</h3><p>To prospectively evaluate the association of radiologist use of a workflow-integrated generative model capable of providing draft radiological reports for plain radiographs across a tertiary health care system with documentation efficiency, the clinical accuracy and textual quality of final radiologist reports, and the model\u2019s potential for detecting unexpected, clinically significant pneumothorax.</p><h3>Design, Setting, and Participants</h3><p>This prospective cohort study was conducted from November 15, 2023, to April 24, 2024, at a tertiary care academic health system. The association between use of the generative model and radiologist documentation efficiency was evaluated for radiographs documented with model assistance compared with a baseline set of radiographs without model use, matched by study type (chest or nonchest). Peer review was performed on model-assisted interpretations. Flagging of pneumothorax requiring intervention was performed on radiographs prospectively.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were association of use of the generative model with radiologist documentation efficiency, assessed by difference in documentation time with and without model use using a linear mixed-effects model; for peer review of model-assisted reports, the difference in Likert-scale ratings using a cumulative-link mixed model; and for flagging pneumothorax requiring intervention, sensitivity and specificity.</p><h3>Results</h3><p>A total of 23\u202f960 radiographs (11\u202f980 each with and without model use) were used to analyze documentation efficiency. Interpretations with model assistance (mean [SE], 159.8 [27.0] seconds) were faster than the baseline set of those without (mean [SE], 189.2 [36.2] seconds) (<i>P</i>\u2009=\u2009.02), representing a 15.5% documentation efficiency increase. Peer review of 800 studies showed no difference in clinical accuracy (\u03c7<sup>2</sup>\u2009=\u20090.68;<i>P</i>\u2009=\u2009.41) or textual quality (\u03c7<sup>2</sup>\u2009=\u20093.62;<i>P</i>\u2009=\u2009.06) between model-assisted interpretations and nonmodel interpretations. Moreover, the model flagged studies containing a clinically significant, unexpected pneumothorax with a sensitivity of 72.7% and specificity of 99.9% among 97\u202f651 studies screened.</p><h3>Conclusions and Relevance</h3><p>In this prospective cohort study of clinical use of a generative model for draft radiological reporting, model use was associated with improved radiologist documentation efficiency while maintaining clinical quality and demonstrated potential to detect studies containing a pneumothorax requiring immediate intervention. This study suggests the potential for radiologist and generative AI collaboration to improve clinical care delivery.</p>",
+            "date_published": "2025-06-05T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Muhammad Mahbubur Rahman, PhD"
+                    "name": "Jonathan Huang, PhD"
                 }
             ],
             "tags": [
-                "machine learning",
-                "pediatric discipline"
+                "chest",
+                "delivery of health care",
+                "diagnostic imaging",
+                "generative artificial intelligence",
+                "pneumothorax",
+                "radiologist"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834661/rahman_2025_ic_250103_1747842053.2432.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834943/huang_2025_oi_250461_1748448325.30901.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250461f1_1748448325.44223.png?Expires=2147483647&Signature=pHFs-F4amEUjBm0aEb62P-vIsYw6V6LedGN8CEYn9h-34t8pcVt17ryu4rx75LBPlbcD8bAbCoQUSC2k~l0gb~WVymNIN46O~ddFbHg-lkWq8WHTPzE1TK4HWLX5a0pTHr~Jwrl2~Q6ogrvAeTLDfX4C6VOcEnTwnzoS64b6l5RIPli0z~Tq3QfzLafFruh568gbYLxsGB-ibB7JvGJ~0oWPDaYDE88WPCxIqfeHH9637ISMAVk7--N5pYY-HF86E99GYmrZNmb8juDLdHR5RtWRls4fWgg9iLmm1QjD00Dy9z3zTa16Xaw1jjCYu9EWHEoyBKCgsiY9ZURUS4CUHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Maximilian U. Friedrich, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
