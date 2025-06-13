@@ -4,59 +4,63 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834943",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834943",
-            "title": "Efficiency and Quality of Generative AI\u2013Assisted Radiograph Reporting",
-            "summary": "This cohort study evaluates whether use of a generative artificial intelligence (AI) model for interpreting draft radiograph reports is associated with documentation efficiency, clinical accuracy, and ability to promptly detect pneumothorax requiring intervention.",
-            "content_html": "<h3>Importance</h3><p>Diagnostic imaging interpretation involves distilling multimodal clinical information into text form, a task well-suited to augmentation by generative artificial intelligence (AI). However, to our knowledge, impacts of AI-based draft radiological reporting remain unstudied in clinical settings.</p><h3>Objective</h3><p>To prospectively evaluate the association of radiologist use of a workflow-integrated generative model capable of providing draft radiological reports for plain radiographs across a tertiary health care system with documentation efficiency, the clinical accuracy and textual quality of final radiologist reports, and the model\u2019s potential for detecting unexpected, clinically significant pneumothorax.</p><h3>Design, Setting, and Participants</h3><p>This prospective cohort study was conducted from November 15, 2023, to April 24, 2024, at a tertiary care academic health system. The association between use of the generative model and radiologist documentation efficiency was evaluated for radiographs documented with model assistance compared with a baseline set of radiographs without model use, matched by study type (chest or nonchest). Peer review was performed on model-assisted interpretations. Flagging of pneumothorax requiring intervention was performed on radiographs prospectively.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were association of use of the generative model with radiologist documentation efficiency, assessed by difference in documentation time with and without model use using a linear mixed-effects model; for peer review of model-assisted reports, the difference in Likert-scale ratings using a cumulative-link mixed model; and for flagging pneumothorax requiring intervention, sensitivity and specificity.</p><h3>Results</h3><p>A total of 23\u202f960 radiographs (11\u202f980 each with and without model use) were used to analyze documentation efficiency. Interpretations with model assistance (mean [SE], 159.8 [27.0] seconds) were faster than the baseline set of those without (mean [SE], 189.2 [36.2] seconds) (<i>P</i>\u2009=\u2009.02), representing a 15.5% documentation efficiency increase. Peer review of 800 studies showed no difference in clinical accuracy (\u03c7<sup>2</sup>\u2009=\u20090.68;<i>P</i>\u2009=\u2009.41) or textual quality (\u03c7<sup>2</sup>\u2009=\u20093.62;<i>P</i>\u2009=\u2009.06) between model-assisted interpretations and nonmodel interpretations. Moreover, the model flagged studies containing a clinically significant, unexpected pneumothorax with a sensitivity of 72.7% and specificity of 99.9% among 97\u202f651 studies screened.</p><h3>Conclusions and Relevance</h3><p>In this prospective cohort study of clinical use of a generative model for draft radiological reporting, model use was associated with improved radiologist documentation efficiency while maintaining clinical quality and demonstrated potential to detect studies containing a pneumothorax requiring immediate intervention. This study suggests the potential for radiologist and generative AI collaboration to improve clinical care delivery.</p>",
-            "date_published": "2025-06-05T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834654",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834654",
+            "title": "Machine Learning for Predicting Critical Events Among Hospitalized Children",
+            "summary": "This cohort study describes the development and testing of the pediatric Critical Event Risk Evaluation and Scoring Tool, a machine learning model for the early detection of deterioration among pediatric patients across all hospital units.",
+            "content_html": "<h3>Importance</h3><p>Unrecognized deterioration among hospitalized children is associated with a high risk of mortality and morbidity. The current approach to pediatric risk stratification is fragmented, as each hospital unit (emergency, ward, or intensive care) uses different tools for predicting specific outcomes.</p><h3>Objective</h3><p>To develop a machine learning model for the early detection of deterioration across all units, thereby enabling a unified risk assessment throughout the patient\u2019s hospital stay.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from pediatric (age &lt;18 years) admissions to inpatient and intensive care units at 3 tertiary care academic hospitals. Data were analyzed from January 2024 to March 2025.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was critical events, defined as invasive mechanical ventilation, administration of vasoactive medications, or death within 12 hours of an observation.</p><h3>Results</h3><p>The cohort included 135\u202f621 patients (mean [SD] age, 7 [6] years; 60\u202f376 [44.5%] female). Patient age, hospital unit, vital signs, laboratory results, and prior comorbidities were used to derive a regression-based model, an extreme gradient-boosted machine (XGB) model, and 2 deep learning models. Data from 2 hospitals were used as a derivation cohort, while patients in the third hospital constituted the hold-out external test cohort. The XGB model was the best-performing machine learning model, outperforming 2 existing ward-focused models in terms of discrimination (<i>C</i>statistic: XGB, 0.86; ward-focused models, 0.82 [<i>P</i>\u2009&lt;\u2009.001] and 0.70 [<i>P</i>\u2009&lt;\u2009.001]) and the number needed to alert (at an example 80% sensitivity: XGB, 6 ward-focused models: 9 and 11). The deep learning models did not exhibit improved performance. The XGB model performed better or equivalent to models trained for a specific hospital unit.</p><h3>Conclusions and Relevance</h3><p>This retrospective cohort study describes the development of a novel hospitalwide model for continuously predicting the risk of critical events through the entirety of a child\u2019s stay. The model facilitated a unified framework for risk assessment in a pediatric hospital.</p>",
+            "date_published": "2025-05-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Jonathan Huang, PhD"
+                    "name": "Sierra Strutz, MS"
                 }
             ],
             "tags": [
-                "chest",
-                "delivery of health care",
-                "diagnostic imaging",
-                "generative artificial intelligence",
-                "pneumothorax",
-                "radiologist"
+                "child",
+                "early diagnosis",
+                "hospital units",
+                "hospitalized",
+                "intensive care unit",
+                "machine learning",
+                "mechanical ventilation",
+                "patients' rooms",
+                "pediatric discipline",
+                "vasoactive agent",
+                "vital signs"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834943/huang_2025_oi_250461_1748448325.30901.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834654/strutz_2025_oi_250432_1747842039.62323.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250461f1_1748448325.44223.png?Expires=2147483647&Signature=pHFs-F4amEUjBm0aEb62P-vIsYw6V6LedGN8CEYn9h-34t8pcVt17ryu4rx75LBPlbcD8bAbCoQUSC2k~l0gb~WVymNIN46O~ddFbHg-lkWq8WHTPzE1TK4HWLX5a0pTHr~Jwrl2~Q6ogrvAeTLDfX4C6VOcEnTwnzoS64b6l5RIPli0z~Tq3QfzLafFruh568gbYLxsGB-ibB7JvGJ~0oWPDaYDE88WPCxIqfeHH9637ISMAVk7--N5pYY-HF86E99GYmrZNmb8juDLdHR5RtWRls4fWgg9iLmm1QjD00Dy9z3zTa16Xaw1jjCYu9EWHEoyBKCgsiY9ZURUS4CUHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250432t1_1747842039.93214.png?Expires=2147483647&Signature=z~EEPgcW8Bs7Zj07vkUs-67hHc78PyMVg-uEvuv7QSReUbGF9lkysUvIscbKQxiA6LycfZYPzlDqi4asYVt1WQZC4w4bSGTGxbTo4InF23BmrgEgkF3zWiNKgeF~~Pj0cvrtc5-bcK0Q11D5QMnuFG-Sot6IyLErBjcP~8ZVTOFPCj178AlLmKLmwaiK1M0-M4bxr-J1DzORFFNFlQUhtWdR0N9g9P2d0R5f~IzYb5VfCePvqXJrfrQeGBRt9VNa6g~UE17MYHiEJIe4bUf9qT6gRqN~BeGacauKHotOkMssIU1~VFIGpTsbqsgtOjYuVeeggwwEitf4aatXE3vO0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
-            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
-            "title": "Computer Vision in Clinical Neurology: A Review",
-            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
-            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
-            "date_published": "2025-02-17T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "title": "Ambient Listening\u2014Legal and Ethical Issues",
+            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "date_published": "2025-02-19T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Maximilian U. Friedrich, MD"
+                    "name": "I. Glenn Cohen, JD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "computer vision systems",
-                "neurologic examination",
-                "neurology speciality",
-                "technology"
+                "ethics",
+                "health policy",
+                "listening",
+                "principles of law and justice"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
