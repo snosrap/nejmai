@@ -4,63 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834654",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834654",
-            "title": "Machine Learning for Predicting Critical Events Among Hospitalized Children",
-            "summary": "This cohort study describes the development and testing of the pediatric Critical Event Risk Evaluation and Scoring Tool, a machine learning model for the early detection of deterioration among pediatric patients across all hospital units.",
-            "content_html": "<h3>Importance</h3><p>Unrecognized deterioration among hospitalized children is associated with a high risk of mortality and morbidity. The current approach to pediatric risk stratification is fragmented, as each hospital unit (emergency, ward, or intensive care) uses different tools for predicting specific outcomes.</p><h3>Objective</h3><p>To develop a machine learning model for the early detection of deterioration across all units, thereby enabling a unified risk assessment throughout the patient\u2019s hospital stay.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from pediatric (age &lt;18 years) admissions to inpatient and intensive care units at 3 tertiary care academic hospitals. Data were analyzed from January 2024 to March 2025.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was critical events, defined as invasive mechanical ventilation, administration of vasoactive medications, or death within 12 hours of an observation.</p><h3>Results</h3><p>The cohort included 135\u202f621 patients (mean [SD] age, 7 [6] years; 60\u202f376 [44.5%] female). Patient age, hospital unit, vital signs, laboratory results, and prior comorbidities were used to derive a regression-based model, an extreme gradient-boosted machine (XGB) model, and 2 deep learning models. Data from 2 hospitals were used as a derivation cohort, while patients in the third hospital constituted the hold-out external test cohort. The XGB model was the best-performing machine learning model, outperforming 2 existing ward-focused models in terms of discrimination (<i>C</i>statistic: XGB, 0.86; ward-focused models, 0.82 [<i>P</i>\u2009&lt;\u2009.001] and 0.70 [<i>P</i>\u2009&lt;\u2009.001]) and the number needed to alert (at an example 80% sensitivity: XGB, 6 ward-focused models: 9 and 11). The deep learning models did not exhibit improved performance. The XGB model performed better or equivalent to models trained for a specific hospital unit.</p><h3>Conclusions and Relevance</h3><p>This retrospective cohort study describes the development of a novel hospitalwide model for continuously predicting the risk of critical events through the entirety of a child\u2019s stay. The model facilitated a unified framework for risk assessment in a pediatric hospital.</p>",
-            "date_published": "2025-05-30T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sierra Strutz, MS"
+                    "name": "Larry Han, PhD"
                 }
             ],
             "tags": [
-                "child",
-                "early diagnosis",
-                "hospital units",
-                "hospitalized",
-                "intensive care unit",
-                "machine learning",
-                "mechanical ventilation",
-                "patients' rooms",
-                "pediatric discipline",
-                "vasoactive agent",
-                "vital signs"
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834654/strutz_2025_oi_250432_1747842039.62323.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250432t1_1747842039.93214.png?Expires=2147483647&Signature=z~EEPgcW8Bs7Zj07vkUs-67hHc78PyMVg-uEvuv7QSReUbGF9lkysUvIscbKQxiA6LycfZYPzlDqi4asYVt1WQZC4w4bSGTGxbTo4InF23BmrgEgkF3zWiNKgeF~~Pj0cvrtc5-bcK0Q11D5QMnuFG-Sot6IyLErBjcP~8ZVTOFPCj178AlLmKLmwaiK1M0-M4bxr-J1DzORFFNFlQUhtWdR0N9g9P2d0R5f~IzYb5VfCePvqXJrfrQeGBRt9VNa6g~UE17MYHiEJIe4bUf9qT6gRqN~BeGacauKHotOkMssIU1~VFIGpTsbqsgtOjYuVeeggwwEitf4aatXE3vO0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "I. Glenn Cohen, JD"
-                }
-            ],
-            "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
