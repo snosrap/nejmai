@@ -4,54 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835061",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835061",
-            "title": "Validation of a Dynamic Risk Prediction Model Incorporating Prior Mammograms in a Diverse Population",
-            "summary": "This prognostic study uses a risk prediction model incorporating prior mammograms to predict future risk of breast cancer across a diverse population in British Columbia, Canada.",
-            "content_html": "<h3>Importance</h3><p>For breast cancer risk prediction to be clinically useful, it must be accurate and applicable to diverse groups of women across multiple settings.</p><h3>Objective</h3><p>To examine whether a dynamic risk prediction model incorporating prior mammograms, previously validated in Black and White women, could predict future risk of breast cancer across a racially and ethnically diverse population in a population-based screening program.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included women aged 40 to 74 years with 1 or more screening mammograms drawn from the British Columbia Breast Screening Program from January 1, 2013, to December 31, 2019, with follow-up via linkage to the British Columbia Cancer Registry through June 2023. This provincial, organized screening program offers screening mammography with full field digital mammography (FFDM) every 2 years. Data were analyzed from May to August 2024.</p><h3>Exposure</h3><p>FFDM-based, artificial intelligence\u2013generated mammogram risk score (MRS), including up to 4 years of prior mammograms.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were 5-year risk of breast cancer (measured with the area under the receiver operating characteristic curve [AUROC]) and absolute risk of breast cancer calibrated to the US Surveillance, Epidemiology, and End Results incidence rates.</p><h3>Results</h3><p>Among 206\u202f929 women (mean [SD] age, 56.1 [9.7] years; of 118 093 with data on race, there were 34\u202f266 East Asian; 1946 Indigenous; 6116 South Asian; and 66\u202f742 White women), there were 4168 pathology-confirmed incident breast cancers diagnosed through June 2023. Mean (SD) follow-up time was 5.3 (3.0) years. Using up to 4 years of prior mammogram images in addition to the most current mammogram, a 5-year AUROC of 0.78 (95% CI, 0.77-0.80) was obtained based on analysis of images alone. Performance was consistent across subgroups defined by race and ethnicity in East Asian (AUROC, 0.77; 95% CI, 0.75-0.79), Indigenous (AUROC, 0.77; 95% CI 0.71-0.83), and South Asian (AUROC, 0.75; 95% CI 0.71-0.79) women. Stratification by age gave a 5-year AUROC of 0.76 (95% CI, 0.74-0.78) for women aged 50 years or younger and 0.80 (95% CI, 0.78-0.82) for women older than 50 years. There were 18\u202f839 participants (9.0%) with a 5-year risk greater than 3%, and the positive predictive value was 4.9% with an incidence of 11.8 per 1000 person-years.</p><h3>Conclusions and Relevance</h3><p>A dynamic MRS generated from both current and prior mammograms showed robust performance across diverse racial and ethnic populations in a province-wide screening program starting from age 40 years, reflecting improved accuracy for racially and ethnically diverse populations.</p>",
-            "date_published": "2025-06-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835159",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835159",
+            "title": "Multinational Attitudes Toward AI in Health Care and Diagnostics Among Hospital Patients",
+            "summary": "This cross-sectional survey study conducted in 74 hospitals across 43 countries investigates the trust, concerns, and preferences toward the use of artificial intelligence in health care and diagnostics and the sociodemographic factors that may be associated with these preferences among hospital patients.",
+            "content_html": "<h3>Importance</h3><p>The successful implementation of artificial intelligence (AI) in health care depends on its acceptance by key stakeholders, particularly patients, who are the primary beneficiaries of AI-driven outcomes.</p><h3>Objectives</h3><p>To survey hospital patients to investigate their trust, concerns, and preferences toward the use of AI in health care and diagnostics and to assess the sociodemographic factors associated with patient attitudes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study developed and implemented an anonymous quantitative survey between February 1 and November 1, 2023, using a nonprobability sample at 74 hospitals in 43 countries. Participants included hospital patients 18 years of age or older who agreed with voluntary participation in the survey presented in 1 of 26 languages.</p><h3>Exposure</h3><p>Information sheets and paper surveys handed out by hospital staff and posted in conspicuous hospital locations.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was participant responses to a 26-item instrument containing a general data section (8 items) and 3 dimensions (trust in AI, AI and diagnosis, preferences and concerns toward AI) with 6 items each. Subgroup analyses used cumulative link mixed and binary mixed-effects models.</p><h3>Results</h3><p>In total, 13\u202f806 patients participated, including 8951 (64.8%) in the Global North and 4855 (35.2%) in the Global South. Their median (IQR) age was 48 (34-62) years, and 6973 (50.5%) were male. The survey results indicated a predominantly favorable general view of AI in health care, with 57.6% of respondents (7775 of 13\u202f502) expressing a positive attitude. However, attitudes exhibited notable variation based on demographic characteristics, health status, and technological literacy. Female respondents (3511 of 6318 [55.6%]) exhibited fewer positive attitudes toward AI use in medicine than male respondents (4057 of 6864 [59.1%]), and participants with poorer health status exhibited fewer positive attitudes toward AI use in medicine (eg, 58 of 199 [29.2%] with rather negative views) than patients with very good health (eg, 134 of 2538 [5.3%] with rather negative views). Conversely, higher levels of AI knowledge and frequent use of technology devices were associated with more positive attitudes. Notably, fewer than half of the participants expressed positive attitudes regarding all items pertaining to trust in AI. The lowest level of trust was observed for the accuracy of AI in providing information regarding treatment responses (5637 of 13\u202f480 respondents [41.8%] trusted AI). Patients preferred explainable AI (8816 of 12\u202f563 [70.2%]) and physician-led decision-making (9222 of 12\u202f652 [72.9%]), even if it meant slightly compromised accuracy.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study of patient attitudes toward AI use in health care across 6 continents, findings indicated that tailored AI implementation strategies should take patient demographics, health status, and preferences for explainable AI and physician oversight into account.</p>",
+            "date_published": "2025-06-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shu Jiang, PhD"
-                }
-            ],
-            "tags": [
-                "breast",
-                "british columbia",
-                "mammography",
-                "risk prediction rule",
-                "screening procedure"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835061/jiang_2025_oi_250421_1748614541.70879.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250421f1_1748614541.81424.png?Expires=2147483647&Signature=JQlHE1~8kRU3s0w-dwn~doaFUtiatQp3mCcwsNangmAPYw9i1EHYCBX4-ZfhtKizlFOYOyrwoNwLAmawZkTFUzxCospp-ZVciFY9Uwdfpl4aaVCPxXDX2bvftM-eB6D3Ne87nfFRogUbSiPKWu9rneeq0M0-wFUPDqR8NgHIxNId~kKkGId81y2WJOxFAtZEV-6ObUJH7Xg6~SM7yQtAgvUXI4dl-3A8I8rajcnInwJZ4PrVdBPDS79cJhf6tqy0zq4x4WovwCPEbnfPkYWE9EyEHiEWEZz8csnne0w1jl7OY4SgV4TQ2eYQStuvtoJzsrr-oMo9zetMrkdCUiaRVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
-            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "date_published": "2025-03-21T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Shefali V. Patil, PhD"
+                    "name": "Felix Busch, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "calibration",
+                "attitude",
+                "attitude to health",
                 "decision making",
-                "health policy",
-                "personal satisfaction"
+                "health care facility",
+                "sociodemographic factors"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835159/busch_2025_oi_250478_1748961717.99924.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250478f1_1748961718.968.png?Expires=2147483647&Signature=20ET1Silki9GRZj0Jsf0sX2PzavQgYsnV1~bN4Nyp8~Run~cLYuHhidH991ucdGNXz94z4ZW7qfuOm4q0~NAUqWGF8AAzR4nArw0CXIulbKjQly0nFdL6YSH~9S-raDVQLYEFzclC7Fjn-dgtzwvCjG4tyXzhNiSE22n9ADV2DF8FE9cO81al3QtmDamv9Fq-s3gLeKcfvQoelM0wxSR1PGRmdPnVZiKZpZqM9lCk9ab-v0ScfP3lW1mV3souYOK9ltqNJbMMgl3p3KgmF~EDayzBNlIrrOI3j9HpaO59IJWzE0oyVLuLfaq7p6Ttm2AyqU9U4sjEHj8Nx9~bcu3mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
+            "title": "Assessing the Impact of AI in Inpatient Diabetes Management",
+            "summary": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
+            "content_text": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
+            "date_published": "2025-05-07T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Eileen R. Faulds, PhD"
+                }
+            ],
+            "tags": [
+                "diabetes mellitus",
+                "non-insulin-dependent"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833625/faulds_2025_ic_250076_1745961538.81775.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
