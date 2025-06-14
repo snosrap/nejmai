@@ -4,56 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
-            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "date_published": "2025-06-04T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835061",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835061",
+            "title": "Validation of a Dynamic Risk Prediction Model Incorporating Prior Mammograms in a Diverse Population",
+            "summary": "This prognostic study uses a risk prediction model incorporating prior mammograms to predict future risk of breast cancer across a diverse population in British Columbia, Canada.",
+            "content_html": "<h3>Importance</h3><p>For breast cancer risk prediction to be clinically useful, it must be accurate and applicable to diverse groups of women across multiple settings.</p><h3>Objective</h3><p>To examine whether a dynamic risk prediction model incorporating prior mammograms, previously validated in Black and White women, could predict future risk of breast cancer across a racially and ethnically diverse population in a population-based screening program.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included women aged 40 to 74 years with 1 or more screening mammograms drawn from the British Columbia Breast Screening Program from January 1, 2013, to December 31, 2019, with follow-up via linkage to the British Columbia Cancer Registry through June 2023. This provincial, organized screening program offers screening mammography with full field digital mammography (FFDM) every 2 years. Data were analyzed from May to August 2024.</p><h3>Exposure</h3><p>FFDM-based, artificial intelligence\u2013generated mammogram risk score (MRS), including up to 4 years of prior mammograms.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were 5-year risk of breast cancer (measured with the area under the receiver operating characteristic curve [AUROC]) and absolute risk of breast cancer calibrated to the US Surveillance, Epidemiology, and End Results incidence rates.</p><h3>Results</h3><p>Among 206\u202f929 women (mean [SD] age, 56.1 [9.7] years; of 118 093 with data on race, there were 34\u202f266 East Asian; 1946 Indigenous; 6116 South Asian; and 66\u202f742 White women), there were 4168 pathology-confirmed incident breast cancers diagnosed through June 2023. Mean (SD) follow-up time was 5.3 (3.0) years. Using up to 4 years of prior mammogram images in addition to the most current mammogram, a 5-year AUROC of 0.78 (95% CI, 0.77-0.80) was obtained based on analysis of images alone. Performance was consistent across subgroups defined by race and ethnicity in East Asian (AUROC, 0.77; 95% CI, 0.75-0.79), Indigenous (AUROC, 0.77; 95% CI 0.71-0.83), and South Asian (AUROC, 0.75; 95% CI 0.71-0.79) women. Stratification by age gave a 5-year AUROC of 0.76 (95% CI, 0.74-0.78) for women aged 50 years or younger and 0.80 (95% CI, 0.78-0.82) for women older than 50 years. There were 18\u202f839 participants (9.0%) with a 5-year risk greater than 3%, and the positive predictive value was 4.9% with an incidence of 11.8 per 1000 person-years.</p><h3>Conclusions and Relevance</h3><p>A dynamic MRS generated from both current and prior mammograms showed robust performance across diverse racial and ethnic populations in a province-wide screening program starting from age 40 years, reflecting improved accuracy for racially and ethnically diverse populations.</p>",
+            "date_published": "2025-06-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Larry Han, PhD"
+                    "name": "Shu Jiang, PhD"
                 }
             ],
             "tags": [
-                "informatics (discipline)"
+                "breast",
+                "british columbia",
+                "mammography",
+                "risk prediction rule",
+                "screening procedure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835061/jiang_2025_oi_250421_1748614541.70879.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250421f1_1748614541.81424.png?Expires=2147483647&Signature=JQlHE1~8kRU3s0w-dwn~doaFUtiatQp3mCcwsNangmAPYw9i1EHYCBX4-ZfhtKizlFOYOyrwoNwLAmawZkTFUzxCospp-ZVciFY9Uwdfpl4aaVCPxXDX2bvftM-eB6D3Ne87nfFRogUbSiPKWu9rneeq0M0-wFUPDqR8NgHIxNId~kKkGId81y2WJOxFAtZEV-6ObUJH7Xg6~SM7yQtAgvUXI4dl-3A8I8rajcnInwJZ4PrVdBPDS79cJhf6tqy0zq4x4WovwCPEbnfPkYWE9EyEHiEWEZz8csnne0w1jl7OY4SgV4TQ2eYQStuvtoJzsrr-oMo9zetMrkdCUiaRVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
+            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
+            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
+            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
+            "date_published": "2025-03-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Shefali V. Patil, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "calibration",
+                "decision making",
+                "health policy",
+                "personal satisfaction"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
-            "date_published": "2025-04-08T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "behavior therapy",
-                "counseling risk factor reduction and behavior change intervention",
-                "infant",
-                "patient referral",
-                "pregnancy",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
