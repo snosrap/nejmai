@@ -4,52 +4,48 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835159",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835159",
-            "title": "Multinational Attitudes Toward AI in Health Care and Diagnostics Among Hospital Patients",
-            "summary": "This cross-sectional survey study conducted in 74 hospitals across 43 countries investigates the trust, concerns, and preferences toward the use of artificial intelligence in health care and diagnostics and the sociodemographic factors that may be associated with these preferences among hospital patients.",
-            "content_html": "<h3>Importance</h3><p>The successful implementation of artificial intelligence (AI) in health care depends on its acceptance by key stakeholders, particularly patients, who are the primary beneficiaries of AI-driven outcomes.</p><h3>Objectives</h3><p>To survey hospital patients to investigate their trust, concerns, and preferences toward the use of AI in health care and diagnostics and to assess the sociodemographic factors associated with patient attitudes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study developed and implemented an anonymous quantitative survey between February 1 and November 1, 2023, using a nonprobability sample at 74 hospitals in 43 countries. Participants included hospital patients 18 years of age or older who agreed with voluntary participation in the survey presented in 1 of 26 languages.</p><h3>Exposure</h3><p>Information sheets and paper surveys handed out by hospital staff and posted in conspicuous hospital locations.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was participant responses to a 26-item instrument containing a general data section (8 items) and 3 dimensions (trust in AI, AI and diagnosis, preferences and concerns toward AI) with 6 items each. Subgroup analyses used cumulative link mixed and binary mixed-effects models.</p><h3>Results</h3><p>In total, 13\u202f806 patients participated, including 8951 (64.8%) in the Global North and 4855 (35.2%) in the Global South. Their median (IQR) age was 48 (34-62) years, and 6973 (50.5%) were male. The survey results indicated a predominantly favorable general view of AI in health care, with 57.6% of respondents (7775 of 13\u202f502) expressing a positive attitude. However, attitudes exhibited notable variation based on demographic characteristics, health status, and technological literacy. Female respondents (3511 of 6318 [55.6%]) exhibited fewer positive attitudes toward AI use in medicine than male respondents (4057 of 6864 [59.1%]), and participants with poorer health status exhibited fewer positive attitudes toward AI use in medicine (eg, 58 of 199 [29.2%] with rather negative views) than patients with very good health (eg, 134 of 2538 [5.3%] with rather negative views). Conversely, higher levels of AI knowledge and frequent use of technology devices were associated with more positive attitudes. Notably, fewer than half of the participants expressed positive attitudes regarding all items pertaining to trust in AI. The lowest level of trust was observed for the accuracy of AI in providing information regarding treatment responses (5637 of 13\u202f480 respondents [41.8%] trusted AI). Patients preferred explainable AI (8816 of 12\u202f563 [70.2%]) and physician-led decision-making (9222 of 12\u202f652 [72.9%]), even if it meant slightly compromised accuracy.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study of patient attitudes toward AI use in health care across 6 continents, findings indicated that tailored AI implementation strategies should take patient demographics, health status, and preferences for explainable AI and physician oversight into account.</p>",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
+            "title": "Machine Learning to Predict Critical Events in Pediatric Care",
+            "summary": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
+            "content_text": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
+            "date_published": "2025-05-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Felix Busch, MD"
+                    "name": "Muhammad Mahbubur Rahman, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "attitude",
-                "attitude to health",
-                "decision making",
-                "health care facility",
-                "sociodemographic factors"
+                "machine learning",
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835159/busch_2025_oi_250478_1748961717.99924.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834661/rahman_2025_ic_250103_1747842053.2432.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250478f1_1748961718.968.png?Expires=2147483647&Signature=20ET1Silki9GRZj0Jsf0sX2PzavQgYsnV1~bN4Nyp8~Run~cLYuHhidH991ucdGNXz94z4ZW7qfuOm4q0~NAUqWGF8AAzR4nArw0CXIulbKjQly0nFdL6YSH~9S-raDVQLYEFzclC7Fjn-dgtzwvCjG4tyXzhNiSE22n9ADV2DF8FE9cO81al3QtmDamv9Fq-s3gLeKcfvQoelM0wxSR1PGRmdPnVZiKZpZqM9lCk9ab-v0ScfP3lW1mV3souYOK9ltqNJbMMgl3p3KgmF~EDayzBNlIrrOI3j9HpaO59IJWzE0oyVLuLfaq7p6Ttm2AyqU9U4sjEHj8Nx9~bcu3mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
-            "title": "Assessing the Impact of AI in Inpatient Diabetes Management",
-            "summary": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
-            "content_text": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "title": "The Future of Agitation Interventions May Be Predictive",
+            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
             "date_published": "2025-05-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Eileen R. Faulds, PhD"
+                    "name": "Scott Zeller, MD"
                 }
             ],
             "tags": [
-                "diabetes mellitus",
-                "non-insulin-dependent"
+                "agitation",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833625/faulds_2025_ic_250076_1745961538.81775.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
