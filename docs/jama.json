@@ -4,52 +4,38 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
-            "title": "Machine Learning to Predict Critical Events in Pediatric Care",
-            "summary": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
-            "content_text": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
-            "date_published": "2025-05-30T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
+            "title": "A Machine Learning Trauma Triage Model for Critical Care Transport",
+            "summary": "This cohort study describes the development of a machine learning model to identify single-patient administration of lifesaving interventions from a brief epoch of physiological waveform data among critically ill patients with trauma in the prehospital setting.",
+            "content_html": "<h3>Importance</h3><p>Under austere prehospital conditions, rapid classification of injured patients for intervention or transport is essential for providing lifesaving care. Discerning which patients need care most urgently further allows for optimal allocation of limited resources. These triage processes are hindered by the limited diagnostic resources and modalities available in the prehospital environment.</p><h3>Objective</h3><p>To develop a triage model for prehospital use in patients with traumatic injury supported by machine learning (ML) analysis of continuous physiological waveform signals and derived patterns of vital signs.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from January 1, 2018, to November 18, 2021, from critically ill patients with trauma transported by a large critical care air transport system serving Pennsylvania and surrounding states. Patients were included if classified as a trauma case by treating prehospital clinicians during a scene run by the transport service. Data were analyzed from May to November of 2024.</p><h3>Exposures</h3><p>Metrics derived from physiological waveform signal and vital sign patterns during the first 15 minutes following initiation of patient care and transport.</p><h3>Main Outcomes and Measures</h3><p>Administration of a lifesaving intervention (LSI) occurring within a 2-minute epoch during patient care. An ensemble ML approach was applied to predict LSI occurrence from physiological features recorded in the 2-minute epoch immediately preceding the LSI epoch.</p><h3>Results</h3><p>A total of 2809 participants were included in the analysis (mean [SD] age, 47.7 [19.5] years; 1981 [70.5%] men). These participants had 15\u202f088 two-minute epochs that yielded physiological data recording, of which 910 (6.0%) included an LSI. Good model performance was observed for predicting overall LSI, with an area under the receiver operating characteristics curve of 0.810 (95% CI, 0.782-0.842); sensitivity, 0.268 (95% CI, 0.193-0.357); positive predictive value, 0.301 (95% CI, 0.228-0.356); positive likelihood ratio, 6.793 (95% CI, 4.887-8.795); specificity, 0.960 (95% CI, 0.947-0.972); negative predictive value, 0.953 (95% CI, 0.943-0.964); and negative likelihood ratio, 0.763 (95% CI, 0.680-0.837). Performance was equivalent or better when predicting several LSI subcategories (eg, airway intervention, blood transfusion, vasopressor medication), when using physiological features captured up to 15 minutes prior to LSI administration, when predicting only the first LSI occurrence for each patient, and across mechanism of injury.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of critically ill patients with trauma in the prehospital setting, an ML-based triage model using physiological features provided accurate predictions of lifesaving intervention delivery to single patients. Modeling approaches could be deployed in the field to help streamline and augment prehospital triage.</p>",
+            "date_published": "2025-06-09T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Muhammad Mahbubur Rahman, PhD"
+                    "name": "Aaron C. Weidman, PhD"
                 }
             ],
             "tags": [
+                "airway device",
+                "airway structure",
+                "blood transfusion",
+                "care of intensive care unit patient",
+                "critical illness",
+                "epoch protocol",
+                "laser speckle contrast imaging",
                 "machine learning",
-                "pediatric discipline"
+                "triage",
+                "vital signs",
+                "waveforms",
+                "wounds and injuries"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834661/rahman_2025_ic_250103_1747842053.2432.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835117/weidman_2025_oi_250351_1748641553.23561.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
-            "title": "The Future of Agitation Interventions May Be Predictive",
-            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
-            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
-            "date_published": "2025-05-07T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Scott Zeller, MD"
-                }
-            ],
-            "tags": [
-                "agitation",
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250351f1_1748641553.38561.png?Expires=2147483647&Signature=NtQ0TF0am8X~gfz1lgXF964kbWErqDC~I6JztC3vKHEH6xfeKDQMiH2Tbwvj7p7HioBGJYVVz6Anp7A6W4K~-cu50lskpf31wDEShQu5ISzRH284NPN0M4Gp6LV9d6OFZ7KvG8m5M7XmJHlksGlhwGtoLh5B3QeZt7Fh2ZvAobhcHzp2UduCW~nl19rpe~YwsURaxNIpC0BMZb7hBzgq2lGcZur2wXaZH-T8bLZogV4JDRwTmM2P175NlHqEl0eYbOzBzqY5GLXaVNPmdtsU2BcgnaLDqBINsFKK5FNV-o07TbRTmJP2vOPFm3PWcmQ1uRVsHOIfCm2KqxMKEG2uVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
