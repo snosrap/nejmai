@@ -4,55 +4,63 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835102",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835102",
-            "title": "Artificial Intelligence and Health Care Waste\u2014Promise or Peril?",
-            "summary": "This Viewpoint explores the opportunities and risks posed by AI in the health care system through the lens of the National Academy of Medicine\u2019s framework of health care waste.",
-            "content_text": "This Viewpoint explores the opportunities and risks posed by AI in the health care system through the lens of the National Academy of Medicine\u2019s framework of health care waste.",
-            "date_published": "2025-06-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "William H. Shrank, MD, MSHS"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "crystalline",
-                "health care systems",
-                "health policy",
-                "lens",
-                "lens (device)"
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835102/shrank_2025_vp_250016_1749749358.22898.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1745936766.62475.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/esc250001f1_1745936766.76295.png?Expires=2147483647&Signature=4~fijx-QyzUH5n8FHCo16k84APT7sqwdgZzGU8K3H9jolDFi0cV6AhPHc4r2D9HbXlfjwlIYJkjaSELWoMYTDwtVjm0XM6VUGRQ~gN-4qoZsaQ6GmfgBEEpNyHDBqLYPTeI3GNgsoLvQCxMqOpAulrIHwIENjxNsLpBAdyu9tuaq6jKoT5-MiDguzNzUVwKG~Dy7g9QBVUoUI2PGmpya8uKw4wifO4hCCxr-8CskkmDwOrB33ppiPGyf800jVkpFyUYVwHxWFPDJKOHlgrnX-Ez3hayrjjUWV5d5fB856a1BoBmA95K3LhdTb2IwtrZNBUHdJWOwfhcPBV-TgQR3mA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
-            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "date_published": "2025-06-04T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Larry Han, PhD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "informatics (discipline)"
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
