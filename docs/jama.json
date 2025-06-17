@@ -4,32 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
-            "title": "Prognostication System for Squamous Cell Carcinoma Using Retrieval Augmented Generation\u2013Enabled Large Language",
-            "summary": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
-            "content_text": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
-            "date_published": "2025-06-11T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Emily S. Ruiz, MD, MPH"
-                }
-            ],
-            "tags": [
-                "large language models",
-                "retrieval-augmented generation",
-                "squamous cell carcinoma",
-                "squamous cell carcinoma of skin"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835073/jamadermatology_ruiz_2025_ed_250006_1748619233.50783.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Dermatology.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2834397",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2834397",
             "title": "Master of Digital Health Degree",
@@ -51,6 +25,32 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
+            "title": "Ambient Listening\u2014Legal and Ethical Issues",
+            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
+            "date_published": "2025-02-19T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "I. Glenn Cohen, JD"
+                }
+            ],
+            "tags": [
+                "ethics",
+                "health policy",
+                "listening",
+                "principles of law and justice"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
