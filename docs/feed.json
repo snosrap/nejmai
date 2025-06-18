@@ -5,6 +5,101 @@
   "favicon": "https://ai.nejm.org/favicon.ico",
   "items": [
     {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2500153",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2500153",
+      "title": "Lessons from the Failure of Canada\u2019s Artificial Intelligence and Data Act",
+      "summary": "This commentary examines the shortcomings of Canada\u2019s proposed Artificial Intelligence and Data Act, in particular its failure to adequately provide regulatory guidance for health care AI. It argues for a more targeted, sector-specific approach to ensure patient safety, transparency, and responsible innovation in future AI legislation.",
+      "content_text": "## Abstract\n\nCanada\u2019s initial attempt at AI governance, the Artificial Intelligence and\nData Act (AIDA), was introduced within Bill C-27, but was ultimately\nterminated with the prorogation of Parliament in January 2025. AIDA sought to\nestablish a risk-based regulatory framework; however, it was criticized for\nits lack of specificity, underinclusiveness, and absence of sector-specific\noversight \u2014 issues that are particularly consequential for health care AI\napplications. The broad and generalized nature of AIDA left regulatory gaps\nconcerning safety, bias, transparency, and patient privacy in AI-driven\nmedical decision-making. In this article, we analyze the shortcomings of AIDA\nin health care AI governance and propose key reforms to guide future\nlegislative efforts. A targeted, sector-specific approach is essential to\nensure AI\u2019s safe and effective integration into health care while fostering\nresponsible innovation. The Canadian experience provides important lessons for\nglobal AI regulation, particularly in balancing technological progress with\npatient safety and ethical considerations.\n\n",
+      "date_published": "2025-06-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "A.H. Ishaque, A. Aidid, and G. Zadeh"
+        }
+      ],
+      "tags": [
+        "Policy Corner"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2500153",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Canada\u2019s initial attempt at AI governance, the Artificial Intelligence and Data Act (AIDA), was introduced within Bill C-27, but was ultimately terminated with the prorogation of Parliament in January 2025. AIDA sought to establish a risk-based regulatory framework; however, it was criticized for its lack of specificity, underinclusiveness, and absence of sector-specific oversight \u2014 issues that are particularly consequential for health care AI applications. The broad and generalized nature of AIDA left regulatory gaps concerning safety, bias, transparency, and patient privacy in AI-driven medical decision-making. In this article, we analyze the shortcomings of AIDA in health care AI governance and propose key reforms to guide future legislative efforts. A targeted, sector-specific approach is essential to ensure AI\u2019s safe and effective integration into health care while fostering responsible innovation. The Canadian experience provides important lessons for global AI regulation, particularly in balancing technological progress with patient safety and ethical considerations.</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2500045",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2500045",
+      "title": "Improving Mental Health Care Access with Technology: Addressing the Screening-to-Referral Bottleneck",
+      "summary": "A perspective on applying technology to alleviate the current mental health workforce shortage by focusing on the initial stages of mental health treatment for both primary care providers \u2014 for whom over 70% of visits involve a mental health component \u2014 and mental health professionals.",
+      "content_text": "## Abstract\n\nIn the United States, the economic and social costs of untreated mental health\nconditions continue to escalate, with barriers to access due to workforce\nshortages, long wait times, and high referral rates. Technological\ninnovations, including large language models and generative artificial\nintelligence, can most effectively bridge these gaps if they are focused on\noptimizing the early stages of mental health care \u2014 screening, assessment,\ntriage, and treatment planning. By automating and standardizing initial\npatient assessments, these tools could empower primary care providers.\nCritically, technology-enabled solutions stand to bridge the research-to-\npractice gap when it comes to dimensional models of mental health disorders.\nThese technologies could revolutionize real-world intakes by providing general\naccess to leading evidence-based models of mental health case\nconceptualization, currently leveraged by only a small percentage of\nspecialists. (Funded by the NSF Graduate Research Fellowship Program grant\nnumber, DGE-213989.)\n\n",
+      "date_published": "2025-06-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "A.J. Gorelik and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2500045",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/017e932c-065b-4ac9-9954-b1bb3b1244c7/aip2500045_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">In the United States, the economic and social costs of untreated mental health conditions continue to escalate, with barriers to access due to workforce shortages, long wait times, and high referral rates. Technological innovations, including large language models and generative artificial intelligence, can most effectively bridge these gaps if they are focused on optimizing the early stages of mental health care \u2014 screening, assessment, triage, and treatment planning. By automating and standardizing initial patient assessments, these tools could empower primary care providers. Critically, technology-enabled solutions stand to bridge the research-to-practice gap when it comes to dimensional models of mental health disorders. These technologies could revolutionize real-world intakes by providing general access to leading evidence-based models of mental health case conceptualization, currently leveraged by only a small percentage of specialists. (Funded by the NSF Graduate Research Fellowship Program grant number, DGE-213989.)</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIp2401234",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2401234",
+      "title": "The Landscape of Medical AI in China",
+      "summary": "This perspective provides data on the landscape of medical AI in China, covering research focus areas, key players from academia and industry, and the main drivers of medical AI development, as well as insights into these trends relative to those seen in the United States.",
+      "content_text": "## Abstract\n\nChina has achieved significant progress in the medical AI field in recent\nyears. However, the international community may be unaware of the scope and\nextent of medical AI innovations in China. In this perspective, we provide\ndata on the landscape of medical AI in China, covering research focus areas,\nkey players from academia and industry, and the main drivers of medical AI\ndevelopment. We provide insights into these trends relative to those seen in\nthe United States. The number of medical AI\u2013related publications from China\nhas exceeded that from the United States in the past 2 years. Although both\nChina and the United States prioritize technical development in their\npublications, followed by clinical disciplines, the United States had a more\nbalanced focus between technical and clinical research. The Chinese Academy of\nSciences and major universities affiliated with top hospitals are the\npredominant players. Regarding patents and revenue, several large Chinese\nmedical technology companies are emerging as influential players, but they\ncontinue to lag behind large U.S. technology companies. Rapid increases in\ngovernmental funding, access to computational power, and optimization of an AI\nregulatory framework have become the main drivers of China\u2019s advancements in\nmedical AI. Despite this progress, key challenges remain, including fragmented\ndata sources and limited integration of AI into clinical workflow. Addressing\nthese barriers will allow China to contribute to global medical AI\ndevelopment. (Funded by the National Key Research and Development Program of\nChina, grant number 2022YFC2502800, and others.)\n\n",
+      "date_published": "2025-06-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "Y. Qiu and Others"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIp2401234",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/2316ba77-137c-42b2-a00c-34ddac97af5e/aip2401234_f2.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">China has achieved significant progress in the medical AI field in recent years. However, the international community may be unaware of the scope and extent of medical AI innovations in China. In this perspective, we provide data on the landscape of medical AI in China, covering research focus areas, key players from academia and industry, and the main drivers of medical AI development. We provide insights into these trends relative to those seen in the United States. The number of medical AI\u2013related publications from China has exceeded that from the United States in the past 2 years. Although both China and the United States prioritize technical development in their publications, followed by clinical disciplines, the United States had a more balanced focus between technical and clinical research. The Chinese Academy of Sciences and major universities affiliated with top hospitals are the predominant players. Regarding patents and revenue, several large Chinese medical technology companies are emerging as influential players, but they continue to lag behind large U.S. technology companies. Rapid increases in governmental funding, access to computational power, and optimization of an AI regulatory framework have become the main drivers of China\u2019s advancements in medical AI. Despite this progress, key challenges remain, including fragmented data sources and limited integration of AI into clinical workflow. Addressing these barriers will allow China to contribute to global medical AI development. (Funded by the National Key Research and Development Program of China, grant number 2022YFC2502800, and others.)</div>"
+    },
+    {
+      "id": "https://ai.nejm.org/doi/full/10.1056/AIdbp2401120",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIdbp2401120",
+      "title": "PadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation",
+      "summary": "PadChest Grounded Reporting is a novel dataset derived from PadChest and designed to train and evaluate grounded report generation models from chest x-ray images. PadChest-GR includes comprehensive sentence-level bounding-box annotations for all clinically relevant findings in each image, as judged by expert radiologists.",
+      "content_text": "## Abstract\n\n### Background\n\nArtificial intelligence (AI)\u2013powered radiology report generation (RRG) aims to\ncreate free-text radiology reports from clinical imaging. Grounded radiology\nreport generation (GRRG) augments RRG by including the localization of\nindividual findings on the image. Currently, to our knowledge, no manually\nannotated chest x-ray (CXR) datasets exist on which to train GRRG models.\n\n### Methods\n\nIn this article, we present a dataset called PadChest-GR (grounded reporting),\nwhich is derived from the CXR dataset, PadChest, and aimed at training GRRG\nmodels to analyze CXR images. First, we selected a subset of studies from\nPadChest that contained images with frontal projection; studies that were\noriginally labeled as suboptimal and those involving pediatric patients were\nexcluded. Then, using Generative Pretrained Transformer 4 in Microsoft Azure\nOpenAI Service, we processed reports to extract sentences with single\nfindings, translate them from Spanish into English, link them to the existing\nPadChest finding and location labels, and classify the finding progression. A\nteam of 14 radiologists discarded studies with poor image quality or issues\nrelating to the report or findings list and then manually annotated the\nfindings using bounding boxes to surround regions of interest in each image.\n\n### Results\n\nWe curated a public bilingual dataset of 4555 CXR studies with grounded\nreports, of which 3099 were abnormal and 1456 were normal. Each report\ncontains complete lists of sentences describing individual present (positive)\nfindings and absent (negative) findings in English and Spanish. In total,\nPadChest-GR contains 7037 positive-finding sentences and 3422 negative-finding\nsentences. Every positive-finding sentence is associated with up to two\nindependent sets of bounding boxes labeled by different readers and has\ncategorical labels for finding type, locations, and progression.\n\n### Conclusions\n\nPadChest-GR is a manually curated dataset designed to train GRRG models to\nunderstand and interpret radiological images and generated text. By including\ndetailed localization and comprehensive annotations of all clinically relevant\nfindings, PadChest-GR provides a valuable resource for developing and\nevaluating GRRG models from CXR images. (Funded by the Microsoft Corporation.)\n\n",
+      "date_published": "2025-06-18T00:00:00+00:00",
+      "authors": [
+        {
+          "name": "D.C. de Castro and Others"
+        }
+      ],
+      "tags": [
+        "Datasets, Benchmarks, and Protocols"
+      ],
+      "attachments": [
+        {
+          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIdbp2401120",
+          "mime_type": "application/pdf"
+        }
+      ],
+      "image": "https://ai.nejm.org/cms/asset/955bdbf3-5fc4-45eb-b7ce-822d56228a4f/aidbp2401120_f1.gif",
+      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI)\u2013powered radiology report generation (RRG) aims to create free-text radiology reports from clinical imaging. Grounded radiology report generation (GRRG) augments RRG by including the localization of individual findings on the image. Currently, to our knowledge, no manually annotated chest x-ray (CXR) datasets exist on which to train GRRG models.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">In this article, we present a dataset called PadChest-GR (grounded reporting), which is derived from the CXR dataset, PadChest, and aimed at training GRRG models to analyze CXR images. First, we selected a subset of studies from PadChest that contained images with frontal projection; studies that were originally labeled as suboptimal and those involving pediatric patients were excluded. Then, using Generative Pretrained Transformer 4 in Microsoft Azure OpenAI Service, we processed reports to extract sentences with single findings, translate them from Spanish into English, link them to the existing PadChest finding and location labels, and classify the finding progression. A team of 14 radiologists discarded studies with poor image quality or issues relating to the report or findings list and then manually annotated the findings using bounding boxes to surround regions of interest in each image.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">We curated a public bilingual dataset of 4555 CXR studies with grounded reports, of which 3099 were abnormal and 1456 were normal. Each report contains complete lists of sentences describing individual present (positive) findings and absent (negative) findings in English and Spanish. In total, PadChest-GR contains 7037 positive-finding sentences and 3422 negative-finding sentences. Every positive-finding sentence is associated with up to two independent sets of bounding boxes labeled by different readers and has categorical labels for finding type, locations, and progression.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">PadChest-GR is a manually curated dataset designed to train GRRG models to understand and interpret radiological images and generated text. By including detailed localization and comprehensive annotations of all clinically relevant findings, PadChest-GR provides a valuable resource for developing and evaluating GRRG models from CXR images. (Funded by the Microsoft Corporation.)</div></section>"
+    },
+    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIra2500061",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIra2500061",
       "title": "Development and Commercialization Pathways of AI Medical Devices in the United States: Implications for Safety and Regulatory Oversight",
@@ -75,101 +170,6 @@
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Large-scale virtual front doors (VFDs) serve as the initial point of consumer contact with a health system. Intended to improve consumer experience, health equity, evidence-based care, and utilization of available system capacity, VFDs are offered through digital and telephone channels, aiming to provide first-time resolution at the appropriate level of care.</div><div role=\"paragraph\">Previously, VFDs faced challenges in personalizing triage for particular consumer cohorts and had a tendency to contribute to overtriage. The use of artificial intelligence (AI)\u2013enabled VFDs across Australia has been shown to overcome these limitations. However, ensuring transparency, accountability, and safety in AI-enabled VFDs requires clear communication about how AI is used, who operates the system, and the values driving its design, alongside robust postimplementation monitoring for bias, shared oversight between government and industry, and thoughtful change management to support clinical adoption.</div><div role=\"paragraph\">AI could become ubiquitous in triaging at scale to achieve the vision of right care, right place, first time. AI-enabled VFDs can solve major health care challenges by improving consumers\u2019 engagement in managing their own care, improving equity of access, reducing unwarranted variability in care pathways, and matching demand with available capacity \u2014 all while reducing cost.</div>"
     },
     {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2400785",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2400785",
-      "title": "Randomized Study of the Impact of AI on Perceived Legal Liability for Radiologists",
-      "summary": "This article examines how the use of artificial intelligence (AI) in radiology influences public perceptions of liability when a radiologist misses a pathology. Participants were more likely to hold the radiologist accountable when AI detected the abnormality, but providing information about AI error rates reduced this effect, highlighting the potential legal and communication implications of integrating AI into clinical practice.",
-      "content_text": "## Abstract\n\n### Background\n\nArtificial intelligence (AI) will have unintended consequences for radiology\nas the applications of AI use in patient care continue to expand. When a\nradiologist misses an abnormality on an image, their perceived liability may\ndiffer according to whether or not AI also missed the abnormality.\n\n### Methods\n\nAdults in the United States viewed a vignette describing a radiologist being\nsued for missing a brain bleed (n=652) or cancer (n=682). We randomly assigned\nparticipants to one of five conditions. In four conditions, they were told an\nAI system was used. Either AI agreed with the radiologist, also failing to\nfind pathology (AI agree), or AI did find pathology (AI disagree). Some\nparticipants were given more context about the performance of AI: a 1% AI\nfalse omission rate (FOR) was presented when AI agreed with the radiologist\u2019s\nfinding (noted as AI agree + FOR), and a 50% AI false discovery rate (FDR) was\npresented when the AI disagreed with the radiologist\u2019s finding (noted as AI\ndisagree + FDR). There was also a \u201cno AI\u201d control condition. Otherwise,\nvignettes were identical. Participants indicated whether the radiologist met\ntheir duty of care as a proxy for whether they would side with the defense\n(radiologist) or the plaintiff.\n\n### Results\n\nParticipants were more likely to find the radiologist legally liable in the AI\ndisagree versus the AI agree condition (brain bleed: 72.9% vs. 50.0%, P=0.001;\ncancer: 78.7% vs. 63.5%, P=0.01) and in the AI disagree versus the no AI\ncondition (brain bleed: 72.9% vs. 56.3%, P=0.01; cancer: 78.7% vs. 65.2%,\nP=0.04). Participants were less likely to side with the plaintiff when the\nadditional context of FDR or FOR were provided for a brain bleed: AI disagree\nversus AI disagree + FDR (brain bleed: 72.9% vs. 48.8%, P=0.001; cancer: 78.7%\nvs. 73.1%, P=0.20), and AI agree versus AI agree + FOR (brain bleed: 50.0% vs.\n34.0%, P=0.01; cancer: 63.5% vs. 56.4%, P=0.19).\n\n### Conclusions\n\nRadiologists who failed to find an abnormality are viewed as more culpable\nwhen they used an AI system that detected the abnormality. Presenting\nparticipants with AI error data decreased perceived liability. These findings\nhave relevance for courtroom proceedings.\n\n",
-      "date_published": "2025-05-22T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "M.H. Bernstein and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2400785",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/ccf2a08f-6a0b-428d-a72f-26a53031ea7c/aioa2400785_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Artificial intelligence (AI) will have unintended consequences for radiology as the applications of AI use in patient care continue to expand. When a radiologist misses an abnormality on an image, their perceived liability may differ according to whether or not AI also missed the abnormality.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">Adults in the United States viewed a vignette describing a radiologist being sued for missing a brain bleed (n=652) or cancer (n=682). We randomly assigned participants to one of five conditions. In four conditions, they were told an AI system was used. Either AI agreed with the radiologist, also failing to find pathology (AI agree), or AI did find pathology (AI disagree). Some participants were given more context about the performance of AI: a 1% AI false omission rate (FOR) was presented when AI agreed with the radiologist\u2019s finding (noted as AI agree + FOR), and a 50% AI false discovery rate (FDR) was presented when the AI disagreed with the radiologist\u2019s finding (noted as AI disagree + FDR). There was also a \u201cno AI\u201d control condition. Otherwise, vignettes were identical. Participants indicated whether the radiologist met their duty of care as a proxy for whether they would side with the defense (radiologist) or the plaintiff.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Participants were more likely to find the radiologist legally liable in the AI disagree versus the AI agree condition (brain bleed: 72.9% vs. 50.0%, P=0.001; cancer: 78.7% vs. 63.5%, P=0.01) and in the AI disagree versus the no AI condition (brain bleed: 72.9% vs. 56.3%, P=0.01; cancer: 78.7% vs. 65.2%, P=0.04). Participants were less likely to side with the plaintiff when the additional context of FDR or FOR were provided for a brain bleed: AI disagree versus AI disagree + FDR (brain bleed: 72.9% vs. 48.8%, P=0.001; cancer: 78.7% vs. 73.1%, P=0.20), and AI agree versus AI agree + FOR (brain bleed: 50.0% vs. 34.0%, P=0.01; cancer: 63.5% vs. 56.4%, P=0.19).</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">Radiologists who failed to find an abnormality are viewed as more culpable when they used an AI system that detected the abnormality. Presenting participants with AI error data decreased perceived liability. These findings have relevance for courtroom proceedings.</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIe2500388",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2500388",
-      "title": "AI Streamlines Prostate Pathology Data Extraction",
-      "summary": "In this issue of NEJM AI, Azar et al. demonstrate that AI can accurately extract and enter data from prostatectomy pathology reports. This suggests that AI tools may be accurate enough to be deployed for research, minimizing the burden of manual data extraction and entry.",
-      "content_text": "## Abstract\n\nManual extraction of pathology data from electronic health records remains a\nlabor-intensive barrier to large-scale clinical research. In this editorial,\nwe discuss the findings of Azar et al., who demonstrate that a large language\nmodel can accurately extract structured data from radical prostatectomy\npathology reports, achieving near-perfect concordance with human reviewers.\nThis work highlights the feasibility of deploying AI for high-fidelity data\nabstraction in oncology research and outlines the potential for broader\nintegration into institutional databases and cancer registries. While\nlimitations in generalizability remain, the results signal a transformative\nstep toward scalable, automated research data curation.\n\n",
-      "date_published": "2025-05-22T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "S.P. Basourakos and J.E. Shoag"
-        }
-      ],
-      "tags": [
-        "Editorial"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIe2500388",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Manual extraction of pathology data from electronic health records remains a labor-intensive barrier to large-scale clinical research. In this editorial, we discuss the findings of Azar et al., who demonstrate that a large language model can accurately extract structured data from radical prostatectomy pathology reports, achieving near-perfect concordance with human reviewers. This work highlights the feasibility of deploying AI for high-fidelity data abstraction in oncology research and outlines the potential for broader integration into institutional databases and cancer registries. While limitations in generalizability remain, the results signal a transformative step toward scalable, automated research data curation.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2500078",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2500078",
-      "title": "Incidental Prompt Injections on Vision\u2013Language Models in Real-Life Histopathology",
-      "summary": "This case study investigates how handwritten labels and watermarks on histopathological images can unintentionally act as prompt injections, misleading state-of-the-art vision\u2013language models such as GPT-4o and Claude. The findings reveal that these models often treat such visual text as authoritative, resulting in inaccurate outputs that highlight a critical vulnerability in medical AI systems.",
-      "content_text": "## Abstract\n\nVision\u2013language models (VLMs) can analyze multimodal medical data. However, a\nsignificant weakness of VLMs is their susceptibility to prompt injection\nattacks. Here, the model receives conflicting instructions, leading to\npotentially harmful outputs. We hypothesized that handwritten labels and\nwatermarks on histopathological images could act as inadvertent prompt\ninjections, influencing decision-making in histopathology. We conducted a\nquantitative analysis with a total of 3888 observations on the state-of-the-\nart VLMs Claude 3 Opus, Claude 3.5 Sonnet, and GPT-4o. We designed various\nreal-world\u2013inspired scenarios in which we investigated how VLMs react to\ndifferent labels and watermarks if presented with those next to the tissue.\nAll models reached almost perfect accuracies (90 to 100%) for ground-\ntruth\u2013leaking labels and abysmal accuracies (0 to 10%) for misleading labels\nor watermarks, despite baseline accuracies between 30 and 65% for various\nmulticlass problems. All VLMs relied on the human-provided labels and accepted\nthem as infallible, even when those inputs contained obvious errors.\nFurthermore, prompt engineering could not mitigate these effects. We therefore\nprovide evidence that labels, pen- and watermarks on histopathological images\nact as inadvertent prompt injections leading to blatant mistakes in decision-\nmaking by state-of-the-art VLMs. Our findings reveal a critical vulnerability\nthat could compromise diagnostic accuracy and patient safety in a real-world\nsetting. Future research should focus on developing robust methods to detect\nand neutralize potential prompt injections.\n\n",
-      "date_published": "2025-05-22T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "J. Clusmann and Others"
-        }
-      ],
-      "tags": [
-        "Case Study"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2500078",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/7b0d6a37-b609-4ec2-9603-935e60514faf/aics2500078_f3.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Vision\u2013language models (VLMs) can analyze multimodal medical data. However, a significant weakness of VLMs is their susceptibility to prompt injection attacks. Here, the model receives conflicting instructions, leading to potentially harmful outputs. We hypothesized that handwritten labels and watermarks on histopathological images could act as inadvertent prompt injections, influencing decision-making in histopathology. We conducted a quantitative analysis with a total of 3888 observations on the state-of-the-art VLMs Claude 3 Opus, Claude 3.5 Sonnet, and GPT-4o. We designed various real-world\u2013inspired scenarios in which we investigated how VLMs react to different labels and watermarks if presented with those next to the tissue. All models reached almost perfect accuracies (90 to 100%) for ground-truth\u2013leaking labels and abysmal accuracies (0 to 10%) for misleading labels or watermarks, despite baseline accuracies between 30 and 65% for various multiclass problems. All VLMs relied on the human-provided labels and accepted them as infallible, even when those inputs contained obvious errors. Furthermore, prompt engineering could not mitigate these effects. We therefore provide evidence that labels, pen- and watermarks on histopathological images act as inadvertent prompt injections leading to blatant mistakes in decision-making by state-of-the-art VLMs. Our findings reveal a critical vulnerability that could compromise diagnostic accuracy and patient safety in a real-world setting. Future research should focus on developing robust methods to detect and neutralize potential prompt injections.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIcs2400943",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2400943",
-      "title": "LLM-Mediated Data Extraction from Patient Records after Radical Prostatectomy",
-      "summary": "This study evaluates the accuracy of the National Institutes of Health Integrated Data Analysis Platform Text Extraction Program, a Generative Pretrained Transformer 4\u2013powered tool for extracting data from unstructured electronic health records. Compared with a manually curated ground-truth dataset from radical prostatectomy pathology reports, the Text Extraction Program achieved 99.8% accuracy, highlighting its effectiveness in extracting multiple variable types using Generative Pretrained Transformer 4 and robust prompt engineering.",
-      "content_text": "## Abstract\n\nIntegrating large language models (LLMs) into health care has the potential to\nimprove data extraction from electronic health records (EHRs). In this study,\nwe assess the extraction accuracy of our LLM-powered tool, the National\nInstitutes of Health (NIH) Integrated Data Analysis Platform Text Extraction\nProgram (NTEP), on radical prostatectomy pathology reports. A total of 369\npatients enrolled in a clinical trial\n([NCT02594202](https://clinicaltrials.gov/ct2/show/NCT02594202)) who underwent\nradical prostatectomy at the NIH were included. We compared a manually curated\nground-truth dataset containing 4797 data points for 13 variables abstracted\nfrom radical prostatectomy pathology reports to a dataset created using NTEP,\na platform that allows researchers to develop prompts aimed at extracting data\ndirectly from unstructured EHR documents using the Generative Pretrained\nTransformer 4 LLM. Comparison between extraction methods was assessed using\nCohen\u2019s kappa for binary and categorical variables and mean squared error\n(MSE) with Spearman\u2019s correlation for continuous and discrete variables.\nExtraction accuracy was calculated for each variable, and 95% confidence\nintervals were adjusted using the Agresti\u2013Coull method to account for sampling\nvariability. Overall, 4788 of 4797 (99.8%) data points were correctly\nextracted by the LLM. With discrete variables, the LLM demonstrated a 100%\nmatch between datasets for the number of positive lymph nodes but\nmiscalculated the total number of lymph nodes, resulting in an MSE of 0.0027\nand a Spearman\u2019s coefficient of 0.99. For continuous variables, the LLM\ndemonstrated a 100% match with the ground-truth dataset for prostate\ndimensions but failed to identify prostate weight in one patient. NTEP\ndemonstrated 99.8% accuracy in extracting data from radical prostatectomy\npathology reports, underscoring its effectiveness in accurately and securely\nprocessing variables from unstructured EHR data. Through robust prompt\nengineering, NTEP reliably extracted both discrete and continuous variables,\nwith only minor errors identified. These results highlight its potential for\nenhancing automated EHR data extraction while indicating areas for further\nrefinement.\n\n",
-      "date_published": "2025-05-22T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "W.S. Azar and Others"
-        }
-      ],
-      "tags": [
-        "Case Study"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIcs2400943",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/f1c0b9ac-9e17-46a3-80c8-fc32cdb1c9f6/aics2400943_f2.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Integrating large language models (LLMs) into health care has the potential to improve data extraction from electronic health records (EHRs). In this study, we assess the extraction accuracy of our LLM-powered tool, the National Institutes of Health (NIH) Integrated Data Analysis Platform Text Extraction Program (NTEP), on radical prostatectomy pathology reports. A total of 369 patients enrolled in a clinical trial (<a href=\"https://clinicaltrials.gov/ct2/show/NCT02594202\" target=\"_blank\">NCT02594202</a>) who underwent radical prostatectomy at the NIH were included. We compared a manually curated ground-truth dataset containing 4797 data points for 13 variables abstracted from radical prostatectomy pathology reports to a dataset created using NTEP, a platform that allows researchers to develop prompts aimed at extracting data directly from unstructured EHR documents using the Generative Pretrained Transformer 4 LLM. Comparison between extraction methods was assessed using Cohen\u2019s kappa for binary and categorical variables and mean squared error (MSE) with Spearman\u2019s correlation for continuous and discrete variables. Extraction accuracy was calculated for each variable, and 95% confidence intervals were adjusted using the Agresti\u2013Coull method to account for sampling variability. Overall, 4788 of 4797 (99.8%) data points were correctly extracted by the LLM. With discrete variables, the LLM demonstrated a 100% match between datasets for the number of positive lymph nodes but miscalculated the total number of lymph nodes, resulting in an MSE of 0.0027 and a Spearman\u2019s coefficient of 0.99. For continuous variables, the LLM demonstrated a 100% match with the ground-truth dataset for prostate dimensions but failed to identify prostate weight in one patient. NTEP demonstrated 99.8% accuracy in extracting data from radical prostatectomy pathology reports, underscoring its effectiveness in accurately and securely processing variables from unstructured EHR data. Through robust prompt engineering, NTEP reliably extracted both discrete and continuous variables, with only minor errors identified. These results highlight its potential for enhancing automated EHR data extraction while indicating areas for further refinement.</div>"
-    },
-    {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIdbp2400732",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIdbp2400732",
       "title": "Multimodal Image Dataset for AI-Based Skin Cancer (MIDAS) Benchmarking",
@@ -216,30 +216,6 @@
       ],
       "image": "https://ai.nejm.org/pb-assets/ai-site/images/AIoa2400937_Hagopian-1747337531947.jpg",
       "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">Coronary artery calcium (CAC) is highly predictive of cardiovascular events. Although millions of chest computed tomography (CT) scans are performed annually in the United States, CAC is not routinely quantified from scans done for noncardiac purposes.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We developed a deep learning algorithm, AI-CAC, using 446 expert segmentations to automatically quantify CAC on noncontrast, nongated CT scans. Our study differs from prior works by utilizing imaging data from 98 medical centers across the Veterans Affairs national health care system, capturing extensive heterogeneity in imaging protocols, scanners, and patients. AI-CAC performance on nongated scans was compared against clinical standard electrocardiogram (ECG)-gated CAC scoring in 795 patients with paired gated scans within 1 year of their nongated scan. In addition, the model was tested on 8052 low-dose CTs (LDCTs) to simulate opportunistic CAC screening.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Nongated AI-CAC differentiated zero versus nonzero and less than 100 versus 100 or greater Agatston scores with accuracies of 89.4% (F1 0.93) and 87.3% (F1 0.89), respectively. Nongated AI-CAC was predictive of 10-year all-cause mortality (CAC 0 vs. &gt;400 group: 25.4% vs. 60.2%, Cox hazard ratio 3.49; P&lt;0.005), and composite first-time stroke, myocardial infarction, or death (CAC 0 vs. &gt;400 group: 33.5% vs. 63.8%, Cox hazard ratio 3.00; P&lt;0.005). In the LDCT dataset, 3091 out of 8052 (38.4%) individuals had AI-CAC scores &gt;400. Four cardiologists qualitatively reviewed a random sample of the &gt;400 AI-CAC LDCT patients and verified that 527 of the 531 (99.2%) would benefit from lipid-lowering therapy.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">This nongated CT CAC algorithm was developed across a national health care system and shows strong performance in evaluation against paired gated CT scans. The model code and weights are available at <a href=\"https://github.com/Raffi-Hagopian/AI-CAC/\" target=\"_blank\">https://github.com/Raffi-Hagopian/AI-CAC/</a>. (Funded by the Veterans Affairs health care system.)</div></section>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIoa2300015",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2300015",
-      "title": "People Overtrust AI-Generated Medical Advice despite Low Accuracy",
-      "summary": "This article presents a comprehensive analysis of how artificial intelligence\u2013generated medical responses are perceived and evaluated by nonexperts. The results show that the accuracy of AI-generated responses, on average, was perceived as similar to or even better than the responses provided by doctors. Consequently, this could potentially lead to dependence on incorrect advice, misdiagnosis, and harmful consequences for individuals seeking medical help.",
-      "content_text": "## Abstract\n\n### Background\n\nThis article presents a comprehensive analysis of how artificial intelligence\n(AI)\u2013generated medical responses are perceived and evaluated by nonexperts.\n\n### Methods\n\nWe conducted a study in which a total of 300 participants gave evaluations for\nmedical responses that were either written by a medical doctor on an online\nhealth care platform or generated by a large language model and labeled by\nphysicians as having high accuracy or low accuracy.\n\n### Results\n\nResults showed that participants could not effectively distinguish between AI-\ngenerated responses and doctors\u2019 responses and demonstrated a preference for\nAI-generated responses, rating high-accuracy AI-generated responses as\nsignificantly more valid, trustworthy, and complete/satisfactory. Low-accuracy\nAI-generated responses on average performed very similarly to doctors\u2019\nresponses. Participants not only found these low-accuracy AI-generated\nresponses to be valid, trustworthy, and complete/satisfactory, but also\nindicated a high tendency to follow the potentially harmful medical advice and\nincorrectly seek unnecessary medical attention as a result of the response\nprovided. This problematic reaction was comparable with, if not stronger than,\nthe reaction they displayed toward doctors\u2019 responses. Both experts and\nnonexperts exhibited bias, finding AI-generated responses to be more thorough\nand accurate than doctors\u2019 responses but still valuing the involvement of a\ndoctor in the delivery of their medical advice.\n\n### Conclusions\n\nThe increased trust placed in inaccurate or inappropriate AI-generated medical\nadvice can lead to misdiagnosis and harmful consequences for individuals\nseeking help. Further, participants were more trusting of high-accuracy AI-\ngenerated responses when told they were given by a doctor, and experts rated\nAI-generated responses significantly higher when the source of the response\nwas unknown. Ultimately, AI systems should be implemented in collaboration\nwith medical professionals when used for the delivery of medical advice in\norder to prevent misinformation while reaping the benefits of such cutting-\nedge technology.\n\n",
-      "date_published": "2025-05-13T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "S. Shekar and Others"
-        }
-      ],
-      "tags": [
-        "Original Article"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIoa2300015",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "image": "https://ai.nejm.org/cms/asset/8ce0d407-e5e7-4569-b024-b82b9085afa4/aioa2300015_f1.gif",
-      "content_html": "<h2 property=\"name\">Abstract</h2><section id=\"abs-sec-1\"><h3>Background</h3><div role=\"paragraph\">This article presents a comprehensive analysis of how artificial intelligence (AI)\u2013generated medical responses are perceived and evaluated by nonexperts.</div></section><section id=\"abs-sec-2\"><h3>Methods</h3><div role=\"paragraph\">We conducted a study in which a total of 300 participants gave evaluations for medical responses that were either written by a medical doctor on an online health care platform or generated by a large language model and labeled by physicians as having high accuracy or low accuracy.</div></section><section id=\"abs-sec-3\"><h3>Results</h3><div role=\"paragraph\">Results showed that participants could not effectively distinguish between AI-generated responses and doctors\u2019 responses and demonstrated a preference for AI-generated responses, rating high-accuracy AI-generated responses as significantly more valid, trustworthy, and complete/satisfactory. Low-accuracy AI-generated responses on average performed very similarly to doctors\u2019 responses. Participants not only found these low-accuracy AI-generated responses to be valid, trustworthy, and complete/satisfactory, but also indicated a high tendency to follow the potentially harmful medical advice and incorrectly seek unnecessary medical attention as a result of the response provided. This problematic reaction was comparable with, if not stronger than, the reaction they displayed toward doctors\u2019 responses. Both experts and nonexperts exhibited bias, finding AI-generated responses to be more thorough and accurate than doctors\u2019 responses but still valuing the involvement of a doctor in the delivery of their medical advice.</div></section><section id=\"abs-sec-4\"><h3>Conclusions</h3><div role=\"paragraph\">The increased trust placed in inaccurate or inappropriate AI-generated medical advice can lead to misdiagnosis and harmful consequences for individuals seeking help. Further, participants were more trusting of high-accuracy AI-generated responses when told they were given by a doctor, and experts rated AI-generated responses significantly higher when the source of the response was unknown. Ultimately, AI systems should be implemented in collaboration with medical professionals when used for the delivery of medical advice in order to prevent misinformation while reaping the benefits of such cutting-edge technology.</div></section>"
     },
     {
       "id": "https://ai.nejm.org/doi/full/10.1056/AIp2500023",
@@ -311,29 +287,6 @@
       ],
       "image": "https://ai.nejm.org/cms/asset/9b27612d-d694-43e4-844d-afb927bee5c9/aip2401106_f1.gif",
       "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Large language models (LLMs) have advanced artificial intelligence research in medicine, especially in natural language processing tasks. However, the nascent evolution of LLM practices presents challenges to the transparency, reproducibility, and rigor of research methods. Standardized reporting in research is critical to ensure reliable scientific communication and evaluation. This article introduces the Development, Evaluation, and Assessment of Large Language Models (DEAL) checklist, designed to guide authors and reviewers in reporting LLM studies. The checklist comprises two pathways: DEAL-A, tailored for advanced model development and fine-tuning, and DEAL-B, suited to applied research using pretrained models with minimal modifications. Each pathway addresses critical elements such as model specifications, data-handling practices, training procedures, evaluation metrics, and transparency standards. The DEAL checklist provides a comprehensive structure for documenting LLM research with the aim of making it accessible and reproducible. This structured approach aims to set a standard for future research, facilitating peer review and encouraging best practices. The DEAL checklist will serve as a valuable tool for enhancing the quality and reproducibility of LLM research. By offering clear guidelines on critical reporting elements, the DEAL checklist promotes robust and transparent scientific reporting, ultimately supporting the reliable advancement of LLM technologies.</div>"
-    },
-    {
-      "id": "https://ai.nejm.org/doi/full/10.1056/AIpc2500163",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2500163",
-      "title": "More Fragmented, More Complex: State Regulation of AI in Health Care",
-      "summary": "Increased state involvement \u2014 especially in the absence of strong federal legislation \u2014 could either hinder AI development through regulatory fragmentation or encourage self-regulation to meet high standards set by states and international bodies.",
-      "content_text": "## Abstract\n\nSeveral U.S. states have enacted or are considering legislation to regulate\nthe use of artificial intelligence (AI) in health care. These bills focus on\nseveral key areas: establishing commissions and/or agencies to study and\nmanage health AI; ensuring data privacy and security; addressing bias and\ndiscrimination in AI; promoting transparency in AI usage; overseeing claims\nprocessing by insurance companies; and training the health care workforce\nregarding AI. State activities concerning health AI are likely to become more\nwidespread and influential if, as seems likely, the federal government reduces\nits involvement in ensuring the safety, efficacy, and reliability of health AI\napplications. A surge in diverse state regulations could impede the AI\nindustry\u2019s efforts to develop and market promising health AI applications.\nAlternatively, however, producers of AI tools may choose to self-regulate to\nmeet the stringent standards set by states and international authorities, such\nas the European Union, enabling them to confidently sell their products across\nall jurisdictions. (Funded by the Commonwealth Fund of New York City.)\n\n",
-      "date_published": "2025-05-05T00:00:00+00:00",
-      "authors": [
-        {
-          "name": "D. Blumenthal and A. Marellapudi"
-        }
-      ],
-      "tags": [
-        "Policy Corner"
-      ],
-      "attachments": [
-        {
-          "url": "https://ai.nejm.org/doi/pdf/10.1056/AIpc2500163",
-          "mime_type": "application/pdf"
-        }
-      ],
-      "content_html": "<h2 property=\"name\">Abstract</h2><div role=\"paragraph\">Several U.S. states have enacted or are considering legislation to regulate the use of artificial intelligence (AI) in health care. These bills focus on several key areas: establishing commissions and/or agencies to study and manage health AI; ensuring data privacy and security; addressing bias and discrimination in AI; promoting transparency in AI usage; overseeing claims processing by insurance companies; and training the health care workforce regarding AI. State activities concerning health AI are likely to become more widespread and influential if, as seems likely, the federal government reduces its involvement in ensuring the safety, efficacy, and reliability of health AI applications. A surge in diverse state regulations could impede the AI industry\u2019s efforts to develop and market promising health AI applications. Alternatively, however, producers of AI tools may choose to self-regulate to meet the stringent standards set by states and international authorities, such as the European Union, enabling them to confidently sell their products across all jurisdictions. (Funded by the Commonwealth Fund of New York City.)</div>"
     }
   ]
 }
