@@ -4,32 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834246",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834246",
-            "title": "Personalized Visual Perceptual Learning Digital Therapy for Visual Field Defects Following Stroke: A",
-            "summary": "This randomized clinical trial evaluates whether 12 weeks of personalized digital therapeutic training improves visual field defects in patients after stroke.",
-            "content_html": "<h3>Importance</h3><p>Effective treatments for restoring visual field defects (VFDs) in patients with stroke necessitate validation through randomized clinical trials.</p><h3>Objective</h3><p>To evaluate the efficacy and safety of a personalized digital therapeutic based on visual perceptual learning for treating poststroke VFDs.</p><h3>Design, Setting, and Participants</h3><p>A multicenter randomized clinical trial was conducted from October 19, 2022, to November 8, 2023, at 12 hospitals in South Korea. The study included poststroke outpatients 19 years or older with persistent VFDs (&gt;3 months after stroke) and neuroimaging-confirmed stroke lesions in the visual pathway.</p><h3>Intervention</h3><p>The training group underwent personalized visual discrimination tasks (orientation and rotation) using a mobile virtual reality headset 5 days a week for 12 weeks, with 360 trials per day. The control group received no intervention.</p><h3>Main Outcome and Measures</h3><p>The primary outcome was improved visual areas (defined as sensitivity increased by \u22656 decibels [dB] during 12 weeks) assessed using Humphrey visual field tests at baseline and 12 weeks.</p><h3>Results</h3><p>Of 93 enrolled stroke outpatients with VFDs, 82 were included in the final analysis (41 in the intervention group and 41 in the control group; median [IQR] age, 52 [42-65] years; 57 male [69.5%]). As primary measures, the training group, with a high adherence rate, showed significantly greater improvement (sensitivity increased by \u22656 dB) in the whole field (median difference, 72 [95% CI, 36-108] degrees squared;<i>P</i>\u2009=\u2009.003; mean [SD], 194.1 [197.3] vs 82.5 [95.0] degrees squared) and defective hemifield (median difference, 72 [95% CI, 36-108] degrees squared;<i>P</i>\u2009=\u2009.002; mean [SD], 158.9 [159.0] vs 72.0 [91.4] degrees squared) compared with the control group. As secondary measures, mean (SD) Humphrey visual field test scores improved after 12 weeks in the training group (whole field: 0.72 [1.55] dB;<i>P</i>\u2009=\u2009.005; defective hemifield: 1.20 [2.08] dB;<i>P</i>\u2009&lt;\u2009.001) but not in the control group (whole field: 0.03 [1.30] dB;<i>P</i>\u2009=\u2009.88; defective hemifield: 0.06 [1.85] dB;<i>P</i>\u2009=\u2009.84).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial of a digital therapeutic for chronic poststroke VFDs, the visual perceptual learning\u2013based training demonstrated significant improvements in the whole field and defective hemifield.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05525949</p>",
-            "date_published": "2025-05-19T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834661",
+            "title": "Machine Learning to Predict Critical Events in Pediatric Care",
+            "summary": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
+            "content_text": "The prediction of critical events in hospitalized children is a key aspect of improving patient care, particularly in enhancing emergency clinical outcomes and ensuring patient safety in pediatric health care settings. Traditional pediatric risk assessment tools, such as the Bedside Pediatric Early Warning Score and the quick Sepsis-related Organ Failure Assessment, have demonstrated limitations in predicting deteriorating conditions effectively due to lack of personalization and subjective clinical judgment. As a result, there has been increasing interest in integrating machine learning (ML) models to complement traditional methods, offering improved capabilities for identifying risk factors and predicting critical events, such as the need for mechanical ventilation, cardiac arrest, or ventricular fibrillation. 1 Studies have demonstrated that ML algorithms offer significant improvements in predicting critical clinical outcomes compared with conventional tools, enabling timely clinical decisions and potentially reducing morbidity and mortality among hospitalized children. 2 Additionally, ML can predict critical events quickly and accurately using electronic health records. 3",
+            "date_published": "2025-05-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Eun Namgung, PhD"
+                    "name": "Muhammad Mahbubur Rahman, PhD"
                 }
             ],
             "tags": [
-                "cerebrovascular accident",
-                "ischemic stroke",
-                "perceptual learning",
-                "visual discrimination",
-                "visual field defects",
-                "visual impairment"
+                "machine learning",
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834246/namgung_2025_oi_250384_1747078186.49022.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834661/rahman_2025_ic_250103_1747842053.2432.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250384f1_1747078186.72026.png?Expires=2147483647&Signature=GrXvVhVbaCE98bIirdUgI9ssjxMY5gSJilswqFgtBDSCmJchsYG9Dfr4SIMBmjzdXzZqe5ka3phtPqu7hMPVRhcxWjy7gofIhXO0az-YGJjMZly1ZqWMiKmnuMTCHo-3-xMA-ailqrttWoIwlPXbgljERfmg7bp8vBP5O7TR~RuB0OwDL3IX8uXvRSVejLH0ou8nUsqGv0oALRIsx81lOiGCJryM6gCSSOrgWzaQSbyoAke-wnkRUZf8bBZUCkfWrlrhkl3~v6U7ejYyskgV9k1IlvLDS-UI~s77pFvahYKO2QHTL5litu6qs0Zm07jEHG3iin9Zx6dbFGTVMXnCuA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -893,33 +889,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939353/srv230010f1_1711661264.54467.png?Expires=2147483647&Signature=Ozq-91RuyXuWpynfCIAhuix8q1S-eFchmcK1OVu1qeLUvg4ybxnS26Q9B4AeXuZCsdL2zWWv-zyDZj9VJUokrQ0CY5-5rRFPwpFL4f~pJYb1yZGzhWzsVPlXqFWf71JDxPXPvWBAnlMLV~gAsyNF72Ho8zP91cYZECNs1zVW~1kipTyFiPkb7Q0xpoYFPtIUJU4ZOp~WaBCgLXxlBzy8mGTQ3UmS2JuCjQju75PyiNk0j6cABPPu6xipWGlMPrwetwvw2RhntFta7LI2rcYWGPOW21i1edjehAGAwTv8Wck7h4B1skHl58mJ3Ce6RJMXUQj23JOKuYDKUvBlFLyN2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
