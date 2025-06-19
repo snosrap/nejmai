@@ -4,38 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
-            "title": "A Machine Learning Trauma Triage Model for Critical Care Transport",
-            "summary": "This cohort study describes the development of a machine learning model to identify single-patient administration of lifesaving interventions from a brief epoch of physiological waveform data among critically ill patients with trauma in the prehospital setting.",
-            "content_html": "<h3>Importance</h3><p>Under austere prehospital conditions, rapid classification of injured patients for intervention or transport is essential for providing lifesaving care. Discerning which patients need care most urgently further allows for optimal allocation of limited resources. These triage processes are hindered by the limited diagnostic resources and modalities available in the prehospital environment.</p><h3>Objective</h3><p>To develop a triage model for prehospital use in patients with traumatic injury supported by machine learning (ML) analysis of continuous physiological waveform signals and derived patterns of vital signs.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from January 1, 2018, to November 18, 2021, from critically ill patients with trauma transported by a large critical care air transport system serving Pennsylvania and surrounding states. Patients were included if classified as a trauma case by treating prehospital clinicians during a scene run by the transport service. Data were analyzed from May to November of 2024.</p><h3>Exposures</h3><p>Metrics derived from physiological waveform signal and vital sign patterns during the first 15 minutes following initiation of patient care and transport.</p><h3>Main Outcomes and Measures</h3><p>Administration of a lifesaving intervention (LSI) occurring within a 2-minute epoch during patient care. An ensemble ML approach was applied to predict LSI occurrence from physiological features recorded in the 2-minute epoch immediately preceding the LSI epoch.</p><h3>Results</h3><p>A total of 2809 participants were included in the analysis (mean [SD] age, 47.7 [19.5] years; 1981 [70.5%] men). These participants had 15\u202f088 two-minute epochs that yielded physiological data recording, of which 910 (6.0%) included an LSI. Good model performance was observed for predicting overall LSI, with an area under the receiver operating characteristics curve of 0.810 (95% CI, 0.782-0.842); sensitivity, 0.268 (95% CI, 0.193-0.357); positive predictive value, 0.301 (95% CI, 0.228-0.356); positive likelihood ratio, 6.793 (95% CI, 4.887-8.795); specificity, 0.960 (95% CI, 0.947-0.972); negative predictive value, 0.953 (95% CI, 0.943-0.964); and negative likelihood ratio, 0.763 (95% CI, 0.680-0.837). Performance was equivalent or better when predicting several LSI subcategories (eg, airway intervention, blood transfusion, vasopressor medication), when using physiological features captured up to 15 minutes prior to LSI administration, when predicting only the first LSI occurrence for each patient, and across mechanism of injury.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of critically ill patients with trauma in the prehospital setting, an ML-based triage model using physiological features provided accurate predictions of lifesaving intervention delivery to single patients. Modeling approaches could be deployed in the field to help streamline and augment prehospital triage.</p>",
-            "date_published": "2025-06-09T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834246",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834246",
+            "title": "Personalized Visual Perceptual Learning Digital Therapy for Visual Field Defects Following Stroke: A",
+            "summary": "This randomized clinical trial evaluates whether 12 weeks of personalized digital therapeutic training improves visual field defects in patients after stroke.",
+            "content_html": "<h3>Importance</h3><p>Effective treatments for restoring visual field defects (VFDs) in patients with stroke necessitate validation through randomized clinical trials.</p><h3>Objective</h3><p>To evaluate the efficacy and safety of a personalized digital therapeutic based on visual perceptual learning for treating poststroke VFDs.</p><h3>Design, Setting, and Participants</h3><p>A multicenter randomized clinical trial was conducted from October 19, 2022, to November 8, 2023, at 12 hospitals in South Korea. The study included poststroke outpatients 19 years or older with persistent VFDs (&gt;3 months after stroke) and neuroimaging-confirmed stroke lesions in the visual pathway.</p><h3>Intervention</h3><p>The training group underwent personalized visual discrimination tasks (orientation and rotation) using a mobile virtual reality headset 5 days a week for 12 weeks, with 360 trials per day. The control group received no intervention.</p><h3>Main Outcome and Measures</h3><p>The primary outcome was improved visual areas (defined as sensitivity increased by \u22656 decibels [dB] during 12 weeks) assessed using Humphrey visual field tests at baseline and 12 weeks.</p><h3>Results</h3><p>Of 93 enrolled stroke outpatients with VFDs, 82 were included in the final analysis (41 in the intervention group and 41 in the control group; median [IQR] age, 52 [42-65] years; 57 male [69.5%]). As primary measures, the training group, with a high adherence rate, showed significantly greater improvement (sensitivity increased by \u22656 dB) in the whole field (median difference, 72 [95% CI, 36-108] degrees squared;<i>P</i>\u2009=\u2009.003; mean [SD], 194.1 [197.3] vs 82.5 [95.0] degrees squared) and defective hemifield (median difference, 72 [95% CI, 36-108] degrees squared;<i>P</i>\u2009=\u2009.002; mean [SD], 158.9 [159.0] vs 72.0 [91.4] degrees squared) compared with the control group. As secondary measures, mean (SD) Humphrey visual field test scores improved after 12 weeks in the training group (whole field: 0.72 [1.55] dB;<i>P</i>\u2009=\u2009.005; defective hemifield: 1.20 [2.08] dB;<i>P</i>\u2009&lt;\u2009.001) but not in the control group (whole field: 0.03 [1.30] dB;<i>P</i>\u2009=\u2009.88; defective hemifield: 0.06 [1.85] dB;<i>P</i>\u2009=\u2009.84).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial of a digital therapeutic for chronic poststroke VFDs, the visual perceptual learning\u2013based training demonstrated significant improvements in the whole field and defective hemifield.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05525949</p>",
+            "date_published": "2025-05-19T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Aaron C. Weidman, PhD"
+                    "name": "Eun Namgung, PhD"
                 }
             ],
             "tags": [
-                "airway device",
-                "airway structure",
-                "blood transfusion",
-                "care of intensive care unit patient",
-                "critical illness",
-                "epoch protocol",
-                "laser speckle contrast imaging",
-                "machine learning",
-                "triage",
-                "vital signs",
-                "waveforms",
-                "wounds and injuries"
+                "cerebrovascular accident",
+                "ischemic stroke",
+                "perceptual learning",
+                "visual discrimination",
+                "visual field defects",
+                "visual impairment"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835117/weidman_2025_oi_250351_1748641553.23561.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834246/namgung_2025_oi_250384_1747078186.49022.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250351f1_1748641553.38561.png?Expires=2147483647&Signature=NtQ0TF0am8X~gfz1lgXF964kbWErqDC~I6JztC3vKHEH6xfeKDQMiH2Tbwvj7p7HioBGJYVVz6Anp7A6W4K~-cu50lskpf31wDEShQu5ISzRH284NPN0M4Gp6LV9d6OFZ7KvG8m5M7XmJHlksGlhwGtoLh5B3QeZt7Fh2ZvAobhcHzp2UduCW~nl19rpe~YwsURaxNIpC0BMZb7hBzgq2lGcZur2wXaZH-T8bLZogV4JDRwTmM2P175NlHqEl0eYbOzBzqY5GLXaVNPmdtsU2BcgnaLDqBINsFKK5FNV-o07TbRTmJP2vOPFm3PWcmQ1uRVsHOIfCm2KqxMKEG2uVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250384f1_1747078186.72026.png?Expires=2147483647&Signature=GrXvVhVbaCE98bIirdUgI9ssjxMY5gSJilswqFgtBDSCmJchsYG9Dfr4SIMBmjzdXzZqe5ka3phtPqu7hMPVRhcxWjy7gofIhXO0az-YGJjMZly1ZqWMiKmnuMTCHo-3-xMA-ailqrttWoIwlPXbgljERfmg7bp8vBP5O7TR~RuB0OwDL3IX8uXvRSVejLH0ou8nUsqGv0oALRIsx81lOiGCJryM6gCSSOrgWzaQSbyoAke-wnkRUZf8bBZUCkfWrlrhkl3~v6U7ejYyskgV9k1IlvLDS-UI~s77pFvahYKO2QHTL5litu6qs0Zm07jEHG3iin9Zx6dbFGTVMXnCuA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -899,6 +893,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939353/srv230010f1_1711661264.54467.png?Expires=2147483647&Signature=Ozq-91RuyXuWpynfCIAhuix8q1S-eFchmcK1OVu1qeLUvg4ybxnS26Q9B4AeXuZCsdL2zWWv-zyDZj9VJUokrQ0CY5-5rRFPwpFL4f~pJYb1yZGzhWzsVPlXqFWf71JDxPXPvWBAnlMLV~gAsyNF72Ho8zP91cYZECNs1zVW~1kipTyFiPkb7Q0xpoYFPtIUJU4ZOp~WaBCgLXxlBzy8mGTQ3UmS2JuCjQju75PyiNk0j6cABPPu6xipWGlMPrwetwvw2RhntFta7LI2rcYWGPOW21i1edjehAGAwTv8Wck7h4B1skHl58mJ3Ce6RJMXUQj23JOKuYDKUvBlFLyN2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
