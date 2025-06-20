@@ -4,32 +4,38 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834850",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834850",
-            "title": "Accuracy of Artificial Intelligence for Gatekeeping in Referrals to Specialized Care",
-            "summary": "This diagnostic study examines the accuracy of an artificial intelligence model to evaluate primary care referrals to specialty care in Brazil.",
-            "content_html": "<h3>Importance</h3><p>Integrating artificial intelligence (AI) technologies into gatekeeping holds significant potential, as it efficiently handles repetitive tasks and can process large amounts of information quickly.</p><h3>Objective</h3><p>To develop and assess the accuracy of an AI model that enhances the gatekeeping process for referrals to specialized care.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study comprised referrals from primary care to endocrinology, gastroenterology, proctology, rheumatology, and urology from a retrospective administrative database of patients in Brazil between June 2016 and April 2019. Analysis was performed between December 2022 and July 2024.</p><h3>Main Outcomes and Measures</h3><p>The algorithm\u2019s development and testing comprised 2 stages. Multiple AI models were initially evaluated to train and test the algorithm for categorizing referrals as authorizing or requiring additional information. Subsequently, the model\u2019s performance was assessed against an independent set of referrals. Additionally, the current (human) evaluations of gatekeepers were evaluated against the standard. The reference standard was the consensus of 2 physicians with extensive experience. Accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve (AUC-ROC) were assessed.</p><h3>Results</h3><p>The electronic system retrieved 45\u202f039 eligible referrals for the development stage (mean [SD] patient age, 51.9 [15.8] years; 25\u202f458 women [56.5%]). An algorithm utilizing word embeddings and a neural network proved the most effective. In the second phase, 1750 referrals (350 for each specialty) showed a 32% authorization rate according to the reference standard. The AI model achieved an overall accuracy of 0.716 (95% IC, 0.694-0.737), with a sensitivity of 0.542 (95% CI, 0.501 to 0.582) and specificity of 0.801 (95% CI, 0.777 to 0.822). Regarding individual specialties, rheumatology exhibited the highest accuracy (0.811; 95% IC, 0.767-0.849), while proctology had the lowest (0.649; 95% IC, 0.597-0.697). The overall AUC-ROC was 0.765 (95% IC, 0.742-0.788). When compared against the consensus standard, the AI model had higher accuracy and specificity and lower sensitivity than the current approach.</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study of referral data, a novel AI model effectively distinguished between referrals that warranted immediate authorization and those that required further information with moderate accuracy; it had higher specificity and lower sensitivity than gatekeepers decisions. Implementing this AI model in the gatekeeping process should combine human judgment and AI support to optimize the referral process.</p>",
-            "date_published": "2025-06-03T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
+            "title": "A Machine Learning Trauma Triage Model for Critical Care Transport",
+            "summary": "This cohort study describes the development of a machine learning model to identify single-patient administration of lifesaving interventions from a brief epoch of physiological waveform data among critically ill patients with trauma in the prehospital setting.",
+            "content_html": "<h3>Importance</h3><p>Under austere prehospital conditions, rapid classification of injured patients for intervention or transport is essential for providing lifesaving care. Discerning which patients need care most urgently further allows for optimal allocation of limited resources. These triage processes are hindered by the limited diagnostic resources and modalities available in the prehospital environment.</p><h3>Objective</h3><p>To develop a triage model for prehospital use in patients with traumatic injury supported by machine learning (ML) analysis of continuous physiological waveform signals and derived patterns of vital signs.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from January 1, 2018, to November 18, 2021, from critically ill patients with trauma transported by a large critical care air transport system serving Pennsylvania and surrounding states. Patients were included if classified as a trauma case by treating prehospital clinicians during a scene run by the transport service. Data were analyzed from May to November of 2024.</p><h3>Exposures</h3><p>Metrics derived from physiological waveform signal and vital sign patterns during the first 15 minutes following initiation of patient care and transport.</p><h3>Main Outcomes and Measures</h3><p>Administration of a lifesaving intervention (LSI) occurring within a 2-minute epoch during patient care. An ensemble ML approach was applied to predict LSI occurrence from physiological features recorded in the 2-minute epoch immediately preceding the LSI epoch.</p><h3>Results</h3><p>A total of 2809 participants were included in the analysis (mean [SD] age, 47.7 [19.5] years; 1981 [70.5%] men). These participants had 15\u202f088 two-minute epochs that yielded physiological data recording, of which 910 (6.0%) included an LSI. Good model performance was observed for predicting overall LSI, with an area under the receiver operating characteristics curve of 0.810 (95% CI, 0.782-0.842); sensitivity, 0.268 (95% CI, 0.193-0.357); positive predictive value, 0.301 (95% CI, 0.228-0.356); positive likelihood ratio, 6.793 (95% CI, 4.887-8.795); specificity, 0.960 (95% CI, 0.947-0.972); negative predictive value, 0.953 (95% CI, 0.943-0.964); and negative likelihood ratio, 0.763 (95% CI, 0.680-0.837). Performance was equivalent or better when predicting several LSI subcategories (eg, airway intervention, blood transfusion, vasopressor medication), when using physiological features captured up to 15 minutes prior to LSI administration, when predicting only the first LSI occurrence for each patient, and across mechanism of injury.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of critically ill patients with trauma in the prehospital setting, an ML-based triage model using physiological features provided accurate predictions of lifesaving intervention delivery to single patients. Modeling approaches could be deployed in the field to help streamline and augment prehospital triage.</p>",
+            "date_published": "2025-06-09T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Piter Oliveira Vergara, MsC"
+                    "name": "Aaron C. Weidman, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "brazil",
-                "gatekeeping",
-                "patient referral",
-                "primary health care",
-                "reference standards"
+                "airway device",
+                "airway structure",
+                "blood transfusion",
+                "care of intensive care unit patient",
+                "critical illness",
+                "epoch protocol",
+                "laser speckle contrast imaging",
+                "machine learning",
+                "triage",
+                "vital signs",
+                "waveforms",
+                "wounds and injuries"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834850/vergara_2025_oi_250439_1748026085.2733.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835117/weidman_2025_oi_250351_1748641553.23561.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250439f1_1748026085.4133.png?Expires=2147483647&Signature=Y7pwFylqPasOj4DXTund72zY6fwf8pO60W9l1PB-ptLlnudH8fZwcU8RmT4L5ZFn4hSNuUWFwHOSFF8D7VFZxDFEPQFGYgKIUqfGl~0jB28ryhy24GuWAvGImfYZlsPrEGswrguhW9zysKtUXuhSyMfE5xo36xhRatK-nDDPiQZAhCqNgjfa8u-ntdeecVe~8n~QqtiKYZcbY1K9R15hDHCf3CbVv4YZOIN9rcg~i7bjxxHFAH~CMe8EZjg80LmqVVQ5ybFQfSPNoZm-MCHa-9L5WA6~oRVEtS0KD4Q042O9wB5ZWbW-GmWregai4BTWOSgzWqUwKKyQqjm29wAwNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250351f1_1748641553.38561.png?Expires=2147483647&Signature=NtQ0TF0am8X~gfz1lgXF964kbWErqDC~I6JztC3vKHEH6xfeKDQMiH2Tbwvj7p7HioBGJYVVz6Anp7A6W4K~-cu50lskpf31wDEShQu5ISzRH284NPN0M4Gp6LV9d6OFZ7KvG8m5M7XmJHlksGlhwGtoLh5B3QeZt7Fh2ZvAobhcHzp2UduCW~nl19rpe~YwsURaxNIpC0BMZb7hBzgq2lGcZur2wXaZH-T8bLZogV4JDRwTmM2P175NlHqEl0eYbOzBzqY5GLXaVNPmdtsU2BcgnaLDqBINsFKK5FNV-o07TbRTmJP2vOPFm3PWcmQ1uRVsHOIfCm2KqxMKEG2uVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -817,34 +823,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
-            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
-            "date_published": "2024-04-30T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "breast neoplasm screening",
-                "magnetic resonance imaging",
-                "malignant neoplasm of breast",
-                "mammography",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
