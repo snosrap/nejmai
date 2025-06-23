@@ -4,26 +4,24 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830390",
-            "title": "Ambient Listening\u2014Legal and Ethical Issues",
-            "summary": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "content_text": "In their excellent article, Duggan et al 1 assess clinician experiences with ambient listening as a clinical documentation assistant in the outpatient clinical setting, using an ambient listening artificial intelligence (AI) tool (DAX Copilot; Nuance) with an electronic health system mobile application (Haiku; Epic Systems). In this commentary, we seek to broaden the lens to consider the legal and ethical issues raised by deployment of ambient listening technologies, focusing on due diligence, informed consent, documentation, and its relation to malpractice liability. We believe these technologies are very promising, but potential adopters need to legally and ethically prepare for their adoption and plan around potential risks.",
-            "date_published": "2025-02-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833625",
+            "title": "Assessing the Impact of AI in Inpatient Diabetes Management",
+            "summary": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
+            "content_text": "The article by Ying et al 1 presents novel findings from a multisite randomized clinical trial focused on testing the noninferiority of an artificial intelligence (AI)\u2013based insulin clinical decision support system (iNCDSS). This study, conducted in China, recruited individuals with type 2 diabetes who were admitted to endocrinology wards for glucose optimization. Participants were randomized to titration using the iNCDSS compared with management by an experienced endocrinologist. During the 5-day hospitalization, both the clinical decision support group and the endocrinology group achieved excellent glycemic control with a time in range (TIR) of 76.4% and 73.6%, respectively. The inpatient setting presents unique, long-standing challenges to glucose management, and these results, along with the technology itself, are promising given the limited resources available in hospital settings. In the US, most patients admitted with diabetes do not receive endocrinologic management; instead, glycemic control is often managed by hospitalists and primary care teams who juggle a multitude of diagnoses. The ability to integrate a clinical decision support system that mimics the expertise of an endocrinologist could bridge a critical gap in hospitals, where the expertise of endocrinologists may not always be available.",
+            "date_published": "2025-05-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "I. Glenn Cohen, JD"
+                    "name": "Eileen R. Faulds, PhD"
                 }
             ],
             "tags": [
-                "ethics",
-                "health policy",
-                "listening",
-                "principles of law and justice"
+                "diabetes mellitus",
+                "non-insulin-dependent"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2830390/cohen_2025_ic_240371_1739220993.42676.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833625/faulds_2025_ic_250076_1745961538.81775.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
