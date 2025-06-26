@@ -4,28 +4,61 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2835720",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2835720",
+            "title": "How AI Could Increase Clinical Trial Enrollment in Adults With Cancer",
+            "summary": "Enrolling adults with cancer in clinical trials has historically been challenging, despite the critical role these trials play in developing new cancer treatments. To address this challenge, investigators at the Dana-Farber Cancer Institute (DFCI) developed an artificial intelligence (AI) tool that could make it easier to identify individuals who are eligible for clinical trials, potentially increasing enrollment as well.",
+            "content_text": "Enrolling adults with cancer in clinical trials has historically been challenging, despite the critical role these trials play in developing new cancer treatments. To address this challenge, investigators at the Dana-Farber Cancer Institute (DFCI) developed an artificial intelligence (AI) tool that could make it easier to identify individuals who are eligible for clinical trials, potentially increasing enrollment as well.",
+            "date_published": "2025-06-26T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "informatics (discipline)"
+                "malignant neoplasms"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2835720/jama_perlis_2025_en_250002_1750271916.09544.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250002fa_1750271916.16044.png?Expires=2147483647&Signature=M0ZEhN1fLRM61bieXq43KVkOg9QN9LXmzNT97SyBU3W1QHymLXqnB63hs9O4UZ-ZlY4tg211SBcPQ~C73UU4lyBHtVsgLTAEoMzOWyk9xwwQC211yRbZNM6W4dopmVIjla6E76sWHEuTmHeVux5CL469bIX6FJhQwcoyTBePgXutBt5uZet5-cbCpZga67wKHFP66why8WCaOF7v9igBu5~f~EcvnsdEtnM3w5ZqcrYqe3Ou7GKh2MUpMG7w6vOgsGezb0jj94kviNn2-Dv6IA2UP5C-sDVHbvNZVNN~8H~5708SFLgTGqvFrR2LZw3dNqQ3DDnAAv3RFB4TEg7Lgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
+            "title": "A Machine Learning Trauma Triage Model for Critical Care Transport",
+            "summary": "This cohort study describes the development of a machine learning model to identify single-patient administration of lifesaving interventions from a brief epoch of physiological waveform data among critically ill patients with trauma in the prehospital setting.",
+            "content_html": "<h3>Importance</h3><p>Under austere prehospital conditions, rapid classification of injured patients for intervention or transport is essential for providing lifesaving care. Discerning which patients need care most urgently further allows for optimal allocation of limited resources. These triage processes are hindered by the limited diagnostic resources and modalities available in the prehospital environment.</p><h3>Objective</h3><p>To develop a triage model for prehospital use in patients with traumatic injury supported by machine learning (ML) analysis of continuous physiological waveform signals and derived patterns of vital signs.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from January 1, 2018, to November 18, 2021, from critically ill patients with trauma transported by a large critical care air transport system serving Pennsylvania and surrounding states. Patients were included if classified as a trauma case by treating prehospital clinicians during a scene run by the transport service. Data were analyzed from May to November of 2024.</p><h3>Exposures</h3><p>Metrics derived from physiological waveform signal and vital sign patterns during the first 15 minutes following initiation of patient care and transport.</p><h3>Main Outcomes and Measures</h3><p>Administration of a lifesaving intervention (LSI) occurring within a 2-minute epoch during patient care. An ensemble ML approach was applied to predict LSI occurrence from physiological features recorded in the 2-minute epoch immediately preceding the LSI epoch.</p><h3>Results</h3><p>A total of 2809 participants were included in the analysis (mean [SD] age, 47.7 [19.5] years; 1981 [70.5%] men). These participants had 15\u202f088 two-minute epochs that yielded physiological data recording, of which 910 (6.0%) included an LSI. Good model performance was observed for predicting overall LSI, with an area under the receiver operating characteristics curve of 0.810 (95% CI, 0.782-0.842); sensitivity, 0.268 (95% CI, 0.193-0.357); positive predictive value, 0.301 (95% CI, 0.228-0.356); positive likelihood ratio, 6.793 (95% CI, 4.887-8.795); specificity, 0.960 (95% CI, 0.947-0.972); negative predictive value, 0.953 (95% CI, 0.943-0.964); and negative likelihood ratio, 0.763 (95% CI, 0.680-0.837). Performance was equivalent or better when predicting several LSI subcategories (eg, airway intervention, blood transfusion, vasopressor medication), when using physiological features captured up to 15 minutes prior to LSI administration, when predicting only the first LSI occurrence for each patient, and across mechanism of injury.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of critically ill patients with trauma in the prehospital setting, an ML-based triage model using physiological features provided accurate predictions of lifesaving intervention delivery to single patients. Modeling approaches could be deployed in the field to help streamline and augment prehospital triage.</p>",
+            "date_published": "2025-06-09T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Aaron C. Weidman, PhD"
+                }
+            ],
+            "tags": [
+                "airway device",
+                "airway structure",
+                "blood transfusion",
+                "care of intensive care unit patient",
+                "critical illness",
+                "epoch protocol",
+                "laser speckle contrast imaging",
+                "machine learning",
+                "triage",
+                "vital signs",
+                "waveforms",
+                "wounds and injuries"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835117/weidman_2025_oi_250351_1748641553.23561.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250351f1_1748641553.38561.png?Expires=2147483647&Signature=NtQ0TF0am8X~gfz1lgXF964kbWErqDC~I6JztC3vKHEH6xfeKDQMiH2Tbwvj7p7HioBGJYVVz6Anp7A6W4K~-cu50lskpf31wDEShQu5ISzRH284NPN0M4Gp6LV9d6OFZ7KvG8m5M7XmJHlksGlhwGtoLh5B3QeZt7Fh2ZvAobhcHzp2UduCW~nl19rpe~YwsURaxNIpC0BMZb7hBzgq2lGcZur2wXaZH-T8bLZogV4JDRwTmM2P175NlHqEl0eYbOzBzqY5GLXaVNPmdtsU2BcgnaLDqBINsFKK5FNV-o07TbRTmJP2vOPFm3PWcmQ1uRVsHOIfCm2KqxMKEG2uVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
