@@ -4,76 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
-            "title": "Retrieval Augmented Generation\u2013Enabled Large Language Model for Risk Stratification of Cutaneous Squamous Cell",
-            "summary": "This diagnostic study examines a customized generative pretrained transformer model in aggregating and interpreting data to develop a class-based risk stratification system for cutaneous squamous cell carcinoma.",
-            "content_html": "<h3>Importance</h3><p>There exists substantial heterogeneity in outcomes within T stages for patients with cutaneous squamous cell carcinoma (cSCC).</p><h3>Objective</h3><p>To determine whether a customized generative pretrained transformer model, trained on a comprehensive dataset with more than 1 trillion parameters and equipped with relevant focused context and retrieval augmented generation (RAG), could excel in aggregating and interpreting vast quantities of data to develop a novel class-based risk stratification system that outperforms the current standards.</p><h3>Design, Setting, and Participants</h3><p>To build the RAG knowledge base, a systematic review of the literature was conducted that addressed risk factors for poor outcomes in cSCC. Using the RAG-enabled generative pretrained transformer (GPT) model, we developed a novel class-based risk stratification system that assigned point values for risk factors, culminating in a GPT-based prognostication system called the artificial intelligence\u2013derived risk score (AIRIS). The system\u2019s performance was validated on a combined prospective and retrospective cohort of 2379 primary cSCC tumors (1996-2023) with at least 36 months of follow-up, against Brigham and Women\u2019s Hospital (BWH) and<i>American Joint Committee on Cancer Staging Manual, eighth edition</i>(<i>AJCC8</i>) systems in stratifying risk for locoregional recurrence (LR), nodal metastasis (NM), distant metastasis (DM), and disease-specific death (DSD).</p><h3>Main Outcomes and Measures</h3><p>Performance metrics evaluated included distinctiveness, homogeneity, and monotonicity, as defined by the<i>AJCC8</i>, as well as sensitivity, specificity, positive predictive value, negative predictive value, accuracy, the area under the receiver operating characteristic curve, and concordance.</p><h3>Results</h3><p>The median age at diagnosis was 73 (IQR, 64-81) years, with 38.5% female patients and 61.5% male patients. The AIRIS prognostication system demonstrated superior sensitivity across all outcomes (LR, 49.1%; NM, 73.7%; DM, 82.5%; and DSD, 72.2%) and the highest area under the receiver operating characteristic curve values (LR, 0.69; NM, 0.81; DM, 0.85; and DSD, 0.80), indicating significantly enhanced discriminative capability compared with the BWH and<i>AJCC8</i>systems. While all systems were comparably distinctive, the AIRIS prognostication system consistently demonstrated the lowest proportion of tumors exhibiting poor outcomes in low-risk categories, suggesting its improved homogeneity and monotonicity.</p><h3>Conclusions and Relevance</h3><p>The results of this diagnostic study suggest that the AIRIS system outperforms the existing BWH and<i>AJCC8</i>prognostication systems, potentially providing a more effective tool for predicting poor outcomes in cSCC. This study illustrates the potential of large language models in refining prognostic tools, offering implications for treating patients with cancer.</p>",
-            "date_published": "2025-06-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "title": "Bridging the Gap Between Developers and Implementers in Health AI",
+            "summary": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "content_text": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "date_published": "2025-06-20T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Neil K. Jairath, MD"
+                    "name": "Michael J. Pencina, PhD"
                 }
             ],
             "tags": [
-                "disorders of sex development",
-                "homogeneity",
-                "large language models",
-                "malignant neoplasms",
-                "neoplasms",
-                "retrieval-augmented generation",
-                "squamous cell carcinoma of skin"
+                "artificial intelligence",
+                "health policy",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835069/jamadermatology_jairath_2025_oi_250023_1748619226.01723.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835280/pencina_2025_vp_250017_1749148938.67942.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250023t1_1748619226.21411.png?Expires=2147483647&Signature=CQ5nlLsZghNrUxtlYVVJbrpmTZBuSf2R~oa2itAM3akLjXlj1HBiIPIPc1O8RUkKi0cNufFwdopnBOgNAjCjThmMKQIDZaswCm5-6o~g0ue8eb02jXFXp-AQgvBcUUHTjaKv42pe0gDrmfLALgvpsSfNb2q0uk6t8XAMtv2a3BJPbisCQvWWhYkNM0cpcjk~6yjy5FSfRrUI5deyucNnccJlajX8vjEoSpgb-4tlrSiM7-9bGdvJ0agxCwR9olXdRGoSkH2fgEd-eR7KFYpXP-gm3I3zT2lJi6E5MOQLjyTtJ9iUU6yezQt~Vt8GRggBdZBv2VA2GdswR7j2XSkNDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833286",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833286",
-            "title": "Cumulative Burden of Digital Health Technologies for Patients With Multimorbidity: A Systematic Review",
-            "summary": "This systematic review identifies digital health technologies (DHTs) prescribable for a hypothetical patient with 5 conditions and models the number of DHTs this patient would need to use to receive benefits health professionals considered important.",
-            "content_html": "<h3>Importance</h3><p>Digital health technologies (DHTs) aiming to monitor, treat, and manage diseases can be prescribed for patients with multimorbidity; yet most DHTs are designed for individual conditions or problems, while approximately half of patients with chronic conditions have multiple chronic conditions.</p><h3>Objectives</h3><p>To identify DHTs approved by the US Food and Drug Administration (FDA) or listed in the Organisation for the Review of Care and Health Apps (ORCHA) library and prescribable for a hypothetical patient with 5 conditions and to model the number of DHTs this patient should be prescribed to receive benefits health professionals considered important.</p><h3>Evidence Review</h3><p>The FDA databases (Premarket Notification 510(k), Premarket Approval, and De Novo) and the ORCHA App Library from National Health Service Somerset were systematically searched for DHTs registered or updated between January 1, 2019, and December 31, 2022, that could be prescribed to a hypothetical woman with 5 chronic conditions (type 2 diabetes, hypertension, chronic obstructive pulmonary disease, osteoporosis, and osteoarthritis). After abstracting each DHT\u2019s elementary functions (ie, simple and delineated features to monitor, treat, and/or manage conditions), an assessment was undertaken to determine the fewest DHTs this hypothetical patient should be prescribed to receive benefit from digital functions health professionals considered important.</p><h3>Findings</h3><p>A total of 148 DHTs were identified (68 [46%] from FDA databases), of which 96 (65%) involved devices and 52 (35%) were standalone health apps. Only 5 DHTs (3.4%) were intended for 2 or more conditions. DHTs offered 140 elementary functions, ranging from recording, tracking, or visualizing health parameters to providing information to digital therapeutics with just-in-time interventions. The hypothetical patient would need to be prescribed up to 13 apps and 7 devices (a blood pressure monitor, a smartwatch, a pulse oximeter, a connected weight scale, a sensor-attached inhaler to monitor adherence, a lung function monitor, and a blood glucose sensor) to receive benefits from 28 functions at least 3 of 5 health professionals considered important.</p><h3>Conclusions and Relevance</h3><p>This systematic review found that almost all prescribable DHTs were developed for a single condition or problem. Thus, patients with multiple chronic conditions would have to routinize many DHTs concurrently in daily life to benefit from digital functions health professionals considered important.</p>",
-            "date_published": "2025-04-25T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Ngan Thi Thuy Phi, MSc"
-                }
-            ],
-            "tags": [
-                "blood glucose",
-                "chronic disease",
-                "degenerative polyarthritis",
-                "diabetes mellitus",
-                "digital health",
-                "health personnel",
-                "hypertension chronic",
-                "inhaler",
-                "lung diseases",
-                "mobile applications",
-                "multiple chronic conditions",
-                "non-insulin-dependent",
-                "organization administrative structures",
-                "osteoporosis",
-                "oximetry",
-                "pulmonary function tests",
-                "pulse",
-                "sensor (device)",
-                "smartwatches",
-                "technology",
-                "united states food and drug administration"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833286/phi_2025_oi_250273_1744992051.46282.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250273f1_1744992051.66724.png?Expires=2147483647&Signature=Uus38EG1ixTLSxUrm3ijCyPqPmKLmjQJxySFRUC6O4OyNuto-tW5MF687W8J-yw5ywEqQCZp1d9Y89NbEAuQSLrqIBGlS1auX7ElL6hE7vvpfpr1H-W9iKvZsOxQGhK6ELsDnZHI2JKRV0EH4aFXtiKPEr-DxWtctPU4TcI2ohe3e1rEAHMULnjJuNpbSNXYqzHM6rdYzHhL7HWW33Hc-99ox9BTgHv3-fspAYGthguA7OCkxZSzggnaHy-eSiwhjMirfFuohwbjhfBzlJrzFL39arupd9nGcyBnP~eHp2qL5RE9sY3ijB6UAW9y62ihRbz6JPzDhHr9Ye-Ot7Ye3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939627/avp250017t1_1749148938.84406.png?Expires=2147483647&Signature=jkog3PtzPJMtl5jp5MsCR8cUuBrhjb1vh1lI5O-rBLM9wL5oCYzLehG9W21tycXA0qVM166j1OZJfQPs~IX8hsTzuEI5o6~Me4PAakDsm-o1x0dl0J05gplocy-All56k08EHyqj1m0Nvtbc6RQgMS~wZDnBeh~wgLyXXyh6f-Jgm3EfTxWFDsQ1E0R-8rObk1X-8HH2vRrKA5ctLhFhKccdS4n9PjkRHQTjk19ZF9BWAR7XN8f~gr3Pfr9lIVUdHoq5bDsIXVk07i9nLzXLU0k8XKtH8G9EJ8VKZ~yRDil5me~6Qfuw9PvSkwhigzhpI1cr0fXMb-ilYErIZcElQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -937,6 +890,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939353/srv230010f1_1711661264.54467.png?Expires=2147483647&Signature=Ozq-91RuyXuWpynfCIAhuix8q1S-eFchmcK1OVu1qeLUvg4ybxnS26Q9B4AeXuZCsdL2zWWv-zyDZj9VJUokrQ0CY5-5rRFPwpFL4f~pJYb1yZGzhWzsVPlXqFWf71JDxPXPvWBAnlMLV~gAsyNF72Ho8zP91cYZECNs1zVW~1kipTyFiPkb7Q0xpoYFPtIUJU4ZOp~WaBCgLXxlBzy8mGTQ3UmS2JuCjQju75PyiNk0j6cABPPu6xipWGlMPrwetwvw2RhntFta7LI2rcYWGPOW21i1edjehAGAwTv8Wck7h4B1skHl58mJ3Ce6RJMXUQj23JOKuYDKUvBlFLyN2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
