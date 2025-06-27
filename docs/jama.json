@@ -4,61 +4,76 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2835720",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2835720",
-            "title": "How AI Could Increase Clinical Trial Enrollment in Adults With Cancer",
-            "summary": "Enrolling adults with cancer in clinical trials has historically been challenging, despite the critical role these trials play in developing new cancer treatments. To address this challenge, investigators at the Dana-Farber Cancer Institute (DFCI) developed an artificial intelligence (AI) tool that could make it easier to identify individuals who are eligible for clinical trials, potentially increasing enrollment as well.",
-            "content_text": "Enrolling adults with cancer in clinical trials has historically been challenging, despite the critical role these trials play in developing new cancer treatments. To address this challenge, investigators at the Dana-Farber Cancer Institute (DFCI) developed an artificial intelligence (AI) tool that could make it easier to identify individuals who are eligible for clinical trials, potentially increasing enrollment as well.",
-            "date_published": "2025-06-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
+            "title": "Retrieval Augmented Generation\u2013Enabled Large Language Model for Risk Stratification of Cutaneous Squamous Cell",
+            "summary": "This diagnostic study examines a customized generative pretrained transformer model in aggregating and interpreting data to develop a class-based risk stratification system for cutaneous squamous cell carcinoma.",
+            "content_html": "<h3>Importance</h3><p>There exists substantial heterogeneity in outcomes within T stages for patients with cutaneous squamous cell carcinoma (cSCC).</p><h3>Objective</h3><p>To determine whether a customized generative pretrained transformer model, trained on a comprehensive dataset with more than 1 trillion parameters and equipped with relevant focused context and retrieval augmented generation (RAG), could excel in aggregating and interpreting vast quantities of data to develop a novel class-based risk stratification system that outperforms the current standards.</p><h3>Design, Setting, and Participants</h3><p>To build the RAG knowledge base, a systematic review of the literature was conducted that addressed risk factors for poor outcomes in cSCC. Using the RAG-enabled generative pretrained transformer (GPT) model, we developed a novel class-based risk stratification system that assigned point values for risk factors, culminating in a GPT-based prognostication system called the artificial intelligence\u2013derived risk score (AIRIS). The system\u2019s performance was validated on a combined prospective and retrospective cohort of 2379 primary cSCC tumors (1996-2023) with at least 36 months of follow-up, against Brigham and Women\u2019s Hospital (BWH) and<i>American Joint Committee on Cancer Staging Manual, eighth edition</i>(<i>AJCC8</i>) systems in stratifying risk for locoregional recurrence (LR), nodal metastasis (NM), distant metastasis (DM), and disease-specific death (DSD).</p><h3>Main Outcomes and Measures</h3><p>Performance metrics evaluated included distinctiveness, homogeneity, and monotonicity, as defined by the<i>AJCC8</i>, as well as sensitivity, specificity, positive predictive value, negative predictive value, accuracy, the area under the receiver operating characteristic curve, and concordance.</p><h3>Results</h3><p>The median age at diagnosis was 73 (IQR, 64-81) years, with 38.5% female patients and 61.5% male patients. The AIRIS prognostication system demonstrated superior sensitivity across all outcomes (LR, 49.1%; NM, 73.7%; DM, 82.5%; and DSD, 72.2%) and the highest area under the receiver operating characteristic curve values (LR, 0.69; NM, 0.81; DM, 0.85; and DSD, 0.80), indicating significantly enhanced discriminative capability compared with the BWH and<i>AJCC8</i>systems. While all systems were comparably distinctive, the AIRIS prognostication system consistently demonstrated the lowest proportion of tumors exhibiting poor outcomes in low-risk categories, suggesting its improved homogeneity and monotonicity.</p><h3>Conclusions and Relevance</h3><p>The results of this diagnostic study suggest that the AIRIS system outperforms the existing BWH and<i>AJCC8</i>prognostication systems, potentially providing a more effective tool for predicting poor outcomes in cSCC. This study illustrates the potential of large language models in refining prognostic tools, offering implications for treating patients with cancer.</p>",
+            "date_published": "2025-06-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Neil K. Jairath, MD"
                 }
             ],
             "tags": [
-                "malignant neoplasms"
+                "disorders of sex development",
+                "homogeneity",
+                "large language models",
+                "malignant neoplasms",
+                "neoplasms",
+                "retrieval-augmented generation",
+                "squamous cell carcinoma of skin"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2835720/jama_perlis_2025_en_250002_1750271916.09544.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835069/jamadermatology_jairath_2025_oi_250023_1748619226.01723.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250002fa_1750271916.16044.png?Expires=2147483647&Signature=M0ZEhN1fLRM61bieXq43KVkOg9QN9LXmzNT97SyBU3W1QHymLXqnB63hs9O4UZ-ZlY4tg211SBcPQ~C73UU4lyBHtVsgLTAEoMzOWyk9xwwQC211yRbZNM6W4dopmVIjla6E76sWHEuTmHeVux5CL469bIX6FJhQwcoyTBePgXutBt5uZet5-cbCpZga67wKHFP66why8WCaOF7v9igBu5~f~EcvnsdEtnM3w5ZqcrYqe3Ou7GKh2MUpMG7w6vOgsGezb0jj94kviNn2-Dv6IA2UP5C-sDVHbvNZVNN~8H~5708SFLgTGqvFrR2LZw3dNqQ3DDnAAv3RFB4TEg7Lgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250023t1_1748619226.21411.png?Expires=2147483647&Signature=CQ5nlLsZghNrUxtlYVVJbrpmTZBuSf2R~oa2itAM3akLjXlj1HBiIPIPc1O8RUkKi0cNufFwdopnBOgNAjCjThmMKQIDZaswCm5-6o~g0ue8eb02jXFXp-AQgvBcUUHTjaKv42pe0gDrmfLALgvpsSfNb2q0uk6t8XAMtv2a3BJPbisCQvWWhYkNM0cpcjk~6yjy5FSfRrUI5deyucNnccJlajX8vjEoSpgb-4tlrSiM7-9bGdvJ0agxCwR9olXdRGoSkH2fgEd-eR7KFYpXP-gm3I3zT2lJi6E5MOQLjyTtJ9iUU6yezQt~Vt8GRggBdZBv2VA2GdswR7j2XSkNDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835117",
-            "title": "A Machine Learning Trauma Triage Model for Critical Care Transport",
-            "summary": "This cohort study describes the development of a machine learning model to identify single-patient administration of lifesaving interventions from a brief epoch of physiological waveform data among critically ill patients with trauma in the prehospital setting.",
-            "content_html": "<h3>Importance</h3><p>Under austere prehospital conditions, rapid classification of injured patients for intervention or transport is essential for providing lifesaving care. Discerning which patients need care most urgently further allows for optimal allocation of limited resources. These triage processes are hindered by the limited diagnostic resources and modalities available in the prehospital environment.</p><h3>Objective</h3><p>To develop a triage model for prehospital use in patients with traumatic injury supported by machine learning (ML) analysis of continuous physiological waveform signals and derived patterns of vital signs.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study used data from January 1, 2018, to November 18, 2021, from critically ill patients with trauma transported by a large critical care air transport system serving Pennsylvania and surrounding states. Patients were included if classified as a trauma case by treating prehospital clinicians during a scene run by the transport service. Data were analyzed from May to November of 2024.</p><h3>Exposures</h3><p>Metrics derived from physiological waveform signal and vital sign patterns during the first 15 minutes following initiation of patient care and transport.</p><h3>Main Outcomes and Measures</h3><p>Administration of a lifesaving intervention (LSI) occurring within a 2-minute epoch during patient care. An ensemble ML approach was applied to predict LSI occurrence from physiological features recorded in the 2-minute epoch immediately preceding the LSI epoch.</p><h3>Results</h3><p>A total of 2809 participants were included in the analysis (mean [SD] age, 47.7 [19.5] years; 1981 [70.5%] men). These participants had 15\u202f088 two-minute epochs that yielded physiological data recording, of which 910 (6.0%) included an LSI. Good model performance was observed for predicting overall LSI, with an area under the receiver operating characteristics curve of 0.810 (95% CI, 0.782-0.842); sensitivity, 0.268 (95% CI, 0.193-0.357); positive predictive value, 0.301 (95% CI, 0.228-0.356); positive likelihood ratio, 6.793 (95% CI, 4.887-8.795); specificity, 0.960 (95% CI, 0.947-0.972); negative predictive value, 0.953 (95% CI, 0.943-0.964); and negative likelihood ratio, 0.763 (95% CI, 0.680-0.837). Performance was equivalent or better when predicting several LSI subcategories (eg, airway intervention, blood transfusion, vasopressor medication), when using physiological features captured up to 15 minutes prior to LSI administration, when predicting only the first LSI occurrence for each patient, and across mechanism of injury.</p><h3>Conclusions and Relevance</h3><p>In this cohort study of critically ill patients with trauma in the prehospital setting, an ML-based triage model using physiological features provided accurate predictions of lifesaving intervention delivery to single patients. Modeling approaches could be deployed in the field to help streamline and augment prehospital triage.</p>",
-            "date_published": "2025-06-09T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833286",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833286",
+            "title": "Cumulative Burden of Digital Health Technologies for Patients With Multimorbidity: A Systematic Review",
+            "summary": "This systematic review identifies digital health technologies (DHTs) prescribable for a hypothetical patient with 5 conditions and models the number of DHTs this patient would need to use to receive benefits health professionals considered important.",
+            "content_html": "<h3>Importance</h3><p>Digital health technologies (DHTs) aiming to monitor, treat, and manage diseases can be prescribed for patients with multimorbidity; yet most DHTs are designed for individual conditions or problems, while approximately half of patients with chronic conditions have multiple chronic conditions.</p><h3>Objectives</h3><p>To identify DHTs approved by the US Food and Drug Administration (FDA) or listed in the Organisation for the Review of Care and Health Apps (ORCHA) library and prescribable for a hypothetical patient with 5 conditions and to model the number of DHTs this patient should be prescribed to receive benefits health professionals considered important.</p><h3>Evidence Review</h3><p>The FDA databases (Premarket Notification 510(k), Premarket Approval, and De Novo) and the ORCHA App Library from National Health Service Somerset were systematically searched for DHTs registered or updated between January 1, 2019, and December 31, 2022, that could be prescribed to a hypothetical woman with 5 chronic conditions (type 2 diabetes, hypertension, chronic obstructive pulmonary disease, osteoporosis, and osteoarthritis). After abstracting each DHT\u2019s elementary functions (ie, simple and delineated features to monitor, treat, and/or manage conditions), an assessment was undertaken to determine the fewest DHTs this hypothetical patient should be prescribed to receive benefit from digital functions health professionals considered important.</p><h3>Findings</h3><p>A total of 148 DHTs were identified (68 [46%] from FDA databases), of which 96 (65%) involved devices and 52 (35%) were standalone health apps. Only 5 DHTs (3.4%) were intended for 2 or more conditions. DHTs offered 140 elementary functions, ranging from recording, tracking, or visualizing health parameters to providing information to digital therapeutics with just-in-time interventions. The hypothetical patient would need to be prescribed up to 13 apps and 7 devices (a blood pressure monitor, a smartwatch, a pulse oximeter, a connected weight scale, a sensor-attached inhaler to monitor adherence, a lung function monitor, and a blood glucose sensor) to receive benefits from 28 functions at least 3 of 5 health professionals considered important.</p><h3>Conclusions and Relevance</h3><p>This systematic review found that almost all prescribable DHTs were developed for a single condition or problem. Thus, patients with multiple chronic conditions would have to routinize many DHTs concurrently in daily life to benefit from digital functions health professionals considered important.</p>",
+            "date_published": "2025-04-25T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Aaron C. Weidman, PhD"
+                    "name": "Ngan Thi Thuy Phi, MSc"
                 }
             ],
             "tags": [
-                "airway device",
-                "airway structure",
-                "blood transfusion",
-                "care of intensive care unit patient",
-                "critical illness",
-                "epoch protocol",
-                "laser speckle contrast imaging",
-                "machine learning",
-                "triage",
-                "vital signs",
-                "waveforms",
-                "wounds and injuries"
+                "blood glucose",
+                "chronic disease",
+                "degenerative polyarthritis",
+                "diabetes mellitus",
+                "digital health",
+                "health personnel",
+                "hypertension chronic",
+                "inhaler",
+                "lung diseases",
+                "mobile applications",
+                "multiple chronic conditions",
+                "non-insulin-dependent",
+                "organization administrative structures",
+                "osteoporosis",
+                "oximetry",
+                "pulmonary function tests",
+                "pulse",
+                "sensor (device)",
+                "smartwatches",
+                "technology",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835117/weidman_2025_oi_250351_1748641553.23561.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833286/phi_2025_oi_250273_1744992051.46282.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250351f1_1748641553.38561.png?Expires=2147483647&Signature=NtQ0TF0am8X~gfz1lgXF964kbWErqDC~I6JztC3vKHEH6xfeKDQMiH2Tbwvj7p7HioBGJYVVz6Anp7A6W4K~-cu50lskpf31wDEShQu5ISzRH284NPN0M4Gp6LV9d6OFZ7KvG8m5M7XmJHlksGlhwGtoLh5B3QeZt7Fh2ZvAobhcHzp2UduCW~nl19rpe~YwsURaxNIpC0BMZb7hBzgq2lGcZur2wXaZH-T8bLZogV4JDRwTmM2P175NlHqEl0eYbOzBzqY5GLXaVNPmdtsU2BcgnaLDqBINsFKK5FNV-o07TbRTmJP2vOPFm3PWcmQ1uRVsHOIfCm2KqxMKEG2uVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250273f1_1744992051.66724.png?Expires=2147483647&Signature=Uus38EG1ixTLSxUrm3ijCyPqPmKLmjQJxySFRUC6O4OyNuto-tW5MF687W8J-yw5ywEqQCZp1d9Y89NbEAuQSLrqIBGlS1auX7ElL6hE7vvpfpr1H-W9iKvZsOxQGhK6ELsDnZHI2JKRV0EH4aFXtiKPEr-DxWtctPU4TcI2ohe3e1rEAHMULnjJuNpbSNXYqzHM6rdYzHhL7HWW33Hc-99ox9BTgHv3-fspAYGthguA7OCkxZSzggnaHy-eSiwhjMirfFuohwbjhfBzlJrzFL39arupd9nGcyBnP~eHp2qL5RE9sY3ijB6UAW9y62ihRbz6JPzDhHr9Ye-Ot7Ye3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -136,6 +151,32 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939503/jvp240145f1_1732559811.49463.png?Expires=2147483647&Signature=GGD~-43RSNW-9TnjR1H8o8KAzxbB7Jphn~kbMMEEyISEx9muUHKIY664~bkPraMFM52SnYRe76pb2kKBb-yn7~4L4doeKfUbpWdWrbQHPG6AMz1SZT1rRzZ5ILjpnEnrmlwg~1jxFeIdBwgqn2NWiSLA0WVfdWGVz9lHiU0bCyyI3BrUgwqtOrSejTSrhGG3rjfd6mmQqUOVzGoWVCrZvAdGDkyS7R9TB6ceetWUs8aCZI060ZkSRNieZ~M5XEXWQBc5tRZycce-GOxaHxQecsN9SDe3dC2f5zv55ssdYcNgJtDsO0Uicm5A48I5jGKehroZicQl~8Ffs-q2BV5gHA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
+            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
+            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
+            "date_published": "2024-11-22T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Farid Ghareh Mohammadi, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "informatics (discipline)",
+                "physical and emotional exhaustion state",
+                "radiologist"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826721",
             "title": "Artificial Intelligence and Radiologist Burnout",
@@ -162,32 +203,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241365t1_1731684044.06019.png?Expires=2147483647&Signature=ze3APbXsOF4VtXwuSaCiCOMkfPcEHihxucX5dwHCiJYZzjpY1o-dvE7xSWDRbcP0IML4HEjC3UVqnStK8lgU24JaquWhmJx4C21gd45WJER8b9~lSLH5WYB0-rlEf1STVNNVHHtbai0UgTSn06m1WtfK5bHrUE9B~iohD4caGDQ~8Za5kI80AIGGg-5tjeKV3NIlKHxFPCibIbFWpah4PbvZJqGfFfofRld2zucw92OyDphtjZ~tAaoWTiHRohTTylIM~h~8~xbeYKwcPf1tqSEkQRDUB5OdBW6x9F-4jMVJ5YNklKc387uwiPJUBZ2nxqwWhcBj7j9OHE3VGk2O0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826733",
-            "title": "Artificial Intelligence Impact on Burnout in Radiologists\u2014Alleviation or Exacerbation?",
-            "summary": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "content_text": "There has been an increase in the number of imaging studies performed worldwide over the past 2 decades. 1 There has been a simultaneous increase in the number of artificial intelligence (AI) models approved by the Food and Drug Administration (FDA) in the United States, with over 75% of these models approved for use in radiology. 2 AI has been used to assist with interpretative tasks (detection, diagnosis, prognosis) and noninterpretive tasks (creating reports, protocols, contacting ordering clinicians, scheduling) in radiology. It is reasonable to assume that AI would be a useful adjunct for radiologists, increase radiologist efficiency, and decrease radiologist burnout. However, some reports, including the report by Liu et al, 3 suggest that this may not be true. Burnout is a syndrome caused by unmanaged chronic workplace stress, characterized by 3 main dimensions: (1) energy depletion or exhaustion, (2) increased mental detachment or negativity toward one\u2019s job, and (3) a sense of ineffectiveness and lack of achievement. 3 The burnout rate in radiologists is high. 4 , 5",
-            "date_published": "2024-11-22T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Farid Ghareh Mohammadi, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "informatics (discipline)",
-                "physical and emotional exhaustion state",
-                "radiologist"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2826733/mohammadi_2024_ic_240306_1731684080.3151.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826511",
@@ -314,31 +329,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241254t1_1730394538.76268.png?Expires=2147483647&Signature=kePpVSW3A329gL0Zkl53OJRGbz5bY4jZwxs60s~PaQ3lF9rmJEforuN9bSxqTi-Z8VD1bDPkJu6OezPj95lTwrmZlsKYDW5lwpjBVXdmCjoqYXaH~QDLbLl~n1qWtQDRkrHx7aaLY-pXrKC3sQgCJ4DgI7iTKvzUtrCXRUicu~2gvw0qSUj6wTvqr-AvJXucHP7uyvqs7E564AkOciIvIqdEDD49Tgw5PlkyQCXw9H4vGOYzGzeNDdbIfj1mCYRQj6QKh~VpEe3D74smiddXNyix6-yzXq2rDSKdXoPIQi39Rca1ECb5Diy3vf5k0BpxQLxHAu~W3AhmG~WcEeQM6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
-            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "date_published": "2024-11-07T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Grace K. Sun, BS"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)",
-                "natural language processing",
-                "triage"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
             "title": "Performance of Risk Models for Antimicrobial Resistance in Adult Patients With Sepsis",
@@ -368,6 +358,31 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241246t1_1730394547.41392.png?Expires=2147483647&Signature=FSC2y3JA-qK-Kgh1~d2zI85WJkQWmh7wpEFsHRU0~lYBCB1zRqCCucTQKkfbaH5DTwfutBzSHf9vjf0I~O632wyh1qNyuyv7aaneKvn0cewmXZVvoiRfkgbFqwCPX5BA-9WZTDbdCzMfVCyf6JkjMY7jnTpi2W1LWZz4NlVvYZqg75MKgl-easXJ1orBYLWPvyB4UJQi8XVI6DkxGuu7Z-i7rtzAqei6ahl3JZLMefs2j6ULhXBKBTMJVXXIMlnXEfgs9836MZy5RlgN8m-eUAPwvgrmNJum~D~IrRQhV9E4WVn3wa3cIlv9V1DgA9fu7B7iIDxo9-~qCSMGsLDv9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
+            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "date_published": "2024-11-07T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Grace K. Sun, BS"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)",
+                "natural language processing",
+                "triage"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2825500",
             "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2825500",
             "title": "Large Language Model Responses to Adolescent Patient and Proxy Messages",
@@ -392,6 +407,29 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240047t1_1730388847.19245.png?Expires=2147483647&Signature=iTMGjU2cKlGmtRlPax7eiepentmyOxLlc-xaHtV9zp1mxggdHVLQNp87-2A96MnvwE6MY-4ZZ10ub6YWInYUT-Up8PQXpEW-YTOho1af4ktF4eyV9WwznaHF52IYdrKhFAOJ9nkD82z3y27VUgH9-KsVogSDry6lC182an8j7hqMpdoMe045DdBM9ckhfFqxNKde1MsTvoZYDxCta4WLqE34llWIDDRP3VhEc9IwjmOiGvSeBfXPxxdOPW3Dw3S-DcUWK~wv89LEcZKSw5g9J5tkqw5a4eygN7TAO~o6ExfNgtHGE9TyBs~4anDJ1uQwnJ~p1A12CrEP9d65~dAxTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
+            "title": "Deep Learning to Improve Diagnosis Must Also Not Do Harm",
+            "summary": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
+            "content_text": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
+            "date_published": "2024-11-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Heather E. Moss, MD, PhD"
+                }
+            ],
+            "tags": [
+                "deep learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2824479/jamaophthalmology_moss_2024_ic_240043_1731639456.39073.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824475",
@@ -425,29 +463,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939499/eoi240064t1_1731639422.53949.png?Expires=2147483647&Signature=n6MGK7JwQu-WsLaEPlRpgPkjUTkJbvJNf5sdC6QBLyo6~JryvObPOQ9ixJzaZc-iJ~HdNPvNLqIO-tiI6hYUbUD4dEBetucze2jrSKXSRePo0R9UdmkXEJZ~c7wIfILCAkwJ5lIduCtjHbddBfeB1EjpElPQSoa8FLceSqgbatY4xUyXhNqouUVSkxORMysEW3xeH3z5TeySzYxFD08rnAttu0tqRsO3QBns0AyVhVVcrptXBEPGPwDlR5UY5ndAkzfBGNiFl2GiDZ-fQPaSEgKTeNhft3g~OjJ9H5oAKzJoDtH3hvQPefihLKB1nETXAHioFBL0xxf7RPRjPe988g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
-            "title": "Deep Learning to Improve Diagnosis Must Also Not Do Harm",
-            "summary": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
-            "content_text": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
-            "date_published": "2024-11-01T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Heather E. Moss, MD, PhD"
-                }
-            ],
-            "tags": [
-                "deep learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2824479/jamaophthalmology_moss_2024_ic_240043_1731639456.39073.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2825181",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2825181",
             "title": "Use of Artificial Intelligence\u2013Based Detection of Diabetic Retinopathy in the US",
@@ -472,6 +487,30 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eld240007t1_1728936602.24537.png?Expires=2147483647&Signature=jzKftewxojEf-nZ7DBH7I2Y1HzcvI6SvsQhf~6RhF6wWiI6LAYFXxCfHqGYNmofLXMqMkUty1ihVC~ZvT1V9~hAJWu1Qu6bArMWkWxrN4zlOMUDD-QhLEbo2LNCy7J1HuFgVN1Mw4542C6VVoi9DRpra3DxCeoH77aLswQOHASgFQCi3kg~e-UQ1u8ulXKB6nWKt4RWW0ahQnIuwixgKV6C~GB9l94VpBton97mUkmvKp3uVqvYE-jeiRKCXJcU7XLLHTGyEFbytSWcLekZ6gCJmiNfsLkM4jlxByLZ4097RGS5ERxzyfIkJrLw~drlaEpIQ3dsk7Aeww2J1xmN6bg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
+            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "date_published": "2024-10-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Andrew Gonzalez, MD, JD, MPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "machine learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825395",
@@ -499,30 +538,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939467/zoi241182f1_1729527081.5449.png?Expires=2147483647&Signature=3ekbX2qtg2we0UEDs85fc8mIbpunw6yVZ9RixFhv-7wsbIhkuxVJyinRve6Q7a-YO9akijgF84cLzFzcLOG~z1MEneiA3RScpDCzVnsl4Cnmh7dXoiK~jkP0Drf7LF2I-bwEFhgsTgdK8kYTDv0SyQFydIDPNL0Sh1FRatBd2iF4nmNa-puvaGNifFodpadTrYjj9j3Y7PDFkCkP5VoWnC-DKd4xfqDELz-Dv~HXnXBctVWdBBHNAZZEcjvPiyF5WLAo0s5zGLgmTZOiXMBKYLYvLj5tfPpeGYkVkeU-e8EccuAZ1A-ShjCdvg0Gwx~6UO5LL7G5MoMQe3j9r-FHDA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
-            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "date_published": "2024-10-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Andrew Gonzalez, MD, JD, MPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "machine learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825399",
@@ -623,55 +638,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939467/zld240183f1_1728310498.85625.png?Expires=2147483647&Signature=qb2GE7SZWXkszFd0WWpH7vP~bagdL0huZ9N8PfRO-HcI~pwb8kJpBf16~3mVYt6ByAHuYtYgOX5NOQ~Xuy~hVbXVo2j79EKTJdW7j-GWzXPzK25kpoEOm3uV15Z0Tg25hasiWLyWUDbVzuuZbRzVz231esTjUMseakp0amW~TXU7dLNHs5m6ym-aHzjwyH-DG0peFW3w4E1x5BcwOp0Vmt8bqRnFOGX68urupDIf~RP8pAeJ0Mwo2u5gdJ6sbsrO-NY61vj0cw1s-eNmD4hUngV8OzEruH52IO5XKAqMud8Po-7KbYOm9LeRqg1Q2KiuguQFazaDK5Wb7IFRZd~Cbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
-            "title": "Testing and Evaluation of Health Care Applications of Large Language Models: A Systematic Review",
-            "summary": "This systematic review characterizes the current performance of large language models in evaluating clinical health care settings, including uniformity, thoroughness, and robustness and proposes a framework for their testing and evaluation across health care applications.",
-            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) can assist in various health care activities, but current evaluation approaches may not adequately identify the most useful application areas.</p><h3>Objective</h3><p>To summarize existing evaluations of LLMs in health care in terms of 5 components: (1) evaluation data type, (2) health care task, (3) natural language processing (NLP) and natural language understanding (NLU) tasks, (4) dimension of evaluation, and (5) medical specialty.</p><h3>Data Sources</h3><p>A systematic search of PubMed and Web of Science was performed for studies published between January 1, 2022, and February 19, 2024.</p><h3>Study Selection</h3><p>Studies evaluating 1 or more LLMs in health care.</p><h3>Data Extraction and Synthesis</h3><p>Three independent reviewers categorized studies via keyword searches based on the data used, the health care tasks, the NLP and NLU tasks, the dimensions of evaluation, and the medical specialty.</p><h3>Results</h3><p>Of 519 studies reviewed, published between January 1, 2022, and February 19, 2024, only 5% used real patient care data for LLM evaluation. The most common health care tasks were assessing medical knowledge such as answering medical licensing examination questions (44.5%) and making diagnoses (19.5%). Administrative tasks such as assigning billing codes (0.2%) and writing prescriptions (0.2%) were less studied. For NLP and NLU tasks, most studies focused on question answering (84.2%), while tasks such as summarization (8.9%) and conversational dialogue (3.3%) were infrequent. Almost all studies (95.4%) used accuracy as the primary dimension of evaluation; fairness, bias, and toxicity (15.8%), deployment considerations (4.6%), and calibration and uncertainty (1.2%) were infrequently measured. Finally, in terms of medical specialty area, most studies were in generic health care applications (25.6%), internal medicine (16.4%), surgery (11.4%), and ophthalmology (6.9%), with nuclear medicine (0.6%), physical medicine (0.4%), and medical genetics (0.2%) being the least represented.</p><h3>Conclusions and Relevance</h3><p>Existing evaluations of LLMs mostly focus on accuracy of question answering for medical examinations, without consideration of real patient care data. Dimensions such as fairness, bias, and toxicity and deployment considerations received limited attention. Future evaluations should adopt standardized applications and metrics, use clinical data, and broaden focus to include a wider range of tasks and specialties.</p>",
-            "date_published": "2024-10-15T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Suhana Bedi, BA"
-                }
-            ],
-            "tags": [
-                "large language models",
-                "natural language processing",
-                "toxic effect"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2825147/jama_bedi_2024_oi_240124_1730324416.60876.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi240124f1_1730324416.78684.png?Expires=2147483647&Signature=EzSJWPA8wZ8M4EItkW5uUvcHAYbNLdTxfOL11CFixhRRKqUExoM7rP0dJ6ycvskqOWZO1BTAgv0UNKZjTHhGrvF~Djsfb3hpt20UHy2cye71bMyd0~O~qQbVym5qKeHiLLyDlaJdAWdPOtCklt9YJImVSE1hS-I6ylfcdhH6SO6-EdCKXIQX8kOU298BQv6-oxo12ApYG0HI5azY~JGYraAEAAPNxZKTidp7izrp-LuxxIp0oOtlsdDeuLhvTyQiHhPzEXz1YzKxdMZLh0lTTty5iUKo6adFxDv~WS0tzNVRDhZHOgJqqRSVVuTIklNR1PgU0jknvkx4Pe~dT5SoHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
-            "title": "Toward the Rigorous Evaluation of Early Warning Scores",
-            "summary": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
-            "content_text": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
-            "date_published": "2024-10-15T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Amol A. Verma, MD, MPhil"
-                }
-            ],
-            "tags": [
-                "early warning score",
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2824889/verma_2024_ic_240227_1727980029.8035.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2825146",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2825146",
             "title": "FDA Perspective on the Regulation of Artificial Intelligence in Health Care and Biomedicine",
@@ -700,6 +666,55 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc240014f1_1728674739.97756.png?Expires=2147483647&Signature=P4lIg3LTH6JyLytnXRH4LM46vgd0ofmG3AHp1V2Va2ZIIwlw99rPslEprnlElxKSUfbQz2ZKcMWp~4dw6LlobwcwyvRmXgCdM5bo7C8MImsdredJOMJlIs~TR3IvFM3F-YaPG-HX3DBfC6aXkt~9QcKtkXJgAGpribYQEh804Ow-2CQTxVlnDYl0x09ceVpdQLbutOYIOfa8A16fIC-kYHogFefXqQqE3JwM-QXwIW6BJHKNCYhiN4wCNIG2j22ocWff7BHW9jSPUEgmgLIn5QBRKfT86mrrNB~8XxSMkyQcpS6zIHg4UR~3tLCnXekyyk4kFxXytXFQStE4OFvPAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
+            "title": "Toward the Rigorous Evaluation of Early Warning Scores",
+            "summary": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
+            "content_text": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
+            "date_published": "2024-10-15T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Amol A. Verma, MD, MPhil"
+                }
+            ],
+            "tags": [
+                "early warning score",
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2824889/verma_2024_ic_240227_1727980029.8035.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2825147",
+            "title": "Testing and Evaluation of Health Care Applications of Large Language Models: A Systematic Review",
+            "summary": "This systematic review characterizes the current performance of large language models in evaluating clinical health care settings, including uniformity, thoroughness, and robustness and proposes a framework for their testing and evaluation across health care applications.",
+            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) can assist in various health care activities, but current evaluation approaches may not adequately identify the most useful application areas.</p><h3>Objective</h3><p>To summarize existing evaluations of LLMs in health care in terms of 5 components: (1) evaluation data type, (2) health care task, (3) natural language processing (NLP) and natural language understanding (NLU) tasks, (4) dimension of evaluation, and (5) medical specialty.</p><h3>Data Sources</h3><p>A systematic search of PubMed and Web of Science was performed for studies published between January 1, 2022, and February 19, 2024.</p><h3>Study Selection</h3><p>Studies evaluating 1 or more LLMs in health care.</p><h3>Data Extraction and Synthesis</h3><p>Three independent reviewers categorized studies via keyword searches based on the data used, the health care tasks, the NLP and NLU tasks, the dimensions of evaluation, and the medical specialty.</p><h3>Results</h3><p>Of 519 studies reviewed, published between January 1, 2022, and February 19, 2024, only 5% used real patient care data for LLM evaluation. The most common health care tasks were assessing medical knowledge such as answering medical licensing examination questions (44.5%) and making diagnoses (19.5%). Administrative tasks such as assigning billing codes (0.2%) and writing prescriptions (0.2%) were less studied. For NLP and NLU tasks, most studies focused on question answering (84.2%), while tasks such as summarization (8.9%) and conversational dialogue (3.3%) were infrequent. Almost all studies (95.4%) used accuracy as the primary dimension of evaluation; fairness, bias, and toxicity (15.8%), deployment considerations (4.6%), and calibration and uncertainty (1.2%) were infrequently measured. Finally, in terms of medical specialty area, most studies were in generic health care applications (25.6%), internal medicine (16.4%), surgery (11.4%), and ophthalmology (6.9%), with nuclear medicine (0.6%), physical medicine (0.4%), and medical genetics (0.2%) being the least represented.</p><h3>Conclusions and Relevance</h3><p>Existing evaluations of LLMs mostly focus on accuracy of question answering for medical examinations, without consideration of real patient care data. Dimensions such as fairness, bias, and toxicity and deployment considerations received limited attention. Future evaluations should adopt standardized applications and metrics, use clinical data, and broaden focus to include a wider range of tasks and specialties.</p>",
+            "date_published": "2024-10-15T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Suhana Bedi, BA"
+                }
+            ],
+            "tags": [
+                "large language models",
+                "natural language processing",
+                "toxic effect"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2825147/jama_bedi_2024_oi_240124_1730324416.60876.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi240124f1_1730324416.78684.png?Expires=2147483647&Signature=EzSJWPA8wZ8M4EItkW5uUvcHAYbNLdTxfOL11CFixhRRKqUExoM7rP0dJ6ycvskqOWZO1BTAgv0UNKZjTHhGrvF~Djsfb3hpt20UHy2cye71bMyd0~O~qQbVym5qKeHiLLyDlaJdAWdPOtCklt9YJImVSE1hS-I6ylfcdhH6SO6-EdCKXIQX8kOU298BQv6-oxo12ApYG0HI5azY~JGYraAEAAPNxZKTidp7izrp-LuxxIp0oOtlsdDeuLhvTyQiHhPzEXz1YzKxdMZLh0lTTty5iUKo6adFxDv~WS0tzNVRDhZHOgJqqRSVVuTIklNR1PgU0jknvkx4Pe~dT5SoHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823641",
