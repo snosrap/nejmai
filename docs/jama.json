@@ -4,30 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
-            "title": "Prognostication System for Squamous Cell Carcinoma Using Retrieval Augmented Generation\u2013Enabled Large Language",
-            "summary": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
-            "content_text": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
-            "date_published": "2025-06-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "title": "Bridging the Gap Between Developers and Implementers in Health AI",
+            "summary": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "content_text": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "date_published": "2025-06-20T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Emily S. Ruiz, MD, MPH"
+                    "name": "Michael J. Pencina, PhD"
                 }
             ],
             "tags": [
-                "large language models",
-                "retrieval-augmented generation",
-                "squamous cell carcinoma",
-                "squamous cell carcinoma of skin"
+                "artificial intelligence",
+                "health policy",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835073/jamadermatology_ruiz_2025_ed_250006_1748619233.50783.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835280/pencina_2025_vp_250017_1749148938.67942.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Dermatology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939627/avp250017t1_1749148938.84406.png?Expires=2147483647&Signature=jkog3PtzPJMtl5jp5MsCR8cUuBrhjb1vh1lI5O-rBLM9wL5oCYzLehG9W21tycXA0qVM166j1OZJfQPs~IX8hsTzuEI5o6~Me4PAakDsm-o1x0dl0J05gplocy-All56k08EHyqj1m0Nvtbc6RQgMS~wZDnBeh~wgLyXXyh6f-Jgm3EfTxWFDsQ1E0R-8rObk1X-8HH2vRrKA5ctLhFhKccdS4n9PjkRHQTjk19ZF9BWAR7XN8f~gr3Pfr9lIVUdHoq5bDsIXVk07i9nLzXLU0k8XKtH8G9EJ8VKZ~yRDil5me~6Qfuw9PvSkwhigzhpI1cr0fXMb-ilYErIZcElQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Larry Han, PhD"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
