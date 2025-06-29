@@ -4,33 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835599",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835599",
-            "title": "Predicting Retinal Nerve Fiber Layer Thickness From Ocular Hypertension Treatment Study Optic Disc Photographs",
-            "summary": "This diagnostic study predicts mean retinal nerve fiber layer (RNFL) thickness from optic disc photographs from the Ocular Hypertension Treatment Study and assesses the utility of predicted RNFL thickness as a risk factor for the development of primary open-angle glaucoma.",
-            "content_html": "<h3>Importance</h3><p>Deep learning predictions of retinal nerve fiber layer (RNFL) thickness derived from optic disc photographs may help to determine risk for development of primary open-angle glaucoma (POAG) in patients with ocular hypertension.</p><h3>Objective</h3><p>To predict mean RNFL thickness from the optic disc photographs from the Ocular Hypertension Treatment Study (OHTS) and assess the utility of predicted RNFL thickness as a risk factor for the development of POAG.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study evaluated 3272 eyes from 1636 participants with ocular hypertension but without POAG at the time of enrollment in the OHTS 1 and 2 trials. The OHTS was a multicenter study, with OHTS 1 and OHTS 2 collectively extending from February 28, 1994, to December 30, 2008. Optic disc photographs, baseline demographics, and clinical examination findings were included in the analysis. An OCT-trained deep learning model (machine-to-machine [M2M] model) was used to generate predicted RNFL thicknesses from 66\u202f714 optic disc photographs.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were factors (including predicted RNFL) that correlated with conversion to POAG from the OHTS cohort, identified by proportional hazards models.</p><h3>Results</h3><p>Among 1444 participants with ocular hypertension from the OHTS cohort, mean (SD) age was 56.0 (9.5) years, and 833 participants (57.7%) were female. Mean (SD) baseline predicted RNFL was 94.1 (7.1) \u03bcm for eyes that converted to POAG and 97.1 (7.0) \u03bcm for eyes that did not convert to POAG (mean difference, 3.0; 95% CI, 2.2-3.8;<i>P</i>\u2009&lt;\u2009.001). Predicted baseline RNFL was a predictor of conversion to POAG during follow-up in Cox proportional hazards models in univariable analysis (hazard ratio [HR], 1.97; 95% CI, 1.60-2.42;<i>P</i>\u2009&lt;\u2009.001) and multivariable analysis (HR, 1.83; 95% CI, 1.49-2.25;<i>P</i>\u2009&lt;\u2009.001) per 10-\u03bcm thinner in predicted RNFL. Baseline age, intraocular pressure, central corneal thickness, pattern standard deviation, mean deviation, and cup-disc ratio remained predictors of conversion to POAG in both univariable and multivariable analysis. Longitudinal change in predicted RNFL (per 1-\u03bcm/year faster loss) was also a predictor of conversion to POAG (HR, 6.01; 95% CI, 3.33-10.64;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study, baseline M2M-predicted RNFL thickness and longitudinal rate of change in predicted RNFL were putative risk factors for the development of glaucoma in patients with ocular hypertension. These findings support the utility of M2M-predicted RNFL thickness to assess baseline glaucoma risk and monitor for glaucoma progression.</p>",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835600",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835600",
+            "title": "Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing",
+            "summary": "This study evaluates a text-to-video generative artificial intelligence model that converts text from reports into dynamic fundus fluorescein angiography videos, enabling visualization of retinal vascular and structural abnormalities.",
+            "content_html": "<h3>Importance</h3><p>Medical data sharing faces strict restrictions. Text-to-video generation shows potential for creating realistic medical data while preserving privacy, offering a solution for cross-center data sharing and medical education.</p><h3>Objective</h3><p>To develop and evaluate a text-to-video generative artificial intelligence (AI)\u2013driven model that converts the text of reports into dynamic fundus fluorescein angiography (FFA) videos, enabling visualization of retinal vascular and structural abnormalities.</p><h3>Design, Setting, and Participants</h3><p>This study retrospectively collected anonymized FFA data from a tertiary hospital in China. The dataset included both the medical records and FFA examinations of patients assessed between November 2016 and December 2019. A text-to-video model was developed and evaluated. The AI-driven model integrated the wavelet-flow variational autoencoder and the diffusion transformer.</p><h3>Main Outcomes and Measures</h3><p>The AI-driven model\u2019s performance was assessed through objective metrics (Fr\u00e9chet video distance, learned perceptual image patch similarity score, and visual question answering score [VQAScore]). The domain-specific evaluation for the generated FFA videos was measured by the bidirectional encoder representations from transformers score (BERTScore). Image retrieval was evaluated using a Recall@K score. Each video was rated for quality by 3 ophthalmologists on a scale of 1 (excellent) to 5 (very poor).</p><h3>Results</h3><p>A total of 3625 FFA videos were included (2851 videos [78.6%] for training, 387 videos [10.7%] for validation, and 387 videos [10.7%] for testing). The AI-generated FFA videos demonstrated retinal abnormalities from the input text (Fr\u00e9chet video distance of 2273, a mean learned perceptual image patch similarity score of 0.48 [SD, 0.04], and a mean VQAScore of 0.61 [SD, 0.08]). The domain-specific evaluations showed alignment between the generated videos and textual prompts (mean BERTScore, 0.35 [SD, 0.09]). The Recall@K scores were 0.02 for K\u2009=\u20095, 0.04 for K\u2009=\u200910, and 0.16 for K\u2009=\u200950, yielding a mean score of 0.073, reflecting disparities between AI-generated and real clinical videos and demonstrating privacy-preserving effectiveness. For assessment of visual quality of the FFA videos by the 3 ophthalmologists, the mean score was 1.57 (SD, 0.44).</p><h3>Conclusions and Relevance</h3><p>This study demonstrated that an AI-driven text-to-video model generated FFA videos from textual descriptions, potentially improving visualization for clinical and educational purposes. The privacy-preserving nature of the model may address key challenges in data sharing while trying to ensure compliance with confidentiality standards.</p>",
             "date_published": "2025-06-26T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "James C. Liu, MD"
+                    "name": "Xinyuan Wu, MD"
                 }
             ],
             "tags": [
-                "deep learning",
-                "glaucoma",
-                "ocular hypertension",
-                "open-angle",
-                "optic disk",
-                "posttreatment followup",
-                "structure of nerve fiber layer of retina"
+                "data sharing",
+                "education",
+                "fluorescein angiography",
+                "generative artificial intelligence",
+                "medical",
+                "ophthalmologist (occupation)",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835599/jamaophthalmology_liu_2025_oi_250029_1749840380.41419.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835600/jamaophthalmology_wu_2025_oi_250024_1749840383.10145.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250029t1_1749840380.63715.png?Expires=2147483647&Signature=2pvCx7CNUZNc0CzzDZtQ0xPcu7m02SsEjKw2g7Vm3UAazH6-Ia1koDDI1cjYrn7rTqv9BNtfnEpE3xJ5Vy6Nck61bsBDTH2wZ307pXq0TVPlHLjg~HEBFYSKPdB~XNgGoI4-FOZRmktASemYN3Gbee8wDedkSwIvy3-fcW2jbETl47GuaT8vcEKrJRLk~wyuXR-j1FLWOWNnMhFXF-4UUP6aDm8iEqWYukPhidWqHsvRXga7L6GJJKqLYuY21XuqTqVbyIE9NrnjcqPZvpcnFkZEh5rGk38F53t~C5TnTv8g3r7m1gpfmiWOMS5Sx1BbmEQA56ahx7vMD1Danael~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250024f1_1749840383.24667.png?Expires=2147483647&Signature=eftsVNuvObfg1j9ObcXoxmDyFsiPMTtk6LLSoVF332mP3tXxsoTe0~vLXyCtI9jWrTCUxnVAqlfMCoCHdjaU6Iff-AyG9GNmr38KmYmoDi5LOv9RIKG-PaVHixHYg66PlyqOfLzyNGyy2miN9FKStLFksAv5wnbhHAXZavYaFqFj~KRNu3VcaINRmOTNhf5eTMlXumgZ0RQyIhF3DqTzhFC7f1vtfC4qXxR1IDWhFBacGpA6xdRSWaKhJKWjVBTSedpLichD~UfjDtvsmi~dVZ~WTJLnzvmPpv2d3Lf4JHmjdL0e6VzFGFImEKeURTmHVp6Ix31TFoD-Dn~DWYWY3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "title": "The Future of Agitation Interventions May Be Predictive",
+            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "date_published": "2025-05-07T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Scott Zeller, MD"
+                }
+            ],
+            "tags": [
+                "agitation",
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -918,33 +942,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
