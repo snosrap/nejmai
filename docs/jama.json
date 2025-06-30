@@ -4,60 +4,62 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835296",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835296",
-            "title": "AI-Assisted vs Unassisted Identification of Prostate Cancer in Magnetic Resonance Images",
-            "summary": "This study assesses whether the use of a scientifically validated artificial intelligence (AI)-assisted system is associated with improved diagnostic accuracy for detecting clinically significant prostate cancer on magnetic resonance imaging (MRI) compared with an unassisted system.",
-            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) assistance in magnetic resonance imaging (MRI) assessment for prostate cancer shows promise for improving diagnostic accuracy but lacks large-scale observational evidence.</p><h3>Objective</h3><p>To evaluate whether use of AI-assisted assessment for diagnosing clinically significant prostate cancer (csPCa) on MRI is superior to unassisted readings.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study was conducted between March and July 2024 to compare unassisted and AI-assisted diagnostic performance using the AI system developed within the international Prostate Imaging-Cancer AI (PI-CAI) Consortium. The study involved 61 readers (34 experts and 27 nonexperts) from 53 centers across 17 countries. Readers assessed prostate magnetic resonance images both with and without AI assistance, providing Prostate Imaging Reporting and Data System (PI-RADS) annotations from 3 to 5 (higher PI-RADS indicated a higher likelihood of csPCa) and patient-level suspicion scores ranging from 0 to 100 (higher scores indicated a greater likelihood of harboring csPCa). Biparametric prostate MRI examinations were included for 780 men from the PI-CAI study who were included in the newly-conducted observer study. All men within the PI-CAI study had suspicion of harboring prostate cancer, sufficient diagnostic image quality, and no prior clinically significant cancer findings. Disease presence was defined by histopathology, and absence was determined by 3 or more years of follow-up. The AI system was recalibrated using 420 Dutch examinations to generate lesion-detection maps, with AI scores ranging from 1 to 10, in which 10 indicates the highest likelihood of csPCa. The remaining 360 examinations, originating from 3 Dutch centers and 1 Norwegian center, were included in the observer study.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was diagnosis of csPCa, evaluated using the area under the receiver operating characteristic curve and sensitivity and specificity at a PI-RADS threshold of 3 or more. The secondary outcomes included analysis at alternate operating points and reader expertise.</p><h3>Results</h3><p>Among the 360 examinations of 360 men (median age, 65 years [IQR, 62-70 years]) who were included for testing, 122 (34%) harbored csPCa. AI assistance was associated with significantly improved performance, achieving a 3.3% increase in the area under the receiver operating characteristic curve (95% CI, 1.8%-4.9%;<i>P</i>\u2009&lt;\u2009.001), from 0.882 (95% CI, 0.854-0.910) in unassisted assessments to 0.916 (95% CI, 0.893-0.938) with AI assistance. Sensitivity improved by 2.5% (95% CI, 1.1%-3.9%;<i>P</i>\u2009&lt;\u2009.001), from 94.3% (95% CI, 91.9%-96.7%) to 96.8% (95% CI, 95.2%-98.5%), and specificity increased by 3.4% (95% CI, 0.8%-6.0%;<i>P</i>\u2009=\u2009.01), from 46.7% (95% CI, 39.4%-54.0%) to 50.1% (95% CI, 42.5%-57.7%), at a PI-RADS score of 3 or more. Secondary analyses demonstrated similar performance improvements across alternate operating points and a greater benefit of AI assistance for nonexpert readers.</p><h3>Conclusions and Relevance</h3><p>The findings of this diagnostic study of patients suspected of harboring prostate cancer suggest that AI assistance was associated with improved radiologic diagnosis of clinically significant disease. Further research is required to investigate the generalization of outcomes and effects on workflow improvement within prospective settings.</p>",
-            "date_published": "2025-06-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835408",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835408",
+            "title": "Enhanced Surveillance of Sexually Transmitted Infections to Foster a Learning Public Health System",
+            "summary": "This cross-sectional study examines whether clinical data collected through public health information exchanges can be leveraged for use in infectious disease surveillance.",
+            "content_html": "<h3>Importance</h3><p>Sexually transmitted infections (STIs) pose a substantial public health challenge, but fragmented reporting systems have limited capacity for disease surveillance approaches that might support a learning public health system, where near real-time data-driven insights are integrated to inform, evaluate, and adapt public health strategies.</p><h3>Objective</h3><p>To examine how health information exchanges and open government data can be leveraged to foster a learning public health system by characterizing and comparing patterns in diagnosis vs testing at a scale commensurate with regional public health agencies.</p><h3>Design, Setting, and Participants</h3><p>In this cross-sectional study, chlamydia, gonorrhea, and HIV testing and diagnosis between January 1, 2018, and June 30, 2023, were assessed to study concurrent testing and coinfections and estimate correlates of laboratory testing and positive results. Patient-level electronic health record data from 4\u202f767\u202f322 patients aged 18 years or older spanning multiple health systems in New York City and collected by the public health information exchange Healthix were linked with neighborhood-level information from the American Community Survey.</p><h3>Exposures</h3><p>Age, sex, race and ethnicity, socioeconomic status, residential neighborhood, and concurrent STI testing.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were performance of a laboratory test and test positivity. The viability of using clinical data from public health information exchange to enhance disease surveillance to identify testing gaps, disparities, and important trends, key characteristics of a learning public health system was assessed.</p><h3>Results</h3><p>The dataset included 4\u202f767\u202f322 patients (mean [SD] age, 46 [18] years; 61% women) with approximately 33% living in areas of high or very high poverty levels and 66% in areas of low or medium poverty levels. Among 1\u202f519\u202f121 tests for chlamydia, 2% were positive; among 1\u202f574\u202f772 tests for gonorrhea, 1% were positive; and among 1\u202f200\u202f560 tests for HIV, 0.3% were positive. Chlamydia and gonorrhea co-occurred in 1854 cases, representing 7% of chlamydia cases and 21% of gonorrhea cases. Testing behavior was often incongruent with geographic and sociodemographic patterns of incident cases. For example, people living in areas with the highest poverty levels were less likely to be tested for gonorrhea (adjusted odds ratio [AOR], 0.90 [95% CI, 0.89-0.91];<i>P</i>\u2009&lt;\u2009.001) but almost twice as likely to test positive for gonorrhea (AOR, 1.91 [95% CI, 1.72-2.12];<i>P</i>\u2009&lt;\u2009.001) compared with those in low poverty areas.</p><h3>Conclusions and Relevance</h3><p>This cross-sectional study suggests that health information exchanges and open government data sources may support regional disease surveillance by contributing information not typically available through public health reporting to elucidate inefficiencies and disparities in testing given positivity and coinfection patterns. These and similar insights could be used to continuously drive public health improvements and foster a learning public health system.</p>",
+            "date_published": "2025-06-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Jasper J. Twilt, MSc"
+                    "name": "Harry Reyes Nieva, PhD"
+                }
+            ],
+            "tags": [
+                "chlamydia",
+                "coinfection",
+                "gonorrhea",
+                "health care systems",
+                "health disparity",
+                "healthcare information exchange",
+                "hiv",
+                "human immunodeficiency virus test",
+                "laboratory techniques and procedures",
+                "neighborhood",
+                "sexually transmitted diseases",
+                "socioeconomic factors"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835408/reyes_nieva_2025_oi_250471_1749568862.28924.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250471t1_1749568862.43551.png?Expires=2147483647&Signature=e-gPktDDSxeCrWqT1kR1AlvNWHm8~bOUeBFKDdfunTt3mQwM6hHj7Y-rC6rJDXrOTIK0dEihyrgt077Bmnll6prgQ~W4XYB8wv4YdIQCSR-92muD5QVplKG8G5oPRYaOSWoaPYskjlWLuC~cfKovT540Lv5G~89uoIbNsTkZbzfBni~b1RF4rzY9VtTwW31mPXDD5WoKILfh8A0PFfL3PBxQ~g-vSGicuqQzirM1C2xVlAo-HjQKY2WIN892UL~VRZ9-UQ8do5lTN0Ef996jL2FCr6ODvmT-Xm0CLcZd1MQPGj6OKfCH~kSe6221AZ7Sj~OSwBc4hsC-p-RcD4gNpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831331",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831331",
+            "title": "How Artificial Intelligence Can Promote Inclusive Health",
+            "summary": "This Viewpoint explores the potential utilities of artificial intelligence for achieving inclusive health care for people with intellectual and developmental disabilities.",
+            "content_text": "This Viewpoint explores the potential utilities of artificial intelligence for achieving inclusive health care for people with intellectual and developmental disabilities.",
+            "date_published": "2025-03-17T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Dimitri A. Christakis, MD, MPH"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "magnetic resonance imaging",
-                "malignant neoplasm of prostate",
-                "prostate",
-                "reactive airways disease"
+                "developmental disabilities"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835296/twilt_2025_oi_250499_1749220876.00644.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2831331/jamapediatrics_christakis_2025_vp_250004_1745613475.32965.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250499t1_1749220876.34684.png?Expires=2147483647&Signature=K9aAPPD78kdIz1nncGV42ETiK3lpfwgmEmT3~pR~jD~m-OlCjmRGAS-HZF4qIooh84sDExAG1C62nLrNbKbr5lR0oPKpLsXtivk0yew4Bk1BlaBHqA-nx~4DNOjnaZVW5K1ezqN62lt6RL7VARfX6IvURX7EOtcpKtJtrGvauFAmtBnzXI4xHpNH8nznj7GE8zi4aCZhI43vRq0WViQc4xsIXTg5Tpo027TQH2LBbskjX97FADPIagSO1uUEDiufy0iBhYQmwf3auGDtIjgzngbP~5nYEdV7bo6qxN3AZT3D9yatkCFQM75YhrD3vSAHPdZhxq~Vue5h0TWmz~2r3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
-            "title": "Retrieval Augmented Generation\u2013Enabled Large Language Model for Risk Stratification of Cutaneous Squamous Cell",
-            "summary": "This diagnostic study examines a customized generative pretrained transformer model in aggregating and interpreting data to develop a class-based risk stratification system for cutaneous squamous cell carcinoma.",
-            "content_html": "<h3>Importance</h3><p>There exists substantial heterogeneity in outcomes within T stages for patients with cutaneous squamous cell carcinoma (cSCC).</p><h3>Objective</h3><p>To determine whether a customized generative pretrained transformer model, trained on a comprehensive dataset with more than 1 trillion parameters and equipped with relevant focused context and retrieval augmented generation (RAG), could excel in aggregating and interpreting vast quantities of data to develop a novel class-based risk stratification system that outperforms the current standards.</p><h3>Design, Setting, and Participants</h3><p>To build the RAG knowledge base, a systematic review of the literature was conducted that addressed risk factors for poor outcomes in cSCC. Using the RAG-enabled generative pretrained transformer (GPT) model, we developed a novel class-based risk stratification system that assigned point values for risk factors, culminating in a GPT-based prognostication system called the artificial intelligence\u2013derived risk score (AIRIS). The system\u2019s performance was validated on a combined prospective and retrospective cohort of 2379 primary cSCC tumors (1996-2023) with at least 36 months of follow-up, against Brigham and Women\u2019s Hospital (BWH) and<i>American Joint Committee on Cancer Staging Manual, eighth edition</i>(<i>AJCC8</i>) systems in stratifying risk for locoregional recurrence (LR), nodal metastasis (NM), distant metastasis (DM), and disease-specific death (DSD).</p><h3>Main Outcomes and Measures</h3><p>Performance metrics evaluated included distinctiveness, homogeneity, and monotonicity, as defined by the<i>AJCC8</i>, as well as sensitivity, specificity, positive predictive value, negative predictive value, accuracy, the area under the receiver operating characteristic curve, and concordance.</p><h3>Results</h3><p>The median age at diagnosis was 73 (IQR, 64-81) years, with 38.5% female patients and 61.5% male patients. The AIRIS prognostication system demonstrated superior sensitivity across all outcomes (LR, 49.1%; NM, 73.7%; DM, 82.5%; and DSD, 72.2%) and the highest area under the receiver operating characteristic curve values (LR, 0.69; NM, 0.81; DM, 0.85; and DSD, 0.80), indicating significantly enhanced discriminative capability compared with the BWH and<i>AJCC8</i>systems. While all systems were comparably distinctive, the AIRIS prognostication system consistently demonstrated the lowest proportion of tumors exhibiting poor outcomes in low-risk categories, suggesting its improved homogeneity and monotonicity.</p><h3>Conclusions and Relevance</h3><p>The results of this diagnostic study suggest that the AIRIS system outperforms the existing BWH and<i>AJCC8</i>prognostication systems, potentially providing a more effective tool for predicting poor outcomes in cSCC. This study illustrates the potential of large language models in refining prognostic tools, offering implications for treating patients with cancer.</p>",
-            "date_published": "2025-06-11T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Neil K. Jairath, MD"
-                }
-            ],
-            "tags": [
-                "disorders of sex development",
-                "homogeneity",
-                "large language models",
-                "malignant neoplasms",
-                "neoplasms",
-                "retrieval-augmented generation",
-                "squamous cell carcinoma of skin"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835069/jamadermatology_jairath_2025_oi_250023_1748619226.01723.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250023t1_1748619226.21411.png?Expires=2147483647&Signature=CQ5nlLsZghNrUxtlYVVJbrpmTZBuSf2R~oa2itAM3akLjXlj1HBiIPIPc1O8RUkKi0cNufFwdopnBOgNAjCjThmMKQIDZaswCm5-6o~g0ue8eb02jXFXp-AQgvBcUUHTjaKv42pe0gDrmfLALgvpsSfNb2q0uk6t8XAMtv2a3BJPbisCQvWWhYkNM0cpcjk~6yjy5FSfRrUI5deyucNnccJlajX8vjEoSpgb-4tlrSiM7-9bGdvJ0agxCwR9olXdRGoSkH2fgEd-eR7KFYpXP-gm3I3zT2lJi6E5MOQLjyTtJ9iUU6yezQt~Vt8GRggBdZBv2VA2GdswR7j2XSkNDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
