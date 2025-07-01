@@ -4,30 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
-            "title": "Prognostication System for Squamous Cell Carcinoma Using Retrieval Augmented Generation\u2013Enabled Large Language",
-            "summary": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
-            "content_text": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
+            "title": "Retrieval Augmented Generation\u2013Enabled Large Language Model for Risk Stratification of Cutaneous Squamous Cell",
+            "summary": "This diagnostic study examines a customized generative pretrained transformer model in aggregating and interpreting data to develop a class-based risk stratification system for cutaneous squamous cell carcinoma.",
+            "content_html": "<h3>Importance</h3><p>There exists substantial heterogeneity in outcomes within T stages for patients with cutaneous squamous cell carcinoma (cSCC).</p><h3>Objective</h3><p>To determine whether a customized generative pretrained transformer model, trained on a comprehensive dataset with more than 1 trillion parameters and equipped with relevant focused context and retrieval augmented generation (RAG), could excel in aggregating and interpreting vast quantities of data to develop a novel class-based risk stratification system that outperforms the current standards.</p><h3>Design, Setting, and Participants</h3><p>To build the RAG knowledge base, a systematic review of the literature was conducted that addressed risk factors for poor outcomes in cSCC. Using the RAG-enabled generative pretrained transformer (GPT) model, we developed a novel class-based risk stratification system that assigned point values for risk factors, culminating in a GPT-based prognostication system called the artificial intelligence\u2013derived risk score (AIRIS). The system\u2019s performance was validated on a combined prospective and retrospective cohort of 2379 primary cSCC tumors (1996-2023) with at least 36 months of follow-up, against Brigham and Women\u2019s Hospital (BWH) and<i>American Joint Committee on Cancer Staging Manual, eighth edition</i>(<i>AJCC8</i>) systems in stratifying risk for locoregional recurrence (LR), nodal metastasis (NM), distant metastasis (DM), and disease-specific death (DSD).</p><h3>Main Outcomes and Measures</h3><p>Performance metrics evaluated included distinctiveness, homogeneity, and monotonicity, as defined by the<i>AJCC8</i>, as well as sensitivity, specificity, positive predictive value, negative predictive value, accuracy, the area under the receiver operating characteristic curve, and concordance.</p><h3>Results</h3><p>The median age at diagnosis was 73 (IQR, 64-81) years, with 38.5% female patients and 61.5% male patients. The AIRIS prognostication system demonstrated superior sensitivity across all outcomes (LR, 49.1%; NM, 73.7%; DM, 82.5%; and DSD, 72.2%) and the highest area under the receiver operating characteristic curve values (LR, 0.69; NM, 0.81; DM, 0.85; and DSD, 0.80), indicating significantly enhanced discriminative capability compared with the BWH and<i>AJCC8</i>systems. While all systems were comparably distinctive, the AIRIS prognostication system consistently demonstrated the lowest proportion of tumors exhibiting poor outcomes in low-risk categories, suggesting its improved homogeneity and monotonicity.</p><h3>Conclusions and Relevance</h3><p>The results of this diagnostic study suggest that the AIRIS system outperforms the existing BWH and<i>AJCC8</i>prognostication systems, potentially providing a more effective tool for predicting poor outcomes in cSCC. This study illustrates the potential of large language models in refining prognostic tools, offering implications for treating patients with cancer.</p>",
             "date_published": "2025-06-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Emily S. Ruiz, MD, MPH"
+                    "name": "Neil K. Jairath, MD"
                 }
             ],
             "tags": [
+                "disorders of sex development",
+                "homogeneity",
                 "large language models",
+                "malignant neoplasms",
+                "neoplasms",
                 "retrieval-augmented generation",
-                "squamous cell carcinoma",
                 "squamous cell carcinoma of skin"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835073/jamadermatology_ruiz_2025_ed_250006_1748619233.50783.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835069/jamadermatology_jairath_2025_oi_250023_1748619226.01723.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Dermatology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250023t1_1748619226.21411.png?Expires=2147483647&Signature=CQ5nlLsZghNrUxtlYVVJbrpmTZBuSf2R~oa2itAM3akLjXlj1HBiIPIPc1O8RUkKi0cNufFwdopnBOgNAjCjThmMKQIDZaswCm5-6o~g0ue8eb02jXFXp-AQgvBcUUHTjaKv42pe0gDrmfLALgvpsSfNb2q0uk6t8XAMtv2a3BJPbisCQvWWhYkNM0cpcjk~6yjy5FSfRrUI5deyucNnccJlajX8vjEoSpgb-4tlrSiM7-9bGdvJ0agxCwR9olXdRGoSkH2fgEd-eR7KFYpXP-gm3I3zT2lJi6E5MOQLjyTtJ9iUU6yezQt~Vt8GRggBdZBv2VA2GdswR7j2XSkNDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
