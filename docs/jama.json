@@ -4,62 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835408",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835408",
-            "title": "Enhanced Surveillance of Sexually Transmitted Infections to Foster a Learning Public Health System",
-            "summary": "This cross-sectional study examines whether clinical data collected through public health information exchanges can be leveraged for use in infectious disease surveillance.",
-            "content_html": "<h3>Importance</h3><p>Sexually transmitted infections (STIs) pose a substantial public health challenge, but fragmented reporting systems have limited capacity for disease surveillance approaches that might support a learning public health system, where near real-time data-driven insights are integrated to inform, evaluate, and adapt public health strategies.</p><h3>Objective</h3><p>To examine how health information exchanges and open government data can be leveraged to foster a learning public health system by characterizing and comparing patterns in diagnosis vs testing at a scale commensurate with regional public health agencies.</p><h3>Design, Setting, and Participants</h3><p>In this cross-sectional study, chlamydia, gonorrhea, and HIV testing and diagnosis between January 1, 2018, and June 30, 2023, were assessed to study concurrent testing and coinfections and estimate correlates of laboratory testing and positive results. Patient-level electronic health record data from 4\u202f767\u202f322 patients aged 18 years or older spanning multiple health systems in New York City and collected by the public health information exchange Healthix were linked with neighborhood-level information from the American Community Survey.</p><h3>Exposures</h3><p>Age, sex, race and ethnicity, socioeconomic status, residential neighborhood, and concurrent STI testing.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were performance of a laboratory test and test positivity. The viability of using clinical data from public health information exchange to enhance disease surveillance to identify testing gaps, disparities, and important trends, key characteristics of a learning public health system was assessed.</p><h3>Results</h3><p>The dataset included 4\u202f767\u202f322 patients (mean [SD] age, 46 [18] years; 61% women) with approximately 33% living in areas of high or very high poverty levels and 66% in areas of low or medium poverty levels. Among 1\u202f519\u202f121 tests for chlamydia, 2% were positive; among 1\u202f574\u202f772 tests for gonorrhea, 1% were positive; and among 1\u202f200\u202f560 tests for HIV, 0.3% were positive. Chlamydia and gonorrhea co-occurred in 1854 cases, representing 7% of chlamydia cases and 21% of gonorrhea cases. Testing behavior was often incongruent with geographic and sociodemographic patterns of incident cases. For example, people living in areas with the highest poverty levels were less likely to be tested for gonorrhea (adjusted odds ratio [AOR], 0.90 [95% CI, 0.89-0.91];<i>P</i>\u2009&lt;\u2009.001) but almost twice as likely to test positive for gonorrhea (AOR, 1.91 [95% CI, 1.72-2.12];<i>P</i>\u2009&lt;\u2009.001) compared with those in low poverty areas.</p><h3>Conclusions and Relevance</h3><p>This cross-sectional study suggests that health information exchanges and open government data sources may support regional disease surveillance by contributing information not typically available through public health reporting to elucidate inefficiencies and disparities in testing given positivity and coinfection patterns. These and similar insights could be used to continuously drive public health improvements and foster a learning public health system.</p>",
-            "date_published": "2025-06-17T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
+            "title": "Prognostication System for Squamous Cell Carcinoma Using Retrieval Augmented Generation\u2013Enabled Large Language",
+            "summary": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
+            "content_text": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
+            "date_published": "2025-06-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Harry Reyes Nieva, PhD"
+                    "name": "Emily S. Ruiz, MD, MPH"
                 }
             ],
             "tags": [
-                "chlamydia",
-                "coinfection",
-                "gonorrhea",
-                "health care systems",
-                "health disparity",
-                "healthcare information exchange",
-                "hiv",
-                "human immunodeficiency virus test",
-                "laboratory techniques and procedures",
-                "neighborhood",
-                "sexually transmitted diseases",
-                "socioeconomic factors"
+                "large language models",
+                "retrieval-augmented generation",
+                "squamous cell carcinoma",
+                "squamous cell carcinoma of skin"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835408/reyes_nieva_2025_oi_250471_1749568862.28924.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835073/jamadermatology_ruiz_2025_ed_250006_1748619233.50783.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250471t1_1749568862.43551.png?Expires=2147483647&Signature=e-gPktDDSxeCrWqT1kR1AlvNWHm8~bOUeBFKDdfunTt3mQwM6hHj7Y-rC6rJDXrOTIK0dEihyrgt077Bmnll6prgQ~W4XYB8wv4YdIQCSR-92muD5QVplKG8G5oPRYaOSWoaPYskjlWLuC~cfKovT540Lv5G~89uoIbNsTkZbzfBni~b1RF4rzY9VtTwW31mPXDD5WoKILfh8A0PFfL3PBxQ~g-vSGicuqQzirM1C2xVlAo-HjQKY2WIN892UL~VRZ9-UQ8do5lTN0Ef996jL2FCr6ODvmT-Xm0CLcZd1MQPGj6OKfCH~kSe6221AZ7Sj~OSwBc4hsC-p-RcD4gNpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831331",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831331",
-            "title": "How Artificial Intelligence Can Promote Inclusive Health",
-            "summary": "This Viewpoint explores the potential utilities of artificial intelligence for achieving inclusive health care for people with intellectual and developmental disabilities.",
-            "content_text": "This Viewpoint explores the potential utilities of artificial intelligence for achieving inclusive health care for people with intellectual and developmental disabilities.",
-            "date_published": "2025-03-17T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Dimitri A. Christakis, MD, MPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "developmental disabilities"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2831331/jamapediatrics_christakis_2025_vp_250004_1745613475.32965.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Dermatology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
