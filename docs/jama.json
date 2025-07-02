@@ -4,55 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835296",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835296",
+            "title": "AI-Assisted vs Unassisted Identification of Prostate Cancer in Magnetic Resonance Images",
+            "summary": "This study assesses whether the use of a scientifically validated artificial intelligence (AI)-assisted system is associated with improved diagnostic accuracy for detecting clinically significant prostate cancer on magnetic resonance imaging (MRI) compared with an unassisted system.",
+            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) assistance in magnetic resonance imaging (MRI) assessment for prostate cancer shows promise for improving diagnostic accuracy but lacks large-scale observational evidence.</p><h3>Objective</h3><p>To evaluate whether use of AI-assisted assessment for diagnosing clinically significant prostate cancer (csPCa) on MRI is superior to unassisted readings.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study was conducted between March and July 2024 to compare unassisted and AI-assisted diagnostic performance using the AI system developed within the international Prostate Imaging-Cancer AI (PI-CAI) Consortium. The study involved 61 readers (34 experts and 27 nonexperts) from 53 centers across 17 countries. Readers assessed prostate magnetic resonance images both with and without AI assistance, providing Prostate Imaging Reporting and Data System (PI-RADS) annotations from 3 to 5 (higher PI-RADS indicated a higher likelihood of csPCa) and patient-level suspicion scores ranging from 0 to 100 (higher scores indicated a greater likelihood of harboring csPCa). Biparametric prostate MRI examinations were included for 780 men from the PI-CAI study who were included in the newly-conducted observer study. All men within the PI-CAI study had suspicion of harboring prostate cancer, sufficient diagnostic image quality, and no prior clinically significant cancer findings. Disease presence was defined by histopathology, and absence was determined by 3 or more years of follow-up. The AI system was recalibrated using 420 Dutch examinations to generate lesion-detection maps, with AI scores ranging from 1 to 10, in which 10 indicates the highest likelihood of csPCa. The remaining 360 examinations, originating from 3 Dutch centers and 1 Norwegian center, were included in the observer study.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was diagnosis of csPCa, evaluated using the area under the receiver operating characteristic curve and sensitivity and specificity at a PI-RADS threshold of 3 or more. The secondary outcomes included analysis at alternate operating points and reader expertise.</p><h3>Results</h3><p>Among the 360 examinations of 360 men (median age, 65 years [IQR, 62-70 years]) who were included for testing, 122 (34%) harbored csPCa. AI assistance was associated with significantly improved performance, achieving a 3.3% increase in the area under the receiver operating characteristic curve (95% CI, 1.8%-4.9%;<i>P</i>\u2009&lt;\u2009.001), from 0.882 (95% CI, 0.854-0.910) in unassisted assessments to 0.916 (95% CI, 0.893-0.938) with AI assistance. Sensitivity improved by 2.5% (95% CI, 1.1%-3.9%;<i>P</i>\u2009&lt;\u2009.001), from 94.3% (95% CI, 91.9%-96.7%) to 96.8% (95% CI, 95.2%-98.5%), and specificity increased by 3.4% (95% CI, 0.8%-6.0%;<i>P</i>\u2009=\u2009.01), from 46.7% (95% CI, 39.4%-54.0%) to 50.1% (95% CI, 42.5%-57.7%), at a PI-RADS score of 3 or more. Secondary analyses demonstrated similar performance improvements across alternate operating points and a greater benefit of AI assistance for nonexpert readers.</p><h3>Conclusions and Relevance</h3><p>The findings of this diagnostic study of patients suspected of harboring prostate cancer suggest that AI assistance was associated with improved radiologic diagnosis of clinically significant disease. Further research is required to investigate the generalization of outcomes and effects on workflow improvement within prospective settings.</p>",
+            "date_published": "2025-06-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Jasper J. Twilt, MSc"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "informatics (discipline)"
+                "magnetic resonance imaging",
+                "malignant neoplasm of prostate",
+                "prostate",
+                "reactive airways disease"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835296/twilt_2025_oi_250499_1749220876.00644.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250499t1_1749220876.34684.png?Expires=2147483647&Signature=K9aAPPD78kdIz1nncGV42ETiK3lpfwgmEmT3~pR~jD~m-OlCjmRGAS-HZF4qIooh84sDExAG1C62nLrNbKbr5lR0oPKpLsXtivk0yew4Bk1BlaBHqA-nx~4DNOjnaZVW5K1ezqN62lt6RL7VARfX6IvURX7EOtcpKtJtrGvauFAmtBnzXI4xHpNH8nznj7GE8zi4aCZhI43vRq0WViQc4xsIXTg5Tpo027TQH2LBbskjX97FADPIagSO1uUEDiufy0iBhYQmwf3auGDtIjgzngbP~5nYEdV7bo6qxN3AZT3D9yatkCFQM75YhrD3vSAHPdZhxq~Vue5h0TWmz~2r3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
-            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
-            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
-            "date_published": "2025-03-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835226",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835226",
+            "title": "Guiding Clostridioides difficile Infection Prevention Efforts in a Hospital Setting With AI",
+            "summary": "This quality improvement study examines a 28-month quality improvement program that used an institution-specific AI model to guide Clostridioides difficile infection prevention efforts at a large academic medical center.",
+            "content_html": "<h3>Importance</h3><p>Increasingly, artificial intelligence (AI) is being used to develop models that can identify patients at high risk for adverse outcomes. However, the clinical impact of these models remains largely unrealized.</p><h3>Objective</h3><p>To evaluate the association of an AI-guided infection prevention bundle with<i>Clostridioides difficile</i>infection (CDI) incidence in a hospital setting.</p><h3>Design, Setting, and Participants</h3><p>This prospective, single-center quality improvement study evaluated adult inpatient hospitalizations before (September 1, 2021, to August 31, 2022) and after (January 1, 2023, to December 31, 2023) AI implementation. Data analysis was performed from January to August 2024.</p><h3>Intervention</h3><p>A previously validated institution-specific AI model for CDI risk prediction was integrated into clinical workflows at the study site. The model was used to guide infection prevention practices for reducing pathogen exposure through enhanced hand hygiene and reducing host susceptibility through antimicrobial stewardship.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was CDI incidence rate. Secondary outcomes included antimicrobial use and qualitative assessments of bundle implementation.</p><h3>Results</h3><p>Pre-AI and post-AI samples included 39\u202f046 (21 645 [55.4%] female; median [IQR] age, 58 [36-70] years) and 40\u202f515 (22 575 [55.7%] female; median [IQR] age, 58 [37-70] years) hospitalizations, respectively. After adjusting for differences in clinical characteristics, there was no significant reduction in CDI incidence (pre-AI period: 5.76 per 10\u202f000 patient-days vs post-AI period: 5.65 per 10\u202f000 patient-days; absolute difference, \u22120.11; 95% CI, \u22121.43 to 1.18;<i>P</i>\u2009=\u2009.85). Relative reductions greater than 10% in normalized antimicrobial days were seen for piperacillin-tazobactam (\u22129.64; 95% CI, \u221212.93 to \u22126.28;<i>P</i>\u2009&lt;\u2009.001) and clindamycin (\u22121.04; 95% CI, \u22121.60 to \u22120.47;<i>P</i>\u2009=\u2009.03), especially for high-risk patients alerted by AI (relative reduction for piperacillin-tazobactam, 16.8%; 95% CI, 8.0%-24.6%). On the basis of qualitative assessments via semistructured interviews and field observations, the study found that health care staff\u2019s experiences with AI-guided workflows varied. In particular, the enhanced hand hygiene protocols were met with poor adherence, whereas pharmacists consistently engaged with the alerts.</p><h3>Conclusions and Relevance</h3><p>In this quality improvement study, the implementation of an AI-guided infection prevention bundle was not associated with a significant reduction in the already low CDI incidence rate at the study site, but it was associated with reduced CDI-associated antimicrobial use. The results highlight the potential of AI in supporting antimicrobial stewardship. Barriers to implementation, including infrastructure, staff knowledge, and workflow integration, need to be addressed in future applications.</p>",
+            "date_published": "2025-06-12T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shefali V. Patil, PhD"
+                    "name": "Shengpu Tang, PhD"
                 }
             ],
             "tags": [
+                "antimicrobials",
                 "artificial intelligence",
-                "calibration",
-                "decision making",
-                "health policy",
-                "personal satisfaction"
+                "clostridium difficile infection",
+                "primary outcome measure",
+                "quality improvement",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835226/tang_2025_oi_250494_1749071623.38198.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250494f1_1749071623.52698.png?Expires=2147483647&Signature=nlb~9kdEecnt8z9EKjFpRzENMyHB6ox1wo2PNIgdgfU7NtGtbp2zXhnqdIQu2W7c1spv-8m0J0nckA8tcFiE5nUHNmGwhN~Js4cKtV3wumyt3WFZ5WN43r3YLA1chEh6Ht1ID02nxk3QbDT7baZINCUEJNp-Ln8c1mE-ly1D3k4Lw3sfBIkVcjsZ03NRaaDh50q-D7OIGwC-WuC4yJT1QF52yDqg~HyfOgNSy42TvdvUMFg4mgyRjol9vOMUujz7NGL03n3nAtOsf7lbgrsJrIc~TRxrWy8GoGrP9LlSfCcR7CR5PxIYCnIkGzfwwcv4xHbseLH5syaATVo8lrtrgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
