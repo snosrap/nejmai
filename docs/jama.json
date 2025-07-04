@@ -4,64 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
-            "title": "Artificial Intelligence\u2013Powered Spatial Analysis of Immune Phenotypes in Resected Pancreatic Cancer",
-            "summary": "This cohort study investigates if artificial intelligence\u2013powered spatial analysis of tumor-infiltrating lymphocytes can provide prognostic value in resected pancreatic ductal adenocarcinoma.",
-            "content_html": "<h3>Importance</h3><p>Although tumor-infiltrating lymphocytes (TILs) have been implicated as prognostic biomarkers across various malignancies, the clinical application remains challenging. This study evaluated the applicability of artificial intelligence (AI)\u2013powered spatial mapping of TIL density for prognostic assessment in resected pancreatic ductal adenocarcinoma (PDAC).</p><h3>Objective</h3><p>To evaluate the prognostic significance of AI-powered spatial TIL analysis in resected PDAC and its clinical applicability.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included patients with PDAC who underwent up-front R0 resection at a tertiary referral center between January 2017 and December 2020. Whole-slide images of retrospectively enrolled patients with PDAC and up-front R0 resection were analyzed. An AI-powered whole-slide image analyzer was used for spatial TIL quantification, segmentation of tumor and stroma, and immune phenotype classification as immune-inflamed phenotype, immune-excluded phenotype, or immune-desert phenotype. Study data were analyzed from January 2017 to August 2023.</p><h3>Exposure</h3><p>Use of AI-powered spatial analysis of the tumor microenvironment in resected PDACs.</p><h3>Main Outcomes and Measures</h3><p>Tumor microenvironment\u2013related risk factors and their associations with overall survival (OS) and recurrence-free survival (RFS) outcomes were identified.</p><h3>Results</h3><p>Among 304 patients, the mean (SD) age was 66.8\u2009(9.4) years with 171 male patients (56.3%), and preoperative clinical stages I and II were represented by 54.3% patients (165 of 304) and 45.7% patients (139 of 304), respectively. The TILs in the tumor microenvironment were predominantly concentrated in the stroma, and the median intratumoral TIL and stromal TIL densities were 100.64/mm<sup>2</sup>(IQR, 53.25-121.39/mm<sup>2</sup>) and 734.88/mm<sup>2</sup>(IQR, 443.10-911.16/mm<sup>2</sup>), respectively. Overall, 9.9% of tumors (30 of 304) were immune inflamed, 85.2% (259 of 304) were immune excluded, and 4.9% (15 of 304) were immune desert. The immune-inflamed phenotype was associated with the most prolonged OS (median not reached;<i>P</i>\u2009&lt;\u2009.001) and RFS (median not reached;<i>P</i>\u2009=\u2009.001), followed by immune-excluded phenotype and immune-desert phenotype. High intratumoral TIL density was associated with longer OS (median, 52.47 months; 95% CI, 41.98-62.96;<i>P</i>\u2009=\u2009.004) and RFS (median, 21.67 months; 95% CI, 14.43-28.91;<i>P</i>\u2009=\u2009.02). A combined analysis of the pathologic stage with immune phenotype predicted better survival of stage II PDAC stratified as immune-inflamed phenotype than stage I PDAC stratified as non\u2013immune-inflamed phenotype.</p><h3>Conclusions and Relevance</h3><p>Results of this cohort study suggest that the use of AI has markedly condensed the labor-intensive process of TIL assessment, potentially rendering the process more feasible and practical in clinical application. Importantly, the IP may be one of the most important prognostic biomarkers in resected PDACs.</p>",
-            "date_published": "2025-06-25T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835102",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835102",
+            "title": "Artificial Intelligence and Health Care Waste\u2014Promise or Peril?",
+            "summary": "This Viewpoint explores the opportunities and risks posed by AI in the health care system through the lens of the National Academy of Medicine\u2019s framework of health care waste.",
+            "content_text": "This Viewpoint explores the opportunities and risks posed by AI in the health care system through the lens of the National Academy of Medicine\u2019s framework of health care waste.",
+            "date_published": "2025-06-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Hyemin Kim, PhD"
+                    "name": "William H. Shrank, MD, MSHS"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "lymphocytes",
-                "malignant neoplasm of pancreas",
-                "malignant neoplasms",
-                "neoplasms",
-                "pancreatic ductal adenocarcinoma",
-                "phenotype",
-                "tumor-infiltrating"
+                "crystalline",
+                "health care systems",
+                "health policy",
+                "lens",
+                "lens (device)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835786/jamasurgery_kim_2025_oi_250034_1750693345.53636.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835102/shrank_2025_vp_250016_1749749358.22898.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250034t1_1750693345.84659.png?Expires=2147483647&Signature=ZvTvFC4j0SqCe6A00UEEIgrI0s1vje-Qtu5jbs6J7UVa8Y7OKqKj86U7tEQG4Gau17VyTkJk~mE3VZMqitxWo0-h72dTd-I~D8ufJcQTiJIs0Xi2BTln8KCVsFpybsu2tDVpkhXAiiDqTI1Jo76ZCDpsh-ulGTFBm9rKVypVV-OpeopzNUyTu9DTb24epwE1ahCjhZZrziHkEra4LdDhO3EhbGnCjen50k4SObj8oA2UL96L3tJFdNVtkxLvGHJaNpTS3BHahabrY5sPOaBSMKpxmBUKPKhU7ONDQFfUig9LxvrSpxFSPkRqwQXCarvsgtJuUxfJVvVaCSMCOfYWzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
-            "title": "Artificial Intelligence\u2013Powered Spatial Analysis of Immune Phenotypes in Resected Pancreatic Cancer",
-            "summary": "This cohort study investigates if artificial intelligence\u2013powered spatial analysis of tumor-infiltrating lymphocytes can provide prognostic value in resected pancreatic ductal adenocarcinoma.",
-            "content_html": "<h3>Importance</h3><p>Although tumor-infiltrating lymphocytes (TILs) have been implicated as prognostic biomarkers across various malignancies, the clinical application remains challenging. This study evaluated the applicability of artificial intelligence (AI)\u2013powered spatial mapping of TIL density for prognostic assessment in resected pancreatic ductal adenocarcinoma (PDAC).</p><h3>Objective</h3><p>To evaluate the prognostic significance of AI-powered spatial TIL analysis in resected PDAC and its clinical applicability.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included patients with PDAC who underwent up-front R0 resection at a tertiary referral center between January 2017 and December 2020. Whole-slide images of retrospectively enrolled patients with PDAC and up-front R0 resection were analyzed. An AI-powered whole-slide image analyzer was used for spatial TIL quantification, segmentation of tumor and stroma, and immune phenotype classification as immune-inflamed phenotype, immune-excluded phenotype, or immune-desert phenotype. Study data were analyzed from January 2017 to August 2023.</p><h3>Exposure</h3><p>Use of AI-powered spatial analysis of the tumor microenvironment in resected PDACs.</p><h3>Main Outcomes and Measures</h3><p>Tumor microenvironment\u2013related risk factors and their associations with overall survival (OS) and recurrence-free survival (RFS) outcomes were identified.</p><h3>Results</h3><p>Among 304 patients, the mean (SD) age was 66.8\u2009(9.4) years with 171 male patients (56.3%), and preoperative clinical stages I and II were represented by 54.3% patients (165 of 304) and 45.7% patients (139 of 304), respectively. The TILs in the tumor microenvironment were predominantly concentrated in the stroma, and the median intratumoral TIL and stromal TIL densities were 100.64/mm<sup>2</sup>(IQR, 53.25-121.39/mm<sup>2</sup>) and 734.88/mm<sup>2</sup>(IQR, 443.10-911.16/mm<sup>2</sup>), respectively. Overall, 9.9% of tumors (30 of 304) were immune inflamed, 85.2% (259 of 304) were immune excluded, and 4.9% (15 of 304) were immune desert. The immune-inflamed phenotype was associated with the most prolonged OS (median not reached;<i>P</i>\u2009&lt;\u2009.001) and RFS (median not reached;<i>P</i>\u2009=\u2009.001), followed by immune-excluded phenotype and immune-desert phenotype. High intratumoral TIL density was associated with longer OS (median, 52.47 months; 95% CI, 41.98-62.96;<i>P</i>\u2009=\u2009.004) and RFS (median, 21.67 months; 95% CI, 14.43-28.91;<i>P</i>\u2009=\u2009.02). A combined analysis of the pathologic stage with immune phenotype predicted better survival of stage II PDAC stratified as immune-inflamed phenotype than stage I PDAC stratified as non\u2013immune-inflamed phenotype.</p><h3>Conclusions and Relevance</h3><p>Results of this cohort study suggest that the use of AI has markedly condensed the labor-intensive process of TIL assessment, potentially rendering the process more feasible and practical in clinical application. Importantly, the IP may be one of the most important prognostic biomarkers in resected PDACs.</p>",
-            "date_published": "2025-06-25T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
+            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "date_published": "2025-06-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Hyemin Kim, PhD"
+                    "name": "Maxime F. Griot, MSc, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "lymphocytes",
-                "malignant neoplasm of pancreas",
-                "malignant neoplasms",
-                "neoplasms",
-                "pancreatic ductal adenocarcinoma",
-                "phenotype",
-                "tumor-infiltrating"
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835786/jamasurgery_kim_2025_oi_250034_1750693345.53636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250034t1_1750693345.84659.png?Expires=2147483647&Signature=ZvTvFC4j0SqCe6A00UEEIgrI0s1vje-Qtu5jbs6J7UVa8Y7OKqKj86U7tEQG4Gau17VyTkJk~mE3VZMqitxWo0-h72dTd-I~D8ufJcQTiJIs0Xi2BTln8KCVsFpybsu2tDVpkhXAiiDqTI1Jo76ZCDpsh-ulGTFBm9rKVypVV-OpeopzNUyTu9DTb24epwE1ahCjhZZrziHkEra4LdDhO3EhbGnCjen50k4SObj8oA2UL96L3tJFdNVtkxLvGHJaNpTS3BHahabrY5sPOaBSMKpxmBUKPKhU7ONDQFfUig9LxvrSpxFSPkRqwQXCarvsgtJuUxfJVvVaCSMCOfYWzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
