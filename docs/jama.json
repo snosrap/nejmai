@@ -4,58 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835226",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835226",
-            "title": "Guiding Clostridioides difficile Infection Prevention Efforts in a Hospital Setting With AI",
-            "summary": "This quality improvement study examines a 28-month quality improvement program that used an institution-specific AI model to guide Clostridioides difficile infection prevention efforts at a large academic medical center.",
-            "content_html": "<h3>Importance</h3><p>Increasingly, artificial intelligence (AI) is being used to develop models that can identify patients at high risk for adverse outcomes. However, the clinical impact of these models remains largely unrealized.</p><h3>Objective</h3><p>To evaluate the association of an AI-guided infection prevention bundle with<i>Clostridioides difficile</i>infection (CDI) incidence in a hospital setting.</p><h3>Design, Setting, and Participants</h3><p>This prospective, single-center quality improvement study evaluated adult inpatient hospitalizations before (September 1, 2021, to August 31, 2022) and after (January 1, 2023, to December 31, 2023) AI implementation. Data analysis was performed from January to August 2024.</p><h3>Intervention</h3><p>A previously validated institution-specific AI model for CDI risk prediction was integrated into clinical workflows at the study site. The model was used to guide infection prevention practices for reducing pathogen exposure through enhanced hand hygiene and reducing host susceptibility through antimicrobial stewardship.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was CDI incidence rate. Secondary outcomes included antimicrobial use and qualitative assessments of bundle implementation.</p><h3>Results</h3><p>Pre-AI and post-AI samples included 39\u202f046 (21 645 [55.4%] female; median [IQR] age, 58 [36-70] years) and 40\u202f515 (22 575 [55.7%] female; median [IQR] age, 58 [37-70] years) hospitalizations, respectively. After adjusting for differences in clinical characteristics, there was no significant reduction in CDI incidence (pre-AI period: 5.76 per 10\u202f000 patient-days vs post-AI period: 5.65 per 10\u202f000 patient-days; absolute difference, \u22120.11; 95% CI, \u22121.43 to 1.18;<i>P</i>\u2009=\u2009.85). Relative reductions greater than 10% in normalized antimicrobial days were seen for piperacillin-tazobactam (\u22129.64; 95% CI, \u221212.93 to \u22126.28;<i>P</i>\u2009&lt;\u2009.001) and clindamycin (\u22121.04; 95% CI, \u22121.60 to \u22120.47;<i>P</i>\u2009=\u2009.03), especially for high-risk patients alerted by AI (relative reduction for piperacillin-tazobactam, 16.8%; 95% CI, 8.0%-24.6%). On the basis of qualitative assessments via semistructured interviews and field observations, the study found that health care staff\u2019s experiences with AI-guided workflows varied. In particular, the enhanced hand hygiene protocols were met with poor adherence, whereas pharmacists consistently engaged with the alerts.</p><h3>Conclusions and Relevance</h3><p>In this quality improvement study, the implementation of an AI-guided infection prevention bundle was not associated with a significant reduction in the already low CDI incidence rate at the study site, but it was associated with reduced CDI-associated antimicrobial use. The results highlight the potential of AI in supporting antimicrobial stewardship. Barriers to implementation, including infrastructure, staff knowledge, and workflow integration, need to be addressed in future applications.</p>",
-            "date_published": "2025-06-12T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
+            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "date_published": "2025-06-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shengpu Tang, PhD"
-                }
-            ],
-            "tags": [
-                "antimicrobials",
-                "artificial intelligence",
-                "clostridium difficile infection",
-                "primary outcome measure",
-                "quality improvement",
-                "workflow"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835226/tang_2025_oi_250494_1749071623.38198.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250494f1_1749071623.52698.png?Expires=2147483647&Signature=nlb~9kdEecnt8z9EKjFpRzENMyHB6ox1wo2PNIgdgfU7NtGtbp2zXhnqdIQu2W7c1spv-8m0J0nckA8tcFiE5nUHNmGwhN~Js4cKtV3wumyt3WFZ5WN43r3YLA1chEh6Ht1ID02nxk3QbDT7baZINCUEJNp-Ln8c1mE-ly1D3k4Lw3sfBIkVcjsZ03NRaaDh50q-D7OIGwC-WuC4yJT1QF52yDqg~HyfOgNSy42TvdvUMFg4mgyRjol9vOMUujz7NGL03n3nAtOsf7lbgrsJrIc~TRxrWy8GoGrP9LlSfCcR7CR5PxIYCnIkGzfwwcv4xHbseLH5syaATVo8lrtrgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Tyler J. Loftus, MD, PhD"
+                    "name": "Maxime F. Griot, MSc, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "chatbots",
-                "knowledge acquisition",
-                "large language models"
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -745,6 +715,37 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
