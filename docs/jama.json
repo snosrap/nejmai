@@ -4,53 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
-            "title": "Bridging the Gap Between Developers and Implementers in Health AI",
-            "summary": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
-            "content_text": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
-            "date_published": "2025-06-20T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835226",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835226",
+            "title": "Guiding Clostridioides difficile Infection Prevention Efforts in a Hospital Setting With AI",
+            "summary": "This quality improvement study examines a 28-month quality improvement program that used an institution-specific AI model to guide Clostridioides difficile infection prevention efforts at a large academic medical center.",
+            "content_html": "<h3>Importance</h3><p>Increasingly, artificial intelligence (AI) is being used to develop models that can identify patients at high risk for adverse outcomes. However, the clinical impact of these models remains largely unrealized.</p><h3>Objective</h3><p>To evaluate the association of an AI-guided infection prevention bundle with<i>Clostridioides difficile</i>infection (CDI) incidence in a hospital setting.</p><h3>Design, Setting, and Participants</h3><p>This prospective, single-center quality improvement study evaluated adult inpatient hospitalizations before (September 1, 2021, to August 31, 2022) and after (January 1, 2023, to December 31, 2023) AI implementation. Data analysis was performed from January to August 2024.</p><h3>Intervention</h3><p>A previously validated institution-specific AI model for CDI risk prediction was integrated into clinical workflows at the study site. The model was used to guide infection prevention practices for reducing pathogen exposure through enhanced hand hygiene and reducing host susceptibility through antimicrobial stewardship.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was CDI incidence rate. Secondary outcomes included antimicrobial use and qualitative assessments of bundle implementation.</p><h3>Results</h3><p>Pre-AI and post-AI samples included 39\u202f046 (21 645 [55.4%] female; median [IQR] age, 58 [36-70] years) and 40\u202f515 (22 575 [55.7%] female; median [IQR] age, 58 [37-70] years) hospitalizations, respectively. After adjusting for differences in clinical characteristics, there was no significant reduction in CDI incidence (pre-AI period: 5.76 per 10\u202f000 patient-days vs post-AI period: 5.65 per 10\u202f000 patient-days; absolute difference, \u22120.11; 95% CI, \u22121.43 to 1.18;<i>P</i>\u2009=\u2009.85). Relative reductions greater than 10% in normalized antimicrobial days were seen for piperacillin-tazobactam (\u22129.64; 95% CI, \u221212.93 to \u22126.28;<i>P</i>\u2009&lt;\u2009.001) and clindamycin (\u22121.04; 95% CI, \u22121.60 to \u22120.47;<i>P</i>\u2009=\u2009.03), especially for high-risk patients alerted by AI (relative reduction for piperacillin-tazobactam, 16.8%; 95% CI, 8.0%-24.6%). On the basis of qualitative assessments via semistructured interviews and field observations, the study found that health care staff\u2019s experiences with AI-guided workflows varied. In particular, the enhanced hand hygiene protocols were met with poor adherence, whereas pharmacists consistently engaged with the alerts.</p><h3>Conclusions and Relevance</h3><p>In this quality improvement study, the implementation of an AI-guided infection prevention bundle was not associated with a significant reduction in the already low CDI incidence rate at the study site, but it was associated with reduced CDI-associated antimicrobial use. The results highlight the potential of AI in supporting antimicrobial stewardship. Barriers to implementation, including infrastructure, staff knowledge, and workflow integration, need to be addressed in future applications.</p>",
+            "date_published": "2025-06-12T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Michael J. Pencina, PhD"
+                    "name": "Shengpu Tang, PhD"
                 }
             ],
             "tags": [
+                "antimicrobials",
                 "artificial intelligence",
-                "health policy",
-                "technology"
+                "clostridium difficile infection",
+                "primary outcome measure",
+                "quality improvement",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835280/pencina_2025_vp_250017_1749148938.67942.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835226/tang_2025_oi_250494_1749071623.38198.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939627/avp250017t1_1749148938.84406.png?Expires=2147483647&Signature=jkog3PtzPJMtl5jp5MsCR8cUuBrhjb1vh1lI5O-rBLM9wL5oCYzLehG9W21tycXA0qVM166j1OZJfQPs~IX8hsTzuEI5o6~Me4PAakDsm-o1x0dl0J05gplocy-All56k08EHyqj1m0Nvtbc6RQgMS~wZDnBeh~wgLyXXyh6f-Jgm3EfTxWFDsQ1E0R-8rObk1X-8HH2vRrKA5ctLhFhKccdS4n9PjkRHQTjk19ZF9BWAR7XN8f~gr3Pfr9lIVUdHoq5bDsIXVk07i9nLzXLU0k8XKtH8G9EJ8VKZ~yRDil5me~6Qfuw9PvSkwhigzhpI1cr0fXMb-ilYErIZcElQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250494f1_1749071623.52698.png?Expires=2147483647&Signature=nlb~9kdEecnt8z9EKjFpRzENMyHB6ox1wo2PNIgdgfU7NtGtbp2zXhnqdIQu2W7c1spv-8m0J0nckA8tcFiE5nUHNmGwhN~Js4cKtV3wumyt3WFZ5WN43r3YLA1chEh6Ht1ID02nxk3QbDT7baZINCUEJNp-Ln8c1mE-ly1D3k4Lw3sfBIkVcjsZ03NRaaDh50q-D7OIGwC-WuC4yJT1QF52yDqg~HyfOgNSy42TvdvUMFg4mgyRjol9vOMUujz7NGL03n3nAtOsf7lbgrsJrIc~TRxrWy8GoGrP9LlSfCcR7CR5PxIYCnIkGzfwwcv4xHbseLH5syaATVo8lrtrgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831224",
-            "title": "Integrating Artificial Intelligence Support in Patient Care While Respecting Ethical Principles",
-            "summary": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
-            "content_text": "Responding to portal messages is generally considered cumbersome and time-consuming for physicians\u2014perhaps an ideal task to be relegated to generative artificial intelligence (AI) support tools. Research has shown that AI can generate messages that are high quality and acceptable to patients and at times perceived to be more empathetic than physician-generated responses. 1 - 4 This support can alleviate burdens on physicians and help address burnout. However, it is important to consider how patients feel about the use of AI-generated messages and their impact on patient-physician relationships. The study by Cavalier et al 5 surveyed participants from a patient advisory group to assess attitudes toward AI- and physician-generated portal messages and authorship disclosure. While participants were generally satisfied with the responses, they preferred the ones written by AI, which tended to be longer and more detailed and were perceived as more empathetic. However, participants were less satisfied if they learned that these emails had been authored by AI. Participants were more satisfied if they were told that a physician wrote the email or if they were told nothing about the authorship.",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Marianne Sharko, MD, MS"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "ethics"
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2831224/sharko_2025_ic_250013_1741025151.25682.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
