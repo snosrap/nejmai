@@ -4,6 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Tyler J. Loftus, MD, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "title": "Primary Visual Pathway Changes in Individuals With Chronic Mild Traumatic Brain Injury",
@@ -865,33 +891,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939353/srv230010f1_1711661264.54467.png?Expires=2147483647&Signature=Ozq-91RuyXuWpynfCIAhuix8q1S-eFchmcK1OVu1qeLUvg4ybxnS26Q9B4AeXuZCsdL2zWWv-zyDZj9VJUokrQ0CY5-5rRFPwpFL4f~pJYb1yZGzhWzsVPlXqFWf71JDxPXPvWBAnlMLV~gAsyNF72Ho8zP91cYZECNs1zVW~1kipTyFiPkb7Q0xpoYFPtIUJU4ZOp~WaBCgLXxlBzy8mGTQ3UmS2JuCjQju75PyiNk0j6cABPPu6xipWGlMPrwetwvw2RhntFta7LI2rcYWGPOW21i1edjehAGAwTv8Wck7h4B1skHl58mJ3Ce6RJMXUQj23JOKuYDKUvBlFLyN2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
