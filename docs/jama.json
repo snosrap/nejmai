@@ -4,23 +4,48 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835107",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835107",
-            "title": "AI Hype Cycles and Reality in Health Care",
-            "summary": "It is imperative for each of us as scholars and individuals to skeptically read research studies and popular press articles that tout grandiose claims about what large language models (LLMs) and, more broadly, artificial intelligence (AI) can accomplish. Like many published works aggrandizing AI, my sentiment about skepticism is not a new insight. Yet, we continue to be inundated with hyperbolic pronouncements related to LLMs and AI in health care well beyond what studies demonstrate is currently possible. Anchoring discussions of AI in health care in current and near-term realities is crucial. Shrank et al 1 premise their Viewpoint on the potential for AI to reduce health care waste, helpfully grounding their piece in caution about risks. They center the National Academy of Medicine\u2019s framework on health care waste to discuss administrative complexity, fraud and abuse, and care delivery, among other areas. Importantly, they highlight earlier failures of health care technological modernization to lead to tangible cost savings and that AI could actually accelerate waste.",
-            "content_text": "It is imperative for each of us as scholars and individuals to skeptically read research studies and popular press articles that tout grandiose claims about what large language models (LLMs) and, more broadly, artificial intelligence (AI) can accomplish. Like many published works aggrandizing AI, my sentiment about skepticism is not a new insight. Yet, we continue to be inundated with hyperbolic pronouncements related to LLMs and AI in health care well beyond what studies demonstrate is currently possible. Anchoring discussions of AI in health care in current and near-term realities is crucial. Shrank et al 1 premise their Viewpoint on the potential for AI to reduce health care waste, helpfully grounding their piece in caution about risks. They center the National Academy of Medicine\u2019s framework on health care waste to discuss administrative complexity, fraud and abuse, and care delivery, among other areas. Importantly, they highlight earlier failures of health care technological modernization to lead to tangible cost savings and that AI could actually accelerate waste.",
-            "date_published": "2025-06-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
+            "title": "Large Language Models for Surgical Workflow Optimization",
+            "summary": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
+            "content_text": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
+            "date_published": "2025-07-09T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sherri Rose, PhD"
+                    "name": "Jayson S. Marwaha, MD, MSc"
                 }
             ],
             "tags": [
-                "health policy"
+                "large language models",
+                "operative surgical procedures",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835107/rose_2025_ic_250003_1749749367.19818.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835956/jamasurgery_marwaha_2025_ic_250020_1750898296.37562.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Larry Han, PhD"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
