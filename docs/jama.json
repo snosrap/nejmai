@@ -4,54 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835953",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835953",
-            "title": "Applying Large Language Models for Surgical Case Length Prediction",
-            "summary": "This study evaluates the use of large language models in predicting surgical case length.",
-            "content_html": "<h3>Importance</h3><p>Accurate prediction of surgical case duration is critical for operating room (OR) management, as inefficient scheduling can lead to reduced patient and surgeon satisfaction while incurring considerable financial costs.</p><h3>Objective</h3><p>To evaluate the feasibility and accuracy of large language models (LLMs) in predicting surgical case length using unstructured clinical data compared to existing estimation methods.</p><h3>Design, Setting, and Participants</h3><p>This was a retrospective study analyzing elective surgical cases performed between January 2017 and December 2023 at a single academic medical center and affiliated community hospital ORs. Analysis included 125\u202f493 eligible surgical cases, with 1950 used for LLM fine-tuning and 2500 for evaluation. An additional 500 cases from a community site were used for external validation. Cases were randomly sampled using strata to ensure representation across surgical specialties.</p><h3>Exposures</h3><p>Eleven LLMs, including base models (GPT-4, GPT-3.5, Mistral, Llama-3, Phi-3) and 2 fine-tuned variants (GPT-4 fine-tuned, GPT-3.5 fine-tuned), were used to predict surgical case length based on clinical notes.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was average error between predicted and actual surgical case length (wheels-in to wheels-out time). The secondary outcome was prediction accuracy, defined as predicted length within 20% of actual duration.</p><h3>Results</h3><p>Fine-tuned GPT-4 achieved the best performance with a mean absolute error (MAE) of 47.64 minutes (95% CI, 45.71-49.56) and<i>R</i><sup>2</sup>of 0.61, matching the performance of current OR scheduling (MAE, 49.34 minutes; 95% CI, 47.60-51.09;<i>R</i><sup>2</sup>, 0.63;<i>P</i>\u2009=\u2009.10). Both GPT-4 fine-tuned and GPT-3.5 fine-tuned significantly outperformed current scheduling methods in accuracy (46.12% and 46.08% vs 40.92%, respectively;<i>P</i>\u2009&lt;\u2009.001). GPT-4 fine-tuned outperformed all other models during external validation with similar performance metrics (MAE, 48.66 minutes; 95% CI, 45.31-52.00; accuracy, 46.0%). Base models demonstrated variable performance, with GPT-4 showing the highest performance among non\u2013fine-tuned models (MAE, 59.20 minutes; 95% CI, 56.88 - 61.52).</p><h3>Conclusion and Relevance</h3><p>The findings in this study suggest that fine-tuned LLMs can predict surgical case length with accuracy comparable to or exceeding current institutional scheduling methods. This indicates potential for LLMs to enhance operating room efficiency through improved case length prediction using existing clinical documentation.</p>",
-            "date_published": "2025-07-09T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836029",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836029",
+            "title": "Evaluating a Large Language Model in Translating Patient Instructions to Spanish Using a Standardized",
+            "summary": "This cross-sectional study determines whether the large language model GPT-4o can generate Spanish translations of personalized patient instructions with quality comparable to that of professional human translators.",
+            "content_html": "<h3>Importance</h3><p>Patients and caregivers who use languages other than English in the US encounter barriers to accessing language-concordant written instructions after clinical visits. Large language models (LLMs), such as OpenAI\u2019s GPT-4o, may improve access to translated patient materials; however, rigorous evaluation is needed to ensure clinical standards are met.</p><h3>Objective</h3><p>To determine whether GPT-4o can generate high-quality Spanish translations of personalized patient instructions comparable to those performed by professional human translators.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study compared LLM translations to professional human translations using equivalence testing. The personalized pediatric instructions used were derived from real clinical encounters at a large US academic medical center and translated between January 2023 and December 2023. Patient instructions in English were translated into Spanish by GPT-4o and professional human translators. The source English texts were translated using GPT-4o on August 2, 2024. Both sets of translations were evaluated by 3 independent professional medical translators.</p><h3>Exposure</h3><p>Patient instructions were translated using GPT-4o with an engineered prompt, and these translations were compared with those produced by professional human translators.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was translation quality, assessed using the Multidimensional Quality Metrics (MQM) framework to generate an overall MQM score (rated on a 0-100 scale). Secondary outcomes included a general preference rating and error rates for types of translation errors.</p><h3>Results</h3><p>This study included 20 source files of pediatric patient instructions. Equivalence testing showed no significant difference in translation quality between GPT-4o and human translations, with a mean difference of 1.6 points (90% CI, 0.7-2.5), falling within a predefined equivalence margin of plus or minus 5 MQM points. The LLM yielded fewer mistranslation errors, and a mean (SE) of 52% (6%) of professional translator ratings preferred the LLM translations.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study, GPT-4o generated Spanish translations of pediatric patient instructions that were comparable in quality to those by professional human translators as evaluated using a standardized framework. While human review of LLM translation remains essential in health care, these findings suggest that GPT-4o could reduce the translation workload for Spanish, potentially freeing resources to support languages of lesser diffusion.</p>",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Adhitya Ramamurthi, MD, MS"
+                    "name": "Mondira Ray, MD, MBI"
                 }
             ],
             "tags": [
+                "diffusion",
                 "large language models",
-                "operative surgical procedures"
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835953/jamasurgery_ramamurthi_2025_oi_250036_1750898288.91632.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836029/jamapediatrics_ray_2025_oi_250028_1751381400.11917.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250036f1_1750898289.35953.png?Expires=2147483647&Signature=taMw-Nz4gLFajZVgUF9ISxP0-dGW~6Iqlkdg5YV52PMeeNA~qt1HcdR0zTHHKIcQxuvsOMfu0kWfny2Up02I2hwNSusWaq37YJoXOuMDh3amT1b-gNoe8tkzlIThxJ3B1FntqKmA9G-b0gZQt~y3axLA1AGrSGa5vpClFUQZF-GFqrLnyJER8x5S2V5jhQUh5WGzXBMT9P00gDQsx~IES156yYB3uzghTbSTxmcyOg1lXYFgxvoWaY1nJW1YHbQHfBeSmvUUOxvKIsKzQsuwU1W7oHuuU8eVHoH7iHMTqfIx0wds8SivUdL6LhpW1HLeYb4qzi5f336Pq3S2ewE-rA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi250028f1_1751381400.48129.png?Expires=2147483647&Signature=q~nrLXakOfc0sIWaZ4-TJWoqeRiJzDx0QgU2XV9phlvt3xyBXJUJUa0-fveWX0yQR4Yq~EvWpgUczIOyWpZsWAMsF3IfLhSa18H-4d-1ezFmpcdIeqmsi6FzSaze2N-Rul4P4SsedEEizPuX9nwrjfzW133RLvhlrAc1bQlenlb--ATTHUiLZSwTBu8C8-8DSxoOrhJohmmXHJPy0zU2HTqiXyY9VJhSUucyzf55lyq8hKfWJD95QBldIhr9~QPS6H1Hn~fEWZNUYvSMlhdcH4picW2pVZoZLQLNYbRxmqwdH29yP4eXZ-KM8MQc4rZZeB0MaKmHgaAeKVnuxYuROA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
+            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
+            "date_published": "2025-03-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tyler J. Loftus, MD, PhD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "chatbots",
-                "knowledge acquisition",
-                "large language models"
+                "primary health care",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
