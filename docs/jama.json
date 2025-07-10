@@ -4,52 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
-            "title": "Large Language Models for Surgical Workflow Optimization",
-            "summary": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
-            "content_text": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835953",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835953",
+            "title": "Applying Large Language Models for Surgical Case Length Prediction",
+            "summary": "This study evaluates the use of large language models in predicting surgical case length.",
+            "content_html": "<h3>Importance</h3><p>Accurate prediction of surgical case duration is critical for operating room (OR) management, as inefficient scheduling can lead to reduced patient and surgeon satisfaction while incurring considerable financial costs.</p><h3>Objective</h3><p>To evaluate the feasibility and accuracy of large language models (LLMs) in predicting surgical case length using unstructured clinical data compared to existing estimation methods.</p><h3>Design, Setting, and Participants</h3><p>This was a retrospective study analyzing elective surgical cases performed between January 2017 and December 2023 at a single academic medical center and affiliated community hospital ORs. Analysis included 125\u202f493 eligible surgical cases, with 1950 used for LLM fine-tuning and 2500 for evaluation. An additional 500 cases from a community site were used for external validation. Cases were randomly sampled using strata to ensure representation across surgical specialties.</p><h3>Exposures</h3><p>Eleven LLMs, including base models (GPT-4, GPT-3.5, Mistral, Llama-3, Phi-3) and 2 fine-tuned variants (GPT-4 fine-tuned, GPT-3.5 fine-tuned), were used to predict surgical case length based on clinical notes.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was average error between predicted and actual surgical case length (wheels-in to wheels-out time). The secondary outcome was prediction accuracy, defined as predicted length within 20% of actual duration.</p><h3>Results</h3><p>Fine-tuned GPT-4 achieved the best performance with a mean absolute error (MAE) of 47.64 minutes (95% CI, 45.71-49.56) and<i>R</i><sup>2</sup>of 0.61, matching the performance of current OR scheduling (MAE, 49.34 minutes; 95% CI, 47.60-51.09;<i>R</i><sup>2</sup>, 0.63;<i>P</i>\u2009=\u2009.10). Both GPT-4 fine-tuned and GPT-3.5 fine-tuned significantly outperformed current scheduling methods in accuracy (46.12% and 46.08% vs 40.92%, respectively;<i>P</i>\u2009&lt;\u2009.001). GPT-4 fine-tuned outperformed all other models during external validation with similar performance metrics (MAE, 48.66 minutes; 95% CI, 45.31-52.00; accuracy, 46.0%). Base models demonstrated variable performance, with GPT-4 showing the highest performance among non\u2013fine-tuned models (MAE, 59.20 minutes; 95% CI, 56.88 - 61.52).</p><h3>Conclusion and Relevance</h3><p>The findings in this study suggest that fine-tuned LLMs can predict surgical case length with accuracy comparable to or exceeding current institutional scheduling methods. This indicates potential for LLMs to enhance operating room efficiency through improved case length prediction using existing clinical documentation.</p>",
             "date_published": "2025-07-09T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Jayson S. Marwaha, MD, MSc"
+                    "name": "Adhitya Ramamurthi, MD, MS"
                 }
             ],
             "tags": [
                 "large language models",
-                "operative surgical procedures",
-                "workflow"
+                "operative surgical procedures"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835956/jamasurgery_marwaha_2025_ic_250020_1750898296.37562.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835953/jamasurgery_ramamurthi_2025_oi_250036_1750898288.91632.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250036f1_1750898289.35953.png?Expires=2147483647&Signature=taMw-Nz4gLFajZVgUF9ISxP0-dGW~6Iqlkdg5YV52PMeeNA~qt1HcdR0zTHHKIcQxuvsOMfu0kWfny2Up02I2hwNSusWaq37YJoXOuMDh3amT1b-gNoe8tkzlIThxJ3B1FntqKmA9G-b0gZQt~y3axLA1AGrSGa5vpClFUQZF-GFqrLnyJER8x5S2V5jhQUh5WGzXBMT9P00gDQsx~IES156yYB3uzghTbSTxmcyOg1lXYFgxvoWaY1nJW1YHbQHfBeSmvUUOxvKIsKzQsuwU1W7oHuuU8eVHoH7iHMTqfIx0wds8SivUdL6LhpW1HLeYb4qzi5f336Pq3S2ewE-rA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Tyler J. Loftus, MD, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
-            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "date_published": "2025-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Larry Han, PhD"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
