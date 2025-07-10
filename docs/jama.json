@@ -4,54 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836029",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836029",
-            "title": "Evaluating a Large Language Model in Translating Patient Instructions to Spanish Using a Standardized",
-            "summary": "This cross-sectional study determines whether the large language model GPT-4o can generate Spanish translations of personalized patient instructions with quality comparable to that of professional human translators.",
-            "content_html": "<h3>Importance</h3><p>Patients and caregivers who use languages other than English in the US encounter barriers to accessing language-concordant written instructions after clinical visits. Large language models (LLMs), such as OpenAI\u2019s GPT-4o, may improve access to translated patient materials; however, rigorous evaluation is needed to ensure clinical standards are met.</p><h3>Objective</h3><p>To determine whether GPT-4o can generate high-quality Spanish translations of personalized patient instructions comparable to those performed by professional human translators.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study compared LLM translations to professional human translations using equivalence testing. The personalized pediatric instructions used were derived from real clinical encounters at a large US academic medical center and translated between January 2023 and December 2023. Patient instructions in English were translated into Spanish by GPT-4o and professional human translators. The source English texts were translated using GPT-4o on August 2, 2024. Both sets of translations were evaluated by 3 independent professional medical translators.</p><h3>Exposure</h3><p>Patient instructions were translated using GPT-4o with an engineered prompt, and these translations were compared with those produced by professional human translators.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was translation quality, assessed using the Multidimensional Quality Metrics (MQM) framework to generate an overall MQM score (rated on a 0-100 scale). Secondary outcomes included a general preference rating and error rates for types of translation errors.</p><h3>Results</h3><p>This study included 20 source files of pediatric patient instructions. Equivalence testing showed no significant difference in translation quality between GPT-4o and human translations, with a mean difference of 1.6 points (90% CI, 0.7-2.5), falling within a predefined equivalence margin of plus or minus 5 MQM points. The LLM yielded fewer mistranslation errors, and a mean (SE) of 52% (6%) of professional translator ratings preferred the LLM translations.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study, GPT-4o generated Spanish translations of pediatric patient instructions that were comparable in quality to those by professional human translators as evaluated using a standardized framework. While human review of LLM translation remains essential in health care, these findings suggest that GPT-4o could reduce the translation workload for Spanish, potentially freeing resources to support languages of lesser diffusion.</p>",
-            "date_published": "2025-07-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2835630",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2835630",
+            "title": "Complete AI-Enabled Echocardiography Interpretation With Multitask Deep Learning",
+            "summary": "This study evaluates the accuracy of an artificial intelligence (AI) system on a comprehensive set of 39 echocardiographic labels and measurements on transthoracic echocardiography.",
+            "content_html": "<h3>Importance</h3><p>Echocardiography is a cornerstone of cardiovascular care, but relies on expert interpretation and manual reporting from a series of videos. An artificial intelligence (AI) system, PanEcho, has been proposed to automate echocardiogram interpretation with multitask deep learning.</p><h3>Objective</h3><p>To develop and evaluate the accuracy of an AI system on a comprehensive set of 39 labels and measurements on transthoracic echocardiography (TTE).</p><h3>Design, Setting, and Participants</h3><p>This study represents the development and retrospective, multisite validation of an AI system. PanEcho was developed using TTE studies conducted at Yale New Haven Health System (YNHHS) hospitals and clinics from January 2016 to June 2022 during routine care. The model was internally validated in a temporally distinct YNHHS cohort from July to December 2022, externally validated across 4 diverse external cohorts, and publicly released.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the area under the receiver operating characteristic curve (AUC) for diagnostic classification tasks and mean absolute error for parameter estimation tasks, comparing AI predictions with the assessment of the interpreting cardiologist.</p><h3>Results</h3><p>This study included 1.2 million echocardiographic videos from 32\u202f265 TTE studies of 24\u202f405 patients across YNHHS hospitals and clinics. The AI system performed 18 diagnostic classification tasks with a median (IQR) AUC of 0.91 (0.88-0.93) and estimated 21 echocardiographic parameters with a median (IQR) normalized mean absolute error of 0.13 (0.10-0.18) in internal validation. For instance, the model accurately estimated left ventricular ejection fraction (mean absolute error: 4.2% internal; 4.5% external) and detected moderate or worse left ventricular systolic dysfunction (AUC: 0.98 internal; 0.99 external), right ventricular systolic dysfunction (AUC: 0.93 internal; 0.94 external), and severe aortic stenosis (AUC: 0.98 internal; 1.00 external). The AI system maintained excellent performance in limited imaging protocols, performing 15 diagnosis tasks with a median (IQR) AUC of 0.91 (0.87-0.94) in an abbreviated TTE cohort and 14 tasks with a median (IQR) AUC of 0.85 (0.77-0.87) on real-world point-of-care ultrasonography acquisitions from YNHHS emergency departments.</p><h3>Conclusions and Relevance</h3><p>In this study, an AI system that automatically interprets echocardiograms maintained high accuracy across geography and time from complete and limited studies. This AI system may be used as an adjunct reader in echocardiography laboratories or AI-enabled screening tool in point-of-care settings following prospective evaluation in the respective clinical workflows.</p>",
+            "date_published": "2025-06-23T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Mondira Ray, MD, MBI"
+                    "name": "Gregory Holste, MSE"
                 }
             ],
             "tags": [
-                "diffusion",
-                "large language models",
-                "pediatric discipline"
+                "artificial intelligence",
+                "deep learning",
+                "echocardiography",
+                "transthoracic echocardiography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836029/jamapediatrics_ray_2025_oi_250028_1751381400.11917.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2835630/jama_holste_2025_oi_250039_1750086124.59698.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi250028f1_1751381400.48129.png?Expires=2147483647&Signature=q~nrLXakOfc0sIWaZ4-TJWoqeRiJzDx0QgU2XV9phlvt3xyBXJUJUa0-fveWX0yQR4Yq~EvWpgUczIOyWpZsWAMsF3IfLhSa18H-4d-1ezFmpcdIeqmsi6FzSaze2N-Rul4P4SsedEEizPuX9nwrjfzW133RLvhlrAc1bQlenlb--ATTHUiLZSwTBu8C8-8DSxoOrhJohmmXHJPy0zU2HTqiXyY9VJhSUucyzf55lyq8hKfWJD95QBldIhr9~QPS6H1Hn~fEWZNUYvSMlhdcH4picW2pVZoZLQLNYbRxmqwdH29yP4eXZ-KM8MQc4rZZeB0MaKmHgaAeKVnuxYuROA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi250039f1_1750086124.7743.png?Expires=2147483647&Signature=g~vxLKRt9EvNzpmSyZgwXsWTPE6Faxjhz-dOWf9UnL~l2xvd2qW7bhlcOVtK~LjErCpQmwOzL1mk4hDZ0hrZUHLmd4vrEJBuGQcFgc846rYJp8iGVIqnXC6JpII~XaRNG~JkFzgmain7iMPuppLbT6Bcihhu85X563KOAEXAluj4iFz~5Gimi1UfP-UrE5-NinjWDxDGU61kaed7KwbHKYu~1HzUnLHhIX2JbJO10b85IXmnVd8Q1qmLVD08Rr6a9ANdCEWxQHoXGV-Nk1AC2UG3QLx538Uikh0m5LNCjY-NPzfbb2Kxr1uKGk7-xi-IBnfoRU-N9xCeCvvbmIYhXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
+            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "date_published": "2025-06-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Maxime F. Griot, MSc, MD"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "artificial intelligence",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
