@@ -4,56 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
-            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "date_published": "2025-07-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835704",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835704",
+            "title": "Multicenter Validation of a Machine Learning Model for Surgical Transfusion Risk at 45 US Hospitals",
+            "summary": "This cohort study evaluates the generalizability and potential clinical application of a publicly available machine learning algorithm to estimate red cell transfusion during surgery within a national sample of hospitals.",
+            "content_html": "<h3>Importance</h3><p>Accurate estimation of surgical transfusion risk is important for perioperative planning and effective resource allocation. Most machine learning models in health care are not validated or perform poorly in external settings.</p><h3>Objective</h3><p>To externally validate a publicly available machine learning algorithm (Surgical Personalized Anticipation of Transfusion Hazard [S-PATH]) to estimate red cell transfusion during surgery within a national sample of hospitals.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study evaluated all surgical cases performed in 2020 or 2021 at 45 US hospitals participating in the Multicenter Perioperative Outcomes Group. Obstetric and nonoperative cases were excluded. Data analysis was performed from February 2023 to March 2025.</p><h3>Exposures</h3><p>At each hospital, S-PATH was used to estimate surgical transfusion risk using patient- and procedure-specific characteristics without local retraining. A baseline model representing the standard-of-care maximum surgical blood ordering schedule (MSBOS) approach, which omits patient factors, was used for comparison. Risk thresholds above which a type and screen would be recommended were set for 96% sensitivity. Performance was evaluated at each hospital separately.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the difference in the percentage of patients with type and screen order recommendations between S-PATH and MSBOS at each hospital. The secondary outcome was area under the receiver operating characteristic curve (AUROC).</p><h3>Results</h3><p>In this cohort study of 3\u202f275\u202f956 surgical cases (median [IQR] age, 57 [40-69] years; 53.1% female) performed at 45 hospitals (28 of 45 academic [62.2%]), S-PATH recommended type and screen orders for a median (IQR) of 32.5% (25.8%-42.0%) of cases, whereas the MSBOS approach recommended type and screens for a median (IQR) of 51.6% (46.9%-61.1%) of cases for the same sensitivity (median [IQR] difference, 17.9 [14.8-24.9] absolute percentage points). The median (IQR) S-PATH AUROC was 0.929 (0.915-0.946), whereas the median (IQR) MSBOS AUROC was 0.857 (0.822-0.884).</p><h3>Conclusions and Relevance</h3><p>In this cohort study of 45 hospitals, a personalized surgical transfusion risk prediction algorithm demonstrated external validity and discrimination. S-PATH was consistently more effective than standard care, suggesting its potential for use as a perioperative clinical decision support tool.</p>",
+            "date_published": "2025-06-27T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anjali D. Deshmukh, MD, JD"
+                    "name": "Sunny S. Lou, MD, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "biological products",
-                "ethics",
-                "facilitation",
-                "guidelines",
-                "life cycle stages",
-                "united states food and drug administration"
+                "clinical decision support",
+                "erythrocyte transfusion",
+                "machine learning",
+                "operative surgical procedures",
+                "perioperative care",
+                "transfusion - action"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1751381399.42916.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835704/lou_2025_oi_250562_1750871460.92745.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
-            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
-            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
-            "date_published": "2025-06-26T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Anam Akhlaq, MBBS"
-                }
-            ],
-            "tags": [
-                "generative artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1749840389.21578.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250562t1_1750871461.06745.png?Expires=2147483647&Signature=Gq0G-~PstE6sD4nr~SqYPttXPM3iTN3c0IDA-XqssZXcrmDBUn23FJXv2O8XLfDy7ly-jAapsLecsAL6dC~F2KAyp3vcnndEY51DrNk-U1vmSuZZKa~kDPN47B8Y5i9B2KF5kXy8tf4elk26N4C-NEf5jQE~8FA6W01V6BTsscX5HU18SdepJMtDrQT8eab1~aH6gqLAFjcYuZv36qTZ7-iUN7OiVh3I4MwXJwJEwLkQFaEwZeC45rQP6xnwNE6Os8vuEUC1NDDSEPtf4eYKa6Hnl8YmL1QYx6Sc8E5ljhjCKgI0UzndNGpwjxXe9Grt2zJgbs-323LiNfKqhDQjnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
