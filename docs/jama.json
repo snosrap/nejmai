@@ -4,59 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
-            "title": "Artificial Intelligence\u2013Powered Spatial Analysis of Immune Phenotypes in Resected Pancreatic Cancer",
-            "summary": "This cohort study investigates if artificial intelligence\u2013powered spatial analysis of tumor-infiltrating lymphocytes can provide prognostic value in resected pancreatic ductal adenocarcinoma.",
-            "content_html": "<h3>Importance</h3><p>Although tumor-infiltrating lymphocytes (TILs) have been implicated as prognostic biomarkers across various malignancies, the clinical application remains challenging. This study evaluated the applicability of artificial intelligence (AI)\u2013powered spatial mapping of TIL density for prognostic assessment in resected pancreatic ductal adenocarcinoma (PDAC).</p><h3>Objective</h3><p>To evaluate the prognostic significance of AI-powered spatial TIL analysis in resected PDAC and its clinical applicability.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included patients with PDAC who underwent up-front R0 resection at a tertiary referral center between January 2017 and December 2020. Whole-slide images of retrospectively enrolled patients with PDAC and up-front R0 resection were analyzed. An AI-powered whole-slide image analyzer was used for spatial TIL quantification, segmentation of tumor and stroma, and immune phenotype classification as immune-inflamed phenotype, immune-excluded phenotype, or immune-desert phenotype. Study data were analyzed from January 2017 to August 2023.</p><h3>Exposure</h3><p>Use of AI-powered spatial analysis of the tumor microenvironment in resected PDACs.</p><h3>Main Outcomes and Measures</h3><p>Tumor microenvironment\u2013related risk factors and their associations with overall survival (OS) and recurrence-free survival (RFS) outcomes were identified.</p><h3>Results</h3><p>Among 304 patients, the mean (SD) age was 66.8\u2009(9.4) years with 171 male patients (56.3%), and preoperative clinical stages I and II were represented by 54.3% patients (165 of 304) and 45.7% patients (139 of 304), respectively. The TILs in the tumor microenvironment were predominantly concentrated in the stroma, and the median intratumoral TIL and stromal TIL densities were 100.64/mm<sup>2</sup>(IQR, 53.25-121.39/mm<sup>2</sup>) and 734.88/mm<sup>2</sup>(IQR, 443.10-911.16/mm<sup>2</sup>), respectively. Overall, 9.9% of tumors (30 of 304) were immune inflamed, 85.2% (259 of 304) were immune excluded, and 4.9% (15 of 304) were immune desert. The immune-inflamed phenotype was associated with the most prolonged OS (median not reached;<i>P</i>\u2009&lt;\u2009.001) and RFS (median not reached;<i>P</i>\u2009=\u2009.001), followed by immune-excluded phenotype and immune-desert phenotype. High intratumoral TIL density was associated with longer OS (median, 52.47 months; 95% CI, 41.98-62.96;<i>P</i>\u2009=\u2009.004) and RFS (median, 21.67 months; 95% CI, 14.43-28.91;<i>P</i>\u2009=\u2009.02). A combined analysis of the pathologic stage with immune phenotype predicted better survival of stage II PDAC stratified as immune-inflamed phenotype than stage I PDAC stratified as non\u2013immune-inflamed phenotype.</p><h3>Conclusions and Relevance</h3><p>Results of this cohort study suggest that the use of AI has markedly condensed the labor-intensive process of TIL assessment, potentially rendering the process more feasible and practical in clinical application. Importantly, the IP may be one of the most important prognostic biomarkers in resected PDACs.</p>",
-            "date_published": "2025-06-25T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Hyemin Kim, PhD"
+                    "name": "Anjali D. Deshmukh, MD, JD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "lymphocytes",
-                "malignant neoplasm of pancreas",
-                "malignant neoplasms",
-                "neoplasms",
-                "pancreatic ductal adenocarcinoma",
-                "phenotype",
-                "tumor-infiltrating"
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835786/jamasurgery_kim_2025_oi_250034_1750693345.53636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1751381399.42916.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250034t1_1750693345.84659.png?Expires=2147483647&Signature=ZvTvFC4j0SqCe6A00UEEIgrI0s1vje-Qtu5jbs6J7UVa8Y7OKqKj86U7tEQG4Gau17VyTkJk~mE3VZMqitxWo0-h72dTd-I~D8ufJcQTiJIs0Xi2BTln8KCVsFpybsu2tDVpkhXAiiDqTI1Jo76ZCDpsh-ulGTFBm9rKVypVV-OpeopzNUyTu9DTb24epwE1ahCjhZZrziHkEra4LdDhO3EhbGnCjen50k4SObj8oA2UL96L3tJFdNVtkxLvGHJaNpTS3BHahabrY5sPOaBSMKpxmBUKPKhU7ONDQFfUig9LxvrSpxFSPkRqwQXCarvsgtJuUxfJVvVaCSMCOfYWzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
+            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
+            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
+            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
+            "date_published": "2025-06-26T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Anam Akhlaq, MBBS"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "generative artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1749840389.21578.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
