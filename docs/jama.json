@@ -4,31 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
-            "title": "Integrating Nonindividual Patient Features in Machine Learning Models of Hospital-Onset Bacteremia",
-            "summary": "This prognostic study assesses whether nonindividual patient features that summarize interactions with other patients and health care workers can contribute to machine learning models to predict hospital-onset bacteremia (HOB).",
-            "content_html": "<h3>Importance</h3><p>Hospital-onset bacteremia and fungemia (HOB) are common and potentially preventable complications of hospital care.</p><h3>Objective</h3><p>To assess whether nonindividual patient features, which summarize interactions with other patients and health care workers (HCWs), can contribute to predictive and causal machine learning models for HOB.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included adult patients admitted to Barnes-Jewish Hospital, an academic hospital in St Louis, Missouri, in 2021. Analyses were developed between October 2023 and August 2024 and in April 2025.</p><h3>Exposure</h3><p>Individual patient features were extracted from electronic health records and used to engineer nonpatient features, including interactions with HCWs and direct or indirect (consecutive room occupancy) patient contact.</p><h3>Main Outcomes and Measures</h3><p>HOB was defined as a positive blood culture after the third day of hospitalization. Patients who were hospitalized for more than 3 days were considered at risk for the outcome. We developed 3 gradient boosting models: 2 predictive (with patient features only and with both patient and nonpatient features to predict the occurrence of HOB) and 1 causal to test the association of nonpatient features and HOB. Predictive performance is reported using area under the receiver operating characteristic curve (AUROC) and area under the precision-recall curve (AUPRC), and the results of the causal model are reported as difference in average effects. Sensitivity analyses separated intensive care unit\u2013onset and ward-onset HOB and included a methicillin-resistant<i>Staphylococcus aureus</i>\u2013specific model to adjust for colonization pressure.</p><h3>Results</h3><p>Among the 52\u202f442 patients, 34\u202f855 (66.5%) had admissions longer than 72 hours and were included for analysis; of these, 556 (1.6%) developed HOB. The median age for the included patients was 60 (IQR, 44-70) years, 50.5% were female, and obesity was the most frequent comorbidity (25.0%). Nonpatient features, such as a prior occupant of the same room receiving antipseudomonal beta-lactams and the mean number of HCWs per day for the 7 days preceding HOB, improved the model\u2019s performance (AUROC, 0.88 [95% CI, 0.88-0.89]; AUPRC, 0.20 [95% CI, 0.20-0.22]) compared with the patient-only model (AUROC, 0.85 [95% CI, 0.85-0.86]; AUPRC, 0.13 [95% CI, 0.12-0.14]) (<i>P</i>\u2009&lt;\u2009.001). These 2 features were also associated with a higher likelihood of HOB in the causal gradient boosting model.</p><h3>Conclusions and Relevance</h3><p>These findings suggest that nonindividual patient features may contribute to a comprehensive analysis of HOB when integrated with individual patient features in a machine learning model.</p>",
-            "date_published": "2025-07-02T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "M. Cristina Vazquez-Guillamet, MD"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
-                "antibiotics",
-                "bacteremia",
-                "health personnel",
-                "lactam",
-                "machine learning"
+                "artificial intelligence",
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835883/vazquezguillamet_2025_oi_250584_1750878874.5106.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250584t1_1750878874.67167.png?Expires=2147483647&Signature=OdqJWuGS0abejQy-AX1MCCoMLZfJDVT~uGdME0ZPAi1bT~lHxQCD2kSVe4khTd40bfikE0KzQc-59poHoLXeEPeTAtYCHycRIVWj64QK5zeIzA60AIHzlhLvcyQ0JDIJ97lPnKI8~5mkxEt3Mns7QgUamqG3lsPNzXppnFE~mNMFtn2EUFuWk1aLr4szFlMR9hi6SZRc1W3xJ1Q5Je8~DOiL6P4d81vumy5VYe44W6SlUEF77TzowpMAJqOSJ-WX97ZD4t~p6lPryfWF00CJTlDC5vW7MX--BiZTApNLSo4dU8ToNKu7A8cqBt-DJ~1gzJ90nGZV9Vw2hsiVgY99Mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -818,34 +816,6 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
-            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
-            "date_published": "2024-04-30T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "breast neoplasm screening",
-                "magnetic resonance imaging",
-                "malignant neoplasm of breast",
-                "mammography",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "title": "Harnessing Artificial Intelligence to Address Oral Health Disparities",
@@ -920,6 +890,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
