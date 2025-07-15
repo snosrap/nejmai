@@ -4,29 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835600",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835600",
+            "title": "Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing",
+            "summary": "This study evaluates a text-to-video generative artificial intelligence model that converts text from reports into dynamic fundus fluorescein angiography videos, enabling visualization of retinal vascular and structural abnormalities.",
+            "content_html": "<h3>Importance</h3><p>Medical data sharing faces strict restrictions. Text-to-video generation shows potential for creating realistic medical data while preserving privacy, offering a solution for cross-center data sharing and medical education.</p><h3>Objective</h3><p>To develop and evaluate a text-to-video generative artificial intelligence (AI)\u2013driven model that converts the text of reports into dynamic fundus fluorescein angiography (FFA) videos, enabling visualization of retinal vascular and structural abnormalities.</p><h3>Design, Setting, and Participants</h3><p>This study retrospectively collected anonymized FFA data from a tertiary hospital in China. The dataset included both the medical records and FFA examinations of patients assessed between November 2016 and December 2019. A text-to-video model was developed and evaluated. The AI-driven model integrated the wavelet-flow variational autoencoder and the diffusion transformer.</p><h3>Main Outcomes and Measures</h3><p>The AI-driven model\u2019s performance was assessed through objective metrics (Fr\u00e9chet video distance, learned perceptual image patch similarity score, and visual question answering score [VQAScore]). The domain-specific evaluation for the generated FFA videos was measured by the bidirectional encoder representations from transformers score (BERTScore). Image retrieval was evaluated using a Recall@K score. Each video was rated for quality by 3 ophthalmologists on a scale of 1 (excellent) to 5 (very poor).</p><h3>Results</h3><p>A total of 3625 FFA videos were included (2851 videos [78.6%] for training, 387 videos [10.7%] for validation, and 387 videos [10.7%] for testing). The AI-generated FFA videos demonstrated retinal abnormalities from the input text (Fr\u00e9chet video distance of 2273, a mean learned perceptual image patch similarity score of 0.48 [SD, 0.04], and a mean VQAScore of 0.61 [SD, 0.08]). The domain-specific evaluations showed alignment between the generated videos and textual prompts (mean BERTScore, 0.35 [SD, 0.09]). The Recall@K scores were 0.02 for K\u2009=\u20095, 0.04 for K\u2009=\u200910, and 0.16 for K\u2009=\u200950, yielding a mean score of 0.073, reflecting disparities between AI-generated and real clinical videos and demonstrating privacy-preserving effectiveness. For assessment of visual quality of the FFA videos by the 3 ophthalmologists, the mean score was 1.57 (SD, 0.44).</p><h3>Conclusions and Relevance</h3><p>This study demonstrated that an AI-driven text-to-video model generated FFA videos from textual descriptions, potentially improving visualization for clinical and educational purposes. The privacy-preserving nature of the model may address key challenges in data sharing while trying to ensure compliance with confidentiality standards.</p>",
+            "date_published": "2025-06-26T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Xinyuan Wu, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "data sharing",
+                "education",
+                "fluorescein angiography",
+                "generative artificial intelligence",
+                "medical",
+                "ophthalmologist (occupation)",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835600/jamaophthalmology_wu_2025_oi_250024_1749840383.10145.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250024f1_1749840383.24667.png?Expires=2147483647&Signature=eftsVNuvObfg1j9ObcXoxmDyFsiPMTtk6LLSoVF332mP3tXxsoTe0~vLXyCtI9jWrTCUxnVAqlfMCoCHdjaU6Iff-AyG9GNmr38KmYmoDi5LOv9RIKG-PaVHixHYg66PlyqOfLzyNGyy2miN9FKStLFksAv5wnbhHAXZavYaFqFj~KRNu3VcaINRmOTNhf5eTMlXumgZ0RQyIhF3DqTzhFC7f1vtfC4qXxR1IDWhFBacGpA6xdRSWaKhJKWjVBTSedpLichD~UfjDtvsmi~dVZ~WTJLnzvmPpv2d3Lf4JHmjdL0e6VzFGFImEKeURTmHVp6Ix31TFoD-Dn~DWYWY3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -816,6 +820,36 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "title": "Harnessing Artificial Intelligence to Address Oral Health Disparities",
@@ -890,33 +924,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
