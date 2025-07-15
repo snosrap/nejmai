@@ -4,33 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835600",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835600",
-            "title": "Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing",
-            "summary": "This study evaluates a text-to-video generative artificial intelligence model that converts text from reports into dynamic fundus fluorescein angiography videos, enabling visualization of retinal vascular and structural abnormalities.",
-            "content_html": "<h3>Importance</h3><p>Medical data sharing faces strict restrictions. Text-to-video generation shows potential for creating realistic medical data while preserving privacy, offering a solution for cross-center data sharing and medical education.</p><h3>Objective</h3><p>To develop and evaluate a text-to-video generative artificial intelligence (AI)\u2013driven model that converts the text of reports into dynamic fundus fluorescein angiography (FFA) videos, enabling visualization of retinal vascular and structural abnormalities.</p><h3>Design, Setting, and Participants</h3><p>This study retrospectively collected anonymized FFA data from a tertiary hospital in China. The dataset included both the medical records and FFA examinations of patients assessed between November 2016 and December 2019. A text-to-video model was developed and evaluated. The AI-driven model integrated the wavelet-flow variational autoencoder and the diffusion transformer.</p><h3>Main Outcomes and Measures</h3><p>The AI-driven model\u2019s performance was assessed through objective metrics (Fr\u00e9chet video distance, learned perceptual image patch similarity score, and visual question answering score [VQAScore]). The domain-specific evaluation for the generated FFA videos was measured by the bidirectional encoder representations from transformers score (BERTScore). Image retrieval was evaluated using a Recall@K score. Each video was rated for quality by 3 ophthalmologists on a scale of 1 (excellent) to 5 (very poor).</p><h3>Results</h3><p>A total of 3625 FFA videos were included (2851 videos [78.6%] for training, 387 videos [10.7%] for validation, and 387 videos [10.7%] for testing). The AI-generated FFA videos demonstrated retinal abnormalities from the input text (Fr\u00e9chet video distance of 2273, a mean learned perceptual image patch similarity score of 0.48 [SD, 0.04], and a mean VQAScore of 0.61 [SD, 0.08]). The domain-specific evaluations showed alignment between the generated videos and textual prompts (mean BERTScore, 0.35 [SD, 0.09]). The Recall@K scores were 0.02 for K\u2009=\u20095, 0.04 for K\u2009=\u200910, and 0.16 for K\u2009=\u200950, yielding a mean score of 0.073, reflecting disparities between AI-generated and real clinical videos and demonstrating privacy-preserving effectiveness. For assessment of visual quality of the FFA videos by the 3 ophthalmologists, the mean score was 1.57 (SD, 0.44).</p><h3>Conclusions and Relevance</h3><p>This study demonstrated that an AI-driven text-to-video model generated FFA videos from textual descriptions, potentially improving visualization for clinical and educational purposes. The privacy-preserving nature of the model may address key challenges in data sharing while trying to ensure compliance with confidentiality standards.</p>",
-            "date_published": "2025-06-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835102",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835102",
+            "title": "Artificial Intelligence and Health Care Waste\u2014Promise or Peril?",
+            "summary": "This Viewpoint explores the opportunities and risks posed by AI in the health care system through the lens of the National Academy of Medicine\u2019s framework of health care waste.",
+            "content_text": "This Viewpoint explores the opportunities and risks posed by AI in the health care system through the lens of the National Academy of Medicine\u2019s framework of health care waste.",
+            "date_published": "2025-06-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Xinyuan Wu, MD"
+                    "name": "William H. Shrank, MD, MSHS"
                 }
             ],
             "tags": [
-                "data sharing",
-                "education",
-                "fluorescein angiography",
-                "generative artificial intelligence",
-                "medical",
-                "ophthalmologist (occupation)",
-                "privacy"
+                "artificial intelligence",
+                "crystalline",
+                "health care systems",
+                "health policy",
+                "lens",
+                "lens (device)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835600/jamaophthalmology_wu_2025_oi_250024_1749840383.10145.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835102/shrank_2025_vp_250016_1749749358.22898.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250024f1_1749840383.24667.png?Expires=2147483647&Signature=eftsVNuvObfg1j9ObcXoxmDyFsiPMTtk6LLSoVF332mP3tXxsoTe0~vLXyCtI9jWrTCUxnVAqlfMCoCHdjaU6Iff-AyG9GNmr38KmYmoDi5LOv9RIKG-PaVHixHYg66PlyqOfLzyNGyy2miN9FKStLFksAv5wnbhHAXZavYaFqFj~KRNu3VcaINRmOTNhf5eTMlXumgZ0RQyIhF3DqTzhFC7f1vtfC4qXxR1IDWhFBacGpA6xdRSWaKhJKWjVBTSedpLichD~UfjDtvsmi~dVZ~WTJLnzvmPpv2d3Lf4JHmjdL0e6VzFGFImEKeURTmHVp6Ix31TFoD-Dn~DWYWY3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "title": "The Future of Agitation Interventions May Be Predictive",
+            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "date_published": "2025-05-07T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Scott Zeller, MD"
+                }
+            ],
+            "tags": [
+                "agitation",
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -818,36 +841,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
