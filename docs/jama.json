@@ -4,58 +4,62 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835704",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835704",
+            "title": "Multicenter Validation of a Machine Learning Model for Surgical Transfusion Risk at 45 US Hospitals",
+            "summary": "This cohort study evaluates the generalizability and potential clinical application of a publicly available machine learning algorithm to estimate red cell transfusion during surgery within a national sample of hospitals.",
+            "content_html": "<h3>Importance</h3><p>Accurate estimation of surgical transfusion risk is important for perioperative planning and effective resource allocation. Most machine learning models in health care are not validated or perform poorly in external settings.</p><h3>Objective</h3><p>To externally validate a publicly available machine learning algorithm (Surgical Personalized Anticipation of Transfusion Hazard [S-PATH]) to estimate red cell transfusion during surgery within a national sample of hospitals.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study evaluated all surgical cases performed in 2020 or 2021 at 45 US hospitals participating in the Multicenter Perioperative Outcomes Group. Obstetric and nonoperative cases were excluded. Data analysis was performed from February 2023 to March 2025.</p><h3>Exposures</h3><p>At each hospital, S-PATH was used to estimate surgical transfusion risk using patient- and procedure-specific characteristics without local retraining. A baseline model representing the standard-of-care maximum surgical blood ordering schedule (MSBOS) approach, which omits patient factors, was used for comparison. Risk thresholds above which a type and screen would be recommended were set for 96% sensitivity. Performance was evaluated at each hospital separately.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the difference in the percentage of patients with type and screen order recommendations between S-PATH and MSBOS at each hospital. The secondary outcome was area under the receiver operating characteristic curve (AUROC).</p><h3>Results</h3><p>In this cohort study of 3\u202f275\u202f956 surgical cases (median [IQR] age, 57 [40-69] years; 53.1% female) performed at 45 hospitals (28 of 45 academic [62.2%]), S-PATH recommended type and screen orders for a median (IQR) of 32.5% (25.8%-42.0%) of cases, whereas the MSBOS approach recommended type and screens for a median (IQR) of 51.6% (46.9%-61.1%) of cases for the same sensitivity (median [IQR] difference, 17.9 [14.8-24.9] absolute percentage points). The median (IQR) S-PATH AUROC was 0.929 (0.915-0.946), whereas the median (IQR) MSBOS AUROC was 0.857 (0.822-0.884).</p><h3>Conclusions and Relevance</h3><p>In this cohort study of 45 hospitals, a personalized surgical transfusion risk prediction algorithm demonstrated external validity and discrimination. S-PATH was consistently more effective than standard care, suggesting its potential for use as a perioperative clinical decision support tool.</p>",
+            "date_published": "2025-06-27T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Sunny S. Lou, MD, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy"
+                "clinical decision support",
+                "erythrocyte transfusion",
+                "machine learning",
+                "operative surgical procedures",
+                "perioperative care",
+                "transfusion - action"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835704/lou_2025_oi_250562_1750871460.92745.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939624/zoi250562t1_1750871461.06745.png?Expires=2147483647&Signature=Gq0G-~PstE6sD4nr~SqYPttXPM3iTN3c0IDA-XqssZXcrmDBUn23FJXv2O8XLfDy7ly-jAapsLecsAL6dC~F2KAyp3vcnndEY51DrNk-U1vmSuZZKa~kDPN47B8Y5i9B2KF5kXy8tf4elk26N4C-NEf5jQE~8FA6W01V6BTsscX5HU18SdepJMtDrQT8eab1~aH6gqLAFjcYuZv36qTZ7-iUN7OiVh3I4MwXJwJEwLkQFaEwZeC45rQP6xnwNE6Os8vuEUC1NDDSEPtf4eYKa6Hnl8YmL1QYx6Sc8E5ljhjCKgI0UzndNGpwjxXe9Grt2zJgbs-323LiNfKqhDQjnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
-            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
-            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
-            "date_published": "2025-05-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Robert N. Weinreb, MD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "delivery of health care",
-                "diagnostic imaging of retina",
-                "eye",
-                "health services accessibility",
-                "ophthalmic examination and evaluation",
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
                 "screening procedure",
-                "technology"
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
