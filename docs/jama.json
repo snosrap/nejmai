@@ -4,51 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
-            "title": "Discussing Digital Interventions in Asthma Symptom Monitoring",
-            "summary": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
-            "content_text": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
-            "date_published": "2025-07-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
+            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "date_published": "2025-07-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Yulin Hswen, ScD, MPH"
+                    "name": "Sandro Galea, MD, DrPH"
                 }
             ],
             "tags": [
-                "asthma"
+                "artificial intelligence",
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836281/jama_hswen_2025_en_250004_1751490770.61748.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250004fa_1751490770.70248.png?Expires=2147483647&Signature=nNRADxtu~Ia3gx2Bs92jGb2xzOfaXBhV2aUQ7jvD31nVUnWM-NAIZOzLCI0myeEzjOYVefZCuKcnSYGYsqoO4nDmeGGreX~dJY3zn4fedQuJSU-CJfieiOsXIkFvmyjg6q5Xu9US5nK7CALZgPCz3VwECOX8xxzkcsZcDn7vKDF1J0qfNBw8XLN20h9G-AVJBl4FQmBoIUbLjztBGtC9rZKbOijEaPA8HtFZSrMgbrdorhDLSExrob4v8j4quZfaPPdINrEwkQ7eCCmdkyICFeDijh-bae9O~o3~Qs5osLYYKhhxQH429FXazRXJJGc1ZF8z10Iq8PSm8FDJSiUddA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835953",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835953",
-            "title": "Applying Large Language Models for Surgical Case Length Prediction",
-            "summary": "This study evaluates the use of large language models in predicting surgical case length.",
-            "content_html": "<h3>Importance</h3><p>Accurate prediction of surgical case duration is critical for operating room (OR) management, as inefficient scheduling can lead to reduced patient and surgeon satisfaction while incurring considerable financial costs.</p><h3>Objective</h3><p>To evaluate the feasibility and accuracy of large language models (LLMs) in predicting surgical case length using unstructured clinical data compared to existing estimation methods.</p><h3>Design, Setting, and Participants</h3><p>This was a retrospective study analyzing elective surgical cases performed between January 2017 and December 2023 at a single academic medical center and affiliated community hospital ORs. Analysis included 125\u202f493 eligible surgical cases, with 1950 used for LLM fine-tuning and 2500 for evaluation. An additional 500 cases from a community site were used for external validation. Cases were randomly sampled using strata to ensure representation across surgical specialties.</p><h3>Exposures</h3><p>Eleven LLMs, including base models (GPT-4, GPT-3.5, Mistral, Llama-3, Phi-3) and 2 fine-tuned variants (GPT-4 fine-tuned, GPT-3.5 fine-tuned), were used to predict surgical case length based on clinical notes.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was average error between predicted and actual surgical case length (wheels-in to wheels-out time). The secondary outcome was prediction accuracy, defined as predicted length within 20% of actual duration.</p><h3>Results</h3><p>Fine-tuned GPT-4 achieved the best performance with a mean absolute error (MAE) of 47.64 minutes (95% CI, 45.71-49.56) and<i>R</i><sup>2</sup>of 0.61, matching the performance of current OR scheduling (MAE, 49.34 minutes; 95% CI, 47.60-51.09;<i>R</i><sup>2</sup>, 0.63;<i>P</i>\u2009=\u2009.10). Both GPT-4 fine-tuned and GPT-3.5 fine-tuned significantly outperformed current scheduling methods in accuracy (46.12% and 46.08% vs 40.92%, respectively;<i>P</i>\u2009&lt;\u2009.001). GPT-4 fine-tuned outperformed all other models during external validation with similar performance metrics (MAE, 48.66 minutes; 95% CI, 45.31-52.00; accuracy, 46.0%). Base models demonstrated variable performance, with GPT-4 showing the highest performance among non\u2013fine-tuned models (MAE, 59.20 minutes; 95% CI, 56.88 - 61.52).</p><h3>Conclusion and Relevance</h3><p>The findings in this study suggest that fine-tuned LLMs can predict surgical case length with accuracy comparable to or exceeding current institutional scheduling methods. This indicates potential for LLMs to enhance operating room efficiency through improved case length prediction using existing clinical documentation.</p>",
-            "date_published": "2025-07-09T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Adhitya Ramamurthi, MD, MS"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
-                "large language models",
-                "operative surgical procedures"
+                "artificial intelligence",
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835953/jamasurgery_ramamurthi_2025_oi_250036_1750898288.91632.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250036f1_1750898289.35953.png?Expires=2147483647&Signature=taMw-Nz4gLFajZVgUF9ISxP0-dGW~6Iqlkdg5YV52PMeeNA~qt1HcdR0zTHHKIcQxuvsOMfu0kWfny2Up02I2hwNSusWaq37YJoXOuMDh3amT1b-gNoe8tkzlIThxJ3B1FntqKmA9G-b0gZQt~y3axLA1AGrSGa5vpClFUQZF-GFqrLnyJER8x5S2V5jhQUh5WGzXBMT9P00gDQsx~IES156yYB3uzghTbSTxmcyOg1lXYFgxvoWaY1nJW1YHbQHfBeSmvUUOxvKIsKzQsuwU1W7oHuuU8eVHoH7iHMTqfIx0wds8SivUdL6LhpW1HLeYb4qzi5f336Pq3S2ewE-rA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
