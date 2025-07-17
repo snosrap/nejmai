@@ -4,55 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2836498",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2836498",
-            "title": "Predictors of Flares and Disease Severity in Patients With Atopic Dermatitis Using Machine Learning",
-            "summary": "This cohort study uses data from the Danish Skin Cohort to examine the predictability of flares and disease severity in patients with atopic dermatitis.",
-            "content_html": "<h3>Importance</h3><p>The disease course of atopic dermatitis (AD) is characterized by fluctuations and frequent flares, contributing to the disease burden and impairment in life quality. However, flares are not necessarily considered in severity classifications and clinical treatment decisions.</p><h3>Objective</h3><p>To validate the predictability of flares and disease severity in patients with AD and quantify the importance of predictors.</p><h3>Design, Setting, and Participants</h3><p>Using the Danish Skin Cohort, a large population of patients with AD from Denmark with data on disease severity and flare patterns, quantile regression models were conducted to investigate the association between the number of flares reported in 2022 and patient-reported severity measures reported in 2023. Additionally, boosted random forests were used to explore predictors of both annual flares and disease severity. Analyses were conducted from January to December of 2024.</p><h3>Main Outcomes and Measures</h3><p>Severity of AD as well as frequency, duration, and severity of flares were the main variables under consideration.</p><h3>Results</h3><p>This study included 878 patients with AD (median [IQR] age, 49.0 [39.0-59.0] years), with 26 reporting 0 yearly flares, 405 reporting 1 to 5 yearly flares, 169 reporting 6 to 10 yearly flares, and 278 patients reporting more than 10 yearly flares in 2022. From the quantile regression, the number of annual flares reported in 2022 was significantly associated with most patient-reported severity measures reported in 2023. When adjusting for the Patient-Oriented Scoring of Atopic Dermatitis score at baseline, the number of annual flares reported in 2022 was significantly associated with the Patient-Oriented Eczema Measure and Dermatology Life Quality Index. Using predictive machine learning models, flare severity, duration, and number were among the most important predictors of AD severity, while disease severity was among the strongest predictors of the number of annual flares.</p><h3>Conclusions and Relevance</h3><p>This cohort study found that a higher number of flares was associated with lower quality of life and was identified as a predictor of more severe AD in the following year. These results highlight the relevance of flares in the assessment of severity or disease prognosis and suggest the need for a threshold for an acceptable number of flares in treatment decisions to achieve better disease control and improved quality of life for patients.</p>",
-            "date_published": "2025-07-16T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
+            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "date_published": "2025-07-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Mia-Louise Nielsen, MSc, PhD"
+                    "name": "Sandro Galea, MD, DrPH"
                 }
             ],
             "tags": [
-                "atopic",
-                "dermatitis",
-                "integumentary system",
-                "machine learning",
-                "quality of life",
-                "severity of illness"
+                "artificial intelligence",
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2836498/jamadermatology_nielsen_2025_oi_250033_1752077099.95297.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250033t1_1752077100.06838.png?Expires=2147483647&Signature=NQmru-Sxbhzoo8hP87-U29Npni4Q~64e~dhuypIvh8qMLfy-kXoHzr9wKezIXAnSoczS5qIBcbvFVufHcJZMMkCa~TN9~Oyee7~gSC~UI1uNZOj7AoQHpgqIIY3dzUtcN~A-l18S7XSpx6Z7qbnjsE5eTv-nVMZEWIUqq6Ya~5JVFelSdUoFuQQc7bpiPENatrJvPr-yjPYt~VSQxfW6GLbasP5O7BqIr23yS6UOeAI-ZsLZplNvotQUO7ekCV5yVWphjsWDdPC7Vn5uBDnYdDyvieStT9T0AQL2KB4ENl8X3aRDB6kmxvdkJLyVIbC407dmmmkEHAKCNJgdexywvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
-            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
-            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
-            "date_published": "2025-06-26T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Anam Akhlaq, MBBS"
-                }
-            ],
-            "tags": [
-                "generative artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1749840389.21578.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -840,6 +813,36 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
