@@ -4,28 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
+            "title": "Large Language Models for Surgical Workflow Optimization",
+            "summary": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
+            "content_text": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
+            "date_published": "2025-07-09T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Jayson S. Marwaha, MD, MSc"
+                }
+            ],
+            "tags": [
+                "large language models",
+                "operative surgical procedures",
+                "workflow"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835956/jamasurgery_marwaha_2025_ic_250020_1750898296.37562.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835786",
+            "title": "Artificial Intelligence\u2013Powered Spatial Analysis of Immune Phenotypes in Resected Pancreatic Cancer",
+            "summary": "This cohort study investigates if artificial intelligence\u2013powered spatial analysis of tumor-infiltrating lymphocytes can provide prognostic value in resected pancreatic ductal adenocarcinoma.",
+            "content_html": "<h3>Importance</h3><p>Although tumor-infiltrating lymphocytes (TILs) have been implicated as prognostic biomarkers across various malignancies, the clinical application remains challenging. This study evaluated the applicability of artificial intelligence (AI)\u2013powered spatial mapping of TIL density for prognostic assessment in resected pancreatic ductal adenocarcinoma (PDAC).</p><h3>Objective</h3><p>To evaluate the prognostic significance of AI-powered spatial TIL analysis in resected PDAC and its clinical applicability.</p><h3>Design, Setting, and Participants</h3><p>This cohort study included patients with PDAC who underwent up-front R0 resection at a tertiary referral center between January 2017 and December 2020. Whole-slide images of retrospectively enrolled patients with PDAC and up-front R0 resection were analyzed. An AI-powered whole-slide image analyzer was used for spatial TIL quantification, segmentation of tumor and stroma, and immune phenotype classification as immune-inflamed phenotype, immune-excluded phenotype, or immune-desert phenotype. Study data were analyzed from January 2017 to August 2023.</p><h3>Exposure</h3><p>Use of AI-powered spatial analysis of the tumor microenvironment in resected PDACs.</p><h3>Main Outcomes and Measures</h3><p>Tumor microenvironment\u2013related risk factors and their associations with overall survival (OS) and recurrence-free survival (RFS) outcomes were identified.</p><h3>Results</h3><p>Among 304 patients, the mean (SD) age was 66.8\u2009(9.4) years with 171 male patients (56.3%), and preoperative clinical stages I and II were represented by 54.3% patients (165 of 304) and 45.7% patients (139 of 304), respectively. The TILs in the tumor microenvironment were predominantly concentrated in the stroma, and the median intratumoral TIL and stromal TIL densities were 100.64/mm<sup>2</sup>(IQR, 53.25-121.39/mm<sup>2</sup>) and 734.88/mm<sup>2</sup>(IQR, 443.10-911.16/mm<sup>2</sup>), respectively. Overall, 9.9% of tumors (30 of 304) were immune inflamed, 85.2% (259 of 304) were immune excluded, and 4.9% (15 of 304) were immune desert. The immune-inflamed phenotype was associated with the most prolonged OS (median not reached;<i>P</i>\u2009&lt;\u2009.001) and RFS (median not reached;<i>P</i>\u2009=\u2009.001), followed by immune-excluded phenotype and immune-desert phenotype. High intratumoral TIL density was associated with longer OS (median, 52.47 months; 95% CI, 41.98-62.96;<i>P</i>\u2009=\u2009.004) and RFS (median, 21.67 months; 95% CI, 14.43-28.91;<i>P</i>\u2009=\u2009.02). A combined analysis of the pathologic stage with immune phenotype predicted better survival of stage II PDAC stratified as immune-inflamed phenotype than stage I PDAC stratified as non\u2013immune-inflamed phenotype.</p><h3>Conclusions and Relevance</h3><p>Results of this cohort study suggest that the use of AI has markedly condensed the labor-intensive process of TIL assessment, potentially rendering the process more feasible and practical in clinical application. Importantly, the IP may be one of the most important prognostic biomarkers in resected PDACs.</p>",
+            "date_published": "2025-06-25T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Hyemin Kim, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "health policy"
+                "lymphocytes",
+                "malignant neoplasm of pancreas",
+                "malignant neoplasms",
+                "neoplasms",
+                "pancreatic ductal adenocarcinoma",
+                "phenotype",
+                "tumor-infiltrating"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835786/jamasurgery_kim_2025_oi_250034_1750693345.53636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250034t1_1750693345.84659.png?Expires=2147483647&Signature=ZvTvFC4j0SqCe6A00UEEIgrI0s1vje-Qtu5jbs6J7UVa8Y7OKqKj86U7tEQG4Gau17VyTkJk~mE3VZMqitxWo0-h72dTd-I~D8ufJcQTiJIs0Xi2BTln8KCVsFpybsu2tDVpkhXAiiDqTI1Jo76ZCDpsh-ulGTFBm9rKVypVV-OpeopzNUyTu9DTb24epwE1ahCjhZZrziHkEra4LdDhO3EhbGnCjen50k4SObj8oA2UL96L3tJFdNVtkxLvGHJaNpTS3BHahabrY5sPOaBSMKpxmBUKPKhU7ONDQFfUig9LxvrSpxFSPkRqwQXCarvsgtJuUxfJVvVaCSMCOfYWzw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -813,36 +844,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
