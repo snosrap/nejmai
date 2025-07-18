@@ -4,55 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
+            "title": "Integrating Nonindividual Patient Features in Machine Learning Models of Hospital-Onset Bacteremia",
+            "summary": "This prognostic study assesses whether nonindividual patient features that summarize interactions with other patients and health care workers can contribute to machine learning models to predict hospital-onset bacteremia (HOB).",
+            "content_html": "<h3>Importance</h3><p>Hospital-onset bacteremia and fungemia (HOB) are common and potentially preventable complications of hospital care.</p><h3>Objective</h3><p>To assess whether nonindividual patient features, which summarize interactions with other patients and health care workers (HCWs), can contribute to predictive and causal machine learning models for HOB.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included adult patients admitted to Barnes-Jewish Hospital, an academic hospital in St Louis, Missouri, in 2021. Analyses were developed between October 2023 and August 2024 and in April 2025.</p><h3>Exposure</h3><p>Individual patient features were extracted from electronic health records and used to engineer nonpatient features, including interactions with HCWs and direct or indirect (consecutive room occupancy) patient contact.</p><h3>Main Outcomes and Measures</h3><p>HOB was defined as a positive blood culture after the third day of hospitalization. Patients who were hospitalized for more than 3 days were considered at risk for the outcome. We developed 3 gradient boosting models: 2 predictive (with patient features only and with both patient and nonpatient features to predict the occurrence of HOB) and 1 causal to test the association of nonpatient features and HOB. Predictive performance is reported using area under the receiver operating characteristic curve (AUROC) and area under the precision-recall curve (AUPRC), and the results of the causal model are reported as difference in average effects. Sensitivity analyses separated intensive care unit\u2013onset and ward-onset HOB and included a methicillin-resistant<i>Staphylococcus aureus</i>\u2013specific model to adjust for colonization pressure.</p><h3>Results</h3><p>Among the 52\u202f442 patients, 34\u202f855 (66.5%) had admissions longer than 72 hours and were included for analysis; of these, 556 (1.6%) developed HOB. The median age for the included patients was 60 (IQR, 44-70) years, 50.5% were female, and obesity was the most frequent comorbidity (25.0%). Nonpatient features, such as a prior occupant of the same room receiving antipseudomonal beta-lactams and the mean number of HCWs per day for the 7 days preceding HOB, improved the model\u2019s performance (AUROC, 0.88 [95% CI, 0.88-0.89]; AUPRC, 0.20 [95% CI, 0.20-0.22]) compared with the patient-only model (AUROC, 0.85 [95% CI, 0.85-0.86]; AUPRC, 0.13 [95% CI, 0.12-0.14]) (<i>P</i>\u2009&lt;\u2009.001). These 2 features were also associated with a higher likelihood of HOB in the causal gradient boosting model.</p><h3>Conclusions and Relevance</h3><p>These findings suggest that nonindividual patient features may contribute to a comprehensive analysis of HOB when integrated with individual patient features in a machine learning model.</p>",
+            "date_published": "2025-07-02T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "M. Cristina Vazquez-Guillamet, MD"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "antibiotics",
+                "bacteremia",
+                "health personnel",
+                "lactam",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835883/vazquezguillamet_2025_oi_250584_1750878874.5106.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Tyler J. Loftus, MD, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "chatbots",
-                "knowledge acquisition",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250584t1_1750878874.67167.png?Expires=2147483647&Signature=OdqJWuGS0abejQy-AX1MCCoMLZfJDVT~uGdME0ZPAi1bT~lHxQCD2kSVe4khTd40bfikE0KzQc-59poHoLXeEPeTAtYCHycRIVWj64QK5zeIzA60AIHzlhLvcyQ0JDIJ97lPnKI8~5mkxEt3Mns7QgUamqG3lsPNzXppnFE~mNMFtn2EUFuWk1aLr4szFlMR9hi6SZRc1W3xJ1Q5Je8~DOiL6P4d81vumy5VYe44W6SlUEF77TzowpMAJqOSJ-WX97ZD4t~p6lPryfWF00CJTlDC5vW7MX--BiZTApNLSo4dU8ToNKu7A8cqBt-DJ~1gzJ90nGZV9Vw2hsiVgY99Mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -840,6 +816,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
+            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
+            "date_published": "2024-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "exercise",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
