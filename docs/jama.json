@@ -4,55 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836557",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836557",
-            "title": "Public Perception of Physicians Who Use Artificial Intelligence",
-            "summary": "This survey study evaluates how perceptions of physicians\u2019 competence, trustworthiness, and empathy vary based on physician use or nonuse of artificial intelligence (AI).",
-            "content_text": "This survey study evaluates how perceptions of physicians\u2019 competence, trustworthiness, and empathy vary based on physician use or nonuse of artificial intelligence (AI).",
-            "date_published": "2025-07-17T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "title": "The Future of Agitation Interventions May Be Predictive",
+            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "date_published": "2025-05-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Moritz Reis, MSc"
+                    "name": "Scott Zeller, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "empathy",
-                "informatics (discipline)",
-                "perception"
+                "agitation",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836557/reis_2025_ld_250127_1752166565.93103.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zld250127t1_1752166566.04103.png?Expires=2147483647&Signature=DMJDZH84FAkxlSCijPXJphqb~2srISzAx9US0Ff6L-1SvXBcDRV~EYzG95Qyg0X-fg7mmRomfyBNIk4zU~MOhe35sULuTjHtnEBgodGWIFNFvUcri0Ywcp9kHTOOChNOP4cNkZkSzj68cXGvhdXfC-qH89U6FmnyDeSQy~pNRdd0aayCVmIJKNqxBoohuaahBJJALO6Rux5U-ug33vZuX6p~6rWz6SzoaIXU9iC90Nj91cw9oiIW-g~Cd9iJ70B9P0HUMEB6T3skUWwXuX6dj9I4XcAV16k~6QMRrNg3UXJDIoBqBrxl3ydD2hy-mW4RIMQUbOo8Fy-gtid4CRwo2w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
-            "title": "Large Language Models for Surgical Workflow Optimization",
-            "summary": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
-            "content_text": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
-            "date_published": "2025-07-09T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Jayson S. Marwaha, MD, MSc"
-                }
-            ],
-            "tags": [
-                "large language models",
-                "operative surgical procedures",
-                "workflow"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835956/jamasurgery_marwaha_2025_ic_250020_1750898296.37562.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -742,6 +715,37 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
