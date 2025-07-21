@@ -4,28 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
-            "title": "The Future of Agitation Interventions May Be Predictive",
-            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
-            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
-            "date_published": "2025-05-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
+            "title": "Integrating Nonindividual Patient Features in Machine Learning Models of Hospital-Onset Bacteremia",
+            "summary": "This prognostic study assesses whether nonindividual patient features that summarize interactions with other patients and health care workers can contribute to machine learning models to predict hospital-onset bacteremia (HOB).",
+            "content_html": "<h3>Importance</h3><p>Hospital-onset bacteremia and fungemia (HOB) are common and potentially preventable complications of hospital care.</p><h3>Objective</h3><p>To assess whether nonindividual patient features, which summarize interactions with other patients and health care workers (HCWs), can contribute to predictive and causal machine learning models for HOB.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included adult patients admitted to Barnes-Jewish Hospital, an academic hospital in St Louis, Missouri, in 2021. Analyses were developed between October 2023 and August 2024 and in April 2025.</p><h3>Exposure</h3><p>Individual patient features were extracted from electronic health records and used to engineer nonpatient features, including interactions with HCWs and direct or indirect (consecutive room occupancy) patient contact.</p><h3>Main Outcomes and Measures</h3><p>HOB was defined as a positive blood culture after the third day of hospitalization. Patients who were hospitalized for more than 3 days were considered at risk for the outcome. We developed 3 gradient boosting models: 2 predictive (with patient features only and with both patient and nonpatient features to predict the occurrence of HOB) and 1 causal to test the association of nonpatient features and HOB. Predictive performance is reported using area under the receiver operating characteristic curve (AUROC) and area under the precision-recall curve (AUPRC), and the results of the causal model are reported as difference in average effects. Sensitivity analyses separated intensive care unit\u2013onset and ward-onset HOB and included a methicillin-resistant<i>Staphylococcus aureus</i>\u2013specific model to adjust for colonization pressure.</p><h3>Results</h3><p>Among the 52\u202f442 patients, 34\u202f855 (66.5%) had admissions longer than 72 hours and were included for analysis; of these, 556 (1.6%) developed HOB. The median age for the included patients was 60 (IQR, 44-70) years, 50.5% were female, and obesity was the most frequent comorbidity (25.0%). Nonpatient features, such as a prior occupant of the same room receiving antipseudomonal beta-lactams and the mean number of HCWs per day for the 7 days preceding HOB, improved the model\u2019s performance (AUROC, 0.88 [95% CI, 0.88-0.89]; AUPRC, 0.20 [95% CI, 0.20-0.22]) compared with the patient-only model (AUROC, 0.85 [95% CI, 0.85-0.86]; AUPRC, 0.13 [95% CI, 0.12-0.14]) (<i>P</i>\u2009&lt;\u2009.001). These 2 features were also associated with a higher likelihood of HOB in the causal gradient boosting model.</p><h3>Conclusions and Relevance</h3><p>These findings suggest that nonindividual patient features may contribute to a comprehensive analysis of HOB when integrated with individual patient features in a machine learning model.</p>",
+            "date_published": "2025-07-02T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Scott Zeller, MD"
+                    "name": "M. Cristina Vazquez-Guillamet, MD"
                 }
             ],
             "tags": [
-                "agitation",
-                "informatics (discipline)"
+                "antibiotics",
+                "bacteremia",
+                "health personnel",
+                "lactam",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835883/vazquezguillamet_2025_oi_250584_1750878874.5106.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250584t1_1750878874.67167.png?Expires=2147483647&Signature=OdqJWuGS0abejQy-AX1MCCoMLZfJDVT~uGdME0ZPAi1bT~lHxQCD2kSVe4khTd40bfikE0KzQc-59poHoLXeEPeTAtYCHycRIVWj64QK5zeIzA60AIHzlhLvcyQ0JDIJ97lPnKI8~5mkxEt3Mns7QgUamqG3lsPNzXppnFE~mNMFtn2EUFuWk1aLr4szFlMR9hi6SZRc1W3xJ1Q5Je8~DOiL6P4d81vumy5VYe44W6SlUEF77TzowpMAJqOSJ-WX97ZD4t~p6lPryfWF00CJTlDC5vW7MX--BiZTApNLSo4dU8ToNKu7A8cqBt-DJ~1gzJ90nGZV9Vw2hsiVgY99Mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -715,37 +718,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
