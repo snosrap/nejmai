@@ -4,29 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
-            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "date_published": "2025-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Larry Han, PhD"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -716,37 +693,6 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "title": "Identifying and Addressing Bias in Artificial Intelligence",
@@ -843,6 +789,36 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
@@ -943,6 +919,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
