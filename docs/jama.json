@@ -4,29 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2835956",
-            "title": "Large Language Models for Surgical Workflow Optimization",
-            "summary": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
-            "content_text": "Large language models (LLMs) are increasingly applied to enhance operational efficiencies in clinical workflows, from automating clinical documentation 1 to providing responses to patient portal messages. 2 Ramamurthi et al 3 showcase LLMs\u2019 potential in improving operating room scheduling. By fine-tuning the models on clinical notes, they achieved case length prediction accuracy exceeding native electronic health record (EHR) scheduling tools and estimations by human schedulers. Notably, LLMs often perform poorly on numerical prediction tasks relative to traditional machine learning algorithms. 4 Ramamurthi and colleagues offset this weakness by leveraging LLMs\u2019 unique ability to deeply interpret nuanced information within clinical narratives\u2014understanding patient histories, procedural complexities, and provider assessments\u2014to inform more accurate time estimations.",
-            "date_published": "2025-07-09T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
+            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "date_published": "2025-07-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Jayson S. Marwaha, MD, MSc"
+                    "name": "Sandro Galea, MD, DrPH"
                 }
             ],
             "tags": [
-                "large language models",
-                "operative surgical procedures",
-                "workflow"
+                "artificial intelligence",
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2835956/jamasurgery_marwaha_2025_ic_250020_1750898296.37562.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
+            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
+            "date_published": "2025-03-11T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "primary health care",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -814,36 +838,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
