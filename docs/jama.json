@@ -4,6 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
+            "title": "Discussing Digital Interventions in Asthma Symptom Monitoring",
+            "summary": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
+            "content_text": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
+            "date_published": "2025-07-10T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Yulin Hswen, ScD, MPH"
+                }
+            ],
+            "tags": [
+                "asthma"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836281/jama_hswen_2025_en_250004_1751490770.61748.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250004fa_1751490770.70248.png?Expires=2147483647&Signature=nNRADxtu~Ia3gx2Bs92jGb2xzOfaXBhV2aUQ7jvD31nVUnWM-NAIZOzLCI0myeEzjOYVefZCuKcnSYGYsqoO4nDmeGGreX~dJY3zn4fedQuJSU-CJfieiOsXIkFvmyjg6q5Xu9US5nK7CALZgPCz3VwECOX8xxzkcsZcDn7vKDF1J0qfNBw8XLN20h9G-AVJBl4FQmBoIUbLjztBGtC9rZKbOijEaPA8HtFZSrMgbrdorhDLSExrob4v8j4quZfaPPdINrEwkQ7eCCmdkyICFeDijh-bae9O~o3~Qs5osLYYKhhxQH429FXazRXJJGc1ZF8z10Iq8PSm8FDJSiUddA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836021",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836021",
             "title": "Pathologist-Read vs AI-Driven Assessment of Tumor-Infiltrating Lymphocytes in Melanoma",
@@ -916,33 +939,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
