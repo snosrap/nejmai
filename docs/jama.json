@@ -4,54 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
-            "title": "Discussing Digital Interventions in Asthma Symptom Monitoring",
-            "summary": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
-            "content_text": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
-            "date_published": "2025-07-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Yulin Hswen, ScD, MPH"
+                    "name": "Anjali D. Deshmukh, MD, JD"
                 }
             ],
             "tags": [
-                "asthma"
+                "artificial intelligence",
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836281/jama_hswen_2025_en_250004_1751490770.61748.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1751381399.42916.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250004fa_1751490770.70248.png?Expires=2147483647&Signature=nNRADxtu~Ia3gx2Bs92jGb2xzOfaXBhV2aUQ7jvD31nVUnWM-NAIZOzLCI0myeEzjOYVefZCuKcnSYGYsqoO4nDmeGGreX~dJY3zn4fedQuJSU-CJfieiOsXIkFvmyjg6q5Xu9US5nK7CALZgPCz3VwECOX8xxzkcsZcDn7vKDF1J0qfNBw8XLN20h9G-AVJBl4FQmBoIUbLjztBGtC9rZKbOijEaPA8HtFZSrMgbrdorhDLSExrob4v8j4quZfaPPdINrEwkQ7eCCmdkyICFeDijh-bae9O~o3~Qs5osLYYKhhxQH429FXazRXJJGc1ZF8z10Iq8PSm8FDJSiUddA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836021",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836021",
-            "title": "Pathologist-Read vs AI-Driven Assessment of Tumor-Infiltrating Lymphocytes in Melanoma",
-            "summary": "This prognostic study compares the analytical and clinical validity of a machine learning algorithm with traditional pathologist-read methods for quantification of tumor-infiltrating lymphocytes in melanoma.",
-            "content_html": "<h3>Importance</h3><p>Tumor-infiltrating lymphocytes (TILs) are a provocative biomarker in melanoma, influencing diagnosis, prognosis, and immunotherapy outcomes; however, traditional pathologist-read TIL assessment on hematoxylin and eosin\u2013stained slides is prone to interobserver variability, leading to inconsistent clinical decisions. Therefore, development of newer TIL scoring approaches that produce more reliable and consistent readouts is important.</p><h3>Objective</h3><p>To evaluate the analytical and clinical validity of a machine learning algorithm for TIL quantification in melanoma compared with traditional pathologist-read methods.</p><h3>Design, Setting, and Participants</h3><p>This multioperator, global, multi-institutional prognostic study compared TIL scoring reproducibility between traditional pathologist-read methods and an artificial intelligence (AI)-driven approach. The study was conducted using retrospective cohorts of patients with melanoma between January 2022 and June 2023 across 45 institutions, with tissue evaluated by participants from academic, clinical, and research institutions. Participants were selected to ensure diverse expertise and professional backgrounds.</p><h3>Main Outcomes and Measures</h3><p>Intraclass correlation coefficient (ICC) values were calculated for the manual and AI-assisted arms using log-transformed data. Kendall<i>W</i>values were calculated for Clark scores (brisk\u2009=\u20093, nonbrisk\u2009=\u20092, and sparse\u2009=\u20091). Reliabilities of ICC and<i>W</i>values were classified as moderate (0.40-0.60), good (0.61-0.80), or excellent (&gt;0.80). AI TIL measurements were dichotomized using the 16.6 and median cutoffs. Univariable and multivariable Cox regression analyses assessed the prognostic value of TIL scores adjusted for clinicopathologic variables.</p><h3>Results</h3><p>There were 111 patients with melanoma in the independent testing cohort (median [range] age at diagnosis, 61.0 [25.0-87.0] years; 56 [50.5%] male) who contributed melanoma whole tissue sections. A total of 98 participants evaluated TILs on 60 hematoxylin and eosin\u2013stained melanoma tissue sections. All 40 participants in the manual arm were pathologists, while the AI-assisted arm included 11 pathologists and 47 nonpathologists (scientists). The AI algorithm demonstrated superior reproducibility, with ICCs higher than 0.90 for all machine learning TIL variables, significantly outperforming manual assessments (ICC, 0.61 for AI-derived stromal TILs vs Kendall<i>W</i>, 0.44 for manual Clark TIL scoring). AI-based TIL scores showed prognostic associations with patient outcomes (n\u2009=\u2009111) using the median cutoff approach with a hazard ratio (HR) of 0.45 (95% CI, 0.26-0.80;<i>P</i>\u2009=\u2009.005), and using the cutoff of 16.6, with an HR of 0.56 (95% CI, 0.32-0.98;<i>P</i>\u2009=\u2009.04).</p><h3>Conclusions and Relevance</h3><p>In this prognostic study of TIL quantification in melanoma, the AI algorithm demonstrated superior reproducibility and prognostic associations compared with traditional methods. Although the retrospective nature of the cohorts limits demonstration of clinical utility, the publicly available dataset and open-source AI tool offer a foundation for future validation and integration into melanoma management.</p>",
-            "date_published": "2025-07-03T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Thazin N. Aung, PhD"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
-                "lymphocytes",
-                "machine learning algorithms",
-                "medical pathologist",
-                "melanoma",
-                "tumor-infiltrating"
+                "artificial intelligence",
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836021/aung_2025_oi_250588_1750958613.50939.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250588t1_1750958613.89097.png?Expires=2147483647&Signature=n2hO1ZytXJzROP-Bxx7Lg6XWYsfaor0P3Uu9Fb2~pGQXKqrI2UbFxFshevO~tiTdGTZkAw6dplJuhts6dlytyHMMeL6-0KDxSVehnFeAXsRm~Z551gZk626sUIehLevABeZDj1ojkyfhOCloNrEwqvTezFWkLAcFxrtA5mn6tYSaYtI0jRe5O8GGdjlF5-DsDCeKhkab2I5VRxUy9XVzNrNbKtWoXvQ~PnFQC0TOtnKL5HEzxHSFkBtv79FEvCzy7RDikpJQByU~PuuxXNrz5rAFDl8qONxoQgvIid~4YjryMo936v4PFZCEsnO-jzBuYK2F6Tq3Quk6EQnR44qnsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
