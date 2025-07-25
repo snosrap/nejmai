@@ -4,28 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
+            "title": "Can AI Improve the Cost-Effectiveness of 3D Total-Body Photography?",
+            "summary": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
+            "content_text": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
+            "date_published": "2025-07-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy"
+                "cost effectiveness",
+                "photography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836832/jama_perlis_2025_en_250003_1752763931.57898.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250003fa_1752763931.67399.png?Expires=2147483647&Signature=kaXKH2KxawPhzY9ymuhqN2FS9ppFvClnp2bTFBUusyYLkLyxwe2qw-rNC6ECFjPvezZJTU4NTl3uiquPEsapn8W8QffqMhFyLtOi7v~JYLke7-BG5Y5w0cRYNbtbEMZFTZbyVmHruJNL4g54RgzFxwkWZ8TURQJdrss3HPT01TSAOy9cD7BGQZz56gsfXK1v~uro9~e5mEUt5hBc-jwuHAUAfYaBh9EDjlpuBLCAnW7W~9ONX7R0bKyjKtV4pjb4mlY1ZD1EiOThn8B-xNY1hrTdU2EFruo9CURmN4wfHCrwxoFOdlO~-EfQ5InbAkd9QSbs8IyMHR0Xw4km4ILhfA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -889,33 +918,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
