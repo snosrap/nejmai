@@ -4,58 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
-            "title": "AI Workflow, External Validation, and Development in Eye Disease Diagnosis",
-            "summary": "This diagnostic study assesses downstream accountability of medical artificial intelligence (AI), focusing on AI-assisted workflow, external validation, and development, in age-related macular degeneration diagnosis and severity classification.",
-            "content_html": "<h3>Importance</h3><p>Timely disease diagnosis is challenging due to limited clinical availability and growing burdens. Although artificial intelligence (AI) has shown expert-level diagnostic accuracy, a lack of downstream accountability, including workflow integration, external validation, and further development, continues to hinder its clinical adoption.</p><h3>Objective</h3><p>To address gaps in the downstream accountability of medical AI through a case study on age-related macular degeneration (AMD) diagnosis and severity classification.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study developed and evaluated an AI-assisted diagnostic and classification workflow for AMD. Four rounds of diagnostic assessments (accuracy and time) were conducted with 24 clinicians from 12 institutions. Each round was randomized and alternated between manual (clinician diagnosis) and manual plus AI (clinician assisted by AI diagnosis), with a 1-month washout period. In total, 2880 AMD risk features were evaluated across 960 images from 240 Age-Related Eye Disease Study patient samples, both with and without AI assistance. For further development, the original DeepSeeNet model was enhanced into the DeepSeeNet+\u2009model using\u200939 196 additional images from the US population and tested on 3 datasets, including an external set from Singapore.</p><h3>Exposure</h3><p>Age-related macular degeneration risk features.</p><h3>Main Outcomes and Measures</h3><p>The F1 score for accuracy (Wilcoxon rank sum test) and diagnostic time (linear mixed-effects model) were measured, comparing manual vs manual plus AI. For further development, the F1 score (Wilcoxon rank sum test) was again used.</p><h3>Results</h3><p>Among 240 patients (mean [SD] age, 68.5 [5.0] years; 127 female [53%]), AI assistance significantly improved accuracy for 23 of 24 clinicians, increasing the mean F1 score from 37.71 (95% CI, 27.83-44.17) to 45.52 (95% CI, 39.01-51.61), with some improvements exceeding 50%. Manual diagnosis initially took an estimated 39.8 seconds (95% CI, 34.1-45.6 seconds) per patient, whereas manual plus AI saved 10.3 seconds (95% CI, \u221215.1 to \u22125.5 seconds) and remained faster by 6.9 seconds (95% CI, 0.2-13.7 seconds) to 8.6 seconds (95% CI, 1.8-15.3 seconds) in subsequent rounds. However, combining manual and AI did not always yield the highest accuracy or efficiency, underscoring challenges in explainability and trust. The DeepSeeNet+\u2009model performed better in 3 test sets, achieving a significantly higher F1 score than the Singapore cohort (52.43 [95% CI, 44.38-61.00] vs 38.95 [95% CI, 30.50-47.45]).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study, AI assistance was associated with improved accuracy and time efficiency for AMD diagnosis. Further development is essential for enhancing AI generalizability across diverse populations. These findings highlight the need for downstream accountability during early-stage clinical evaluations of medical AI.</p>",
-            "date_published": "2025-07-16T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "title": "The Future of Agitation Interventions May Be Predictive",
+            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "date_published": "2025-05-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Qingyu Chen, PhD"
+                    "name": "Scott Zeller, MD"
                 }
             ],
             "tags": [
-                "accountability",
-                "age related macular degeneration",
-                "artificial intelligence",
-                "eye diseases",
-                "workflow"
+                "agitation",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836426/chen_2025_oi_250545_1751908823.25507.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250545f1_1751908823.53575.png?Expires=2147483647&Signature=2FTXYhnFp3rhRSBg3e-mAP9KrG~T31dz~ivmfRXA9a72nnlN4kw2tPeQK8BzxSh1UzrMd6eBLXmFN2zdGMYtucxI9251qX2Knup5CPPkgR7VYVU5Cb3NZFTxfr7yGCMsPc~AH4UCc2UF7lkzX~9dxD8I6q-bl1LYy7-CUoDjBf6sBBbvb3mvVdPTmE6iPELhgy-zrHG8GMbZZqdi-q1CQUsnUyyoeiE1N0sXhVkPxSfL7UkNBGvHSgbGfyhLnAiDdE2pB7esYgtmX9OCA~zXHZGOP13HqgL~m6BCF46-O1nFoHxyRVvQIEgF4n7ZA6SPB7hiqIWglS9x00~1DSHN~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835883",
-            "title": "Integrating Nonindividual Patient Features in Machine Learning Models of Hospital-Onset Bacteremia",
-            "summary": "This prognostic study assesses whether nonindividual patient features that summarize interactions with other patients and health care workers can contribute to machine learning models to predict hospital-onset bacteremia (HOB).",
-            "content_html": "<h3>Importance</h3><p>Hospital-onset bacteremia and fungemia (HOB) are common and potentially preventable complications of hospital care.</p><h3>Objective</h3><p>To assess whether nonindividual patient features, which summarize interactions with other patients and health care workers (HCWs), can contribute to predictive and causal machine learning models for HOB.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study included adult patients admitted to Barnes-Jewish Hospital, an academic hospital in St Louis, Missouri, in 2021. Analyses were developed between October 2023 and August 2024 and in April 2025.</p><h3>Exposure</h3><p>Individual patient features were extracted from electronic health records and used to engineer nonpatient features, including interactions with HCWs and direct or indirect (consecutive room occupancy) patient contact.</p><h3>Main Outcomes and Measures</h3><p>HOB was defined as a positive blood culture after the third day of hospitalization. Patients who were hospitalized for more than 3 days were considered at risk for the outcome. We developed 3 gradient boosting models: 2 predictive (with patient features only and with both patient and nonpatient features to predict the occurrence of HOB) and 1 causal to test the association of nonpatient features and HOB. Predictive performance is reported using area under the receiver operating characteristic curve (AUROC) and area under the precision-recall curve (AUPRC), and the results of the causal model are reported as difference in average effects. Sensitivity analyses separated intensive care unit\u2013onset and ward-onset HOB and included a methicillin-resistant<i>Staphylococcus aureus</i>\u2013specific model to adjust for colonization pressure.</p><h3>Results</h3><p>Among the 52\u202f442 patients, 34\u202f855 (66.5%) had admissions longer than 72 hours and were included for analysis; of these, 556 (1.6%) developed HOB. The median age for the included patients was 60 (IQR, 44-70) years, 50.5% were female, and obesity was the most frequent comorbidity (25.0%). Nonpatient features, such as a prior occupant of the same room receiving antipseudomonal beta-lactams and the mean number of HCWs per day for the 7 days preceding HOB, improved the model\u2019s performance (AUROC, 0.88 [95% CI, 0.88-0.89]; AUPRC, 0.20 [95% CI, 0.20-0.22]) compared with the patient-only model (AUROC, 0.85 [95% CI, 0.85-0.86]; AUPRC, 0.13 [95% CI, 0.12-0.14]) (<i>P</i>\u2009&lt;\u2009.001). These 2 features were also associated with a higher likelihood of HOB in the causal gradient boosting model.</p><h3>Conclusions and Relevance</h3><p>These findings suggest that nonindividual patient features may contribute to a comprehensive analysis of HOB when integrated with individual patient features in a machine learning model.</p>",
-            "date_published": "2025-07-02T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831560",
+            "title": "Calibrating AI Reliance\u2014A Physician\u2019s Superhuman Dilemma",
+            "summary": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
+            "content_text": "This Viewpoint discusses the unrealistic standards for error-free decision-making by physicians and how this relates to the evolving landscape of artificial intelligence\u2013assisted health care.",
+            "date_published": "2025-03-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "M. Cristina Vazquez-Guillamet, MD"
+                    "name": "Shefali V. Patil, PhD"
                 }
             ],
             "tags": [
-                "antibiotics",
-                "bacteremia",
-                "health personnel",
-                "lactam",
-                "machine learning"
+                "artificial intelligence",
+                "calibration",
+                "decision making",
+                "health policy",
+                "personal satisfaction"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835883/vazquezguillamet_2025_oi_250584_1750878874.5106.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2831560/patil_2025_vp_250004_1742413522.08674.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250584t1_1750878874.67167.png?Expires=2147483647&Signature=OdqJWuGS0abejQy-AX1MCCoMLZfJDVT~uGdME0ZPAi1bT~lHxQCD2kSVe4khTd40bfikE0KzQc-59poHoLXeEPeTAtYCHycRIVWj64QK5zeIzA60AIHzlhLvcyQ0JDIJ97lPnKI8~5mkxEt3Mns7QgUamqG3lsPNzXppnFE~mNMFtn2EUFuWk1aLr4szFlMR9hi6SZRc1W3xJ1Q5Je8~DOiL6P4d81vumy5VYe44W6SlUEF77TzowpMAJqOSJ-WX97ZD4t~p6lPryfWF00CJTlDC5vW7MX--BiZTApNLSo4dU8ToNKu7A8cqBt-DJ~1gzJ90nGZV9Vw2hsiVgY99Mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
