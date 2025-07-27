@@ -4,56 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
-            "title": "AI Workflow, External Validation, and Development in Eye Disease Diagnosis",
-            "summary": "This diagnostic study assesses downstream accountability of medical artificial intelligence (AI), focusing on AI-assisted workflow, external validation, and development, in age-related macular degeneration diagnosis and severity classification.",
-            "content_html": "<h3>Importance</h3><p>Timely disease diagnosis is challenging due to limited clinical availability and growing burdens. Although artificial intelligence (AI) has shown expert-level diagnostic accuracy, a lack of downstream accountability, including workflow integration, external validation, and further development, continues to hinder its clinical adoption.</p><h3>Objective</h3><p>To address gaps in the downstream accountability of medical AI through a case study on age-related macular degeneration (AMD) diagnosis and severity classification.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study developed and evaluated an AI-assisted diagnostic and classification workflow for AMD. Four rounds of diagnostic assessments (accuracy and time) were conducted with 24 clinicians from 12 institutions. Each round was randomized and alternated between manual (clinician diagnosis) and manual plus AI (clinician assisted by AI diagnosis), with a 1-month washout period. In total, 2880 AMD risk features were evaluated across 960 images from 240 Age-Related Eye Disease Study patient samples, both with and without AI assistance. For further development, the original DeepSeeNet model was enhanced into the DeepSeeNet+\u2009model using\u200939 196 additional images from the US population and tested on 3 datasets, including an external set from Singapore.</p><h3>Exposure</h3><p>Age-related macular degeneration risk features.</p><h3>Main Outcomes and Measures</h3><p>The F1 score for accuracy (Wilcoxon rank sum test) and diagnostic time (linear mixed-effects model) were measured, comparing manual vs manual plus AI. For further development, the F1 score (Wilcoxon rank sum test) was again used.</p><h3>Results</h3><p>Among 240 patients (mean [SD] age, 68.5 [5.0] years; 127 female [53%]), AI assistance significantly improved accuracy for 23 of 24 clinicians, increasing the mean F1 score from 37.71 (95% CI, 27.83-44.17) to 45.52 (95% CI, 39.01-51.61), with some improvements exceeding 50%. Manual diagnosis initially took an estimated 39.8 seconds (95% CI, 34.1-45.6 seconds) per patient, whereas manual plus AI saved 10.3 seconds (95% CI, \u221215.1 to \u22125.5 seconds) and remained faster by 6.9 seconds (95% CI, 0.2-13.7 seconds) to 8.6 seconds (95% CI, 1.8-15.3 seconds) in subsequent rounds. However, combining manual and AI did not always yield the highest accuracy or efficiency, underscoring challenges in explainability and trust. The DeepSeeNet+\u2009model performed better in 3 test sets, achieving a significantly higher F1 score than the Singapore cohort (52.43 [95% CI, 44.38-61.00] vs 38.95 [95% CI, 30.50-47.45]).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study, AI assistance was associated with improved accuracy and time efficiency for AMD diagnosis. Further development is essential for enhancing AI generalizability across diverse populations. These findings highlight the need for downstream accountability during early-stage clinical evaluations of medical AI.</p>",
-            "date_published": "2025-07-16T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
+            "title": "Ethical Obligations to Inform Patients About Use of AI Tools",
+            "summary": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
+            "content_text": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
+            "date_published": "2025-07-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Qingyu Chen, PhD"
-                }
-            ],
-            "tags": [
-                "accountability",
-                "age related macular degeneration",
-                "artificial intelligence",
-                "eye diseases",
-                "workflow"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836426/chen_2025_oi_250545_1751908823.25507.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250545f1_1751908823.53575.png?Expires=2147483647&Signature=2FTXYhnFp3rhRSBg3e-mAP9KrG~T31dz~ivmfRXA9a72nnlN4kw2tPeQK8BzxSh1UzrMd6eBLXmFN2zdGMYtucxI9251qX2Knup5CPPkgR7VYVU5Cb3NZFTxfr7yGCMsPc~AH4UCc2UF7lkzX~9dxD8I6q-bl1LYy7-CUoDjBf6sBBbvb3mvVdPTmE6iPELhgy-zrHG8GMbZZqdi-q1CQUsnUyyoeiE1N0sXhVkPxSfL7UkNBGvHSgbGfyhLnAiDdE2pB7esYgtmX9OCA~zXHZGOP13HqgL~m6BCF46-O1nFoHxyRVvQIEgF4n7ZA6SPB7hiqIWglS9x00~1DSHN~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Michelle M. Mello, JD, PhD, MPhil"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "big data",
-                "health equity"
+                "disclosure",
+                "ethics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836687/jama_mello_2025_pp_250012_1752260192.64678.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250012t1_1752260192.73678.png?Expires=2147483647&Signature=XmqbByoqaZFvpX1rZIL9VTdv0u17rb7cBADMHiBNbRRNhnxHfAlBaGvxNYhwJYHoDV2H8KnEE-RDI~G7DbFMstsrC015iks4OYtoiJok5O5g2QAxRjIQoBWfiVfGDFORCwJN3p0LTWP7pJfZKZ6heFZZlkzNgSine1793sGxUlSXNLcb9ltP0ZdW65G2p5uVNf-XazJc-CMDNfUDuYZYHCrYWFlRAKJ~I9TX1VaEEkrr8xIvjLsLPW1n6OrLGuUQp~-X5pr2czKL3rXiIAlJfmd5PJtwiF5gVYILAKNZtoCnNaa27-D~11-g4-uCXcv~tpyEXBJ6q7UWGOnhkIkIAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -841,6 +814,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
+            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
+            "date_published": "2024-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "exercise",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
