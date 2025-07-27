@@ -4,51 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
-            "title": "Can AI Improve the Cost-Effectiveness of 3D Total-Body Photography?",
-            "summary": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
-            "content_text": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
-            "date_published": "2025-07-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
+            "title": "AI Workflow, External Validation, and Development in Eye Disease Diagnosis",
+            "summary": "This diagnostic study assesses downstream accountability of medical artificial intelligence (AI), focusing on AI-assisted workflow, external validation, and development, in age-related macular degeneration diagnosis and severity classification.",
+            "content_html": "<h3>Importance</h3><p>Timely disease diagnosis is challenging due to limited clinical availability and growing burdens. Although artificial intelligence (AI) has shown expert-level diagnostic accuracy, a lack of downstream accountability, including workflow integration, external validation, and further development, continues to hinder its clinical adoption.</p><h3>Objective</h3><p>To address gaps in the downstream accountability of medical AI through a case study on age-related macular degeneration (AMD) diagnosis and severity classification.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study developed and evaluated an AI-assisted diagnostic and classification workflow for AMD. Four rounds of diagnostic assessments (accuracy and time) were conducted with 24 clinicians from 12 institutions. Each round was randomized and alternated between manual (clinician diagnosis) and manual plus AI (clinician assisted by AI diagnosis), with a 1-month washout period. In total, 2880 AMD risk features were evaluated across 960 images from 240 Age-Related Eye Disease Study patient samples, both with and without AI assistance. For further development, the original DeepSeeNet model was enhanced into the DeepSeeNet+\u2009model using\u200939 196 additional images from the US population and tested on 3 datasets, including an external set from Singapore.</p><h3>Exposure</h3><p>Age-related macular degeneration risk features.</p><h3>Main Outcomes and Measures</h3><p>The F1 score for accuracy (Wilcoxon rank sum test) and diagnostic time (linear mixed-effects model) were measured, comparing manual vs manual plus AI. For further development, the F1 score (Wilcoxon rank sum test) was again used.</p><h3>Results</h3><p>Among 240 patients (mean [SD] age, 68.5 [5.0] years; 127 female [53%]), AI assistance significantly improved accuracy for 23 of 24 clinicians, increasing the mean F1 score from 37.71 (95% CI, 27.83-44.17) to 45.52 (95% CI, 39.01-51.61), with some improvements exceeding 50%. Manual diagnosis initially took an estimated 39.8 seconds (95% CI, 34.1-45.6 seconds) per patient, whereas manual plus AI saved 10.3 seconds (95% CI, \u221215.1 to \u22125.5 seconds) and remained faster by 6.9 seconds (95% CI, 0.2-13.7 seconds) to 8.6 seconds (95% CI, 1.8-15.3 seconds) in subsequent rounds. However, combining manual and AI did not always yield the highest accuracy or efficiency, underscoring challenges in explainability and trust. The DeepSeeNet+\u2009model performed better in 3 test sets, achieving a significantly higher F1 score than the Singapore cohort (52.43 [95% CI, 44.38-61.00] vs 38.95 [95% CI, 30.50-47.45]).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study, AI assistance was associated with improved accuracy and time efficiency for AMD diagnosis. Further development is essential for enhancing AI generalizability across diverse populations. These findings highlight the need for downstream accountability during early-stage clinical evaluations of medical AI.</p>",
+            "date_published": "2025-07-16T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Qingyu Chen, PhD"
                 }
             ],
             "tags": [
-                "cost effectiveness",
-                "photography"
+                "accountability",
+                "age related macular degeneration",
+                "artificial intelligence",
+                "eye diseases",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836832/jama_perlis_2025_en_250003_1752763931.57898.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836426/chen_2025_oi_250545_1751908823.25507.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250003fa_1752763931.67399.png?Expires=2147483647&Signature=kaXKH2KxawPhzY9ymuhqN2FS9ppFvClnp2bTFBUusyYLkLyxwe2qw-rNC6ECFjPvezZJTU4NTl3uiquPEsapn8W8QffqMhFyLtOi7v~JYLke7-BG5Y5w0cRYNbtbEMZFTZbyVmHruJNL4g54RgzFxwkWZ8TURQJdrss3HPT01TSAOy9cD7BGQZz56gsfXK1v~uro9~e5mEUt5hBc-jwuHAUAfYaBh9EDjlpuBLCAnW7W~9ONX7R0bKyjKtV4pjb4mlY1ZD1EiOThn8B-xNY1hrTdU2EFruo9CURmN4wfHCrwxoFOdlO~-EfQ5InbAkd9QSbs8IyMHR0Xw4km4ILhfA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250545f1_1751908823.53575.png?Expires=2147483647&Signature=2FTXYhnFp3rhRSBg3e-mAP9KrG~T31dz~ivmfRXA9a72nnlN4kw2tPeQK8BzxSh1UzrMd6eBLXmFN2zdGMYtucxI9251qX2Knup5CPPkgR7VYVU5Cb3NZFTxfr7yGCMsPc~AH4UCc2UF7lkzX~9dxD8I6q-bl1LYy7-CUoDjBf6sBBbvb3mvVdPTmE6iPELhgy-zrHG8GMbZZqdi-q1CQUsnUyyoeiE1N0sXhVkPxSfL7UkNBGvHSgbGfyhLnAiDdE2pB7esYgtmX9OCA~zXHZGOP13HqgL~m6BCF46-O1nFoHxyRVvQIEgF4n7ZA6SPB7hiqIWglS9x00~1DSHN~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
-            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
-            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. Text-to-text generation has been applied to simulate patient consultations in ophthalmology, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8",
-            "date_published": "2025-06-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Anam Akhlaq, MBBS"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
-                "generative artificial intelligence"
+                "artificial intelligence",
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1749840389.21578.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
