@@ -4,29 +4,61 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
-            "title": "Ethical Obligations to Inform Patients About Use of AI Tools",
-            "summary": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
-            "content_text": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
-            "date_published": "2025-07-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2836529",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2836529",
+            "title": "Clinical Decision Support System for Primary Care of Opioid Use Disorder: A Randomized Clinical Trial",
+            "summary": "This cluster randomized clinical trial evaluates whether an electronic health record\u2013integrated clinical decision support system increases opioid use disorder diagnosis and treatment in primary care.",
+            "content_html": "<h3>Importance</h3><p>Nearly 727\u202f000 individuals in the US died of opioid overdoses between 1999 and 2022. The current workforce of addiction medicine specialists is inadequate to address the scale of this crisis, and primary care clinicians (PCCs) do not feel sufficiently supported to treat opioid use disorder (OUD).</p><h3>Objective</h3><p>To evaluate whether an electronic health record\u2013integrated clinical decision support system (CDSS) increases OUD diagnosis and treatment in primary care.</p><h3>Design, Setting, and Participants</h3><p>This pragmatic cluster randomized clinical trial was conducted from April 2021 to December 2023. Primary care clinics in 3 health systems in 4 US states were randomized to receive or not receive an electronic health record\u2013integrated CDSS aimed at improving OUD diagnosis and treatment. Eligible patients were aged 18 to 75 years, visited a randomized clinic, and had an OUD diagnosis in the last 2 years, opioid overdose in the last 6 months, or risk score indicating high risk of OUD or opioid overdose. Data were analyzed from September 2023 to October 2024.</p><h3>Interventions</h3><p>The OUD CDSS provided personalized treatment recommendations to patients and PCCs in intervention clinics.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were likelihood to receive (1) an OUD diagnosis (among high-risk patients without a baseline OUD diagnosis), (2) a naloxone prescription, or (3) a prescription of a medication for OUD (MOUD) or specialty referral, all within 30 days of first eligible (index) visit, and (4) days covered by a MOUD prescription in the 90 days after index.</p><h3>Results</h3><p>Among 10\u202f891 patients meeting eligibility criteria, 5918 (54.3%) were female, and the mean (SD) age was 48.0 (13.9) years. There was no difference in OUD diagnoses within 30 days between groups. Patients in the intervention group had more naloxone orders (80 of 5538 [1.4%] vs 40 of 5353 [0.7%]; odds ratio, 1.76; 95% CI, 1.14-2.72) and orders for MOUDs or treatment referral (775 of 5538 [14.0%] vs 503 of 5353 [9.4%]; odds ratio, 1.48; 95% CI, 1.05-2.08) within 30 days. There were no differences in median (IQR) days covered by MOUD over 90 days postindex between intervention (84 [55-90] days) and usual care (83 [55-90] days; rate ratio, 1.00; 95% CI, 0.93-1.08) or in overdose or death rates during the intervention period.</p><h3>Conclusions and Relevance</h3><p>In this cluster randomized clinical trial, the intervention improved rates of naloxone orders and OUD treatment in primary care but did not affect days covered by a MOUD over 90 days postindex or overdose or death rates. These findings demonstrate an OUD CDSS can help increase access to OUD treatment in primary care.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT04198428</p>",
+            "date_published": "2025-07-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Michelle M. Mello, JD, PhD, MPhil"
+                    "name": "Rebecca C. Rossom, MD, MS"
+                }
+            ],
+            "tags": [
+                "clinical",
+                "decision support systems",
+                "naloxone",
+                "opiate overdose",
+                "opioid intoxication",
+                "opioid use disorders",
+                "overdose",
+                "patient referral",
+                "primary health care"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2836529/jamainternal_rossom_2025_oi_250039_1752124353.41947.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ioi250039f1_1752124353.61759.png?Expires=2147483647&Signature=2Y1-AdsgiZvqJyxIgt75Ze7NSXNFeY2lKI0SQBCFHcepnA5WrfNMJh3bvMWyKehPm10XfrLgduGbgY-gOaFQoyBMKHFDurVM90Icv3hpiJ~s1V2lXB3ohgT8L9bpPN04swE5GvrCzUfqJu9mnU8yMD0JF6jnDfS0uOwPf3eZkR71cjV6f8AaLmQnzy-3Ocl-~K61ndV-~gFCg~gx3gNm2Uz3A27VpbWuQHPfIOd76pg-Lhkp99LV38pU-Cn5knQSR-UapDnr9MhM4SqfsC9Gi3d-sIll727pQ0qX12hczqVmItnW9zcZ9KoR5WqrnrA06VJaEYyC7Vzf1CShkuGGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2835630",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2835630",
+            "title": "Complete AI-Enabled Echocardiography Interpretation With Multitask Deep Learning",
+            "summary": "This study evaluates the accuracy of an artificial intelligence (AI) system on a comprehensive set of 39 echocardiographic labels and measurements on transthoracic echocardiography.",
+            "content_html": "<h3>Importance</h3><p>Echocardiography is a cornerstone of cardiovascular care, but relies on expert interpretation and manual reporting from a series of videos. An artificial intelligence (AI) system, PanEcho, has been proposed to automate echocardiogram interpretation with multitask deep learning.</p><h3>Objective</h3><p>To develop and evaluate the accuracy of an AI system on a comprehensive set of 39 labels and measurements on transthoracic echocardiography (TTE).</p><h3>Design, Setting, and Participants</h3><p>This study represents the development and retrospective, multisite validation of an AI system. PanEcho was developed using TTE studies conducted at Yale New Haven Health System (YNHHS) hospitals and clinics from January 2016 to June 2022 during routine care. The model was internally validated in a temporally distinct YNHHS cohort from July to December 2022, externally validated across 4 diverse external cohorts, and publicly released.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the area under the receiver operating characteristic curve (AUC) for diagnostic classification tasks and mean absolute error for parameter estimation tasks, comparing AI predictions with the assessment of the interpreting cardiologist.</p><h3>Results</h3><p>This study included 1.2 million echocardiographic videos from 32\u202f265 TTE studies of 24\u202f405 patients across YNHHS hospitals and clinics. The AI system performed 18 diagnostic classification tasks with a median (IQR) AUC of 0.91 (0.88-0.93) and estimated 21 echocardiographic parameters with a median (IQR) normalized mean absolute error of 0.13 (0.10-0.18) in internal validation. For instance, the model accurately estimated left ventricular ejection fraction (mean absolute error: 4.2% internal; 4.5% external) and detected moderate or worse left ventricular systolic dysfunction (AUC: 0.98 internal; 0.99 external), right ventricular systolic dysfunction (AUC: 0.93 internal; 0.94 external), and severe aortic stenosis (AUC: 0.98 internal; 1.00 external). The AI system maintained excellent performance in limited imaging protocols, performing 15 diagnosis tasks with a median (IQR) AUC of 0.91 (0.87-0.94) in an abbreviated TTE cohort and 14 tasks with a median (IQR) AUC of 0.85 (0.77-0.87) on real-world point-of-care ultrasonography acquisitions from YNHHS emergency departments.</p><h3>Conclusions and Relevance</h3><p>In this study, an AI system that automatically interprets echocardiograms maintained high accuracy across geography and time from complete and limited studies. This AI system may be used as an adjunct reader in echocardiography laboratories or AI-enabled screening tool in point-of-care settings following prospective evaluation in the respective clinical workflows.</p>",
+            "date_published": "2025-06-23T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Gregory Holste, MSE"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "disclosure",
-                "ethics"
+                "deep learning",
+                "echocardiography",
+                "transthoracic echocardiography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836687/jama_mello_2025_pp_250012_1752260192.64678.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2835630/jama_holste_2025_oi_250039_1753124028.63327.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250012t1_1752260192.73678.png?Expires=2147483647&Signature=XmqbByoqaZFvpX1rZIL9VTdv0u17rb7cBADMHiBNbRRNhnxHfAlBaGvxNYhwJYHoDV2H8KnEE-RDI~G7DbFMstsrC015iks4OYtoiJok5O5g2QAxRjIQoBWfiVfGDFORCwJN3p0LTWP7pJfZKZ6heFZZlkzNgSine1793sGxUlSXNLcb9ltP0ZdW65G2p5uVNf-XazJc-CMDNfUDuYZYHCrYWFlRAKJ~I9TX1VaEEkrr8xIvjLsLPW1n6OrLGuUQp~-X5pr2czKL3rXiIAlJfmd5PJtwiF5gVYILAKNZtoCnNaa27-D~11-g4-uCXcv~tpyEXBJ6q7UWGOnhkIkIAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939655/joi250039f1_1753124028.76433.png?Expires=2147483647&Signature=M7vrsUjM5I2eQ~cHqtZVeFAg868~Mx05tJNU1havQdju~gLj5sdqOyICxO7ee3A3xGPWDQ-Vs5LqjvATnfmx00ocheNFAeEzcAC9W56wFwQLqdEBtgqQZb-tQfHP2qjiD39HOmcpGCeB0IUOMnkWq9RviC~NkQL~X7TdA7B8mYtJjCYPrOw2mHNumey2oCoAOa5F9B~40iOfqB7PZ~T6L9Iu7KNcMg13efsW60miawh3cG127xXl7k6~jIaqzC19Sdpkfsq7KSr4PR6p5p2X5l-VhGoI4LqeRFxSWCFkZ5GV7O0bmv6tBn8~n3vynn6cpBunnn-ob05JQohZE2hHDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -814,31 +846,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
-            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
-            "date_published": "2024-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "elderly",
-                "exercise",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
