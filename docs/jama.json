@@ -4,57 +4,60 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2836498",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2836498",
-            "title": "Predictors of Flares and Disease Severity in Patients With Atopic Dermatitis Using Machine Learning",
-            "summary": "This cohort study uses data from the Danish Skin Cohort to examine the predictability of flares and disease severity in patients with atopic dermatitis.",
-            "content_html": "<h3>Importance</h3><p>The disease course of atopic dermatitis (AD) is characterized by fluctuations and frequent flares, contributing to the disease burden and impairment in life quality. However, flares are not necessarily considered in severity classifications and clinical treatment decisions.</p><h3>Objective</h3><p>To validate the predictability of flares and disease severity in patients with AD and quantify the importance of predictors.</p><h3>Design, Setting, and Participants</h3><p>Using the Danish Skin Cohort, a large population of patients with AD from Denmark with data on disease severity and flare patterns, quantile regression models were conducted to investigate the association between the number of flares reported in 2022 and patient-reported severity measures reported in 2023. Additionally, boosted random forests were used to explore predictors of both annual flares and disease severity. Analyses were conducted from January to December of 2024.</p><h3>Main Outcomes and Measures</h3><p>Severity of AD as well as frequency, duration, and severity of flares were the main variables under consideration.</p><h3>Results</h3><p>This study included 878 patients with AD (median [IQR] age, 49.0 [39.0-59.0] years), with 26 reporting 0 yearly flares, 405 reporting 1 to 5 yearly flares, 169 reporting 6 to 10 yearly flares, and 278 patients reporting more than 10 yearly flares in 2022. From the quantile regression, the number of annual flares reported in 2022 was significantly associated with most patient-reported severity measures reported in 2023. When adjusting for the Patient-Oriented Scoring of Atopic Dermatitis score at baseline, the number of annual flares reported in 2022 was significantly associated with the Patient-Oriented Eczema Measure and Dermatology Life Quality Index. Using predictive machine learning models, flare severity, duration, and number were among the most important predictors of AD severity, while disease severity was among the strongest predictors of the number of annual flares.</p><h3>Conclusions and Relevance</h3><p>This cohort study found that a higher number of flares was associated with lower quality of life and was identified as a predictor of more severe AD in the following year. These results highlight the relevance of flares in the assessment of severity or disease prognosis and suggest the need for a threshold for an acceptable number of flares in treatment decisions to achieve better disease control and improved quality of life for patients.</p>",
-            "date_published": "2025-07-16T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835073",
+            "title": "Prognostication System for Squamous Cell Carcinoma Using Retrieval Augmented Generation\u2013Enabled Large Language",
+            "summary": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
+            "content_text": "This Editorial discusses a novel risk stratification system for cutaneous squamous cell carcinoma that was developed using a retrieval augmented generation\u2013enabled large language model.",
+            "date_published": "2025-06-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Mia-Louise Nielsen, MSc, PhD"
+                    "name": "Emily S. Ruiz, MD, MPH"
                 }
             ],
             "tags": [
-                "atopic",
-                "dermatitis",
-                "integumentary system",
-                "machine learning",
-                "quality of life",
-                "severity of illness"
+                "large language models",
+                "retrieval-augmented generation",
+                "squamous cell carcinoma",
+                "squamous cell carcinoma of skin"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2836498/jamadermatology_nielsen_2025_oi_250033_1752077099.95297.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835073/jamadermatology_ruiz_2025_ed_250006_1748619233.50783.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250033t1_1752077100.06838.png?Expires=2147483647&Signature=NQmru-Sxbhzoo8hP87-U29Npni4Q~64e~dhuypIvh8qMLfy-kXoHzr9wKezIXAnSoczS5qIBcbvFVufHcJZMMkCa~TN9~Oyee7~gSC~UI1uNZOj7AoQHpgqIIY3dzUtcN~A-l18S7XSpx6Z7qbnjsE5eTv-nVMZEWIUqq6Ya~5JVFelSdUoFuQQc7bpiPENatrJvPr-yjPYt~VSQxfW6GLbasP5O7BqIr23yS6UOeAI-ZsLZplNvotQUO7ekCV5yVWphjsWDdPC7Vn5uBDnYdDyvieStT9T0AQL2KB4ENl8X3aRDB6kmxvdkJLyVIbC407dmmmkEHAKCNJgdexywvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Dermatology.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "big data",
-                "health equity"
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
