@@ -4,61 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2836529",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2836529",
-            "title": "Clinical Decision Support System for Primary Care of Opioid Use Disorder: A Randomized Clinical Trial",
-            "summary": "This cluster randomized clinical trial evaluates whether an electronic health record\u2013integrated clinical decision support system increases opioid use disorder diagnosis and treatment in primary care.",
-            "content_html": "<h3>Importance</h3><p>Nearly 727\u202f000 individuals in the US died of opioid overdoses between 1999 and 2022. The current workforce of addiction medicine specialists is inadequate to address the scale of this crisis, and primary care clinicians (PCCs) do not feel sufficiently supported to treat opioid use disorder (OUD).</p><h3>Objective</h3><p>To evaluate whether an electronic health record\u2013integrated clinical decision support system (CDSS) increases OUD diagnosis and treatment in primary care.</p><h3>Design, Setting, and Participants</h3><p>This pragmatic cluster randomized clinical trial was conducted from April 2021 to December 2023. Primary care clinics in 3 health systems in 4 US states were randomized to receive or not receive an electronic health record\u2013integrated CDSS aimed at improving OUD diagnosis and treatment. Eligible patients were aged 18 to 75 years, visited a randomized clinic, and had an OUD diagnosis in the last 2 years, opioid overdose in the last 6 months, or risk score indicating high risk of OUD or opioid overdose. Data were analyzed from September 2023 to October 2024.</p><h3>Interventions</h3><p>The OUD CDSS provided personalized treatment recommendations to patients and PCCs in intervention clinics.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were likelihood to receive (1) an OUD diagnosis (among high-risk patients without a baseline OUD diagnosis), (2) a naloxone prescription, or (3) a prescription of a medication for OUD (MOUD) or specialty referral, all within 30 days of first eligible (index) visit, and (4) days covered by a MOUD prescription in the 90 days after index.</p><h3>Results</h3><p>Among 10\u202f891 patients meeting eligibility criteria, 5918 (54.3%) were female, and the mean (SD) age was 48.0 (13.9) years. There was no difference in OUD diagnoses within 30 days between groups. Patients in the intervention group had more naloxone orders (80 of 5538 [1.4%] vs 40 of 5353 [0.7%]; odds ratio, 1.76; 95% CI, 1.14-2.72) and orders for MOUDs or treatment referral (775 of 5538 [14.0%] vs 503 of 5353 [9.4%]; odds ratio, 1.48; 95% CI, 1.05-2.08) within 30 days. There were no differences in median (IQR) days covered by MOUD over 90 days postindex between intervention (84 [55-90] days) and usual care (83 [55-90] days; rate ratio, 1.00; 95% CI, 0.93-1.08) or in overdose or death rates during the intervention period.</p><h3>Conclusions and Relevance</h3><p>In this cluster randomized clinical trial, the intervention improved rates of naloxone orders and OUD treatment in primary care but did not affect days covered by a MOUD over 90 days postindex or overdose or death rates. These findings demonstrate an OUD CDSS can help increase access to OUD treatment in primary care.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT04198428</p>",
-            "date_published": "2025-07-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2836498",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2836498",
+            "title": "Predictors of Flares and Disease Severity in Patients With Atopic Dermatitis Using Machine Learning",
+            "summary": "This cohort study uses data from the Danish Skin Cohort to examine the predictability of flares and disease severity in patients with atopic dermatitis.",
+            "content_html": "<h3>Importance</h3><p>The disease course of atopic dermatitis (AD) is characterized by fluctuations and frequent flares, contributing to the disease burden and impairment in life quality. However, flares are not necessarily considered in severity classifications and clinical treatment decisions.</p><h3>Objective</h3><p>To validate the predictability of flares and disease severity in patients with AD and quantify the importance of predictors.</p><h3>Design, Setting, and Participants</h3><p>Using the Danish Skin Cohort, a large population of patients with AD from Denmark with data on disease severity and flare patterns, quantile regression models were conducted to investigate the association between the number of flares reported in 2022 and patient-reported severity measures reported in 2023. Additionally, boosted random forests were used to explore predictors of both annual flares and disease severity. Analyses were conducted from January to December of 2024.</p><h3>Main Outcomes and Measures</h3><p>Severity of AD as well as frequency, duration, and severity of flares were the main variables under consideration.</p><h3>Results</h3><p>This study included 878 patients with AD (median [IQR] age, 49.0 [39.0-59.0] years), with 26 reporting 0 yearly flares, 405 reporting 1 to 5 yearly flares, 169 reporting 6 to 10 yearly flares, and 278 patients reporting more than 10 yearly flares in 2022. From the quantile regression, the number of annual flares reported in 2022 was significantly associated with most patient-reported severity measures reported in 2023. When adjusting for the Patient-Oriented Scoring of Atopic Dermatitis score at baseline, the number of annual flares reported in 2022 was significantly associated with the Patient-Oriented Eczema Measure and Dermatology Life Quality Index. Using predictive machine learning models, flare severity, duration, and number were among the most important predictors of AD severity, while disease severity was among the strongest predictors of the number of annual flares.</p><h3>Conclusions and Relevance</h3><p>This cohort study found that a higher number of flares was associated with lower quality of life and was identified as a predictor of more severe AD in the following year. These results highlight the relevance of flares in the assessment of severity or disease prognosis and suggest the need for a threshold for an acceptable number of flares in treatment decisions to achieve better disease control and improved quality of life for patients.</p>",
+            "date_published": "2025-07-16T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Rebecca C. Rossom, MD, MS"
+                    "name": "Mia-Louise Nielsen, MSc, PhD"
                 }
             ],
             "tags": [
-                "clinical",
-                "decision support systems",
-                "naloxone",
-                "opiate overdose",
-                "opioid intoxication",
-                "opioid use disorders",
-                "overdose",
-                "patient referral",
-                "primary health care"
+                "atopic",
+                "dermatitis",
+                "integumentary system",
+                "machine learning",
+                "quality of life",
+                "severity of illness"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2836529/jamainternal_rossom_2025_oi_250039_1752124353.41947.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2836498/jamadermatology_nielsen_2025_oi_250033_1752077099.95297.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ioi250039f1_1752124353.61759.png?Expires=2147483647&Signature=2Y1-AdsgiZvqJyxIgt75Ze7NSXNFeY2lKI0SQBCFHcepnA5WrfNMJh3bvMWyKehPm10XfrLgduGbgY-gOaFQoyBMKHFDurVM90Icv3hpiJ~s1V2lXB3ohgT8L9bpPN04swE5GvrCzUfqJu9mnU8yMD0JF6jnDfS0uOwPf3eZkR71cjV6f8AaLmQnzy-3Ocl-~K61ndV-~gFCg~gx3gNm2Uz3A27VpbWuQHPfIOd76pg-Lhkp99LV38pU-Cn5knQSR-UapDnr9MhM4SqfsC9Gi3d-sIll727pQ0qX12hczqVmItnW9zcZ9KoR5WqrnrA06VJaEYyC7Vzf1CShkuGGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250033t1_1752077100.06838.png?Expires=2147483647&Signature=NQmru-Sxbhzoo8hP87-U29Npni4Q~64e~dhuypIvh8qMLfy-kXoHzr9wKezIXAnSoczS5qIBcbvFVufHcJZMMkCa~TN9~Oyee7~gSC~UI1uNZOj7AoQHpgqIIY3dzUtcN~A-l18S7XSpx6Z7qbnjsE5eTv-nVMZEWIUqq6Ya~5JVFelSdUoFuQQc7bpiPENatrJvPr-yjPYt~VSQxfW6GLbasP5O7BqIr23yS6UOeAI-ZsLZplNvotQUO7ekCV5yVWphjsWDdPC7Vn5uBDnYdDyvieStT9T0AQL2KB4ENl8X3aRDB6kmxvdkJLyVIbC407dmmmkEHAKCNJgdexywvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2835630",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2835630",
-            "title": "Complete AI-Enabled Echocardiography Interpretation With Multitask Deep Learning",
-            "summary": "This study evaluates the accuracy of an artificial intelligence (AI) system on a comprehensive set of 39 echocardiographic labels and measurements on transthoracic echocardiography.",
-            "content_html": "<h3>Importance</h3><p>Echocardiography is a cornerstone of cardiovascular care, but relies on expert interpretation and manual reporting from a series of videos. An artificial intelligence (AI) system, PanEcho, has been proposed to automate echocardiogram interpretation with multitask deep learning.</p><h3>Objective</h3><p>To develop and evaluate the accuracy of an AI system on a comprehensive set of 39 labels and measurements on transthoracic echocardiography (TTE).</p><h3>Design, Setting, and Participants</h3><p>This study represents the development and retrospective, multisite validation of an AI system. PanEcho was developed using TTE studies conducted at Yale New Haven Health System (YNHHS) hospitals and clinics from January 2016 to June 2022 during routine care. The model was internally validated in a temporally distinct YNHHS cohort from July to December 2022, externally validated across 4 diverse external cohorts, and publicly released.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the area under the receiver operating characteristic curve (AUC) for diagnostic classification tasks and mean absolute error for parameter estimation tasks, comparing AI predictions with the assessment of the interpreting cardiologist.</p><h3>Results</h3><p>This study included 1.2 million echocardiographic videos from 32\u202f265 TTE studies of 24\u202f405 patients across YNHHS hospitals and clinics. The AI system performed 18 diagnostic classification tasks with a median (IQR) AUC of 0.91 (0.88-0.93) and estimated 21 echocardiographic parameters with a median (IQR) normalized mean absolute error of 0.13 (0.10-0.18) in internal validation. For instance, the model accurately estimated left ventricular ejection fraction (mean absolute error: 4.2% internal; 4.5% external) and detected moderate or worse left ventricular systolic dysfunction (AUC: 0.98 internal; 0.99 external), right ventricular systolic dysfunction (AUC: 0.93 internal; 0.94 external), and severe aortic stenosis (AUC: 0.98 internal; 1.00 external). The AI system maintained excellent performance in limited imaging protocols, performing 15 diagnosis tasks with a median (IQR) AUC of 0.91 (0.87-0.94) in an abbreviated TTE cohort and 14 tasks with a median (IQR) AUC of 0.85 (0.77-0.87) on real-world point-of-care ultrasonography acquisitions from YNHHS emergency departments.</p><h3>Conclusions and Relevance</h3><p>In this study, an AI system that automatically interprets echocardiograms maintained high accuracy across geography and time from complete and limited studies. This AI system may be used as an adjunct reader in echocardiography laboratories or AI-enabled screening tool in point-of-care settings following prospective evaluation in the respective clinical workflows.</p>",
-            "date_published": "2025-06-23T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Gregory Holste, MSE"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "deep learning",
-                "echocardiography",
-                "transthoracic echocardiography"
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2835630/jama_holste_2025_oi_250039_1753124028.63327.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939655/joi250039f1_1753124028.76433.png?Expires=2147483647&Signature=M7vrsUjM5I2eQ~cHqtZVeFAg868~Mx05tJNU1havQdju~gLj5sdqOyICxO7ee3A3xGPWDQ-Vs5LqjvATnfmx00ocheNFAeEzcAC9W56wFwQLqdEBtgqQZb-tQfHP2qjiD39HOmcpGCeB0IUOMnkWq9RviC~NkQL~X7TdA7B8mYtJjCYPrOw2mHNumey2oCoAOa5F9B~40iOfqB7PZ~T6L9Iu7KNcMg13efsW60miawh3cG127xXl7k6~jIaqzC19Sdpkfsq7KSr4PR6p5p2X5l-VhGoI4LqeRFxSWCFkZ5GV7O0bmv6tBn8~n3vynn6cpBunnn-ob05JQohZE2hHDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
