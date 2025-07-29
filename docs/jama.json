@@ -4,56 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836426",
-            "title": "AI Workflow, External Validation, and Development in Eye Disease Diagnosis",
-            "summary": "This diagnostic study assesses downstream accountability of medical artificial intelligence (AI), focusing on AI-assisted workflow, external validation, and development, in age-related macular degeneration diagnosis and severity classification.",
-            "content_html": "<h3>Importance</h3><p>Timely disease diagnosis is challenging due to limited clinical availability and growing burdens. Although artificial intelligence (AI) has shown expert-level diagnostic accuracy, a lack of downstream accountability, including workflow integration, external validation, and further development, continues to hinder its clinical adoption.</p><h3>Objective</h3><p>To address gaps in the downstream accountability of medical AI through a case study on age-related macular degeneration (AMD) diagnosis and severity classification.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study developed and evaluated an AI-assisted diagnostic and classification workflow for AMD. Four rounds of diagnostic assessments (accuracy and time) were conducted with 24 clinicians from 12 institutions. Each round was randomized and alternated between manual (clinician diagnosis) and manual plus AI (clinician assisted by AI diagnosis), with a 1-month washout period. In total, 2880 AMD risk features were evaluated across 960 images from 240 Age-Related Eye Disease Study patient samples, both with and without AI assistance. For further development, the original DeepSeeNet model was enhanced into the DeepSeeNet+\u2009model using\u200939 196 additional images from the US population and tested on 3 datasets, including an external set from Singapore.</p><h3>Exposure</h3><p>Age-related macular degeneration risk features.</p><h3>Main Outcomes and Measures</h3><p>The F1 score for accuracy (Wilcoxon rank sum test) and diagnostic time (linear mixed-effects model) were measured, comparing manual vs manual plus AI. For further development, the F1 score (Wilcoxon rank sum test) was again used.</p><h3>Results</h3><p>Among 240 patients (mean [SD] age, 68.5 [5.0] years; 127 female [53%]), AI assistance significantly improved accuracy for 23 of 24 clinicians, increasing the mean F1 score from 37.71 (95% CI, 27.83-44.17) to 45.52 (95% CI, 39.01-51.61), with some improvements exceeding 50%. Manual diagnosis initially took an estimated 39.8 seconds (95% CI, 34.1-45.6 seconds) per patient, whereas manual plus AI saved 10.3 seconds (95% CI, \u221215.1 to \u22125.5 seconds) and remained faster by 6.9 seconds (95% CI, 0.2-13.7 seconds) to 8.6 seconds (95% CI, 1.8-15.3 seconds) in subsequent rounds. However, combining manual and AI did not always yield the highest accuracy or efficiency, underscoring challenges in explainability and trust. The DeepSeeNet+\u2009model performed better in 3 test sets, achieving a significantly higher F1 score than the Singapore cohort (52.43 [95% CI, 44.38-61.00] vs 38.95 [95% CI, 30.50-47.45]).</p><h3>Conclusions and Relevance</h3><p>In this diagnostic study, AI assistance was associated with improved accuracy and time efficiency for AMD diagnosis. Further development is essential for enhancing AI generalizability across diverse populations. These findings highlight the need for downstream accountability during early-stage clinical evaluations of medical AI.</p>",
-            "date_published": "2025-07-16T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
+            "title": "Ethical Obligations to Inform Patients About Use of AI Tools",
+            "summary": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
+            "content_text": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
+            "date_published": "2025-07-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Qingyu Chen, PhD"
+                    "name": "Michelle M. Mello, JD, PhD, MPhil"
                 }
             ],
             "tags": [
-                "accountability",
-                "age related macular degeneration",
                 "artificial intelligence",
-                "eye diseases",
-                "workflow"
+                "disclosure",
+                "ethics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836426/chen_2025_oi_250545_1751908823.25507.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836687/jama_mello_2025_pp_250012_1752260192.64678.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250545f1_1751908823.53575.png?Expires=2147483647&Signature=2FTXYhnFp3rhRSBg3e-mAP9KrG~T31dz~ivmfRXA9a72nnlN4kw2tPeQK8BzxSh1UzrMd6eBLXmFN2zdGMYtucxI9251qX2Knup5CPPkgR7VYVU5Cb3NZFTxfr7yGCMsPc~AH4UCc2UF7lkzX~9dxD8I6q-bl1LYy7-CUoDjBf6sBBbvb3mvVdPTmE6iPELhgy-zrHG8GMbZZqdi-q1CQUsnUyyoeiE1N0sXhVkPxSfL7UkNBGvHSgbGfyhLnAiDdE2pB7esYgtmX9OCA~zXHZGOP13HqgL~m6BCF46-O1nFoHxyRVvQIEgF4n7ZA6SPB7hiqIWglS9x00~1DSHN~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250012t1_1752260192.73678.png?Expires=2147483647&Signature=XmqbByoqaZFvpX1rZIL9VTdv0u17rb7cBADMHiBNbRRNhnxHfAlBaGvxNYhwJYHoDV2H8KnEE-RDI~G7DbFMstsrC015iks4OYtoiJok5O5g2QAxRjIQoBWfiVfGDFORCwJN3p0LTWP7pJfZKZ6heFZZlkzNgSine1793sGxUlSXNLcb9ltP0ZdW65G2p5uVNf-XazJc-CMDNfUDuYZYHCrYWFlRAKJ~I9TX1VaEEkrr8xIvjLsLPW1n6OrLGuUQp~-X5pr2czKL3rXiIAlJfmd5PJtwiF5gVYILAKNZtoCnNaa27-D~11-g4-uCXcv~tpyEXBJ6q7UWGOnhkIkIAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
-            "title": "Bridging the Gap Between Developers and Implementers in Health AI",
-            "summary": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
-            "content_text": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
-            "date_published": "2025-06-20T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
+            "title": "Retrieval Augmented Generation\u2013Enabled Large Language Model for Risk Stratification of Cutaneous Squamous Cell",
+            "summary": "This diagnostic study examines a customized generative pretrained transformer model in aggregating and interpreting data to develop a class-based risk stratification system for cutaneous squamous cell carcinoma.",
+            "content_html": "<h3>Importance</h3><p>There exists substantial heterogeneity in outcomes within T stages for patients with cutaneous squamous cell carcinoma (cSCC).</p><h3>Objective</h3><p>To determine whether a customized generative pretrained transformer model, trained on a comprehensive dataset with more than 1 trillion parameters and equipped with relevant focused context and retrieval augmented generation (RAG), could excel in aggregating and interpreting vast quantities of data to develop a novel class-based risk stratification system that outperforms the current standards.</p><h3>Design, Setting, and Participants</h3><p>To build the RAG knowledge base, a systematic review of the literature was conducted that addressed risk factors for poor outcomes in cSCC. Using the RAG-enabled generative pretrained transformer (GPT) model, we developed a novel class-based risk stratification system that assigned point values for risk factors, culminating in a GPT-based prognostication system called the artificial intelligence\u2013derived risk score (AIRIS). The system\u2019s performance was validated on a combined prospective and retrospective cohort of 2379 primary cSCC tumors (1996-2023) with at least 36 months of follow-up, against Brigham and Women\u2019s Hospital (BWH) and<i>American Joint Committee on Cancer Staging Manual, eighth edition</i>(<i>AJCC8</i>) systems in stratifying risk for locoregional recurrence (LR), nodal metastasis (NM), distant metastasis (DM), and disease-specific death (DSD).</p><h3>Main Outcomes and Measures</h3><p>Performance metrics evaluated included distinctiveness, homogeneity, and monotonicity, as defined by the<i>AJCC8</i>, as well as sensitivity, specificity, positive predictive value, negative predictive value, accuracy, the area under the receiver operating characteristic curve, and concordance.</p><h3>Results</h3><p>The median age at diagnosis was 73 (IQR, 64-81) years, with 38.5% female patients and 61.5% male patients. The AIRIS prognostication system demonstrated superior sensitivity across all outcomes (LR, 49.1%; NM, 73.7%; DM, 82.5%; and DSD, 72.2%) and the highest area under the receiver operating characteristic curve values (LR, 0.69; NM, 0.81; DM, 0.85; and DSD, 0.80), indicating significantly enhanced discriminative capability compared with the BWH and<i>AJCC8</i>systems. While all systems were comparably distinctive, the AIRIS prognostication system consistently demonstrated the lowest proportion of tumors exhibiting poor outcomes in low-risk categories, suggesting its improved homogeneity and monotonicity.</p><h3>Conclusions and Relevance</h3><p>The results of this diagnostic study suggest that the AIRIS system outperforms the existing BWH and<i>AJCC8</i>prognostication systems, potentially providing a more effective tool for predicting poor outcomes in cSCC. This study illustrates the potential of large language models in refining prognostic tools, offering implications for treating patients with cancer.</p>",
+            "date_published": "2025-06-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Michael J. Pencina, PhD"
+                    "name": "Neil K. Jairath, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy",
-                "technology"
+                "disorders of sex development",
+                "homogeneity",
+                "large language models",
+                "malignant neoplasms",
+                "neoplasms",
+                "retrieval-augmented generation",
+                "squamous cell carcinoma of skin"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835280/pencina_2025_vp_250017_1749148938.67942.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2835069/jamadermatology_jairath_2025_oi_250023_1748619226.01723.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939627/avp250017t1_1749148938.84406.png?Expires=2147483647&Signature=jkog3PtzPJMtl5jp5MsCR8cUuBrhjb1vh1lI5O-rBLM9wL5oCYzLehG9W21tycXA0qVM166j1OZJfQPs~IX8hsTzuEI5o6~Me4PAakDsm-o1x0dl0J05gplocy-All56k08EHyqj1m0Nvtbc6RQgMS~wZDnBeh~wgLyXXyh6f-Jgm3EfTxWFDsQ1E0R-8rObk1X-8HH2vRrKA5ctLhFhKccdS4n9PjkRHQTjk19ZF9BWAR7XN8f~gr3Pfr9lIVUdHoq5bDsIXVk07i9nLzXLU0k8XKtH8G9EJ8VKZ~yRDil5me~6Qfuw9PvSkwhigzhpI1cr0fXMb-ilYErIZcElQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/doi250023t1_1748619226.21411.png?Expires=2147483647&Signature=CQ5nlLsZghNrUxtlYVVJbrpmTZBuSf2R~oa2itAM3akLjXlj1HBiIPIPc1O8RUkKi0cNufFwdopnBOgNAjCjThmMKQIDZaswCm5-6o~g0ue8eb02jXFXp-AQgvBcUUHTjaKv42pe0gDrmfLALgvpsSfNb2q0uk6t8XAMtv2a3BJPbisCQvWWhYkNM0cpcjk~6yjy5FSfRrUI5deyucNnccJlajX8vjEoSpgb-4tlrSiM7-9bGdvJ0agxCwR9olXdRGoSkH2fgEd-eR7KFYpXP-gm3I3zT2lJi6E5MOQLjyTtJ9iUU6yezQt~Vt8GRggBdZBv2VA2GdswR7j2XSkNDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
