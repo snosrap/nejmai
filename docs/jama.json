@@ -4,29 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836687",
-            "title": "Ethical Obligations to Inform Patients About Use of AI Tools",
-            "summary": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
-            "content_text": "This Perspective discusses the use of artificial intelligence (AI) tools in health care and offers a framework for deciding what patients should be told about AI tools.",
-            "date_published": "2025-07-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836029",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836029",
+            "title": "Evaluating a Large Language Model in Translating Patient Instructions to Spanish Using a Standardized",
+            "summary": "This cross-sectional study determines whether the large language model GPT-4o can generate Spanish translations of personalized patient instructions with quality comparable to that of professional human translators.",
+            "content_html": "<h3>Importance</h3><p>Patients and caregivers who use languages other than English in the US encounter barriers to accessing language-concordant written instructions after clinical visits. Large language models (LLMs), such as OpenAI\u2019s GPT-4o, may improve access to translated patient materials; however, rigorous evaluation is needed to ensure clinical standards are met.</p><h3>Objective</h3><p>To determine whether GPT-4o can generate high-quality Spanish translations of personalized patient instructions comparable to those performed by professional human translators.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study compared LLM translations to professional human translations using equivalence testing. The personalized pediatric instructions used were derived from real clinical encounters at a large US academic medical center and translated between January 2023 and December 2023. Patient instructions in English were translated into Spanish by GPT-4o and professional human translators. The source English texts were translated using GPT-4o on August 2, 2024. Both sets of translations were evaluated by 3 independent professional medical translators.</p><h3>Exposure</h3><p>Patient instructions were translated using GPT-4o with an engineered prompt, and these translations were compared with those produced by professional human translators.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was translation quality, assessed using the Multidimensional Quality Metrics (MQM) framework to generate an overall MQM score (rated on a 0-100 scale). Secondary outcomes included a general preference rating and error rates for types of translation errors.</p><h3>Results</h3><p>This study included 20 source files of pediatric patient instructions. Equivalence testing showed no significant difference in translation quality between GPT-4o and human translations, with a mean difference of 1.6 points (90% CI, 0.7-2.5), falling within a predefined equivalence margin of plus or minus 5 MQM points. The LLM yielded fewer mistranslation errors, and a mean (SE) of 52% (6%) of professional translator ratings preferred the LLM translations.</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional study, GPT-4o generated Spanish translations of pediatric patient instructions that were comparable in quality to those by professional human translators as evaluated using a standardized framework. While human review of LLM translation remains essential in health care, these findings suggest that GPT-4o could reduce the translation workload for Spanish, potentially freeing resources to support languages of lesser diffusion.</p>",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Michelle M. Mello, JD, PhD, MPhil"
+                    "name": "Mondira Ray, MD, MBI"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "disclosure",
-                "ethics"
+                "diffusion",
+                "large language models",
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836687/jama_mello_2025_pp_250012_1752260192.64678.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836029/jamapediatrics_ray_2025_oi_250028_1751381400.11917.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jpp250012t1_1752260192.73678.png?Expires=2147483647&Signature=XmqbByoqaZFvpX1rZIL9VTdv0u17rb7cBADMHiBNbRRNhnxHfAlBaGvxNYhwJYHoDV2H8KnEE-RDI~G7DbFMstsrC015iks4OYtoiJok5O5g2QAxRjIQoBWfiVfGDFORCwJN3p0LTWP7pJfZKZ6heFZZlkzNgSine1793sGxUlSXNLcb9ltP0ZdW65G2p5uVNf-XazJc-CMDNfUDuYZYHCrYWFlRAKJ~I9TX1VaEEkrr8xIvjLsLPW1n6OrLGuUQp~-X5pr2czKL3rXiIAlJfmd5PJtwiF5gVYILAKNZtoCnNaa27-D~11-g4-uCXcv~tpyEXBJ6q7UWGOnhkIkIAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi250028f1_1751381400.48129.png?Expires=2147483647&Signature=q~nrLXakOfc0sIWaZ4-TJWoqeRiJzDx0QgU2XV9phlvt3xyBXJUJUa0-fveWX0yQR4Yq~EvWpgUczIOyWpZsWAMsF3IfLhSa18H-4d-1ezFmpcdIeqmsi6FzSaze2N-Rul4P4SsedEEizPuX9nwrjfzW133RLvhlrAc1bQlenlb--ATTHUiLZSwTBu8C8-8DSxoOrhJohmmXHJPy0zU2HTqiXyY9VJhSUucyzf55lyq8hKfWJD95QBldIhr9~QPS6H1Hn~fEWZNUYvSMlhdcH4picW2pVZoZLQLNYbRxmqwdH29yP4eXZ-KM8MQc4rZZeB0MaKmHgaAeKVnuxYuROA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2835069",
