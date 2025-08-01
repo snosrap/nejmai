@@ -4,55 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "title": "AI Use for Injury Surveillance in Emergency Departments",
-            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
+            "title": "Demographic Data Supporting FDA Authorization of AI Devices for Alzheimer Disease and Related Dementias",
+            "summary": "This cohort study examines the availability and representativeness of data supporting US Food and Drug Administration\u2013authorized artificial intelligence and machine learning devices to treat Alzheimer disease and related dementias.",
+            "content_text": "This cohort study examines the availability and representativeness of data supporting US Food and Drug Administration\u2013authorized artificial intelligence and machine learning devices to treat Alzheimer disease and related dementias.",
+            "date_published": "2025-07-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                    "name": "Krista Y. Chen, MPH"
                 }
             ],
             "tags": [
-                "emergency service",
-                "ethics",
-                "hospital",
-                "informatics (discipline)",
-                "privacy"
+                "alzheimer's disease",
+                "artificial intelligence",
+                "dementia",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837137/jama_chen_2025_ld_250048_1753386228.86977.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250048t1_1753386228.98977.png?Expires=2147483647&Signature=KV5lacYseMuDMeDE1a6FIOFjPvpZ3dteGdXY4izm1K9PJEw3vGoX6clnKIZjlWINev9~H3BeCQ0oExb3oaw2F99h6DEZVON-2MUgHPO9ffpZx2PzIO1pQIMYMO3Y0tsbahcuJ1CB7U2Vfg-3hmc71DZyE2T96KKOYNsrmYknc7qo8UDNQzIUv~V-lx8jSC00RONiiZsyFgG6zOKX83~HgLf3Nm706Mupzwr5nL9h8TB5nyaL0bEF0YsF8wX~e4J69-YM7iF96k~zEK-wGJJ-7NlhJBP5Uro14y4OOVchXBcNji~0x2BOSpfHo1qq2zRySbQoS2UznpPKkRw-BnsLTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
-            "title": "The Future of Agitation Interventions May Be Predictive",
-            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
-            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
-            "date_published": "2025-05-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Scott Zeller, MD"
+                    "name": "Ellen Wright Clayton, MD, JD"
                 }
             ],
             "tags": [
-                "agitation",
-                "informatics (discipline)"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1753108796.12668.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
