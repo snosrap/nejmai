@@ -4,54 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837064",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837064",
-            "title": "Generative Artificial Intelligence for Tobacco Health Promotion",
-            "summary": "Leung and colleagues 1 examined the perceived message effectiveness (PME) of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media ads compared with existing ads from official health agencies. The authors also examined how different source labeling (eg, \u201cmade with AI\u201d vs \u201cmade by the World Health Organization [WHO]\u201d vs \u201cmade with AI by the World Health Organization [WHO]\u201d) was associated with PME. The study addresses an important gap in understanding the effectiveness and perception of generative AI (GenAI)\u2013created, youth-codesigned vaping prevention ads, a relatively unexplored area in research. In a prestudy phase, the GenAI-generated ads were codesigned with youths. This procedure included AI generation of vaping cessation ads, followed by 9 focus groups and interviews to refine the ads and select a final set of 25 ads. Next, antivaping campaign ads from existing health agencies were selected using those from the WHO and the US Food and Drug Administration. Following the prestudy phase, an analytic sample comprising 614 youths aged 16 to 25 years completed the study. 1 The authors used a mixed factorial experimental design. Participants were randomized to 1 of 4 source labeling conditions: control condition, AI condition, health agency condition, and combined condition. Then each participant viewed 50 ad content sources: 25 AI-generated vs 25 existing health agency. 1 The ad source was the within-subjects factor, and the source labeling was the between-subjects factor. The outcome of interest was the PME Scale for Youth, which comprised 5 subitems. Of the 5 items, 2 examined effect perceptions as they relate to thoughts about vaping (eg, very bad idea or very good idea) and intent to vape (eg, strongly discourages me or strongly encourages me). Then 3 items assessed ad perceptions: attention-grabbing, informativeness, and convincingness.",
-            "content_text": "Leung and colleagues 1 examined the perceived message effectiveness (PME) of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media ads compared with existing ads from official health agencies. The authors also examined how different source labeling (eg, \u201cmade with AI\u201d vs \u201cmade by the World Health Organization [WHO]\u201d vs \u201cmade with AI by the World Health Organization [WHO]\u201d) was associated with PME. The study addresses an important gap in understanding the effectiveness and perception of generative AI (GenAI)\u2013created, youth-codesigned vaping prevention ads, a relatively unexplored area in research. In a prestudy phase, the GenAI-generated ads were codesigned with youths. This procedure included AI generation of vaping cessation ads, followed by 9 focus groups and interviews to refine the ads and select a final set of 25 ads. Next, antivaping campaign ads from existing health agencies were selected using those from the WHO and the US Food and Drug Administration. Following the prestudy phase, an analytic sample comprising 614 youths aged 16 to 25 years completed the study. 1 The authors used a mixed factorial experimental design. Participants were randomized to 1 of 4 source labeling conditions: control condition, AI condition, health agency condition, and combined condition. Then each participant viewed 50 ad content sources: 25 AI-generated vs 25 existing health agency. 1 The ad source was the within-subjects factor, and the source labeling was the between-subjects factor. The outcome of interest was the PME Scale for Youth, which comprised 5 subitems. Of the 5 items, 2 examined effect perceptions as they relate to thoughts about vaping (eg, very bad idea or very good idea) and intent to vape (eg, strongly discourages me or strongly encourages me). Then 3 items assessed ad perceptions: attention-grabbing, informativeness, and convincingness.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
             "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Olufemi Erinoso, PhD, MPH"
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "health promotion",
-                "tobacco"
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837064/erinoso_2025_ic_250110_1753367779.29549.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836557",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2836557",
+            "title": "Public Perception of Physicians Who Use Artificial Intelligence",
+            "summary": "This survey study evaluates how perceptions of physicians\u2019 competence, trustworthiness, and empathy vary based on physician use or nonuse of artificial intelligence (AI).",
+            "content_text": "This survey study evaluates how perceptions of physicians\u2019 competence, trustworthiness, and empathy vary based on physician use or nonuse of artificial intelligence (AI).",
+            "date_published": "2025-07-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Moritz Reis, MSc"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "artificial intelligence",
+                "empathy",
+                "informatics (discipline)",
+                "perception"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836557/reis_2025_ld_250127_1752166565.93103.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zld250127t1_1752166566.04103.png?Expires=2147483647&Signature=DMJDZH84FAkxlSCijPXJphqb~2srISzAx9US0Ff6L-1SvXBcDRV~EYzG95Qyg0X-fg7mmRomfyBNIk4zU~MOhe35sULuTjHtnEBgodGWIFNFvUcri0Ywcp9kHTOOChNOP4cNkZkSzj68cXGvhdXfC-qH89U6FmnyDeSQy~pNRdd0aayCVmIJKNqxBoohuaahBJJALO6Rux5U-ug33vZuX6p~6rWz6SzoaIXU9iC90Nj91cw9oiIW-g~Cd9iJ70B9P0HUMEB6T3skUWwXuX6dj9I4XcAV16k~6QMRrNg3UXJDIoBqBrxl3ydD2hy-mW4RIMQUbOo8Fy-gtid4CRwo2w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
