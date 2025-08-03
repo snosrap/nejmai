@@ -4,30 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837131",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837131",
-            "title": "Online Reviews of Health Care Facilities",
-            "summary": "This cross-sectional study analyzes online reviews of patient experiences in US health care facilities, identifying words, linguistic categories, and themes correlated with highly positive or negative ratings.",
-            "content_html": "<h3>Importance</h3><p>Understanding patient experience is crucial for improving health care delivery. However, language patterns and themes correlated with negative or positive ratings are not well known.</p><h3>Objective</h3><p>To examine online reviews of US health care facilities, identifying language patterns and themes associated with negative or positive ratings.</p><h3>Design, Setting, and Participants</h3><p>For this cross-sectional study, all reviews of US health care facilities offering essential health benefits, as defined by the Affordable Care Act, posted on 1 online platform (Yelp.com) under \u201cHealth &amp; Medical\u201d from January 1, 2017, to December 31, 2023, were obtained. Reviews are posted voluntarily with ratings (1 star\u2009=\u2009lowest, 5 stars\u2009=\u2009highest) and open-ended review narratives regarding patients\u2019 care experiences.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the correlation between n-grams (1- to 3-word sequences) and review ratings (negative: 1 or 2 stars; positive: 4 or 5 stars). Secondary measures included linguistic analysis and topic modeling based on standard machine-learning algorithms. Machine-learning and natural-language processing, including n-gram correlation, linguistic feature analysis, and topic modeling, were applied to determine correlations with review star ratings.</p><h3>Results</h3><p>A total of 1\u202f099\u202f901 online reviews from 138\u202f605 facilities were identified over the 7-year study period. Among these, nearly one-half (46.3%) were negative and one-half (50.1%) were positive, with a median (IQR) rating of 4 (1-5) stars. The word \u201cnot\u201d was most correlated with negative ratings (<i>r</i>\u2009=\u20090.31; 95% CI, 0.31\u20130.32), whereas \u201cand\u201d was most correlated with positive ratings (<i>r</i>\u2009=\u20090.35; 95% CI, 0.35\u20130.36). Among 200 topics, the strongest negative correlations involved payment issues (<i>r</i>\u2009=\u20090.25; 95% CI, 0.25\u20130.25) and poor treatment (<i>r</i>\u2009=\u20090.24; 95% CI, 0.23\u20130.24); the strongest positive correlations involved kindness (<i>r</i>\u2009=\u20090.32; 95% CI, 0.32\u20130.32) and anxiety relief (<i>r</i>\u2009=\u20090.32; 95% CI, 0.32\u20130.32).</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional analysis, negative patient experiences frequently centered on quality of communication and administrative issues. Negative feedback centered on unmet expectations, whereas positive reviews emphasized supportive staff interactions. Incorporating real-time online-review data into existing quality-improvement frameworks\u2014such as patient experience dashboards or service recovery protocols\u2014could help clinicians, administrators, and policymakers identify emerging concerns, monitor patient sentiment, and tailor interventions that enhance patient-centered care across diverse health care settings.</p>",
-            "date_published": "2025-08-01T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
+            "title": "Discussing Digital Interventions in Asthma Symptom Monitoring",
+            "summary": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
+            "content_text": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
+            "date_published": "2025-07-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Neil K.R. Sehgal, ME"
+                    "name": "Yulin Hswen, ScD, MPH"
                 }
             ],
             "tags": [
-                "health care facility",
-                "linguistics",
-                "patient-centered care",
-                "quality improvement"
+                "asthma"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837131/sehgal_2025_oi_250699_1753385524.99739.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836281/jama_hswen_2025_en_250004_1751490770.61748.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250699f1_1753385525.1197.png?Expires=2147483647&Signature=thsdTtUis4cklfm9fA~uIpuwlJdOeJ4XK5azyoCCYf9fuaPt8PlwKVAor07iy5n3CT3naVZsJUJqBasH8uWFROmwupIhtVaMxb17oxObcy6ldMmwXGuhZQJjpUSHSN7Mj4NlEODgXIMJrUR1Jgx7fht8qq~IDL5RwS5W1qOiCMzm3hy~umvUFovB-ROGteR8TUcwYY6T5s8AjUjssxgjWMr3MtVn6Wxsc2yNmgemSJOgl1wlAwnsFFvcR-w6mzzQd-hFaFJFmEJ2SUmo62IkpnQWleDlbqPxPW9eEZyiVlMA4xSkLtG1zvBZoWbdMYh8-dE~Sk~itmFuPBShXk5WyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250004fa_1751490770.70248.png?Expires=2147483647&Signature=nNRADxtu~Ia3gx2Bs92jGb2xzOfaXBhV2aUQ7jvD31nVUnWM-NAIZOzLCI0myeEzjOYVefZCuKcnSYGYsqoO4nDmeGGreX~dJY3zn4fedQuJSU-CJfieiOsXIkFvmyjg6q5Xu9US5nK7CALZgPCz3VwECOX8xxzkcsZcDn7vKDF1J0qfNBw8XLN20h9G-AVJBl4FQmBoIUbLjztBGtC9rZKbOijEaPA8HtFZSrMgbrdorhDLSExrob4v8j4quZfaPPdINrEwkQ7eCCmdkyICFeDijh-bae9O~o3~Qs5osLYYKhhxQH429FXazRXJJGc1ZF8z10Iq8PSm8FDJSiUddA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
