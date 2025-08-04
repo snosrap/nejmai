@@ -4,38 +4,62 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "title": "Clinical Trial Notifications Triggered by Artificial Intelligence\u2013Detected Cancer Progression: A Randomized",
-            "summary": "This randomized trial examines whether notifying oncologists about genomically targeted clinical trials for eligible patients identified by artificial intelligence (AI) affects clinical trial participation.",
-            "content_html": "<h3>Importance</h3><p>Historically, fewer than 10% of adults with cancer have enrolled in clinical trials. Computational tools have been developed to match patients to trials, but these tools are relevant only when patients need new treatment.</p><h3>Objective</h3><p>To evaluate whether notifying oncologists about genomically targeted clinical trials for patients with cancer progression, as detected by artificial intelligence (AI), impacts clinical trial participation.</p><h3>Design, Setting, and Participants</h3><p>This single-center randomized trial was conducted from January 30, 2023, to June 30, 2024, at a tertiary academic cancer center. Participants were patients aged at least 18 years in a precision oncology clinical trial matching database who had solid tumors that underwent next-generation sequencing from July 2013 to December 2022, and were alive as of January 30, 2023.</p><h3>Intervention</h3><p>Patients were randomly assigned 2:1 to the intervention or control arm. In the intervention arm, when patients had cancer progression and an elevated probability of starting new treatment based on AI applied to their imaging reports, notifications about genomically matched clinical trials were sent to their oncologists. In the control arm, no such notifications were sent.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was enrollment in any therapeutic clinical trial. Prespecified secondary outcomes included consent to any therapeutic trial, consent and enrollment among patients ever ascertained as trial ready, the proportion of new systemic therapies that were given as part of clinical trials, and survey responses from clinicians who received notifications.</p><h3>Results</h3><p>Of 20\u202f707 patients randomized (57.26% female; median age at the time of sequencing, 60 years [IQR, 50-69 years]), 13\u202f802 were randomized to the intervention arm and 6905 to the control arm. The intervention had no significant impact on the trial enrollment rate (intervention, 2.20% [95% CI, 1.97%-2.46%]; control, 2.03% [95% CI, 1.72%-2.39%]; difference, 0.18 [95% CI, \u22120.25 to 0.58] percentage points;<i>P</i>\u2009=\u2009.41). Similarly, there were no significant differences in trial enrollment between the intervention and control arms among the 2127 patients ever ascertained as trial ready (18.05% [95% CI, 16.15%-20.12%] vs 18.50% [95% CI, 15.78%-21.56%]; difference, \u22120.45 [95% CI, \u22124.01 to 3.02] percentage points;<i>P</i>\u2009=\u2009.80) or among the 2036 patients who ever started new systemic therapy (22.67% [95% CI, 20.51%-24.99%] vs 20.14% [95% CI, 17.33%-23.29%]; difference, 2.53 [95% CI, \u22121.25 to 6.21] percentage points;<i>P</i>\u2009=\u2009.19).</p><h3>Conclusions and Relevance</h3><p>In this randomized trial, prompting academic medical oncologists with information about genomically matched therapeutic clinical trials for patients with tumor progression based on AI interpretation of imaging reports did not increase therapeutic trial enrollment. The findings suggest that future use of AI to optimize enrollment in cancer clinical trials should include tasks beyond predicting treatment change and/or populations beyond those whose tumors have undergone comprehensive genetic sequencing.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06888089</p>",
-            "date_published": "2025-04-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837053",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837053",
+            "title": "AI-Driven Injury Reporting in Pediatric Emergency Departments",
+            "summary": "This prognostic study evaluates whether natural language processing transformer models can automate injury case detection in emergency department medical records.",
+            "content_html": "<h3>Importance</h3><p>Injury is a leading cause of morbidity and mortality among children worldwide. Prevention strategies rely on timely and accurate injury surveillance. Many national programs, including the Canadian Hospitals Injury Reporting and Prevention Program (CHIRPP), depend on manual review of emergency department (ED) medical records to track injury trends. Rising ED volumes have strained manual processes, delaying data analysis and compromising early detection of public health risks.</p><h3>Objective</h3><p>To evaluate whether natural language processing (NLP) transformer models can automate injury case detection in ED medical records, improving CHIRPP workflow efficiency while maintaining high sensitivity.</p><h3>Design, Setting, and Participants</h3><p>Prognostic study of ED visits from January 1, 2017, to December 31, 2023, at The Hospital for Sick Children, a high-volume tertiary pediatric referral center in Toronto, Canada, and a core CHIRPP site. The dataset included pediatric ED visits across all age groups. All medical records were labeled as requiring or not requiring CHIRPP reporting, with no exclusions. Two transformer-based NLP models, DistilBERT-base-uncased (model 1) and BERT-large-uncased (model 2), were fine tuned using supervised learning to classify medical records as CHIRPP-reportable or not.</p><h3>Exposure</h3><p>Application of fine-tuned NLP transformer models to routine ED visit data to automate classification of injury-related cases for surveillance reporting.</p><h3>Main Outcomes and Measures</h3><p>Outcomes included true positive rate (TPR), true negative rate (TNR), false positive rate (FPR), false negative rate (FNR), area under the receiver operating characteristic curve (AUROC), and area under the precision-recall curve (AUPRC). Additional outcomes included the proportion of medical records requiring manual review to achieve 90% sensitivity.</p><h3>Results</h3><p>Among 217\u202f173 pediatric ED visits across all age groups, model 1 achieved an AUROC of 0.983, AUPRC of 0.932, TPR of 0.90, TNR of 0.99, FPR of 0.014, and FNR of 0.10. Model 2 showed similar performance with an AUROC of 0.983, AUPRC of 0.931, TPR of 0.90, TNR of 0.99, FPR of 0.012, and FNR of 0.09. Both models identified 90% of injury cases while reducing manual medical record review from 100% to 17% of ED visits.</p><h3>Conclusions and Relevance</h3><p>NLP transformer models accurately automated detecting injury cases in ED patient medical records, with the potential of enabling real-time injury surveillance monitoring.</p>",
+            "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tali Mazor, PhD"
+                    "name": "Devin Singh, BMSc, MBBS, MSc"
                 }
             ],
             "tags": [
-                "arm",
-                "artificial intelligence",
-                "diagnostic imaging",
-                "malignant neoplasms",
-                "massively-parallel sequencing",
-                "medical oncology specialty",
-                "neoplasms",
-                "oncologists",
-                "solid neoplasm",
-                "systemic therapy",
-                "treatment modification",
-                "tumor progression"
+                "child",
+                "early diagnosis",
+                "emergency service",
+                "facilitated positional release",
+                "false-negative results",
+                "false-positive results",
+                "hospital",
+                "natural language processing",
+                "osteopathic manipulation",
+                "pediatric discipline",
+                "prevention program",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833029/mazor_2025_oi_250122_1744660364.2066.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837053/singh_2025_oi_250690_1753367761.85452.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250122f1_1744660364.87438.png?Expires=2147483647&Signature=fOIc4sJTuDUyBgv95IyapvhsmpVo2M1hFb3t9hPQCxYCwtXbUqGxhFZMAEIF8nwzMR047ofzaMcCDyG8ic6YmxQaBLrKJwMiVUMXopB9DYsfCe8MB~2QxJKGt5WRDoLAcLHFZPaU4WB4ef95mgM4mG2-lHCl57MPIQmyWouRP2svS-0iWv-l~qqy95rip2wlf~6HFlwB3sLlkMlVSy7kh-qAyIvYYCmTNMaRusUkf3BUWYGV4bdPEg~pi7PLWFhrdruNubwR2wj3UB0-1UpK8Fvy4QjGz5V43mbmOp9k38kJ7SmI2eIHzMSBMT6-xNBXFoLMEGAHDXetMUwGDaJk8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250690f1_1753367761.97758.png?Expires=2147483647&Signature=xdljHxF690SCyjkWX-yTJWKXo9lW230jAkJzQpULwc9BHivi1v7F41DzL1PWb4G4SYRo-R8Yay0qyWIr-HGFKcpo17QPPb58CYOXb-1PnFkElgxat2cLpci41EIrYhIW31IifjltEiwTCnkpn0JZjoK2jlHfwjc4iw7VWWfP4rXOU3eTgLEgoDAf-olMj4NAiMActZFEOxQNINcQkkUoTh0Fg~N8ibMLfy366ELPoeWKz6FzygTi8ceOOKoeJ8arSZoSGX-Sobh-oUt0znv4ClBQhX4SwaqZLLE83D3Ylo6qN81w4WSaaxR5WWm4zZpvAIH2S7pwm0pFRja6TWJoXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
+            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "date_published": "2025-06-10T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Maxime F. Griot, MSc, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -823,34 +847,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
-            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
-            "date_published": "2024-04-30T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "breast neoplasm screening",
-                "magnetic resonance imaging",
-                "malignant neoplasm of breast",
-                "mammography",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
