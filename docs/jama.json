@@ -4,62 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837053",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837053",
-            "title": "AI-Driven Injury Reporting in Pediatric Emergency Departments",
-            "summary": "This prognostic study evaluates whether natural language processing transformer models can automate injury case detection in emergency department medical records.",
-            "content_html": "<h3>Importance</h3><p>Injury is a leading cause of morbidity and mortality among children worldwide. Prevention strategies rely on timely and accurate injury surveillance. Many national programs, including the Canadian Hospitals Injury Reporting and Prevention Program (CHIRPP), depend on manual review of emergency department (ED) medical records to track injury trends. Rising ED volumes have strained manual processes, delaying data analysis and compromising early detection of public health risks.</p><h3>Objective</h3><p>To evaluate whether natural language processing (NLP) transformer models can automate injury case detection in ED medical records, improving CHIRPP workflow efficiency while maintaining high sensitivity.</p><h3>Design, Setting, and Participants</h3><p>Prognostic study of ED visits from January 1, 2017, to December 31, 2023, at The Hospital for Sick Children, a high-volume tertiary pediatric referral center in Toronto, Canada, and a core CHIRPP site. The dataset included pediatric ED visits across all age groups. All medical records were labeled as requiring or not requiring CHIRPP reporting, with no exclusions. Two transformer-based NLP models, DistilBERT-base-uncased (model 1) and BERT-large-uncased (model 2), were fine tuned using supervised learning to classify medical records as CHIRPP-reportable or not.</p><h3>Exposure</h3><p>Application of fine-tuned NLP transformer models to routine ED visit data to automate classification of injury-related cases for surveillance reporting.</p><h3>Main Outcomes and Measures</h3><p>Outcomes included true positive rate (TPR), true negative rate (TNR), false positive rate (FPR), false negative rate (FNR), area under the receiver operating characteristic curve (AUROC), and area under the precision-recall curve (AUPRC). Additional outcomes included the proportion of medical records requiring manual review to achieve 90% sensitivity.</p><h3>Results</h3><p>Among 217\u202f173 pediatric ED visits across all age groups, model 1 achieved an AUROC of 0.983, AUPRC of 0.932, TPR of 0.90, TNR of 0.99, FPR of 0.014, and FNR of 0.10. Model 2 showed similar performance with an AUROC of 0.983, AUPRC of 0.931, TPR of 0.90, TNR of 0.99, FPR of 0.012, and FNR of 0.09. Both models identified 90% of injury cases while reducing manual medical record review from 100% to 17% of ED visits.</p><h3>Conclusions and Relevance</h3><p>NLP transformer models accurately automated detecting injury cases in ED patient medical records, with the potential of enabling real-time injury surveillance monitoring.</p>",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2836770",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2836770",
+            "title": "Ophthalmological Question Answering and Reasoning Using OpenAI o1 vs Other Large Language Models",
+            "summary": "This cross-sectional study evaluates the performance of OpenAI o1compared with other large language models when addressing ophthalmology-specific questions.",
+            "content_html": "<h3>Importance</h3><p>OpenAI\u2019s recent large language model (LLM) o1 has dedicated reasoning capabilities, but it remains untested in specialized medical fields like ophthalmology. Evaluating o1 in ophthalmology is crucial to determine whether its general reasoning can meet specialized needs or if domain-specific LLMs are warranted.</p><h3>Objective</h3><p>To assess the performance and reasoning ability of OpenAI\u2019s o1 compared with other LLMs on ophthalmological questions.</p><h3>Design, Setting, and Participants</h3><p>In September through October 2024, the LLMs o1, GPT-4o (OpenAI), GPT-4 (OpenAI), GPT-3.5 (OpenAI), Llama 3-8B (Meta), and Gemini 1.5 Pro (Google) were evaluated on 6990 standardized ophthalmology questions from the Medical Multiple-Choice Question Answering (MedMCQA) dataset. The study did not analyze human participants.</p><h3>Main Outcomes and Measures</h3><p>Models were evaluated on performance (accuracy and macro F1 score) and reasoning abilities (text-generation metrics: Recall-Oriented Understudy for Gisting Evaluation [ROUGE-L], BERTScore, BARTScore, AlignScore, and Metric for Evaluation of Translation With Explicit Ordering [METEOR]). Mean scores are reported for o1, while mean differences (\u0394) from o1\u2019s scores are reported for other models. Expert qualitative evaluation of o1 and GPT-4o responses assessed usefulness, organization, and comprehensibility using 5-point Likert scales.</p><h3>Results</h3><p>The LLM o1 achieved the highest accuracy (mean, 0.877; 95% CI, 0.870 to 0.885) and macro F1 score (mean, 0.877; 95% CI, 0.869 to 0.884) (<i>P</i>\u2009&lt;\u2009.001). In BERTScore, GPT-4o (\u0394\u2009=\u20090.012; 95% CI, 0.012 to 0.013) and GPT-4 (\u0394\u2009=\u20090.014; 95% CI, 0.014 to 0.015) outperformed o1 (<i>P</i>\u2009&lt;\u2009.001). Similarly, in AlignScore, GPT-4o (\u0394\u2009=\u20090.019; 95% CI, 0.016 to 0.021) and GPT-4 (\u0394\u2009=\u20090.024; 95% CI, 0.021 to 0.026) again performed better (<i>P</i>\u2009&lt;\u2009.001). In ROUGE-L, GPT-4o (\u0394\u2009=\u20090.018; 95% CI, 0.017 to 0.019), GPT-4 (\u0394\u2009=\u20090.026; 95% CI, 0.025 to 0.027), and GPT-3.5 (\u0394\u2009=\u20090.008; 95% CI, 0.007 to 0.009) all outperformed o1 (<i>P</i>\u2009&lt;\u2009.001). Conversely, o1 led in BARTScore (mean, \u20134.787; 95% CI, \u20134.813 to \u20134.762;<i>P</i>\u2009&lt;\u2009.001) and METEOR (mean, 0.221; 95% CI, 0.218 to 0.223;<i>P</i>\u2009&lt;\u2009.001 except GPT-4o). Also, o1 outperformed GPT-4o in usefulness (o1: mean, 4.81; 95% CI, 4.73 to 4.89; GPT-4o: mean, 4.53; 95% CI, 4.40 to 4.65;<i>P</i>\u2009&lt;\u2009.001) and organization (o1: mean, 4.83; 95% CI, 4.75 to 4.90; GPT-4o: mean, 4.63; 95% CI, 4.51 to 4.74;<i>P</i>\u2009=\u2009.003).</p><h3>Conclusions and Relevance</h3><p>This study found that o1 excelled in accuracy but showed inconsistencies in text-generation metrics, trailing GPT-4o and GPT-4; expert reviews found o1\u2019s responses to be more clinically useful and better organized than GPT-4o. While o1 demonstrated promise, its performance in addressing ophthalmology-specific challenges is not fully optimal, underscoring the potential need for domain-specialized LLMs and targeted evaluations.</p>",
             "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Devin Singh, BMSc, MBBS, MSc"
+                    "name": "Sahana Srinivasan, BEng"
                 }
             ],
             "tags": [
-                "child",
-                "early diagnosis",
-                "emergency service",
-                "facilitated positional release",
-                "false-negative results",
-                "false-positive results",
-                "hospital",
-                "natural language processing",
-                "osteopathic manipulation",
-                "pediatric discipline",
-                "prevention program",
-                "workflow"
+                "large language models",
+                "llamas",
+                "ophthalmology specialty",
+                "reasoning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837053/singh_2025_oi_250690_1753367761.85452.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2836770/jamaophthalmology_srinivasan_2025_oi_250037_1752601713.76425.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250690f1_1753367761.97758.png?Expires=2147483647&Signature=xdljHxF690SCyjkWX-yTJWKXo9lW230jAkJzQpULwc9BHivi1v7F41DzL1PWb4G4SYRo-R8Yay0qyWIr-HGFKcpo17QPPb58CYOXb-1PnFkElgxat2cLpci41EIrYhIW31IifjltEiwTCnkpn0JZjoK2jlHfwjc4iw7VWWfP4rXOU3eTgLEgoDAf-olMj4NAiMActZFEOxQNINcQkkUoTh0Fg~N8ibMLfy366ELPoeWKz6FzygTi8ceOOKoeJ8arSZoSGX-Sobh-oUt0znv4ClBQhX4SwaqZLLE83D3Ylo6qN81w4WSaaxR5WWm4zZpvAIH2S7pwm0pFRja6TWJoXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250037f1_1752601714.16303.png?Expires=2147483647&Signature=I~yJhRtOKTYUl2zGYqIaZDLAG3WRoOtlu7cYsy3qYJdvDWDKQN4lybMI3nWujqMAwdakU9-jqibx4j7hyXNulvVwQhLkWPDnAkPqlt2WZ7vSGouw6COwPI7veM9olF2nUaLH0Fu1EC3puXakGo6346JNM9lhSMVyq2a8zSO0ClKa5zXoXHTrKnd~tgtT2HknVN-8rhPbeUYW8AuVWxdcFLQiE0nzRpO4Fc1Si5yYO3Yj~kvrqrBYnscGDOSrdMo1Sd-xsnLASwDy6RqINlhH-YA~y04Zb-cAtoSCnOkJrGDUG~5lVaSZkDDELvNbjZorAlFZjH31nBNOF3YDIcYp1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836281",
+            "title": "Discussing Digital Interventions in Asthma Symptom Monitoring",
+            "summary": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
+            "content_text": "Millions of patients with asthma experience diminished quality of life as a result of their condition. Monitoring asthma symptoms between visits could help patients and clinicians become more aware of changes and guide treatment decisions. However, widespread use of symptom-monitoring apps remains uncommon.",
+            "date_published": "2025-07-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Yulin Hswen, ScD, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "informatics (discipline)"
+                "asthma"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836281/jama_hswen_2025_en_250004_1751490770.61748.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250004fa_1751490770.70248.png?Expires=2147483647&Signature=nNRADxtu~Ia3gx2Bs92jGb2xzOfaXBhV2aUQ7jvD31nVUnWM-NAIZOzLCI0myeEzjOYVefZCuKcnSYGYsqoO4nDmeGGreX~dJY3zn4fedQuJSU-CJfieiOsXIkFvmyjg6q5Xu9US5nK7CALZgPCz3VwECOX8xxzkcsZcDn7vKDF1J0qfNBw8XLN20h9G-AVJBl4FQmBoIUbLjztBGtC9rZKbOijEaPA8HtFZSrMgbrdorhDLSExrob4v8j4quZfaPPdINrEwkQ7eCCmdkyICFeDijh-bae9O~o3~Qs5osLYYKhhxQH429FXazRXJJGc1ZF8z10Iq8PSm8FDJSiUddA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
