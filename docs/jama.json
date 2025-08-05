@@ -4,28 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
-            "title": "Can AI Improve the Cost-Effectiveness of 3D Total-Body Photography?",
-            "summary": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
-            "content_text": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
-            "date_published": "2025-07-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837057",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837057",
+            "title": "Generative Artificial Intelligence With Youth Codesign to Create Vaping Awareness Advertisements",
+            "summary": "This randomized clinical trial evaluates the perceived message effectiveness of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media advertisements vs existing materials from official health agencies.",
+            "content_html": "<h3>Importance</h3><p>Traditional approaches to developing youth vaping awareness campaigns are time-consuming and can create critical delays in public health response. Although generative artificial intelligence (AI) offers promising capabilities for health communication, research has been limited to text-only messages.</p><h3>Objective</h3><p>To evaluate (1) the perceived message effectiveness (PME) of AI-generated, youth-codesigned vaping awareness social media advertisements (ads) compared with existing ads from official health agencies and (2) how different source labeling is associated with PME.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial used a 2 (ad source)\u2009by\u20094 (source labeling) design and was conducted online from September 2 to September 19, 2024. Participants were individuals aged 16 to 25 years.</p><h3>Exposure</h3><p>All participants evaluated 50 ads from 2 sources (within-participants; 25 AI-generated, 25 existing) in random order.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome, PME, was measured using the validated PME Scale for Youth, which assessed 2 effects perceptions (vaping perception and behavioral intent) and 3 ad perceptions (attention, information, and convincingness) on 7-point scales, with lower scores indicating better effectiveness for effects perceptions and higher scores indicating better effectiveness for ad perceptions.</p><h3>Results</h3><p>Six hundred fourteen individuals (mean [SD] age, 20.5 [2.9] years; 300 female [48.9%]; 300 male [48.9%]; 14 other [2.3%]) provided 30\u202f700 observations. Participants were randomly allocated to 1 of 4 experimentally manipulated labeling conditions (between-participants): (1) no source label (147 participants), (2) made with AI (158 participants), (3) made by the World Health Organization (WHO) (151 participants), or (4) made with AI by the WHO (158 participants). AI-generated ads demonstrated noninferiority to existing ads across all measures. AI-generated ads received better ratings for discouraging vaping (b\u2009=\u20090.09; 95% CI, 0.01 to 0.17), attention-grabbing qualities (b\u2009=\u2009\u22120.15; 95% CI, \u22120.26 to \u22120.03), and convincingness (b\u2009=\u2009\u22120.18; 95% CI, \u22120.30 to \u22120.07) (all<i>P</i>\u2009for noninferiority tests &lt;.001). Source labeling showed no significant association with PME scores (\u03c7<sup>2</sup>values ranging from 0.10 to 4.19; all<i>P</i>\u2009&gt;\u2009.20).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial of vaping awareness social media ads, AI-generated, youth-codesigned ads achieved superior effectiveness ratings compared with existing ads. These findings support the potential for leveraging generative AI technology in public health campaigns, while indicating the need for appropriate governance frameworks as AI-generated health materials become increasingly prevalent.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT07042789</p>",
+            "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Janni Leung, PhD"
                 }
             ],
             "tags": [
-                "cost effectiveness",
-                "photography"
+                "adolescence",
+                "advertising (activity)",
+                "artificial intelligence",
+                "generative artificial intelligence",
+                "social media",
+                "vaping",
+                "world health organization"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836832/jama_perlis_2025_en_250003_1752763931.57898.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837057/leung_2025_oi_250464_1753367770.97271.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250003fa_1752763931.67399.png?Expires=2147483647&Signature=kaXKH2KxawPhzY9ymuhqN2FS9ppFvClnp2bTFBUusyYLkLyxwe2qw-rNC6ECFjPvezZJTU4NTl3uiquPEsapn8W8QffqMhFyLtOi7v~JYLke7-BG5Y5w0cRYNbtbEMZFTZbyVmHruJNL4g54RgzFxwkWZ8TURQJdrss3HPT01TSAOy9cD7BGQZz56gsfXK1v~uro9~e5mEUt5hBc-jwuHAUAfYaBh9EDjlpuBLCAnW7W~9ONX7R0bKyjKtV4pjb4mlY1ZD1EiOThn8B-xNY1hrTdU2EFruo9CURmN4wfHCrwxoFOdlO~-EfQ5InbAkd9QSbs8IyMHR0Xw4km4ILhfA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250464f1_1753367771.13442.png?Expires=2147483647&Signature=kgujlDgLtvfCTea~w2wtAiNgBHf584TsHqVW90hFqDqzwdSO6uFTvc0bdPqgItNQ7SIlYq8cTmBTEzGbHp82neDCv45VTSvmFfLn7~VDENeuhhFH89aG~GdcLDwp0GOtUyL0-6UT4HyzgEG0~db-dZk2LrNRfCKNkt0pBbBtp8LbVaZFsMHdf33Zy4ZqgQyli~9a9mHYcA-yOgTXmR2E0DPZK8mzqItAEo-TA0b0vow12o7ouqAwpaBRdAmAyIdjzETVsmHjibT-1RvxEuARbMYS3o~LGMXEmSo3ihouAVHLLPXtK3uev~azVW4PhmejaEqmudEJGupdhBDhLzrOZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Tyler J. Loftus, MD, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -715,37 +746,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
