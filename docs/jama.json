@@ -4,33 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837057",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837057",
-            "title": "Generative Artificial Intelligence With Youth Codesign to Create Vaping Awareness Advertisements",
-            "summary": "This randomized clinical trial evaluates the perceived message effectiveness of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media advertisements vs existing materials from official health agencies.",
-            "content_html": "<h3>Importance</h3><p>Traditional approaches to developing youth vaping awareness campaigns are time-consuming and can create critical delays in public health response. Although generative artificial intelligence (AI) offers promising capabilities for health communication, research has been limited to text-only messages.</p><h3>Objective</h3><p>To evaluate (1) the perceived message effectiveness (PME) of AI-generated, youth-codesigned vaping awareness social media advertisements (ads) compared with existing ads from official health agencies and (2) how different source labeling is associated with PME.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial used a 2 (ad source)\u2009by\u20094 (source labeling) design and was conducted online from September 2 to September 19, 2024. Participants were individuals aged 16 to 25 years.</p><h3>Exposure</h3><p>All participants evaluated 50 ads from 2 sources (within-participants; 25 AI-generated, 25 existing) in random order.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome, PME, was measured using the validated PME Scale for Youth, which assessed 2 effects perceptions (vaping perception and behavioral intent) and 3 ad perceptions (attention, information, and convincingness) on 7-point scales, with lower scores indicating better effectiveness for effects perceptions and higher scores indicating better effectiveness for ad perceptions.</p><h3>Results</h3><p>Six hundred fourteen individuals (mean [SD] age, 20.5 [2.9] years; 300 female [48.9%]; 300 male [48.9%]; 14 other [2.3%]) provided 30\u202f700 observations. Participants were randomly allocated to 1 of 4 experimentally manipulated labeling conditions (between-participants): (1) no source label (147 participants), (2) made with AI (158 participants), (3) made by the World Health Organization (WHO) (151 participants), or (4) made with AI by the WHO (158 participants). AI-generated ads demonstrated noninferiority to existing ads across all measures. AI-generated ads received better ratings for discouraging vaping (b\u2009=\u20090.09; 95% CI, 0.01 to 0.17), attention-grabbing qualities (b\u2009=\u2009\u22120.15; 95% CI, \u22120.26 to \u22120.03), and convincingness (b\u2009=\u2009\u22120.18; 95% CI, \u22120.30 to \u22120.07) (all<i>P</i>\u2009for noninferiority tests &lt;.001). Source labeling showed no significant association with PME scores (\u03c7<sup>2</sup>values ranging from 0.10 to 4.19; all<i>P</i>\u2009&gt;\u2009.20).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial of vaping awareness social media ads, AI-generated, youth-codesigned ads achieved superior effectiveness ratings compared with existing ads. These findings support the potential for leveraging generative AI technology in public health campaigns, while indicating the need for appropriate governance frameworks as AI-generated health materials become increasingly prevalent.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT07042789</p>",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Janni Leung, PhD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "adolescence",
-                "advertising (activity)",
-                "artificial intelligence",
-                "generative artificial intelligence",
-                "social media",
-                "vaping",
-                "world health organization"
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837057/leung_2025_oi_250464_1753367770.97271.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250464f1_1753367771.13442.png?Expires=2147483647&Signature=kgujlDgLtvfCTea~w2wtAiNgBHf584TsHqVW90hFqDqzwdSO6uFTvc0bdPqgItNQ7SIlYq8cTmBTEzGbHp82neDCv45VTSvmFfLn7~VDENeuhhFH89aG~GdcLDwp0GOtUyL0-6UT4HyzgEG0~db-dZk2LrNRfCKNkt0pBbBtp8LbVaZFsMHdf33Zy4ZqgQyli~9a9mHYcA-yOgTXmR2E0DPZK8mzqItAEo-TA0b0vow12o7ouqAwpaBRdAmAyIdjzETVsmHjibT-1RvxEuARbMYS3o~LGMXEmSo3ihouAVHLLPXtK3uev~azVW4PhmejaEqmudEJGupdhBDhLzrOZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -820,36 +821,6 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "title": "Harnessing Artificial Intelligence to Address Oral Health Disparities",
@@ -948,6 +919,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
