@@ -4,28 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2836832",
-            "title": "Can AI Improve the Cost-Effectiveness of 3D Total-Body Photography?",
-            "summary": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
-            "content_text": "Cases of melanoma have been increasing worldwide. In 2020, there were an estimated 325 000 new diagnoses globally, with that number expected to increase to 510 000 by 2040. 1 Early detection has been shown to be key to avoiding expensive treatments and adverse outcomes. For patients at high risk, 3D total-body photography may help identify lesions early.",
-            "date_published": "2025-07-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Anjali D. Deshmukh, MD, JD"
                 }
             ],
             "tags": [
-                "cost effectiveness",
-                "photography"
+                "artificial intelligence",
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2836832/jama_perlis_2025_en_250003_1752763931.57898.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1751381399.42916.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250003fa_1752763931.67399.png?Expires=2147483647&Signature=kaXKH2KxawPhzY9ymuhqN2FS9ppFvClnp2bTFBUusyYLkLyxwe2qw-rNC6ECFjPvezZJTU4NTl3uiquPEsapn8W8QffqMhFyLtOi7v~JYLke7-BG5Y5w0cRYNbtbEMZFTZbyVmHruJNL4g54RgzFxwkWZ8TURQJdrss3HPT01TSAOy9cD7BGQZz56gsfXK1v~uro9~e5mEUt5hBc-jwuHAUAfYaBh9EDjlpuBLCAnW7W~9ONX7R0bKyjKtV4pjb4mlY1ZD1EiOThn8B-xNY1hrTdU2EFruo9CURmN4wfHCrwxoFOdlO~-EfQ5InbAkd9QSbs8IyMHR0Xw4km4ILhfA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "title": "Bridging the Gap Between Developers and Implementers in Health AI",
+            "summary": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "content_text": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "date_published": "2025-06-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Michael J. Pencina, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "health policy",
+                "technology"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835280/pencina_2025_vp_250017_1749148938.67942.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939627/avp250017t1_1749148938.84406.png?Expires=2147483647&Signature=jkog3PtzPJMtl5jp5MsCR8cUuBrhjb1vh1lI5O-rBLM9wL5oCYzLehG9W21tycXA0qVM166j1OZJfQPs~IX8hsTzuEI5o6~Me4PAakDsm-o1x0dl0J05gplocy-All56k08EHyqj1m0Nvtbc6RQgMS~wZDnBeh~wgLyXXyh6f-Jgm3EfTxWFDsQ1E0R-8rObk1X-8HH2vRrKA5ctLhFhKccdS4n9PjkRHQTjk19ZF9BWAR7XN8f~gr3Pfr9lIVUdHoq5bDsIXVk07i9nLzXLU0k8XKtH8G9EJ8VKZ~yRDil5me~6Qfuw9PvSkwhigzhpI1cr0fXMb-ilYErIZcElQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -813,31 +843,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
-            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
-            "date_published": "2024-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "elderly",
-                "exercise",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
