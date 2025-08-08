@@ -4,76 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "title": "Intelligent, Human-Centric Delivery Is Needed to Maximize AI",
-            "summary": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "content_text": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "date_published": "2025-08-06T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Carla M. Pugh, MD, PhD"
-                }
-            ],
-            "tags": [
-                "anchoring",
-                "artificial intelligence",
-                "clinical",
-                "cognitive load",
-                "computers",
-                "diagnosis",
-                "emotions",
-                "eye contact",
-                "friction",
-                "large language models",
-                "medical",
-                "mentorships",
-                "motivation",
-                "operating room",
-                "operative surgical procedures",
-                "script",
-                "simulators",
-                "speech",
-                "students",
-                "virtual reality",
-                "voice"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837238/jamasurgery_pugh_2025_ic_250026_1754078212.49663.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837057",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837057",
-            "title": "Generative Artificial Intelligence With Youth Codesign to Create Vaping Awareness Advertisements",
-            "summary": "This randomized clinical trial evaluates the perceived message effectiveness of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media advertisements vs existing materials from official health agencies.",
-            "content_html": "<h3>Importance</h3><p>Traditional approaches to developing youth vaping awareness campaigns are time-consuming and can create critical delays in public health response. Although generative artificial intelligence (AI) offers promising capabilities for health communication, research has been limited to text-only messages.</p><h3>Objective</h3><p>To evaluate (1) the perceived message effectiveness (PME) of AI-generated, youth-codesigned vaping awareness social media advertisements (ads) compared with existing ads from official health agencies and (2) how different source labeling is associated with PME.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial used a 2 (ad source)\u2009by\u20094 (source labeling) design and was conducted online from September 2 to September 19, 2024. Participants were individuals aged 16 to 25 years.</p><h3>Exposure</h3><p>All participants evaluated 50 ads from 2 sources (within-participants; 25 AI-generated, 25 existing) in random order.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome, PME, was measured using the validated PME Scale for Youth, which assessed 2 effects perceptions (vaping perception and behavioral intent) and 3 ad perceptions (attention, information, and convincingness) on 7-point scales, with lower scores indicating better effectiveness for effects perceptions and higher scores indicating better effectiveness for ad perceptions.</p><h3>Results</h3><p>Six hundred fourteen individuals (mean [SD] age, 20.5 [2.9] years; 300 female [48.9%]; 300 male [48.9%]; 14 other [2.3%]) provided 30\u202f700 observations. Participants were randomly allocated to 1 of 4 experimentally manipulated labeling conditions (between-participants): (1) no source label (147 participants), (2) made with AI (158 participants), (3) made by the World Health Organization (WHO) (151 participants), or (4) made with AI by the WHO (158 participants). AI-generated ads demonstrated noninferiority to existing ads across all measures. AI-generated ads received better ratings for discouraging vaping (b\u2009=\u20090.09; 95% CI, 0.01 to 0.17), attention-grabbing qualities (b\u2009=\u2009\u22120.15; 95% CI, \u22120.26 to \u22120.03), and convincingness (b\u2009=\u2009\u22120.18; 95% CI, \u22120.30 to \u22120.07) (all<i>P</i>\u2009for noninferiority tests &lt;.001). Source labeling showed no significant association with PME scores (\u03c7<sup>2</sup>values ranging from 0.10 to 4.19; all<i>P</i>\u2009&gt;\u2009.20).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial of vaping awareness social media ads, AI-generated, youth-codesigned ads achieved superior effectiveness ratings compared with existing ads. These findings support the potential for leveraging generative AI technology in public health campaigns, while indicating the need for appropriate governance frameworks as AI-generated health materials become increasingly prevalent.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT07042789</p>",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2836770",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2836770",
+            "title": "Ophthalmological Question Answering and Reasoning Using OpenAI o1 vs Other Large Language Models",
+            "summary": "This cross-sectional study evaluates the performance of OpenAI o1compared with other large language models when addressing ophthalmology-specific questions.",
+            "content_html": "<h3>Importance</h3><p>OpenAI\u2019s recent large language model (LLM) o1 has dedicated reasoning capabilities, but it remains untested in specialized medical fields like ophthalmology. Evaluating o1 in ophthalmology is crucial to determine whether its general reasoning can meet specialized needs or if domain-specific LLMs are warranted.</p><h3>Objective</h3><p>To assess the performance and reasoning ability of OpenAI\u2019s o1 compared with other LLMs on ophthalmological questions.</p><h3>Design, Setting, and Participants</h3><p>In September through October 2024, the LLMs o1, GPT-4o (OpenAI), GPT-4 (OpenAI), GPT-3.5 (OpenAI), Llama 3-8B (Meta), and Gemini 1.5 Pro (Google) were evaluated on 6990 standardized ophthalmology questions from the Medical Multiple-Choice Question Answering (MedMCQA) dataset. The study did not analyze human participants.</p><h3>Main Outcomes and Measures</h3><p>Models were evaluated on performance (accuracy and macro F1 score) and reasoning abilities (text-generation metrics: Recall-Oriented Understudy for Gisting Evaluation [ROUGE-L], BERTScore, BARTScore, AlignScore, and Metric for Evaluation of Translation With Explicit Ordering [METEOR]). Mean scores are reported for o1, while mean differences (\u0394) from o1\u2019s scores are reported for other models. Expert qualitative evaluation of o1 and GPT-4o responses assessed usefulness, organization, and comprehensibility using 5-point Likert scales.</p><h3>Results</h3><p>The LLM o1 achieved the highest accuracy (mean, 0.877; 95% CI, 0.870 to 0.885) and macro F1 score (mean, 0.877; 95% CI, 0.869 to 0.884) (<i>P</i>\u2009&lt;\u2009.001). In BERTScore, GPT-4o (\u0394\u2009=\u20090.012; 95% CI, 0.012 to 0.013) and GPT-4 (\u0394\u2009=\u20090.014; 95% CI, 0.014 to 0.015) outperformed o1 (<i>P</i>\u2009&lt;\u2009.001). Similarly, in AlignScore, GPT-4o (\u0394\u2009=\u20090.019; 95% CI, 0.016 to 0.021) and GPT-4 (\u0394\u2009=\u20090.024; 95% CI, 0.021 to 0.026) again performed better (<i>P</i>\u2009&lt;\u2009.001). In ROUGE-L, GPT-4o (\u0394\u2009=\u20090.018; 95% CI, 0.017 to 0.019), GPT-4 (\u0394\u2009=\u20090.026; 95% CI, 0.025 to 0.027), and GPT-3.5 (\u0394\u2009=\u20090.008; 95% CI, 0.007 to 0.009) all outperformed o1 (<i>P</i>\u2009&lt;\u2009.001). Conversely, o1 led in BARTScore (mean, \u20134.787; 95% CI, \u20134.813 to \u20134.762;<i>P</i>\u2009&lt;\u2009.001) and METEOR (mean, 0.221; 95% CI, 0.218 to 0.223;<i>P</i>\u2009&lt;\u2009.001 except GPT-4o). Also, o1 outperformed GPT-4o in usefulness (o1: mean, 4.81; 95% CI, 4.73 to 4.89; GPT-4o: mean, 4.53; 95% CI, 4.40 to 4.65;<i>P</i>\u2009&lt;\u2009.001) and organization (o1: mean, 4.83; 95% CI, 4.75 to 4.90; GPT-4o: mean, 4.63; 95% CI, 4.51 to 4.74;<i>P</i>\u2009=\u2009.003).</p><h3>Conclusions and Relevance</h3><p>This study found that o1 excelled in accuracy but showed inconsistencies in text-generation metrics, trailing GPT-4o and GPT-4; expert reviews found o1\u2019s responses to be more clinically useful and better organized than GPT-4o. While o1 demonstrated promise, its performance in addressing ophthalmology-specific challenges is not fully optimal, underscoring the potential need for domain-specialized LLMs and targeted evaluations.</p>",
             "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Janni Leung, PhD"
+                    "name": "Sahana Srinivasan, BEng"
                 }
             ],
             "tags": [
-                "adolescence",
-                "advertising (activity)",
-                "artificial intelligence",
-                "generative artificial intelligence",
-                "social media",
-                "vaping",
-                "world health organization"
+                "large language models",
+                "llamas",
+                "ophthalmology specialty",
+                "reasoning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837057/leung_2025_oi_250464_1753367770.97271.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2836770/jamaophthalmology_srinivasan_2025_oi_250037_1752601713.76425.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250464f1_1753367771.13442.png?Expires=2147483647&Signature=kgujlDgLtvfCTea~w2wtAiNgBHf584TsHqVW90hFqDqzwdSO6uFTvc0bdPqgItNQ7SIlYq8cTmBTEzGbHp82neDCv45VTSvmFfLn7~VDENeuhhFH89aG~GdcLDwp0GOtUyL0-6UT4HyzgEG0~db-dZk2LrNRfCKNkt0pBbBtp8LbVaZFsMHdf33Zy4ZqgQyli~9a9mHYcA-yOgTXmR2E0DPZK8mzqItAEo-TA0b0vow12o7ouqAwpaBRdAmAyIdjzETVsmHjibT-1RvxEuARbMYS3o~LGMXEmSo3ihouAVHLLPXtK3uev~azVW4PhmejaEqmudEJGupdhBDhLzrOZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250037f1_1752601714.16303.png?Expires=2147483647&Signature=I~yJhRtOKTYUl2zGYqIaZDLAG3WRoOtlu7cYsy3qYJdvDWDKQN4lybMI3nWujqMAwdakU9-jqibx4j7hyXNulvVwQhLkWPDnAkPqlt2WZ7vSGouw6COwPI7veM9olF2nUaLH0Fu1EC3puXakGo6346JNM9lhSMVyq2a8zSO0ClKa5zXoXHTrKnd~tgtT2HknVN-8rhPbeUYW8AuVWxdcFLQiE0nzRpO4Fc1Si5yYO3Yj~kvrqrBYnscGDOSrdMo1Sd-xsnLASwDy6RqINlhH-YA~y04Zb-cAtoSCnOkJrGDUG~5lVaSZkDDELvNbjZorAlFZjH31nBNOF3YDIcYp1g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833624",
+            "title": "The Future of Agitation Interventions May Be Predictive",
+            "summary": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "content_text": "Congratulations are in order for Wong et al 1 for their groundbreaking study. By using artificial intelligence to help determine key risk factors for impending agitation and/or aggression episodes, the authors created a framework that may lead to better, safer, and more patient-centric preventive care of patients with behavioral emergencies in hospital emergency departments (EDs).",
+            "date_published": "2025-05-07T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Scott Zeller, MD"
+                }
+            ],
+            "tags": [
+                "agitation",
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833624/zeller_2025_ic_250077_1745961538.10301.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
