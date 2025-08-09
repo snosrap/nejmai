@@ -4,62 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
+            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
+            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Bianca Giglio, MSc"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "informatics (discipline)"
+                "educational process of instructing",
+                "medical",
+                "operative surgical procedures",
+                "students",
+                "transfer technique",
+                "tutoring"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1754078206.57075.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833029",
-            "title": "Clinical Trial Notifications Triggered by Artificial Intelligence\u2013Detected Cancer Progression: A Randomized",
-            "summary": "This randomized trial examines whether notifying oncologists about genomically targeted clinical trials for eligible patients identified by artificial intelligence (AI) affects clinical trial participation.",
-            "content_html": "<h3>Importance</h3><p>Historically, fewer than 10% of adults with cancer have enrolled in clinical trials. Computational tools have been developed to match patients to trials, but these tools are relevant only when patients need new treatment.</p><h3>Objective</h3><p>To evaluate whether notifying oncologists about genomically targeted clinical trials for patients with cancer progression, as detected by artificial intelligence (AI), impacts clinical trial participation.</p><h3>Design, Setting, and Participants</h3><p>This single-center randomized trial was conducted from January 30, 2023, to June 30, 2024, at a tertiary academic cancer center. Participants were patients aged at least 18 years in a precision oncology clinical trial matching database who had solid tumors that underwent next-generation sequencing from July 2013 to December 2022, and were alive as of January 30, 2023.</p><h3>Intervention</h3><p>Patients were randomly assigned 2:1 to the intervention or control arm. In the intervention arm, when patients had cancer progression and an elevated probability of starting new treatment based on AI applied to their imaging reports, notifications about genomically matched clinical trials were sent to their oncologists. In the control arm, no such notifications were sent.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was enrollment in any therapeutic clinical trial. Prespecified secondary outcomes included consent to any therapeutic trial, consent and enrollment among patients ever ascertained as trial ready, the proportion of new systemic therapies that were given as part of clinical trials, and survey responses from clinicians who received notifications.</p><h3>Results</h3><p>Of 20\u202f707 patients randomized (57.26% female; median age at the time of sequencing, 60 years [IQR, 50-69 years]), 13\u202f802 were randomized to the intervention arm and 6905 to the control arm. The intervention had no significant impact on the trial enrollment rate (intervention, 2.20% [95% CI, 1.97%-2.46%]; control, 2.03% [95% CI, 1.72%-2.39%]; difference, 0.18 [95% CI, \u22120.25 to 0.58] percentage points;<i>P</i>\u2009=\u2009.41). Similarly, there were no significant differences in trial enrollment between the intervention and control arms among the 2127 patients ever ascertained as trial ready (18.05% [95% CI, 16.15%-20.12%] vs 18.50% [95% CI, 15.78%-21.56%]; difference, \u22120.45 [95% CI, \u22124.01 to 3.02] percentage points;<i>P</i>\u2009=\u2009.80) or among the 2036 patients who ever started new systemic therapy (22.67% [95% CI, 20.51%-24.99%] vs 20.14% [95% CI, 17.33%-23.29%]; difference, 2.53 [95% CI, \u22121.25 to 6.21] percentage points;<i>P</i>\u2009=\u2009.19).</p><h3>Conclusions and Relevance</h3><p>In this randomized trial, prompting academic medical oncologists with information about genomically matched therapeutic clinical trials for patients with tumor progression based on AI interpretation of imaging reports did not increase therapeutic trial enrollment. The findings suggest that future use of AI to optimize enrollment in cancer clinical trials should include tasks beyond predicting treatment change and/or populations beyond those whose tumors have undergone comprehensive genetic sequencing.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06888089</p>",
-            "date_published": "2025-04-21T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Tali Mazor, PhD"
-                }
-            ],
-            "tags": [
-                "arm",
-                "artificial intelligence",
-                "diagnostic imaging",
-                "malignant neoplasms",
-                "massively-parallel sequencing",
-                "medical oncology specialty",
-                "neoplasms",
-                "oncologists",
-                "solid neoplasm",
-                "systemic therapy",
-                "treatment modification",
-                "tumor progression"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833029/mazor_2025_oi_250122_1744660364.2066.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939578/zoi250122f1_1744660364.87438.png?Expires=2147483647&Signature=fOIc4sJTuDUyBgv95IyapvhsmpVo2M1hFb3t9hPQCxYCwtXbUqGxhFZMAEIF8nwzMR047ofzaMcCDyG8ic6YmxQaBLrKJwMiVUMXopB9DYsfCe8MB~2QxJKGt5WRDoLAcLHFZPaU4WB4ef95mgM4mG2-lHCl57MPIQmyWouRP2svS-0iWv-l~qqy95rip2wlf~6HFlwB3sLlkMlVSy7kh-qAyIvYYCmTNMaRusUkf3BUWYGV4bdPEg~pi7PLWFhrdruNubwR2wj3UB0-1UpK8Fvy4QjGz5V43mbmOp9k38kJ7SmI2eIHzMSBMT6-xNBXFoLMEGAHDXetMUwGDaJk8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/soi250042t1_1754078206.80991.png?Expires=2147483647&Signature=E-lq1U-YyNEocOuD1reKJ~XCiMxp~2GQecU2BwS34yABXpgO4tEM2NWu5wU519hT2Mixs3WgXF7gYUyQWpYThItRCIz8uF26SHtqYx22V0VY8FEE6Rg8olqzRE-3kgP8mG7wl4VvL2uIhK7AMNGaqFjza~J3ukA5PGsmomZwnr4wfKz89EQXNhHIpSWHwSu~3uz264EcdywdbuVVtOl~QQD~riL5cJcYhvLcjflyEdSK4DtFhzBvtiYQSS~9OjClEm8FPx9YxMva6Al3LI4O5B2L345TVBw0XodYMl8iYOLgDGLTo61fsaiij6~HkuzdAKaIfD5fiCScH82qayldJw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -847,6 +818,36 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
