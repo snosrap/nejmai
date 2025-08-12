@@ -4,31 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
-            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
-            "title": "Computer Vision in Clinical Neurology: A Review",
-            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
-            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
-            "date_published": "2025-02-17T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
+            "title": "Changing Opinions About AI in Health Care",
+            "summary": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
+            "content_text": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
+            "date_published": "2025-08-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maximilian U. Friedrich, MD"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "computer vision systems",
-                "neurologic examination",
-                "neurology speciality",
-                "technology"
+                "large language models",
+                "literacy",
+                "podcasts as topic"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837442/jama_perlis_2025_en_250007_1754076229.58281.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250007fa_1754076229.62781.png?Expires=2147483647&Signature=SRTOxuJy0kCvSFpzF9zHfZKAgv0yAtF0QPxx~QZ2tuuiFM9qckSrW4VD-8u1hryUCbhk4XUKvn2ZFIyMTFo-tryMiapjWFfzBpwkPaiRt2goz04BRPis99Xflgvm3gYjcn1i4aXX4OmrMRQNs-pyNL-~hEz502rCd2c3LndkIK-WH55vhscEezU4-xjQ9WRPIfwkREHpsyoeacrS466CGcac8GwPH2Mto-JuojzrmGK159fLuLGVUc5aP7W64vjwovQnHXqrYfkF3gP0k3upa5ziYRlIj2qKhlHrfVH6V3WXMJrDTA4C8QRX45KW7wolDYdxUjqQ5KrNl899Q0INQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Ellen Wright Clayton, MD, JD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1753108796.12668.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -718,37 +739,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
