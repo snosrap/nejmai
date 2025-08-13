@@ -4,52 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
-            "title": "Changing Opinions About AI in Health Care",
-            "summary": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
-            "content_text": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
-            "date_published": "2025-08-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837131",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837131",
+            "title": "Online Reviews of Health Care Facilities",
+            "summary": "This cross-sectional study analyzes online reviews of patient experiences in US health care facilities, identifying words, linguistic categories, and themes correlated with highly positive or negative ratings.",
+            "content_html": "<h3>Importance</h3><p>Understanding patient experience is crucial for improving health care delivery. However, language patterns and themes correlated with negative or positive ratings are not well known.</p><h3>Objective</h3><p>To examine online reviews of US health care facilities, identifying language patterns and themes associated with negative or positive ratings.</p><h3>Design, Setting, and Participants</h3><p>For this cross-sectional study, all reviews of US health care facilities offering essential health benefits, as defined by the Affordable Care Act, posted on 1 online platform (Yelp.com) under \u201cHealth &amp; Medical\u201d from January 1, 2017, to December 31, 2023, were obtained. Reviews are posted voluntarily with ratings (1 star\u2009=\u2009lowest, 5 stars\u2009=\u2009highest) and open-ended review narratives regarding patients\u2019 care experiences.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the correlation between n-grams (1- to 3-word sequences) and review ratings (negative: 1 or 2 stars; positive: 4 or 5 stars). Secondary measures included linguistic analysis and topic modeling based on standard machine-learning algorithms. Machine-learning and natural-language processing, including n-gram correlation, linguistic feature analysis, and topic modeling, were applied to determine correlations with review star ratings.</p><h3>Results</h3><p>A total of 1\u202f099\u202f901 online reviews from 138\u202f605 facilities were identified over the 7-year study period. Among these, nearly one-half (46.3%) were negative and one-half (50.1%) were positive, with a median (IQR) rating of 4 (1-5) stars. The word \u201cnot\u201d was most correlated with negative ratings (<i>r</i>\u2009=\u20090.31; 95% CI, 0.31\u20130.32), whereas \u201cand\u201d was most correlated with positive ratings (<i>r</i>\u2009=\u20090.35; 95% CI, 0.35\u20130.36). Among 200 topics, the strongest negative correlations involved payment issues (<i>r</i>\u2009=\u20090.25; 95% CI, 0.25\u20130.25) and poor treatment (<i>r</i>\u2009=\u20090.24; 95% CI, 0.23\u20130.24); the strongest positive correlations involved kindness (<i>r</i>\u2009=\u20090.32; 95% CI, 0.32\u20130.32) and anxiety relief (<i>r</i>\u2009=\u20090.32; 95% CI, 0.32\u20130.32).</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional analysis, negative patient experiences frequently centered on quality of communication and administrative issues. Negative feedback centered on unmet expectations, whereas positive reviews emphasized supportive staff interactions. Incorporating real-time online-review data into existing quality-improvement frameworks\u2014such as patient experience dashboards or service recovery protocols\u2014could help clinicians, administrators, and policymakers identify emerging concerns, monitor patient sentiment, and tailor interventions that enhance patient-centered care across diverse health care settings.</p>",
+            "date_published": "2025-08-01T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Neil K.R. Sehgal, ME"
                 }
             ],
             "tags": [
-                "large language models",
-                "literacy",
-                "podcasts as topic"
+                "health care facility",
+                "linguistics",
+                "patient-centered care",
+                "quality improvement"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837442/jama_perlis_2025_en_250007_1754076229.58281.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837131/sehgal_2025_oi_250699_1753385524.99739.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250007fa_1754076229.62781.png?Expires=2147483647&Signature=SRTOxuJy0kCvSFpzF9zHfZKAgv0yAtF0QPxx~QZ2tuuiFM9qckSrW4VD-8u1hryUCbhk4XUKvn2ZFIyMTFo-tryMiapjWFfzBpwkPaiRt2goz04BRPis99Xflgvm3gYjcn1i4aXX4OmrMRQNs-pyNL-~hEz502rCd2c3LndkIK-WH55vhscEezU4-xjQ9WRPIfwkREHpsyoeacrS466CGcac8GwPH2Mto-JuojzrmGK159fLuLGVUc5aP7W64vjwovQnHXqrYfkF3gP0k3upa5ziYRlIj2qKhlHrfVH6V3WXMJrDTA4C8QRX45KW7wolDYdxUjqQ5KrNl899Q0INQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250699f1_1753385525.1197.png?Expires=2147483647&Signature=thsdTtUis4cklfm9fA~uIpuwlJdOeJ4XK5azyoCCYf9fuaPt8PlwKVAor07iy5n3CT3naVZsJUJqBasH8uWFROmwupIhtVaMxb17oxObcy6ldMmwXGuhZQJjpUSHSN7Mj4NlEODgXIMJrUR1Jgx7fht8qq~IDL5RwS5W1qOiCMzm3hy~umvUFovB-ROGteR8TUcwYY6T5s8AjUjssxgjWMr3MtVn6Wxsc2yNmgemSJOgl1wlAwnsFFvcR-w6mzzQd-hFaFJFmEJ2SUmo62IkpnQWleDlbqPxPW9eEZyiVlMA4xSkLtG1zvBZoWbdMYh8-dE~Sk~itmFuPBShXk5WyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
-            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "date_published": "2025-07-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
+            "title": "Demographic Data Supporting FDA Authorization of AI Devices for Alzheimer Disease and Related Dementias",
+            "summary": "This cohort study examines the availability and representativeness of data supporting US Food and Drug Administration\u2013authorized artificial intelligence and machine learning devices to treat Alzheimer disease and related dementias.",
+            "content_text": "This cohort study examines the availability and representativeness of data supporting US Food and Drug Administration\u2013authorized artificial intelligence and machine learning devices to treat Alzheimer disease and related dementias.",
+            "date_published": "2025-07-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ellen Wright Clayton, MD, JD"
+                    "name": "Krista Y. Chen, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "alzheimer's disease",
+                "artificial intelligence",
+                "dementia",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1753108796.12668.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837137/jama_chen_2025_ld_250048_1753386228.86977.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250048t1_1753386228.98977.png?Expires=2147483647&Signature=KV5lacYseMuDMeDE1a6FIOFjPvpZ3dteGdXY4izm1K9PJEw3vGoX6clnKIZjlWINev9~H3BeCQ0oExb3oaw2F99h6DEZVON-2MUgHPO9ffpZx2PzIO1pQIMYMO3Y0tsbahcuJ1CB7U2Vfg-3hmc71DZyE2T96KKOYNsrmYknc7qo8UDNQzIUv~V-lx8jSC00RONiiZsyFgG6zOKX83~HgLf3Nm706Mupzwr5nL9h8TB5nyaL0bEF0YsF8wX~e4J69-YM7iF96k~zEK-wGJJ-7NlhJBP5Uro14y4OOVchXBcNji~0x2BOSpfHo1qq2zRySbQoS2UznpPKkRw-BnsLTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
