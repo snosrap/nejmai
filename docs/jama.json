@@ -4,56 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837131",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837131",
-            "title": "Online Reviews of Health Care Facilities",
-            "summary": "This cross-sectional study analyzes online reviews of patient experiences in US health care facilities, identifying words, linguistic categories, and themes correlated with highly positive or negative ratings.",
-            "content_html": "<h3>Importance</h3><p>Understanding patient experience is crucial for improving health care delivery. However, language patterns and themes correlated with negative or positive ratings are not well known.</p><h3>Objective</h3><p>To examine online reviews of US health care facilities, identifying language patterns and themes associated with negative or positive ratings.</p><h3>Design, Setting, and Participants</h3><p>For this cross-sectional study, all reviews of US health care facilities offering essential health benefits, as defined by the Affordable Care Act, posted on 1 online platform (Yelp.com) under \u201cHealth &amp; Medical\u201d from January 1, 2017, to December 31, 2023, were obtained. Reviews are posted voluntarily with ratings (1 star\u2009=\u2009lowest, 5 stars\u2009=\u2009highest) and open-ended review narratives regarding patients\u2019 care experiences.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the correlation between n-grams (1- to 3-word sequences) and review ratings (negative: 1 or 2 stars; positive: 4 or 5 stars). Secondary measures included linguistic analysis and topic modeling based on standard machine-learning algorithms. Machine-learning and natural-language processing, including n-gram correlation, linguistic feature analysis, and topic modeling, were applied to determine correlations with review star ratings.</p><h3>Results</h3><p>A total of 1\u202f099\u202f901 online reviews from 138\u202f605 facilities were identified over the 7-year study period. Among these, nearly one-half (46.3%) were negative and one-half (50.1%) were positive, with a median (IQR) rating of 4 (1-5) stars. The word \u201cnot\u201d was most correlated with negative ratings (<i>r</i>\u2009=\u20090.31; 95% CI, 0.31\u20130.32), whereas \u201cand\u201d was most correlated with positive ratings (<i>r</i>\u2009=\u20090.35; 95% CI, 0.35\u20130.36). Among 200 topics, the strongest negative correlations involved payment issues (<i>r</i>\u2009=\u20090.25; 95% CI, 0.25\u20130.25) and poor treatment (<i>r</i>\u2009=\u20090.24; 95% CI, 0.23\u20130.24); the strongest positive correlations involved kindness (<i>r</i>\u2009=\u20090.32; 95% CI, 0.32\u20130.32) and anxiety relief (<i>r</i>\u2009=\u20090.32; 95% CI, 0.32\u20130.32).</p><h3>Conclusions and Relevance</h3><p>In this cross-sectional analysis, negative patient experiences frequently centered on quality of communication and administrative issues. Negative feedback centered on unmet expectations, whereas positive reviews emphasized supportive staff interactions. Incorporating real-time online-review data into existing quality-improvement frameworks\u2014such as patient experience dashboards or service recovery protocols\u2014could help clinicians, administrators, and policymakers identify emerging concerns, monitor patient sentiment, and tailor interventions that enhance patient-centered care across diverse health care settings.</p>",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837224",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837224",
+            "title": "Reporting Guideline for Chatbot Health Advice Studies: The CHART Statement",
+            "summary": "This Special Communication provides reporting recommendations for studies evaluating the performance of generative artificial intelligence (AI)\u2013driven chatbots when summarizing clinical evidence and providing health advice.",
+            "content_html": "<h3>Importance</h3><p>The rise in chatbot health advice (CHA) studies is accompanied by heterogeneity in reporting standards, impacting their interpretability.</p><h3>Objective</h3><p>To provide reporting recommendations for studies evaluating the performance of generative artificial intelligence (AI)\u2013driven chatbots when summarizing clinical evidence and providing health advice.</p><h3>Design, Setting, and Participants</h3><p>CHART was developed in several phases after performing a comprehensive systematic review to identify variation in the conduct, reporting, and methodology in CHA studies. Findings from the review were used to develop a draft checklist that was revised through an international, multidisciplinary modified asynchronous Delphi consensus process of 531 stakeholders, 3 synchronous panel consensus meetings of 48 stakeholders, and subsequent pilot testing of the checklist.</p><h3>Results</h3><p>CHART includes 12 items and 39 subitems to promote transparent and comprehensive reporting of CHA studies. These include title (subitem 1a), abstract or summary (subitem 1b), background (subitems 2ab), model identifiers (subitem 3ab), model details (subitems 4abc), prompt engineering (subitems 5ab), query strategy (subitems 6abcd), performance evaluation (subitems 7ab), sample size (subitem 8), data analysis (subitem 9a), results (subitems 10abc), discussion (subitems 11abc), disclosures (subitem 12a), funding (subitem 12b), ethics (subitem 12c), protocol (subitem 12d), and data availability (subitem 12e).</p><h3>Conclusions and Relevance</h3><p>The CHART checklist and corresponding methodological diagram were designed to support key stakeholders including clinicians, researchers, editors, peer reviewers, and readers in reporting, understanding, and interpreting the findings of CHA studies.</p>",
             "date_published": "2025-08-01T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Neil K.R. Sehgal, ME"
+                    "name": "The CHART Collaborative"
                 }
             ],
             "tags": [
-                "health care facility",
-                "linguistics",
-                "patient-centered care",
-                "quality improvement"
+                "chatbots",
+                "generative artificial intelligence",
+                "reporting guidelines"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837131/sehgal_2025_oi_250699_1753385524.99739.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837224/huo_2025_sc_250004_1753729025.53828.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250699f1_1753385525.1197.png?Expires=2147483647&Signature=thsdTtUis4cklfm9fA~uIpuwlJdOeJ4XK5azyoCCYf9fuaPt8PlwKVAor07iy5n3CT3naVZsJUJqBasH8uWFROmwupIhtVaMxb17oxObcy6ldMmwXGuhZQJjpUSHSN7Mj4NlEODgXIMJrUR1Jgx7fht8qq~IDL5RwS5W1qOiCMzm3hy~umvUFovB-ROGteR8TUcwYY6T5s8AjUjssxgjWMr3MtVn6Wxsc2yNmgemSJOgl1wlAwnsFFvcR-w6mzzQd-hFaFJFmEJ2SUmo62IkpnQWleDlbqPxPW9eEZyiVlMA4xSkLtG1zvBZoWbdMYh8-dE~Sk~itmFuPBShXk5WyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zsc250004t1_1753729025.91051.png?Expires=2147483647&Signature=c-lqRDveBH1KmnX7ConLFXleFzQ7-jvP-VVlrGwh9NtPoFQTF2gcz39wmzL2g3Y7WM1fitim7RZ5QR4MZZm0yACYhpFmk6lzT~Yy33gu718X06efdlx6QvMKbeqi0gNBHV1wPgCuCYUPQWyjhbuAt8K3wSs8wSY2SB0d~Q8hXqz-olX-99sRAr0~tCmeajowf7CapBoYjE09GqzqPT-n2X0keQ2ptViznJGh-aPZsy7ed2khGVRPYe3adWFphfUgqH0FRZL3TASlZnrtXY68TmD-1pHUYORd8~o0dXXhGr3gzR4vviQLzjfaTRDuN7GQ-cEKVDByq2nRDh0GY~m3BA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837137",
-            "title": "Demographic Data Supporting FDA Authorization of AI Devices for Alzheimer Disease and Related Dementias",
-            "summary": "This cohort study examines the availability and representativeness of data supporting US Food and Drug Administration\u2013authorized artificial intelligence and machine learning devices to treat Alzheimer disease and related dementias.",
-            "content_text": "This cohort study examines the availability and representativeness of data supporting US Food and Drug Administration\u2013authorized artificial intelligence and machine learning devices to treat Alzheimer disease and related dementias.",
-            "date_published": "2025-07-30T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
+            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "date_published": "2025-07-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Krista Y. Chen, MPH"
+                    "name": "Sandro Galea, MD, DrPH"
                 }
             ],
             "tags": [
-                "alzheimer's disease",
                 "artificial intelligence",
-                "dementia",
-                "machine learning"
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837137/jama_chen_2025_ld_250048_1753386228.86977.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250048t1_1753386228.98977.png?Expires=2147483647&Signature=KV5lacYseMuDMeDE1a6FIOFjPvpZ3dteGdXY4izm1K9PJEw3vGoX6clnKIZjlWINev9~H3BeCQ0oExb3oaw2F99h6DEZVON-2MUgHPO9ffpZx2PzIO1pQIMYMO3Y0tsbahcuJ1CB7U2Vfg-3hmc71DZyE2T96KKOYNsrmYknc7qo8UDNQzIUv~V-lx8jSC00RONiiZsyFgG6zOKX83~HgLf3Nm706Mupzwr5nL9h8TB5nyaL0bEF0YsF8wX~e4J69-YM7iF96k~zEK-wGJJ-7NlhJBP5Uro14y4OOVchXBcNji~0x2BOSpfHo1qq2zRySbQoS2UznpPKkRw-BnsLTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
