@@ -4,58 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "title": "Enhanced Surgical Instructions Using Large Language Models",
+            "summary": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "content_text": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "date_published": "2025-08-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Maxwell Sahhar, BS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy"
+                "chatbots",
+                "large language models",
+                "operative surgical procedures",
+                "postoperative care",
+                "preoperative care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837476/jamasurgery_sahhar_2025_ld_250012_1755016308.69279.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/sld250012t1_1755016308.88787.png?Expires=2147483647&Signature=K7bZlJgI6~QBpw6BllpnFZ2pdT4A30fr~HjYo~LYmMrSBEpW-L1OKnBRhjjap3p-iqT3nC1LzmI9nufb~uUx~B2OhhX0hIzNTSLsYQA5fCpppgn2SnoIZzuxWRsxde7wygScCNt9eYy6GgIm54S6ChAfCJkaI8QmFaUXjOyhbl450pDIFxbNsQJF0hsildUroyMoYqK4~kGg9wiwyXybM7sojTnXo3zKDc7u2nUku5qwPTKujGVf5~bn7TwMdzoZWpJK-AoXzUg0OkArBNUNXJqgt6f-r3GcEtqXib4oN3jRwn0ozM-pWhZ5OvY8t5mME2Ldd3lvkpNtB3hjUiI8CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372",
+            "title": "Fidelity of Medical Reasoning in Large Language Models",
+            "summary": "This cross-sectional study evaluates whether the performance of large language models on medical benchmarks reflects logical reasoning or pattern recognition.",
+            "content_text": "This cross-sectional study evaluates whether the performance of large language models on medical benchmarks reflects logical reasoning or pattern recognition.",
+            "date_published": "2025-08-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Suhana Bedi, BS"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
-                "screening procedure",
-                "united states preventive services task force"
+                "informatics (discipline)",
+                "large language models",
+                "pattern recognition",
+                "reasoning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837372/bedi_2025_ld_250161_1753980335.4658.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250161f1_1753980335.56686.png?Expires=2147483647&Signature=I~S8Fglx6p~F2q0Uik4ticHtr4URqbhrmLhQiMKuaHnxSeVXTHwjgQUHri6pn-JmKgLja~nYCOSTnOi2PtEplUPliDyKBBW9WlaHQdkyDRgXDb25-EKOKbBf5PPOpVOO2iAB4Sn7iBxyTlKPC5TZhZgiGmhQZpkzxXt3WEDLOhlhE9ux12pId~mMmFi2dxf5IUCw3gUxWMxBksdavttSGJSOylMo5CeluwUAxpDrS7x14Z11Ui1mgL~OBoAqErIswfVObsA4nOQBLt-aYGXjIlfLo216KL72w3k3PXDfOxk9tfuTEHtZDs1J9VPEKFZXB69qiBhResEEnklOEWAiyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
