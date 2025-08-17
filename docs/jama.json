@@ -4,64 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372",
-            "title": "Fidelity of Medical Reasoning in Large Language Models",
-            "summary": "This cross-sectional study evaluates whether the performance of large language models on medical benchmarks reflects logical reasoning or pattern recognition.",
-            "content_text": "This cross-sectional study evaluates whether the performance of large language models on medical benchmarks reflects logical reasoning or pattern recognition.",
-            "date_published": "2025-08-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Suhana Bedi, BS"
+                    "name": "Anjali D. Deshmukh, MD, JD"
                 }
             ],
             "tags": [
-                "informatics (discipline)",
-                "large language models",
-                "pattern recognition",
-                "reasoning"
+                "artificial intelligence",
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837372/bedi_2025_ld_250161_1753980335.4658.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1751381399.42916.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250161f1_1753980335.56686.png?Expires=2147483647&Signature=I~S8Fglx6p~F2q0Uik4ticHtr4URqbhrmLhQiMKuaHnxSeVXTHwjgQUHri6pn-JmKgLja~nYCOSTnOi2PtEplUPliDyKBBW9WlaHQdkyDRgXDb25-EKOKbBf5PPOpVOO2iAB4Sn7iBxyTlKPC5TZhZgiGmhQZpkzxXt3WEDLOhlhE9ux12pId~mMmFi2dxf5IUCw3gUxWMxBksdavttSGJSOylMo5CeluwUAxpDrS7x14Z11Ui1mgL~OBoAqErIswfVObsA4nOQBLt-aYGXjIlfLo216KL72w3k3PXDfOxk9tfuTEHtZDs1J9VPEKFZXB69qiBhResEEnklOEWAiyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837053",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837053",
-            "title": "AI-Driven Injury Reporting in Pediatric Emergency Departments",
-            "summary": "This prognostic study evaluates whether natural language processing transformer models can automate injury case detection in emergency department medical records.",
-            "content_html": "<h3>Importance</h3><p>Injury is a leading cause of morbidity and mortality among children worldwide. Prevention strategies rely on timely and accurate injury surveillance. Many national programs, including the Canadian Hospitals Injury Reporting and Prevention Program (CHIRPP), depend on manual review of emergency department (ED) medical records to track injury trends. Rising ED volumes have strained manual processes, delaying data analysis and compromising early detection of public health risks.</p><h3>Objective</h3><p>To evaluate whether natural language processing (NLP) transformer models can automate injury case detection in ED medical records, improving CHIRPP workflow efficiency while maintaining high sensitivity.</p><h3>Design, Setting, and Participants</h3><p>Prognostic study of ED visits from January 1, 2017, to December 31, 2023, at The Hospital for Sick Children, a high-volume tertiary pediatric referral center in Toronto, Canada, and a core CHIRPP site. The dataset included pediatric ED visits across all age groups. All medical records were labeled as requiring or not requiring CHIRPP reporting, with no exclusions. Two transformer-based NLP models, DistilBERT-base-uncased (model 1) and BERT-large-uncased (model 2), were fine tuned using supervised learning to classify medical records as CHIRPP-reportable or not.</p><h3>Exposure</h3><p>Application of fine-tuned NLP transformer models to routine ED visit data to automate classification of injury-related cases for surveillance reporting.</p><h3>Main Outcomes and Measures</h3><p>Outcomes included true positive rate (TPR), true negative rate (TNR), false positive rate (FPR), false negative rate (FNR), area under the receiver operating characteristic curve (AUROC), and area under the precision-recall curve (AUPRC). Additional outcomes included the proportion of medical records requiring manual review to achieve 90% sensitivity.</p><h3>Results</h3><p>Among 217\u202f173 pediatric ED visits across all age groups, model 1 achieved an AUROC of 0.983, AUPRC of 0.932, TPR of 0.90, TNR of 0.99, FPR of 0.014, and FNR of 0.10. Model 2 showed similar performance with an AUROC of 0.983, AUPRC of 0.931, TPR of 0.90, TNR of 0.99, FPR of 0.012, and FNR of 0.09. Both models identified 90% of injury cases while reducing manual medical record review from 100% to 17% of ED visits.</p><h3>Conclusions and Relevance</h3><p>NLP transformer models accurately automated detecting injury cases in ED patient medical records, with the potential of enabling real-time injury surveillance monitoring.</p>",
-            "date_published": "2025-07-31T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Devin Singh, BMSc, MBBS, MSc"
-                }
-            ],
-            "tags": [
-                "child",
-                "early diagnosis",
-                "emergency service",
-                "facilitated positional release",
-                "false-negative results",
-                "false-positive results",
-                "hospital",
-                "natural language processing",
-                "osteopathic manipulation",
-                "pediatric discipline",
-                "prevention program",
-                "workflow"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837053/singh_2025_oi_250690_1753367761.85452.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939642/zoi250690f1_1753367761.97758.png?Expires=2147483647&Signature=xdljHxF690SCyjkWX-yTJWKXo9lW230jAkJzQpULwc9BHivi1v7F41DzL1PWb4G4SYRo-R8Yay0qyWIr-HGFKcpo17QPPb58CYOXb-1PnFkElgxat2cLpci41EIrYhIW31IifjltEiwTCnkpn0JZjoK2jlHfwjc4iw7VWWfP4rXOU3eTgLEgoDAf-olMj4NAiMActZFEOxQNINcQkkUoTh0Fg~N8ibMLfy366ELPoeWKz6FzygTi8ceOOKoeJ8arSZoSGX-Sobh-oUt0znv4ClBQhX4SwaqZLLE83D3Ylo6qN81w4WSaaxR5WWm4zZpvAIH2S7pwm0pFRja6TWJoXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
