@@ -4,33 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
-            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "date_published": "2025-07-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372",
+            "title": "Fidelity of Medical Reasoning in Large Language Models",
+            "summary": "This cross-sectional study evaluates whether the performance of large language models on medical benchmarks reflects logical reasoning or pattern recognition.",
+            "content_text": "This cross-sectional study evaluates whether the performance of large language models on medical benchmarks reflects logical reasoning or pattern recognition.",
+            "date_published": "2025-08-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anjali D. Deshmukh, MD, JD"
+                    "name": "Suhana Bedi, BS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "biological products",
-                "ethics",
-                "facilitation",
-                "guidelines",
-                "life cycle stages",
-                "united states food and drug administration"
+                "informatics (discipline)",
+                "large language models",
+                "pattern recognition",
+                "reasoning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1751381399.42916.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837372/bedi_2025_ld_250161_1753980335.4658.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250161f1_1753980335.56686.png?Expires=2147483647&Signature=I~S8Fglx6p~F2q0Uik4ticHtr4URqbhrmLhQiMKuaHnxSeVXTHwjgQUHri6pn-JmKgLja~nYCOSTnOi2PtEplUPliDyKBBW9WlaHQdkyDRgXDb25-EKOKbBf5PPOpVOO2iAB4Sn7iBxyTlKPC5TZhZgiGmhQZpkzxXt3WEDLOhlhE9ux12pId~mMmFi2dxf5IUCw3gUxWMxBksdavttSGJSOylMo5CeluwUAxpDrS7x14Z11Ui1mgL~OBoAqErIswfVObsA4nOQBLt-aYGXjIlfLo216KL72w3k3PXDfOxk9tfuTEHtZDs1J9VPEKFZXB69qiBhResEEnklOEWAiyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -894,6 +891,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
