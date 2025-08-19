@@ -4,52 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "title": "Establishing Consensual Terms of AS-OCT Anatomical Landmarks",
-            "summary": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "content_text": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "date_published": "2025-08-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Poemen P. Chan, MBBS, FCOphthHK"
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
                 }
             ],
             "tags": [
-                "anatomical landmarks"
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837463/jamaophthalmology_chan_2025_ic_250031_1754085929.98219.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
-            "title": "Changing Opinions About AI in Health Care",
-            "summary": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
-            "content_text": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
-            "date_published": "2025-08-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Maximilian U. Friedrich, MD"
                 }
             ],
             "tags": [
-                "large language models",
-                "literacy",
-                "podcasts as topic"
+                "artificial intelligence",
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837442/jama_perlis_2025_en_250007_1754076229.58281.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250007fa_1754076229.62781.png?Expires=2147483647&Signature=SRTOxuJy0kCvSFpzF9zHfZKAgv0yAtF0QPxx~QZ2tuuiFM9qckSrW4VD-8u1hryUCbhk4XUKvn2ZFIyMTFo-tryMiapjWFfzBpwkPaiRt2goz04BRPis99Xflgvm3gYjcn1i4aXX4OmrMRQNs-pyNL-~hEz502rCd2c3LndkIK-WH55vhscEezU4-xjQ9WRPIfwkREHpsyoeacrS466CGcac8GwPH2Mto-JuojzrmGK159fLuLGVUc5aP7W64vjwovQnHXqrYfkF3gP0k3upa5ziYRlIj2qKhlHrfVH6V3WXMJrDTA4C8QRX45KW7wolDYdxUjqQ5KrNl899Q0INQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
