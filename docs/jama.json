@@ -4,47 +4,25 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837064",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837064",
+            "title": "Generative Artificial Intelligence for Tobacco Health Promotion",
+            "summary": "Leung and colleagues 1 examined the perceived message effectiveness (PME) of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media ads compared with existing ads from official health agencies. The authors also examined how different source labeling (eg, \u201cmade with AI\u201d vs \u201cmade by the World Health Organization [WHO]\u201d vs \u201cmade with AI by the World Health Organization [WHO]\u201d) was associated with PME. The study addresses an important gap in understanding the effectiveness and perception of generative AI (GenAI)\u2013created, youth-codesigned vaping prevention ads, a relatively unexplored area in research. In a prestudy phase, the GenAI-generated ads were codesigned with youths. This procedure included AI generation of vaping cessation ads, followed by 9 focus groups and interviews to refine the ads and select a final set of 25 ads. Next, antivaping campaign ads from existing health agencies were selected using those from the WHO and the US Food and Drug Administration. Following the prestudy phase, an analytic sample comprising 614 youths aged 16 to 25 years completed the study. 1 The authors used a mixed factorial experimental design. Participants were randomized to 1 of 4 source labeling conditions: control condition, AI condition, health agency condition, and combined condition. Then each participant viewed 50 ad content sources: 25 AI-generated vs 25 existing health agency. 1 The ad source was the within-subjects factor, and the source labeling was the between-subjects factor. The outcome of interest was the PME Scale for Youth, which comprised 5 subitems. Of the 5 items, 2 examined effect perceptions as they relate to thoughts about vaping (eg, very bad idea or very good idea) and intent to vape (eg, strongly discourages me or strongly encourages me). Then 3 items assessed ad perceptions: attention-grabbing, informativeness, and convincingness.",
+            "content_text": "Leung and colleagues 1 examined the perceived message effectiveness (PME) of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media ads compared with existing ads from official health agencies. The authors also examined how different source labeling (eg, \u201cmade with AI\u201d vs \u201cmade by the World Health Organization [WHO]\u201d vs \u201cmade with AI by the World Health Organization [WHO]\u201d) was associated with PME. The study addresses an important gap in understanding the effectiveness and perception of generative AI (GenAI)\u2013created, youth-codesigned vaping prevention ads, a relatively unexplored area in research. In a prestudy phase, the GenAI-generated ads were codesigned with youths. This procedure included AI generation of vaping cessation ads, followed by 9 focus groups and interviews to refine the ads and select a final set of 25 ads. Next, antivaping campaign ads from existing health agencies were selected using those from the WHO and the US Food and Drug Administration. Following the prestudy phase, an analytic sample comprising 614 youths aged 16 to 25 years completed the study. 1 The authors used a mixed factorial experimental design. Participants were randomized to 1 of 4 source labeling conditions: control condition, AI condition, health agency condition, and combined condition. Then each participant viewed 50 ad content sources: 25 AI-generated vs 25 existing health agency. 1 The ad source was the within-subjects factor, and the source labeling was the between-subjects factor. The outcome of interest was the PME Scale for Youth, which comprised 5 subitems. Of the 5 items, 2 examined effect perceptions as they relate to thoughts about vaping (eg, very bad idea or very good idea) and intent to vape (eg, strongly discourages me or strongly encourages me). Then 3 items assessed ad perceptions: attention-grabbing, informativeness, and convincingness.",
+            "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Olufemi Erinoso, PhD, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "informatics (discipline)"
+                "generative artificial intelligence",
+                "health promotion",
+                "tobacco"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
-            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "date_published": "2025-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Larry Han, PhD"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837064/erinoso_2025_ic_250110_1753367779.29549.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
@@ -836,6 +814,36 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
