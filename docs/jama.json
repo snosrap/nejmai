@@ -4,53 +4,51 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "title": "Establishing Consensual Terms of AS-OCT Anatomical Landmarks",
-            "summary": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "content_text": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "date_published": "2025-08-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
+            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
+            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
+            "date_published": "2025-06-10T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Poemen P. Chan, MBBS, FCOphthHK"
+                    "name": "Maxime F. Griot, MSc, MD"
                 }
             ],
             "tags": [
-                "anatomical landmarks"
+                "artificial intelligence",
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837463/jamaophthalmology_chan_2025_ic_250031_1754085929.98219.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837483",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837483",
-            "title": "Evaluating Hospital Course Summarization by an Electronic Health Record\u2013Based Large Language Model",
-            "summary": "This quality improvement study evaluates differences in effort among resident physicians editing large language model\u2013generated vs physician-generated hospital courses.",
-            "content_html": "<h3>Importance</h3><p>Hospital course (HC) summarization represents an increasingly onerous discharge summary component for physicians. Literature supports large language models (LLMs) for HC summarization, but whether physicians can effectively partner with electronic health record\u2013embedded LLMs to draft HCs is unknown.</p><h3>Objectives</h3><p>To compare the editing effort required by time-constrained resident physicians to improve LLM- vs physician-generated HCs toward a novel 4Cs (complete, concise, cohesive, and confabulation-free) HC.</p><h3>Design, Setting, and Participants</h3><p>Quality improvement study using a convenience sample of 10 internal medicine resident editors, 8 hospitalist evaluators, and randomly selected general medicine admissions in December 2023 lasting 4 to 8 days at New York University Langone Health.</p><h3>Exposures</h3><p>Residents and hospitalists reviewed randomly assigned patient medical records for 10 minutes. Residents blinded to author type who edited each HC pair (physician and LLM) for quality in 3 minutes, followed by comparative ratings by attending hospitalists.</p><h3>Main Outcomes and Measures</h3><p>Editing effort was quantified by analyzing the edits that occurred on the HC pairs after controlling for length (percentage edited) and the degree to which the original HCs\u2019 meaning was altered (semantic change). Hospitalists compared edited HC pairs with A/B testing on the 4Cs (5-point Likert scales converted to 10-point bidirectional scales).</p><h3>Results</h3><p>Among 100 admissions, compared with physician HCs, residents edited a smaller percentage of LLM HCs (LLM mean [SD], 31.5% [16.6%] vs physicians, 44.8% [20.0%];<i>P</i>\u2009&lt;\u2009.001). Additionally, LLM HCs required less semantic change (LLM mean [SD], 2.4% [1.6%] vs physicians, 4.9% [3.5%];<i>P</i>\u2009&lt;\u2009.001). Attending physicians deemed LLM HCs to be more complete (mean [SD] difference LLM vs physicians on 10-point bidirectional scale, 3.00 [5.28];<i>P</i>\u2009&lt;\u2009.001), similarly concise (mean [SD], \u22121.02 [6.08];<i>P</i>\u2009=\u2009.20), and cohesive (mean [SD], 0.70 [6.14];<i>P</i>\u2009=\u2009.60), but with more confabulations (mean [SD], \u22120.98 [3.53];<i>P</i>\u2009=\u2009.002). The composite scores were similar (mean [SD] difference LLM vs physician on 40-point bidirectional scale, 1.70 [14.24];<i>P</i>\u2009=\u2009.46).</p><h3>Conclusions and Relevance</h3><p>Electronic health record\u2013embedded LLM HCs required less editing than physician-generated HCs to approach a quality standard, resulting in HCs that were comparably or more complete, concise, and cohesive, but contained more confabulations. Despite the potential influence of artificial time constraints, this study supports the feasibility of a physician-LLM partnership for writing HCs and provides a basis for monitoring LLM HCs in clinical practice.</p>",
-            "date_published": "2025-08-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "William R. Small, MD, MBA"
+                    "name": "Larry Han, PhD"
                 }
             ],
             "tags": [
-                "human placental lactogen",
-                "large language models",
-                "medical residencies",
-                "quality improvement"
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837483/small_2025_oi_250742_1754331295.45344.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250742t1_1754331295.67344.png?Expires=2147483647&Signature=t4dLZjEmQ715c9YPM1uY5waytWhRPMwyis7iTyfZgSK9RdP00j7XI4ciuVkXDcWm2zB6xffrYrwhRBch0AyqaBzXMwRWUm4IlNfQwxvvmLT1PM0BuFJXecDx2FgWCu8E7UJdYb1t2GJ~fMx71LwipINwBsXVhPuRHxA9o-xNPbho2D8T7FT0gIqOKrha8U6AtnX4n8pagMH6oi3Ne4LE2f54qO5UAySmhuE4qk2YnG32hN4eRaGXg~Y~IGIKTZG6sGPVjSfSh5xmDVN7INFp78JIq~EcnztqJFOjt3CUyiR~ZmH1gAjdD34edD7UWmGP74Zv5Heb6MxO23gp9Qbx0w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
