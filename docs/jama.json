@@ -4,29 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837064",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837064",
-            "title": "Generative Artificial Intelligence for Tobacco Health Promotion",
-            "summary": "Leung and colleagues 1 examined the perceived message effectiveness (PME) of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media ads compared with existing ads from official health agencies. The authors also examined how different source labeling (eg, \u201cmade with AI\u201d vs \u201cmade by the World Health Organization [WHO]\u201d vs \u201cmade with AI by the World Health Organization [WHO]\u201d) was associated with PME. The study addresses an important gap in understanding the effectiveness and perception of generative AI (GenAI)\u2013created, youth-codesigned vaping prevention ads, a relatively unexplored area in research. In a prestudy phase, the GenAI-generated ads were codesigned with youths. This procedure included AI generation of vaping cessation ads, followed by 9 focus groups and interviews to refine the ads and select a final set of 25 ads. Next, antivaping campaign ads from existing health agencies were selected using those from the WHO and the US Food and Drug Administration. Following the prestudy phase, an analytic sample comprising 614 youths aged 16 to 25 years completed the study. 1 The authors used a mixed factorial experimental design. Participants were randomized to 1 of 4 source labeling conditions: control condition, AI condition, health agency condition, and combined condition. Then each participant viewed 50 ad content sources: 25 AI-generated vs 25 existing health agency. 1 The ad source was the within-subjects factor, and the source labeling was the between-subjects factor. The outcome of interest was the PME Scale for Youth, which comprised 5 subitems. Of the 5 items, 2 examined effect perceptions as they relate to thoughts about vaping (eg, very bad idea or very good idea) and intent to vape (eg, strongly discourages me or strongly encourages me). Then 3 items assessed ad perceptions: attention-grabbing, informativeness, and convincingness.",
-            "content_text": "Leung and colleagues 1 examined the perceived message effectiveness (PME) of artificial intelligence (AI)\u2013generated, youth-codesigned vaping awareness social media ads compared with existing ads from official health agencies. The authors also examined how different source labeling (eg, \u201cmade with AI\u201d vs \u201cmade by the World Health Organization [WHO]\u201d vs \u201cmade with AI by the World Health Organization [WHO]\u201d) was associated with PME. The study addresses an important gap in understanding the effectiveness and perception of generative AI (GenAI)\u2013created, youth-codesigned vaping prevention ads, a relatively unexplored area in research. In a prestudy phase, the GenAI-generated ads were codesigned with youths. This procedure included AI generation of vaping cessation ads, followed by 9 focus groups and interviews to refine the ads and select a final set of 25 ads. Next, antivaping campaign ads from existing health agencies were selected using those from the WHO and the US Food and Drug Administration. Following the prestudy phase, an analytic sample comprising 614 youths aged 16 to 25 years completed the study. 1 The authors used a mixed factorial experimental design. Participants were randomized to 1 of 4 source labeling conditions: control condition, AI condition, health agency condition, and combined condition. Then each participant viewed 50 ad content sources: 25 AI-generated vs 25 existing health agency. 1 The ad source was the within-subjects factor, and the source labeling was the between-subjects factor. The outcome of interest was the PME Scale for Youth, which comprised 5 subitems. Of the 5 items, 2 examined effect perceptions as they relate to thoughts about vaping (eg, very bad idea or very good idea) and intent to vape (eg, strongly discourages me or strongly encourages me). Then 3 items assessed ad perceptions: attention-grabbing, informativeness, and convincingness.",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Olufemi Erinoso, PhD, MPH"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "health promotion",
-                "tobacco"
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837064/erinoso_2025_ic_250110_1753367779.29549.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -718,6 +723,37 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "title": "Identifying and Addressing Bias in Artificial Intelligence",
@@ -814,36 +850,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
