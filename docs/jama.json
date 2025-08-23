@@ -4,27 +4,51 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "title": "Establishing Consensual Terms of AS-OCT Anatomical Landmarks",
-            "summary": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "content_text": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "date_published": "2025-08-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Poemen P. Chan, MBBS, FCOphthHK"
+                    "name": "Ellen Wright Clayton, MD, JD"
                 }
             ],
             "tags": [
-                "anatomical landmarks"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837463/jamaophthalmology_chan_2025_ic_250031_1754085929.98219.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1753108796.12668.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
+            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "date_published": "2025-07-11T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Sandro Galea, MD, DrPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "health policy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
@@ -714,37 +738,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
