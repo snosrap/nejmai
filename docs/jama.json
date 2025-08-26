@@ -4,54 +4,63 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
-            "title": "Early Recalls and Clinical Validation Gaps in Artificial Intelligence\u2013Enabled Medical Devices",
-            "summary": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
-            "content_text": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
-            "date_published": "2025-08-22T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Branden Lee, BS"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "medical devices"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837802/lee_2025_ld_250027_1755811003.04068.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939659/ald250027f1_1755811003.15568.png?Expires=2147483647&Signature=JSr6FLV8OrM0HftdbuRKLoxlE3YsbDPMdviKrXNo-MSWNMyNrulUtYudEzkAcc0QgCcZ5v9qWo1M6wb-RLsNviZyrQGZsFArKvLTpBoRXTzq8m4QKbhkx8Hhegra9UWw~lCGot3UnX4e1SQhmOoxafY0zvWdUvyecjsFco~TfoBSt0jiH2KFWMIMZYf-o1x9tfZYXPnyHv18vBRnPBEPs5mRfbjkZXd0Ps7fbWux3pd6gAA9Q7MR2Db1SczwYxYliqh-1YoU89gbEYtAribuGFcAxUSz5Cx3mvqnILuH0P9LWiJLvQN~DpCAfFY4yCi9umK~oAb5UWsroU29U3LyFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
-            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
-            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
+            "title": "Optic Nerve Atrophy Conditions Associated With 3D Unsegmented Optical Coherence Tomography Volumes Using Deep",
+            "summary": "This cross-sectional study uses clinical trial data to test whether a 3-dimensional deep learning model trained on unsegmented optical coherence tomography scans of the optic nerve head can reliably distinguish optic atrophy in both eyes with disease and healthy eyes.",
+            "content_html": "<h3>Importance</h3><p>Accurate differentiation of optic nerve head (ONH) atrophy is vital for guiding diagnosis and treatment of conditions such as glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), and optic neuritis. Traditional 2-dimensional assessments may overlook subtle, volumetric changes.</p><h3>Objective</h3><p>To determine whether a 3-dimensional (3D) deep learning model trained on unsegmented ONH optical coherence tomography (OCT) scans can reliably distinguish optic atrophy in glaucoma, NAION, optic neuritis, and healthy eyes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study used data from multiple clinical trials and referral centers (2008-2025), including randomized trials, longitudinal studies, and referral clinics. Participants included patients with glaucoma, NAION, or optic neuritis and healthy control patients.</p><h3>Exposures</h3><p>Three ResNet-3D-18 models were trained using 5-fold stratified cross-validation. One assessed the full OCT volume, another focused only on the peripapillary region (PPR), and the third considered only the ONH. Identical data splits were used to allow direct performance comparison.</p><h3>Main Outcomes and Measures</h3><p>Classification accuracy, macro area under the receiver operating characteristic curve (AUC-ROC), precision, recall, and F1 scores, aggregated across all validation folds. Confusion matrices were generated to characterize misclassifications.</p><h3>Results</h3><p>A total of 7014 Cirrus ONH OCT scans from 1382 eyes of glaucoma (n\u2009=\u2009113), NAION (n\u2009=\u2009311), optic neuritis (n\u2009=\u2009163), and healthy controls (n\u2009=\u2009715) were analyzed. The mean (SD) age was 54.2 (16.9) years; there were 733 (65%) male patients and 402 (35%) female patients. The entire-volume model achieved 88.9% accuracy (macro AUC-ROC, 0.977; 95% CI, 0.974-0.979) and F1 scores of 0.94, 0.87, 0.78, and 0.91 for glaucoma, NAION, optic neuritis, and healthy eyes, respectively. The PPR-only model reached 85.9% accuracy (AUC-ROC, 0.970; 95% CI, 0.967-0.972), while the ONH-only model attained 87.0% accuracy (AUC-ROC, 0.972; 95% CI, 0.970-0.975). Both achieved F1 scores from 0.71 to 0.94. Optic neuritis presented the greatest classification challenge, misclassified as NAION or healthy when axonal loss was severe or minimal. Activation maps revealed disease-specific regions of interest in the retina, including the retinal nerve fiber layer, ganglion cell layer, and retinal pigment epithelium.</p><h3>Conclusions and Relevance</h3><p>Deep learning\u2013based analysis of unsegmented OCT scans reliably distinguished between different forms of optic nerve atrophy, suggesting subtle, disease-specific structural patterns. This automated approach may support diagnostic efforts, guide clinical management of optic neuropathies, and complement less standardized imaging modalities and subjective clinical impressions.</p>",
             "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robert C. Grant, MD, PhD"
+                    "name": "David Szanto, BA"
                 }
             ],
             "tags": [
-                "chronic",
-                "cisplatin",
-                "kidney failure",
-                "machine learning"
+                "atrophy",
+                "deep learning",
+                "eye",
+                "glaucoma",
+                "nonarteritic anterior ischemic optic neuropathy (naion)",
+                "optic atrophy",
+                "optic disk",
+                "optic neuritis",
+                "optical coherence",
+                "tomography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837614/jamaophthalmology_szanto_2025_oi_250042_1754518407.21116.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250042t1_1754518407.35223.png?Expires=2147483647&Signature=NN2NZCn~A~Sb~VhCXhrKoSmzQHD2Ik5F7oqNYlNv4LQNdAkVyuqEPCWgl01TJpg2uu6brYtMEEG2rswfe9CNMYH~AmDwAWjMBjcJetLnCu3k2H9bmksLXTMvOoLV-Ae4zq3VAjyrwjH00LbpTob2KP8JHz0eKQa1OexVZ8Ai47yn9FQaXgjjK84ZK1ADg~WUEg0Jk9VYLXXYrJOAI0ZocR8S1fWdtDv~WaZzinz-xZD2Q6VT81bqlL43NIQXFnv1MuUpJlMmiU-rrXTx8WDPzrwzvDaeOyj4TW~RMFMneZQwC6dsQpnS16mLo0MbOanqLl9ucEhHRb3HJVJ12GPKAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "date_published": "2025-07-31T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                }
+            ],
+            "tags": [
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
