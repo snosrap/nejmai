@@ -4,63 +4,75 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
-            "title": "Optic Nerve Atrophy Conditions Associated With 3D Unsegmented Optical Coherence Tomography Volumes Using Deep",
-            "summary": "This cross-sectional study uses clinical trial data to test whether a 3-dimensional deep learning model trained on unsegmented optical coherence tomography scans of the optic nerve head can reliably distinguish optic atrophy in both eyes with disease and healthy eyes.",
-            "content_html": "<h3>Importance</h3><p>Accurate differentiation of optic nerve head (ONH) atrophy is vital for guiding diagnosis and treatment of conditions such as glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), and optic neuritis. Traditional 2-dimensional assessments may overlook subtle, volumetric changes.</p><h3>Objective</h3><p>To determine whether a 3-dimensional (3D) deep learning model trained on unsegmented ONH optical coherence tomography (OCT) scans can reliably distinguish optic atrophy in glaucoma, NAION, optic neuritis, and healthy eyes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study used data from multiple clinical trials and referral centers (2008-2025), including randomized trials, longitudinal studies, and referral clinics. Participants included patients with glaucoma, NAION, or optic neuritis and healthy control patients.</p><h3>Exposures</h3><p>Three ResNet-3D-18 models were trained using 5-fold stratified cross-validation. One assessed the full OCT volume, another focused only on the peripapillary region (PPR), and the third considered only the ONH. Identical data splits were used to allow direct performance comparison.</p><h3>Main Outcomes and Measures</h3><p>Classification accuracy, macro area under the receiver operating characteristic curve (AUC-ROC), precision, recall, and F1 scores, aggregated across all validation folds. Confusion matrices were generated to characterize misclassifications.</p><h3>Results</h3><p>A total of 7014 Cirrus ONH OCT scans from 1382 eyes of glaucoma (n\u2009=\u2009113), NAION (n\u2009=\u2009311), optic neuritis (n\u2009=\u2009163), and healthy controls (n\u2009=\u2009715) were analyzed. The mean (SD) age was 54.2 (16.9) years; there were 733 (65%) male patients and 402 (35%) female patients. The entire-volume model achieved 88.9% accuracy (macro AUC-ROC, 0.977; 95% CI, 0.974-0.979) and F1 scores of 0.94, 0.87, 0.78, and 0.91 for glaucoma, NAION, optic neuritis, and healthy eyes, respectively. The PPR-only model reached 85.9% accuracy (AUC-ROC, 0.970; 95% CI, 0.967-0.972), while the ONH-only model attained 87.0% accuracy (AUC-ROC, 0.972; 95% CI, 0.970-0.975). Both achieved F1 scores from 0.71 to 0.94. Optic neuritis presented the greatest classification challenge, misclassified as NAION or healthy when axonal loss was severe or minimal. Activation maps revealed disease-specific regions of interest in the retina, including the retinal nerve fiber layer, ganglion cell layer, and retinal pigment epithelium.</p><h3>Conclusions and Relevance</h3><p>Deep learning\u2013based analysis of unsegmented OCT scans reliably distinguished between different forms of optic nerve atrophy, suggesting subtle, disease-specific structural patterns. This automated approach may support diagnostic efforts, guide clinical management of optic neuropathies, and complement less standardized imaging modalities and subjective clinical impressions.</p>",
-            "date_published": "2025-08-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
+            "title": "Clinician Perspectives on AI-Generated Drafts of Patient Test Result Explanations",
+            "summary": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
+            "content_text": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
+            "date_published": "2025-08-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "David Szanto, BA"
+                    "name": "Shreya J. Shah, MD"
                 }
             ],
             "tags": [
-                "atrophy",
-                "deep learning",
-                "eye",
-                "glaucoma",
-                "nonarteritic anterior ischemic optic neuropathy (naion)",
-                "optic atrophy",
-                "optic disk",
-                "optic neuritis",
-                "optical coherence",
-                "tomography"
+                "diagnostic imaging",
+                "generative artificial intelligence",
+                "informatics (discipline)",
+                "laboratory test finding",
+                "large language models",
+                "quality improvement"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837614/jamaophthalmology_szanto_2025_oi_250042_1754518407.21116.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837938/shah_2025_ld_250182_1755198196.12517.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250042t1_1754518407.35223.png?Expires=2147483647&Signature=NN2NZCn~A~Sb~VhCXhrKoSmzQHD2Ik5F7oqNYlNv4LQNdAkVyuqEPCWgl01TJpg2uu6brYtMEEG2rswfe9CNMYH~AmDwAWjMBjcJetLnCu3k2H9bmksLXTMvOoLV-Ae4zq3VAjyrwjH00LbpTob2KP8JHz0eKQa1OexVZ8Ai47yn9FQaXgjjK84ZK1ADg~WUEg0Jk9VYLXXYrJOAI0ZocR8S1fWdtDv~WaZzinz-xZD2Q6VT81bqlL43NIQXFnv1MuUpJlMmiU-rrXTx8WDPzrwzvDaeOyj4TW~RMFMneZQwC6dsQpnS16mLo0MbOanqLl9ucEhHRb3HJVJ12GPKAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250182f1_1755198196.32594.png?Expires=2147483647&Signature=mE3TMVqLbH5v9ElUsDi3Kb~OLaLX8YSLvc5nN0J7zECuvHVqmOzlgUgzLa8rFqEPEUgwAlDdD-PU7u-ucFd8wLODBLtN5II-hVim5KWIgTL8L46KZWWaLD2HKQISaG0dP8Cvy~TXREbU-CUEpKGTYs73p74JB1R756lWX2ROjHbWp9R8YPYuijru~SGJQgZKQsCKEm1iYnd-dn9hlRqvEp-m9RFXZaOxZxvWDAKgWnNpJEI0WsLZvJO8rAhrcgo9tqhZIxBb37kSVja922JjuAxs2hICYzWWcc41vEmQB0i-jK9fn0Ws8NzLUXQTIAZ4kaVCq3HCdBLNDHaJ0Y5VjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "title": "AI Use for Injury Surveillance in Emergency Departments",
-            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
+            "title": "Intelligent, Human-Centric Delivery Is Needed to Maximize AI",
+            "summary": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
+            "content_text": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                    "name": "Carla M. Pugh, MD, PhD"
                 }
             ],
             "tags": [
-                "emergency service",
-                "ethics",
-                "hospital",
-                "informatics (discipline)",
-                "privacy"
+                "anchoring",
+                "artificial intelligence",
+                "clinical",
+                "cognitive load",
+                "computers",
+                "diagnosis",
+                "emotions",
+                "eye contact",
+                "friction",
+                "large language models",
+                "medical",
+                "mentorships",
+                "motivation",
+                "operating room",
+                "operative surgical procedures",
+                "script",
+                "simulators",
+                "speech",
+                "students",
+                "virtual reality",
+                "voice"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837238/jamasurgery_pugh_2025_ic_250026_1754078212.49663.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
