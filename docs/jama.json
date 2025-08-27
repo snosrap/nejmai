@@ -4,32 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "title": "Clinician Perspectives on AI-Generated Drafts of Patient Test Result Explanations",
-            "summary": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
-            "content_text": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "title": "Large Language Models for Rare Disease Diagnosis at the Undiagnosed Diseases Network",
+            "summary": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
+            "content_text": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
             "date_published": "2025-08-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shreya J. Shah, MD"
+                    "name": "Cathy Shyr, PhD"
                 }
             ],
             "tags": [
-                "diagnostic imaging",
-                "generative artificial intelligence",
-                "informatics (discipline)",
-                "laboratory test finding",
                 "large language models",
-                "quality improvement"
+                "rare diseases",
+                "undiagnosed diseases"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837938/shah_2025_ld_250182_1755198196.12517.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837941/shyr_2025_ld_250177_1755198200.64007.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250182f1_1755198196.32594.png?Expires=2147483647&Signature=mE3TMVqLbH5v9ElUsDi3Kb~OLaLX8YSLvc5nN0J7zECuvHVqmOzlgUgzLa8rFqEPEUgwAlDdD-PU7u-ucFd8wLODBLtN5II-hVim5KWIgTL8L46KZWWaLD2HKQISaG0dP8Cvy~TXREbU-CUEpKGTYs73p74JB1R756lWX2ROjHbWp9R8YPYuijru~SGJQgZKQsCKEm1iYnd-dn9hlRqvEp-m9RFXZaOxZxvWDAKgWnNpJEI0WsLZvJO8rAhrcgo9tqhZIxBb37kSVja922JjuAxs2hICYzWWcc41vEmQB0i-jK9fn0Ws8NzLUXQTIAZ4kaVCq3HCdBLNDHaJ0Y5VjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250177t1_1755198200.75203.png?Expires=2147483647&Signature=C06DkRiFQkWZeW9SR1rbKK7fmAyhHiB4tLZQHXVq~WtT1YDKS99t~tQhtydzET6CJQkldPO9Gn2wzRCs~VcLVCfCm7w8tipArnfAmHiry4HUjhDdf6Qbgs17sus8H7AY-riarrBsGEVhYpX2na-Hv0VT-BJpHvXB~5naRAftBxtyT5SjV8e-sPbJU2Y5p~ZXxDudvOn5IeKEeQA7yB0Di1U4scauL2sfN9vxKsfcDMwNJkTbSDN09zOjgTI9lU87O8aBtPZw5TV30u-dlMcgcMMxRrofOOfg9EnZCShVNBw8Mpoa4ioO8ZUpRK5YG-sk2Pg-b-mfiEdtcyIB5ib3Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
