@@ -4,72 +4,65 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
-            "title": "Large Language Models for Rare Disease Diagnosis at the Undiagnosed Diseases Network",
-            "summary": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
-            "content_text": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
-            "date_published": "2025-08-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "title": "A Digital Therapeutic Intervention for Inpatients With Elevated Suicide Risk: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the efficacy of a smartphone-based educational intervention in reducing suicidal behavior after discharge of patients hospitalized for a suicide attempt or suicidal ideation.",
+            "content_html": "<h3>Importance</h3><p>Suicide is a leading cause of death in the US. Suicide-specific cognitive behavior therapy (CBT) is effective for reducing suicide attempts but is difficult to implement.</p><h3>Objective</h3><p>To evaluate the efficacy of a smartphone-based digital therapeutic intervention designed to deliver suicide-focused CBT in reducing suicidal behavior among patients hospitalized for a suicide attempt or suicidal ideation.</p><h3>Design, Setting, and Participants</h3><p>This multisite, double-blind, randomized clinical trial was conducted in 6 psychiatric inpatient units across the US. Adult patients admitted with elevated suicide risk from April 2022 to April 2024 were included. Participants completed a baseline assessment and were randomly assigned to either the digital therapeutic group or control application group. The trial was stopped early by the Data Management Safety Board because it surpassed the prespecified futility boundary for the primary end point. Statistical analysis followed the intention-to-treat principle.</p><h3>Interventions</h3><p>The digital therapeutic intervention includes 12 sessions of smartphone-based educational modules (lasting 10-15 minutes each) drawn from CBT for suicide prevention. The active control is a 12-session smartphone-based application that delivers safety planning and psychoeducation about suicide. For both interventions, the first session was completed prior to hospital discharge and the remaining self-paced sessions could be completed after discharge. All participants also received treatment as usual, which included suicide risk assessment, supportive listening, crisis resources, clinician assessment, safety planning, and referral to outpatient treatment.</p><h3>Main Outcomes and Measures</h3><p>The primary end point was time (days) to first actual suicide attempt during follow-up. The secondary end points were change in suicidal ideation from baseline to week 24 (quantified as a change in the Scale for Suicide Ideation total score) and clinician-rated clinical improvement at week 24. The nonprespecified sensitivity analysis end point for suicide attempts was the rate of suicide attempts (actual, aborted, and interrupted). Prespecified subgroup analyses were also conducted to examine treatment effects among patients with vs without prior suicide attempts.</p><h3>Results</h3><p>A total of 339 participants (mean [SD] age, 27.9 [10.7] years; 224 females [66.1%]) were included. Follow-up data were available from 266 participants (78.5%). Time to first actual suicide attempt, the primary end point, was not significantly different across treatment groups (log-rank \u03c7<sup>2</sup><sub>1</sub>\u2009=\u20093.6;<i>P</i>\u2009=\u2009.06). Among the 170 participants with prior suicide attempts, nonprespecified sensitivity analyses indicated that the adjusted rate of follow-up suicide attempts was 58.3% lower in the digital therapeutic group than the control application group (0.70 vs 1.68 attempts per person-year; rate ratio [RR], 0.42 [95% CI, 0.18-0.95];<i>P</i>\u2009=\u2009.04), and the odds of clinical improvement were higher in the digital therapeutic group than the control application group (97.9% vs 87.5%; odds ratio, 7.59; 95% CI, 1.14-153.62;<i>P</i>\u2009=\u2009.04). Trajectories of suicidal ideation significantly differed between the digital therapeutic and control application groups (<i>F</i><sub>3,206</sub>\u2009=\u20092.9,<i>P</i>\u2009=\u2009.04), with decreased suicidal ideation through week 24 in the digital therapeutic group, but in the control application group, suicidal ideation decreased through week 12 and then increased at week 24. Nonprespecified dose-response analyses indicated the suicide attempt rate among patients with a prior suicide attempt decreased by 14.0% for every digital therapeutic module completed (adjusted RR, 0.86; 95% CI, 0.76-0.98;<i>P</i>\u2009=\u2009.02).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the digital therapeutic intervention did not change the time to first actual suicide attempt but helped to sustain reductions in suicidal ideation among inpatients with elevated suicide risk. However, among patients with prior suicide attempts, the digital therapeutic intervention helped reduce recurrent suicide attempts and increased the percentage of inpatients with clinician-rated clinical improvement.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05144685</p>",
+            "date_published": "2025-08-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Cathy Shyr, PhD"
+                    "name": "Craig J. Bryan, PsyD, ABPP"
                 }
             ],
             "tags": [
-                "large language models",
-                "rare diseases",
-                "undiagnosed diseases"
+                "cellular phone",
+                "cognitive therapy",
+                "feeling suicidal",
+                "group psychotherapy",
+                "posttreatment followup",
+                "psychiatry specialty",
+                "suicidal behavior",
+                "suicide",
+                "suicide attempt",
+                "suicide risk assessment",
+                "surrogate endpoints",
+                "therapeutic intervention"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837941/shyr_2025_ld_250177_1755198200.64007.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837367/bryan_2025_oi_250730_1753980323.56512.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250177t1_1755198200.75203.png?Expires=2147483647&Signature=C06DkRiFQkWZeW9SR1rbKK7fmAyhHiB4tLZQHXVq~WtT1YDKS99t~tQhtydzET6CJQkldPO9Gn2wzRCs~VcLVCfCm7w8tipArnfAmHiry4HUjhDdf6Qbgs17sus8H7AY-riarrBsGEVhYpX2na-Hv0VT-BJpHvXB~5naRAftBxtyT5SjV8e-sPbJU2Y5p~ZXxDudvOn5IeKEeQA7yB0Di1U4scauL2sfN9vxKsfcDMwNJkTbSDN09zOjgTI9lU87O8aBtPZw5TV30u-dlMcgcMMxRrofOOfg9EnZCShVNBw8Mpoa4ioO8ZUpRK5YG-sk2Pg-b-mfiEdtcyIB5ib3Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250730f1_1753980323.8456.png?Expires=2147483647&Signature=oUz~VyfII21~JYJTFq31fzdVCv7kA-MK2KY--XL~4rVe4g5Ot66~Za8uMM-1k~ahXS7ViTNAiAd2sjdxLVOhOzinidZrF27z5yGFa4aWCy0muleJn0-c7-q-R69hJPPf0QyVgU5p42w8grqpvifh~V7ffUbdNYYaCzRuY8tELlB-X5YsiLkLUp5cTNTqN~sD5GkFLS3KsYhqe-ovYnM3KXSK5zWNT8XjVi7M65ok0FgXJG1H~Wnndt3O0OK-6uAcJpurM7kvIJzdp~Kvp6IOthrKUf~P9Rz71lINaoSA9kEpZ-1BtOnUCQ18zde6WfiMpojgdjri7RtdJzLLsRKWzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "title": "Intelligent, Human-Centric Delivery Is Needed to Maximize AI",
-            "summary": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "content_text": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Carla M. Pugh, MD, PhD"
+                    "name": "Maximilian U. Friedrich, MD"
                 }
             ],
             "tags": [
-                "anchoring",
                 "artificial intelligence",
-                "clinical",
-                "cognitive load",
-                "computers",
-                "diagnosis",
-                "emotions",
-                "eye contact",
-                "friction",
-                "large language models",
-                "medical",
-                "mentorships",
-                "motivation",
-                "operating room",
-                "operative surgical procedures",
-                "script",
-                "simulators",
-                "speech",
-                "students",
-                "virtual reality",
-                "voice"
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837238/jamasurgery_pugh_2025_ic_250026_1754078212.49663.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
