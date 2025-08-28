@@ -4,75 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "title": "Clinician Perspectives on AI-Generated Drafts of Patient Test Result Explanations",
-            "summary": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
-            "content_text": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
-            "date_published": "2025-08-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "title": "Large Language Model Analysis of Reporting Quality of Randomized Clinical Trial Articles: A Systematic Review",
+            "summary": "This study uses a zero-shot large-language model to automatically assess compliance with the Consolidated Standards of Reporting Trials guideline for English-language randomized clinical trials published from 1966 to 2024.",
+            "content_html": "<h3>Importance</h3><p>Incomplete reporting in randomized clinical trials (RCTs) obscures bias and limits reproducibility. Manual audits for adherence to the Consolidated Standards of Reporting Trials (CONSORT) guideline cannot keep pace with publication volume.</p><h3>Objectives</h3><p>To build and validate a zero-shot large-language-model (LLM) pipeline for automated CONSORT assessment and to map reporting quality over time, biomedical disciplines, and trial features.</p><h3>Design, Setting, and Participants</h3><p>This systematic review included RCTs that were indexed on PubMed, available in English, open access, human-participant research, and published between MONTH 1966 to MONTH 2024. PubMed PDFs were converted to XML and linked with Semantic Scholar and ClinicalTrials.gov metadata. Chat GPT-4o-mini was tested on the 50-article CONSORT\u2013Text Classification Model (CONSORT-TM) benchmark, checked by experts in 70 randomly sampled RCTs, and then applied to the full sample.</p><h3>Exposure</h3><p>Publication year, biomedical discipline, funding source, trial phase, US Food and Drug Administration regulation, and oversight features.</p><h3>Main Outcomes and Measures</h3><p>The LLM judged whether each of 21 CONSORT items was met. Primary outcomes were (1) model performance vs expert review (precision, recall, and macro F1 score) and (2) proportion of items reported.</p><h3>Results</h3><p>Of 53\u202f137 screened PDFs, 21\u202f041 RCTs (median [IQR] publication year, 2014 [2003-2020]; 30 disciplines) were included, with a registry-linked subset of 1790 RCTs that had a median (IQR) planned enrollment of 210 (95-440) participants. In the 70-article validation set (2210 decisions) LLM outputs matched experts 91.7% of the time (2026 of 2210 decision); the macro F1 score on CONSORT-TM was 0.86 (95% CI, 0.84-0.87). Mean CONSORT compliance increased from 27.3% (95% CI, 27.0%-27.6%) in 1966 to 1990 to 57.0% (95% CI, 56.8%-57.2%) in 2010 to 2024. However, reporting critical elements remained uncommon, such as allocation-concealment mechanism (16.1% [95% CI, 15.6%-16.6%]) and external-validity discussion (1.6% [95% CI, 1.5%-1.8%]). Compliance varied across disciplines from 35.2% (95% CI, 34.8%-35.6%) in pharmacology to 63.4% (95% CI, 62.1%-64.7%) in urology and showed only negligible associations with clinical trial characteristics (all Cramer<i>V</i>&lt;0.10).</p><h3>Conclusions and Relevance</h3><p>In this systemic review of RCTs, a zero-shot LLM audited CONSORT adherence at scale, uncovering persistent reporting gaps and wide disciplinary variation across biomedical fields, underscoring the need for targeted editorial action to boost transparency and reproducibility.</p>",
+            "date_published": "2025-08-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shreya J. Shah, MD"
+                    "name": "Apoorva Srinivasan, MS"
                 }
             ],
             "tags": [
-                "diagnostic imaging",
-                "generative artificial intelligence",
-                "informatics (discipline)",
-                "laboratory test finding",
+                "benchmarking",
+                "guidelines",
                 "large language models",
-                "quality improvement"
+                "performance reporting"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837938/shah_2025_ld_250182_1755198196.12517.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2838106/srinivasan_2025_oi_250829_1755710567.16303.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250182f1_1755198196.32594.png?Expires=2147483647&Signature=mE3TMVqLbH5v9ElUsDi3Kb~OLaLX8YSLvc5nN0J7zECuvHVqmOzlgUgzLa8rFqEPEUgwAlDdD-PU7u-ucFd8wLODBLtN5II-hVim5KWIgTL8L46KZWWaLD2HKQISaG0dP8Cvy~TXREbU-CUEpKGTYs73p74JB1R756lWX2ROjHbWp9R8YPYuijru~SGJQgZKQsCKEm1iYnd-dn9hlRqvEp-m9RFXZaOxZxvWDAKgWnNpJEI0WsLZvJO8rAhrcgo9tqhZIxBb37kSVja922JjuAxs2hICYzWWcc41vEmQB0i-jK9fn0Ws8NzLUXQTIAZ4kaVCq3HCdBLNDHaJ0Y5VjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "title": "Intelligent, Human-Centric Delivery Is Needed to Maximize AI",
-            "summary": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "content_text": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "date_published": "2025-08-06T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Carla M. Pugh, MD, PhD"
-                }
-            ],
-            "tags": [
-                "anchoring",
-                "artificial intelligence",
-                "clinical",
-                "cognitive load",
-                "computers",
-                "diagnosis",
-                "emotions",
-                "eye contact",
-                "friction",
-                "large language models",
-                "medical",
-                "mentorships",
-                "motivation",
-                "operating room",
-                "operative surgical procedures",
-                "script",
-                "simulators",
-                "speech",
-                "students",
-                "virtual reality",
-                "voice"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837238/jamasurgery_pugh_2025_ic_250026_1754078212.49663.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250829f1_1755710567.26803.png?Expires=2147483647&Signature=p7LnLTyebxOuAgds0kccJscmb~dRICv7YEa7fDigxZBro~ORriTSqRnf8GEhy9Qttg-fJaw46BSkdhl3HxgyxOIpkar7w0VuIEa6erVuVUUrIOcWndrm3uSlKty5I1~pHEnZuv9MhXy1LJyRlE4ykFvwElJEk70YjZfXd-aC~YIgD43JE4dSg2Gw~-9-OUYzynr1AeDo9CZLKD7P6vpM2dJYrjMrINo~o38reWj86FScElsmf9wuqiod8~skv0RacjWs~qVZtSG8O39FiQNKjM0b34IOuZ5ACodSdPegm~JBoB6r6NzHQ6Bs8JVe1~UEOLieATv25JgytxUGQKU7lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -960,6 +915,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
