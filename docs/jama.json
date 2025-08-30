@@ -4,32 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
-            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
-            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
-            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
-            "date_published": "2025-08-20T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
+            "title": "Clinician Perspectives on AI-Generated Drafts of Patient Test Result Explanations",
+            "summary": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
+            "content_text": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
+            "date_published": "2025-08-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Arunashis Sau, PhD"
+                    "name": "Shreya J. Shah, MD"
                 }
             ],
             "tags": [
-                "aire gene",
-                "artificial intelligence",
-                "complete atrioventricular block",
-                "deep learning",
-                "electrocardiogram",
-                "heart block"
+                "diagnostic imaging",
+                "generative artificial intelligence",
+                "informatics (discipline)",
+                "laboratory test finding",
+                "large language models",
+                "quality improvement"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837938/shah_2025_ld_250182_1755198196.12517.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250182f1_1755198196.32594.png?Expires=2147483647&Signature=mE3TMVqLbH5v9ElUsDi3Kb~OLaLX8YSLvc5nN0J7zECuvHVqmOzlgUgzLa8rFqEPEUgwAlDdD-PU7u-ucFd8wLODBLtN5II-hVim5KWIgTL8L46KZWWaLD2HKQISaG0dP8Cvy~TXREbU-CUEpKGTYs73p74JB1R756lWX2ROjHbWp9R8YPYuijru~SGJQgZKQsCKEm1iYnd-dn9hlRqvEp-m9RFXZaOxZxvWDAKgWnNpJEI0WsLZvJO8rAhrcgo9tqhZIxBb37kSVja922JjuAxs2hICYzWWcc41vEmQB0i-jK9fn0Ws8NzLUXQTIAZ4kaVCq3HCdBLNDHaJ0Y5VjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Larry Han, PhD"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -817,31 +840,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
-            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
-            "date_published": "2024-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "elderly",
-                "exercise",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
