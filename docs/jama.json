@@ -4,51 +4,25 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "title": "Clinician Perspectives on AI-Generated Drafts of Patient Test Result Explanations",
-            "summary": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
-            "content_text": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
-            "date_published": "2025-08-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "title": "Advancing Toward Clinical Deployment of AI-Generated Discharge Summaries\u2014Beyond the Bench",
+            "summary": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "content_text": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "date_published": "2025-08-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shreya J. Shah, MD"
+                    "name": "Charumathi Raghu Subramanian, MD"
                 }
             ],
             "tags": [
-                "diagnostic imaging",
-                "generative artificial intelligence",
+                "human placental lactogen",
                 "informatics (discipline)",
-                "laboratory test finding",
-                "large language models",
-                "quality improvement"
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837938/shah_2025_ld_250182_1755198196.12517.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250182f1_1755198196.32594.png?Expires=2147483647&Signature=mE3TMVqLbH5v9ElUsDi3Kb~OLaLX8YSLvc5nN0J7zECuvHVqmOzlgUgzLa8rFqEPEUgwAlDdD-PU7u-ucFd8wLODBLtN5II-hVim5KWIgTL8L46KZWWaLD2HKQISaG0dP8Cvy~TXREbU-CUEpKGTYs73p74JB1R756lWX2ROjHbWp9R8YPYuijru~SGJQgZKQsCKEm1iYnd-dn9hlRqvEp-m9RFXZaOxZxvWDAKgWnNpJEI0WsLZvJO8rAhrcgo9tqhZIxBb37kSVja922JjuAxs2hICYzWWcc41vEmQB0i-jK9fn0Ws8NzLUXQTIAZ4kaVCq3HCdBLNDHaJ0Y5VjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
-            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
-            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
-            "date_published": "2025-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Larry Han, PhD"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837488/raghu_subramanian_2025_ic_250185_1754331303.51111.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
@@ -742,6 +716,37 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
