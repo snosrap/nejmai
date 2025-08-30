@@ -4,63 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
-            "title": "A Digital Therapeutic Intervention for Inpatients With Elevated Suicide Risk: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial evaluates the efficacy of a smartphone-based educational intervention in reducing suicidal behavior after discharge of patients hospitalized for a suicide attempt or suicidal ideation.",
-            "content_html": "<h3>Importance</h3><p>Suicide is a leading cause of death in the US. Suicide-specific cognitive behavior therapy (CBT) is effective for reducing suicide attempts but is difficult to implement.</p><h3>Objective</h3><p>To evaluate the efficacy of a smartphone-based digital therapeutic intervention designed to deliver suicide-focused CBT in reducing suicidal behavior among patients hospitalized for a suicide attempt or suicidal ideation.</p><h3>Design, Setting, and Participants</h3><p>This multisite, double-blind, randomized clinical trial was conducted in 6 psychiatric inpatient units across the US. Adult patients admitted with elevated suicide risk from April 2022 to April 2024 were included. Participants completed a baseline assessment and were randomly assigned to either the digital therapeutic group or control application group. The trial was stopped early by the Data Management Safety Board because it surpassed the prespecified futility boundary for the primary end point. Statistical analysis followed the intention-to-treat principle.</p><h3>Interventions</h3><p>The digital therapeutic intervention includes 12 sessions of smartphone-based educational modules (lasting 10-15 minutes each) drawn from CBT for suicide prevention. The active control is a 12-session smartphone-based application that delivers safety planning and psychoeducation about suicide. For both interventions, the first session was completed prior to hospital discharge and the remaining self-paced sessions could be completed after discharge. All participants also received treatment as usual, which included suicide risk assessment, supportive listening, crisis resources, clinician assessment, safety planning, and referral to outpatient treatment.</p><h3>Main Outcomes and Measures</h3><p>The primary end point was time (days) to first actual suicide attempt during follow-up. The secondary end points were change in suicidal ideation from baseline to week 24 (quantified as a change in the Scale for Suicide Ideation total score) and clinician-rated clinical improvement at week 24. The nonprespecified sensitivity analysis end point for suicide attempts was the rate of suicide attempts (actual, aborted, and interrupted). Prespecified subgroup analyses were also conducted to examine treatment effects among patients with vs without prior suicide attempts.</p><h3>Results</h3><p>A total of 339 participants (mean [SD] age, 27.9 [10.7] years; 224 females [66.1%]) were included. Follow-up data were available from 266 participants (78.5%). Time to first actual suicide attempt, the primary end point, was not significantly different across treatment groups (log-rank \u03c7<sup>2</sup><sub>1</sub>\u2009=\u20093.6;<i>P</i>\u2009=\u2009.06). Among the 170 participants with prior suicide attempts, nonprespecified sensitivity analyses indicated that the adjusted rate of follow-up suicide attempts was 58.3% lower in the digital therapeutic group than the control application group (0.70 vs 1.68 attempts per person-year; rate ratio [RR], 0.42 [95% CI, 0.18-0.95];<i>P</i>\u2009=\u2009.04), and the odds of clinical improvement were higher in the digital therapeutic group than the control application group (97.9% vs 87.5%; odds ratio, 7.59; 95% CI, 1.14-153.62;<i>P</i>\u2009=\u2009.04). Trajectories of suicidal ideation significantly differed between the digital therapeutic and control application groups (<i>F</i><sub>3,206</sub>\u2009=\u20092.9,<i>P</i>\u2009=\u2009.04), with decreased suicidal ideation through week 24 in the digital therapeutic group, but in the control application group, suicidal ideation decreased through week 12 and then increased at week 24. Nonprespecified dose-response analyses indicated the suicide attempt rate among patients with a prior suicide attempt decreased by 14.0% for every digital therapeutic module completed (adjusted RR, 0.86; 95% CI, 0.76-0.98;<i>P</i>\u2009=\u2009.02).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the digital therapeutic intervention did not change the time to first actual suicide attempt but helped to sustain reductions in suicidal ideation among inpatients with elevated suicide risk. However, among patients with prior suicide attempts, the digital therapeutic intervention helped reduce recurrent suicide attempts and increased the percentage of inpatients with clinician-rated clinical improvement.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05144685</p>",
-            "date_published": "2025-08-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
+            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
+            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
+            "date_published": "2025-08-20T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Craig J. Bryan, PsyD, ABPP"
+                    "name": "Arunashis Sau, PhD"
                 }
             ],
             "tags": [
-                "cellular phone",
-                "cognitive therapy",
-                "feeling suicidal",
-                "group psychotherapy",
-                "posttreatment followup",
-                "psychiatry specialty",
-                "suicidal behavior",
-                "suicide",
-                "suicide attempt",
-                "suicide risk assessment",
-                "surrogate endpoints",
-                "therapeutic intervention"
+                "aire gene",
+                "artificial intelligence",
+                "complete atrioventricular block",
+                "deep learning",
+                "electrocardiogram",
+                "heart block"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837367/bryan_2025_oi_250730_1753980323.56512.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250730f1_1753980323.8456.png?Expires=2147483647&Signature=oUz~VyfII21~JYJTFq31fzdVCv7kA-MK2KY--XL~4rVe4g5Ot66~Za8uMM-1k~ahXS7ViTNAiAd2sjdxLVOhOzinidZrF27z5yGFa4aWCy0muleJn0-c7-q-R69hJPPf0QyVgU5p42w8grqpvifh~V7ffUbdNYYaCzRuY8tELlB-X5YsiLkLUp5cTNTqN~sD5GkFLS3KsYhqe-ovYnM3KXSK5zWNT8XjVi7M65ok0FgXJG1H~Wnndt3O0OK-6uAcJpurM7kvIJzdp~Kvp6IOthrKUf~P9Rz71lINaoSA9kEpZ-1BtOnUCQ18zde6WfiMpojgdjri7RtdJzLLsRKWzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2837442",
-            "title": "Changing Opinions About AI in Health Care",
-            "summary": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
-            "content_text": "As AI tools like large language models move rapidly toward real-world application in health care, key questions remain about how best to evaluate them. A JAMA+ AI podcast features David Rhew, MD, Microsoft\u2019s Global Chief Medical Officer, discussing the opportunities and challenges. Reflecting on the rapid evolution of the technology, Rhew notes that even opinions about the technology from 6 months ago \u201c may need to be reassessed\u2014because it\u2019s definitely gotten a lot better.\u201d He also addresses the importance of ensuring AI literacy for clinicians.",
-            "date_published": "2025-08-07T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "large language models",
-                "literacy",
-                "podcasts as topic"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2837442/jama_perlis_2025_en_250007_1754076229.58281.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250007fa_1754076229.62781.png?Expires=2147483647&Signature=SRTOxuJy0kCvSFpzF9zHfZKAgv0yAtF0QPxx~QZ2tuuiFM9qckSrW4VD-8u1hryUCbhk4XUKvn2ZFIyMTFo-tryMiapjWFfzBpwkPaiRt2goz04BRPis99Xflgvm3gYjcn1i4aXX4OmrMRQNs-pyNL-~hEz502rCd2c3LndkIK-WH55vhscEezU4-xjQ9WRPIfwkREHpsyoeacrS466CGcac8GwPH2Mto-JuojzrmGK159fLuLGVUc5aP7W64vjwovQnHXqrYfkF3gP0k3upa5ziYRlIj2qKhlHrfVH6V3WXMJrDTA4C8QRX45KW7wolDYdxUjqQ5KrNl899Q0INQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -848,6 +817,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
+            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
+            "date_published": "2024-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "exercise",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
