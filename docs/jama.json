@@ -4,27 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
-            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "date_published": "2025-07-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
+            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
+            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ellen Wright Clayton, MD, JD"
+                    "name": "Robert C. Grant, MD, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "chronic",
+                "cisplatin",
+                "kidney failure",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1753108796.12668.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Anai N. Kothari, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "big data",
+                "health equity"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -888,33 +916,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
