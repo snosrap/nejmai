@@ -4,55 +4,32 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
-            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
-            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
-            "date_published": "2025-08-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
+            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
+            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
+            "date_published": "2025-08-20T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robert C. Grant, MD, PhD"
+                    "name": "Arunashis Sau, PhD"
                 }
             ],
             "tags": [
-                "chronic",
-                "cisplatin",
-                "kidney failure",
-                "machine learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Anai N. Kothari, MD"
-                }
-            ],
-            "tags": [
+                "aire gene",
                 "artificial intelligence",
-                "big data",
-                "health equity"
+                "complete atrioventricular block",
+                "deep learning",
+                "electrocardiogram",
+                "heart block"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -742,6 +719,37 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
