@@ -4,53 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "title": "Establishing Consensual Terms of AS-OCT Anatomical Landmarks",
-            "summary": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "content_text": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "date_published": "2025-08-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
+            "title": "Optic Nerve Atrophy Conditions Associated With 3D Unsegmented Optical Coherence Tomography Volumes Using Deep",
+            "summary": "This cross-sectional study uses clinical trial data to test whether a 3-dimensional deep learning model trained on unsegmented optical coherence tomography scans of the optic nerve head can reliably distinguish optic atrophy in both eyes with disease and healthy eyes.",
+            "content_html": "<h3>Importance</h3><p>Accurate differentiation of optic nerve head (ONH) atrophy is vital for guiding diagnosis and treatment of conditions such as glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), and optic neuritis. Traditional 2-dimensional assessments may overlook subtle, volumetric changes.</p><h3>Objective</h3><p>To determine whether a 3-dimensional (3D) deep learning model trained on unsegmented ONH optical coherence tomography (OCT) scans can reliably distinguish optic atrophy in glaucoma, NAION, optic neuritis, and healthy eyes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study used data from multiple clinical trials and referral centers (2008-2025), including randomized trials, longitudinal studies, and referral clinics. Participants included patients with glaucoma, NAION, or optic neuritis and healthy control patients.</p><h3>Exposures</h3><p>Three ResNet-3D-18 models were trained using 5-fold stratified cross-validation. One assessed the full OCT volume, another focused only on the peripapillary region (PPR), and the third considered only the ONH. Identical data splits were used to allow direct performance comparison.</p><h3>Main Outcomes and Measures</h3><p>Classification accuracy, macro area under the receiver operating characteristic curve (AUC-ROC), precision, recall, and F1 scores, aggregated across all validation folds. Confusion matrices were generated to characterize misclassifications.</p><h3>Results</h3><p>A total of 7014 Cirrus ONH OCT scans from 1382 eyes of glaucoma (n\u2009=\u2009113), NAION (n\u2009=\u2009311), optic neuritis (n\u2009=\u2009163), and healthy controls (n\u2009=\u2009715) were analyzed. The mean (SD) age was 54.2 (16.9) years; there were 733 (65%) male patients and 402 (35%) female patients. The entire-volume model achieved 88.9% accuracy (macro AUC-ROC, 0.977; 95% CI, 0.974-0.979) and F1 scores of 0.94, 0.87, 0.78, and 0.91 for glaucoma, NAION, optic neuritis, and healthy eyes, respectively. The PPR-only model reached 85.9% accuracy (AUC-ROC, 0.970; 95% CI, 0.967-0.972), while the ONH-only model attained 87.0% accuracy (AUC-ROC, 0.972; 95% CI, 0.970-0.975). Both achieved F1 scores from 0.71 to 0.94. Optic neuritis presented the greatest classification challenge, misclassified as NAION or healthy when axonal loss was severe or minimal. Activation maps revealed disease-specific regions of interest in the retina, including the retinal nerve fiber layer, ganglion cell layer, and retinal pigment epithelium.</p><h3>Conclusions and Relevance</h3><p>Deep learning\u2013based analysis of unsegmented OCT scans reliably distinguished between different forms of optic nerve atrophy, suggesting subtle, disease-specific structural patterns. This automated approach may support diagnostic efforts, guide clinical management of optic neuropathies, and complement less standardized imaging modalities and subjective clinical impressions.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Poemen P. Chan, MBBS, FCOphthHK"
+                    "name": "David Szanto, BA"
                 }
             ],
             "tags": [
-                "anatomical landmarks"
+                "atrophy",
+                "deep learning",
+                "eye",
+                "glaucoma",
+                "nonarteritic anterior ischemic optic neuropathy (naion)",
+                "optic atrophy",
+                "optic disk",
+                "optic neuritis",
+                "optical coherence",
+                "tomography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837463/jamaophthalmology_chan_2025_ic_250031_1754085929.98219.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837614/jamaophthalmology_szanto_2025_oi_250042_1754518407.21116.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250042t1_1754518407.35223.png?Expires=2147483647&Signature=NN2NZCn~A~Sb~VhCXhrKoSmzQHD2Ik5F7oqNYlNv4LQNdAkVyuqEPCWgl01TJpg2uu6brYtMEEG2rswfe9CNMYH~AmDwAWjMBjcJetLnCu3k2H9bmksLXTMvOoLV-Ae4zq3VAjyrwjH00LbpTob2KP8JHz0eKQa1OexVZ8Ai47yn9FQaXgjjK84ZK1ADg~WUEg0Jk9VYLXXYrJOAI0ZocR8S1fWdtDv~WaZzinz-xZD2Q6VT81bqlL43NIQXFnv1MuUpJlMmiU-rrXTx8WDPzrwzvDaeOyj4TW~RMFMneZQwC6dsQpnS16mLo0MbOanqLl9ucEhHRb3HJVJ12GPKAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
+            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
+            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
+            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
+            "date_published": "2025-06-26T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Anam Akhlaq, MBBS"
+                }
+            ],
+            "tags": [
+                "generative artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1754685078.01969.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Tyler J. Loftus, MD, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "chatbots",
-                "knowledge acquisition",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
