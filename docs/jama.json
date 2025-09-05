@@ -4,59 +4,63 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
-            "title": "Optic Nerve Atrophy Conditions Associated With 3D Unsegmented Optical Coherence Tomography Volumes Using Deep",
-            "summary": "This cross-sectional study uses clinical trial data to test whether a 3-dimensional deep learning model trained on unsegmented optical coherence tomography scans of the optic nerve head can reliably distinguish optic atrophy in both eyes with disease and healthy eyes.",
-            "content_html": "<h3>Importance</h3><p>Accurate differentiation of optic nerve head (ONH) atrophy is vital for guiding diagnosis and treatment of conditions such as glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), and optic neuritis. Traditional 2-dimensional assessments may overlook subtle, volumetric changes.</p><h3>Objective</h3><p>To determine whether a 3-dimensional (3D) deep learning model trained on unsegmented ONH optical coherence tomography (OCT) scans can reliably distinguish optic atrophy in glaucoma, NAION, optic neuritis, and healthy eyes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study used data from multiple clinical trials and referral centers (2008-2025), including randomized trials, longitudinal studies, and referral clinics. Participants included patients with glaucoma, NAION, or optic neuritis and healthy control patients.</p><h3>Exposures</h3><p>Three ResNet-3D-18 models were trained using 5-fold stratified cross-validation. One assessed the full OCT volume, another focused only on the peripapillary region (PPR), and the third considered only the ONH. Identical data splits were used to allow direct performance comparison.</p><h3>Main Outcomes and Measures</h3><p>Classification accuracy, macro area under the receiver operating characteristic curve (AUC-ROC), precision, recall, and F1 scores, aggregated across all validation folds. Confusion matrices were generated to characterize misclassifications.</p><h3>Results</h3><p>A total of 7014 Cirrus ONH OCT scans from 1382 eyes of glaucoma (n\u2009=\u2009113), NAION (n\u2009=\u2009311), optic neuritis (n\u2009=\u2009163), and healthy controls (n\u2009=\u2009715) were analyzed. The mean (SD) age was 54.2 (16.9) years; there were 733 (65%) male patients and 402 (35%) female patients. The entire-volume model achieved 88.9% accuracy (macro AUC-ROC, 0.977; 95% CI, 0.974-0.979) and F1 scores of 0.94, 0.87, 0.78, and 0.91 for glaucoma, NAION, optic neuritis, and healthy eyes, respectively. The PPR-only model reached 85.9% accuracy (AUC-ROC, 0.970; 95% CI, 0.967-0.972), while the ONH-only model attained 87.0% accuracy (AUC-ROC, 0.972; 95% CI, 0.970-0.975). Both achieved F1 scores from 0.71 to 0.94. Optic neuritis presented the greatest classification challenge, misclassified as NAION or healthy when axonal loss was severe or minimal. Activation maps revealed disease-specific regions of interest in the retina, including the retinal nerve fiber layer, ganglion cell layer, and retinal pigment epithelium.</p><h3>Conclusions and Relevance</h3><p>Deep learning\u2013based analysis of unsegmented OCT scans reliably distinguished between different forms of optic nerve atrophy, suggesting subtle, disease-specific structural patterns. This automated approach may support diagnostic efforts, guide clinical management of optic neuropathies, and complement less standardized imaging modalities and subjective clinical impressions.</p>",
-            "date_published": "2025-08-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "title": "A Digital Therapeutic Intervention for Inpatients With Elevated Suicide Risk: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the efficacy of a smartphone-based educational intervention in reducing suicidal behavior after discharge of patients hospitalized for a suicide attempt or suicidal ideation.",
+            "content_html": "<h3>Importance</h3><p>Suicide is a leading cause of death in the US. Suicide-specific cognitive behavior therapy (CBT) is effective for reducing suicide attempts but is difficult to implement.</p><h3>Objective</h3><p>To evaluate the efficacy of a smartphone-based digital therapeutic intervention designed to deliver suicide-focused CBT in reducing suicidal behavior among patients hospitalized for a suicide attempt or suicidal ideation.</p><h3>Design, Setting, and Participants</h3><p>This multisite, double-blind, randomized clinical trial was conducted in 6 psychiatric inpatient units across the US. Adult patients admitted with elevated suicide risk from April 2022 to April 2024 were included. Participants completed a baseline assessment and were randomly assigned to either the digital therapeutic group or control application group. The trial was stopped early by the Data Management Safety Board because it surpassed the prespecified futility boundary for the primary end point. Statistical analysis followed the intention-to-treat principle.</p><h3>Interventions</h3><p>The digital therapeutic intervention includes 12 sessions of smartphone-based educational modules (lasting 10-15 minutes each) drawn from CBT for suicide prevention. The active control is a 12-session smartphone-based application that delivers safety planning and psychoeducation about suicide. For both interventions, the first session was completed prior to hospital discharge and the remaining self-paced sessions could be completed after discharge. All participants also received treatment as usual, which included suicide risk assessment, supportive listening, crisis resources, clinician assessment, safety planning, and referral to outpatient treatment.</p><h3>Main Outcomes and Measures</h3><p>The primary end point was time (days) to first actual suicide attempt during follow-up. The secondary end points were change in suicidal ideation from baseline to week 24 (quantified as a change in the Scale for Suicide Ideation total score) and clinician-rated clinical improvement at week 24. The nonprespecified sensitivity analysis end point for suicide attempts was the rate of suicide attempts (actual, aborted, and interrupted). Prespecified subgroup analyses were also conducted to examine treatment effects among patients with vs without prior suicide attempts.</p><h3>Results</h3><p>A total of 339 participants (mean [SD] age, 27.9 [10.7] years; 224 females [66.1%]) were included. Follow-up data were available from 266 participants (78.5%). Time to first actual suicide attempt, the primary end point, was not significantly different across treatment groups (log-rank \u03c7<sup>2</sup><sub>1</sub>\u2009=\u20093.6;<i>P</i>\u2009=\u2009.06). Among the 170 participants with prior suicide attempts, nonprespecified sensitivity analyses indicated that the adjusted rate of follow-up suicide attempts was 58.3% lower in the digital therapeutic group than the control application group (0.70 vs 1.68 attempts per person-year; rate ratio [RR], 0.42 [95% CI, 0.18-0.95];<i>P</i>\u2009=\u2009.04), and the odds of clinical improvement were higher in the digital therapeutic group than the control application group (97.9% vs 87.5%; odds ratio, 7.59; 95% CI, 1.14-153.62;<i>P</i>\u2009=\u2009.04). Trajectories of suicidal ideation significantly differed between the digital therapeutic and control application groups (<i>F</i><sub>3,206</sub>\u2009=\u20092.9,<i>P</i>\u2009=\u2009.04), with decreased suicidal ideation through week 24 in the digital therapeutic group, but in the control application group, suicidal ideation decreased through week 12 and then increased at week 24. Nonprespecified dose-response analyses indicated the suicide attempt rate among patients with a prior suicide attempt decreased by 14.0% for every digital therapeutic module completed (adjusted RR, 0.86; 95% CI, 0.76-0.98;<i>P</i>\u2009=\u2009.02).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the digital therapeutic intervention did not change the time to first actual suicide attempt but helped to sustain reductions in suicidal ideation among inpatients with elevated suicide risk. However, among patients with prior suicide attempts, the digital therapeutic intervention helped reduce recurrent suicide attempts and increased the percentage of inpatients with clinician-rated clinical improvement.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05144685</p>",
+            "date_published": "2025-08-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "David Szanto, BA"
+                    "name": "Craig J. Bryan, PsyD, ABPP"
                 }
             ],
             "tags": [
-                "atrophy",
-                "deep learning",
-                "eye",
-                "glaucoma",
-                "nonarteritic anterior ischemic optic neuropathy (naion)",
-                "optic atrophy",
-                "optic disk",
-                "optic neuritis",
-                "optical coherence",
-                "tomography"
+                "cellular phone",
+                "cognitive therapy",
+                "feeling suicidal",
+                "group psychotherapy",
+                "posttreatment followup",
+                "psychiatry specialty",
+                "suicidal behavior",
+                "suicide",
+                "suicide attempt",
+                "suicide risk assessment",
+                "surrogate endpoints",
+                "therapeutic intervention"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837614/jamaophthalmology_szanto_2025_oi_250042_1754518407.21116.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837367/bryan_2025_oi_250730_1753980323.56512.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250042t1_1754518407.35223.png?Expires=2147483647&Signature=NN2NZCn~A~Sb~VhCXhrKoSmzQHD2Ik5F7oqNYlNv4LQNdAkVyuqEPCWgl01TJpg2uu6brYtMEEG2rswfe9CNMYH~AmDwAWjMBjcJetLnCu3k2H9bmksLXTMvOoLV-Ae4zq3VAjyrwjH00LbpTob2KP8JHz0eKQa1OexVZ8Ai47yn9FQaXgjjK84ZK1ADg~WUEg0Jk9VYLXXYrJOAI0ZocR8S1fWdtDv~WaZzinz-xZD2Q6VT81bqlL43NIQXFnv1MuUpJlMmiU-rrXTx8WDPzrwzvDaeOyj4TW~RMFMneZQwC6dsQpnS16mLo0MbOanqLl9ucEhHRb3HJVJ12GPKAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250730f1_1753980323.8456.png?Expires=2147483647&Signature=oUz~VyfII21~JYJTFq31fzdVCv7kA-MK2KY--XL~4rVe4g5Ot66~Za8uMM-1k~ahXS7ViTNAiAd2sjdxLVOhOzinidZrF27z5yGFa4aWCy0muleJn0-c7-q-R69hJPPf0QyVgU5p42w8grqpvifh~V7ffUbdNYYaCzRuY8tELlB-X5YsiLkLUp5cTNTqN~sD5GkFLS3KsYhqe-ovYnM3KXSK5zWNT8XjVi7M65ok0FgXJG1H~Wnndt3O0OK-6uAcJpurM7kvIJzdp~Kvp6IOthrKUf~P9Rz71lINaoSA9kEpZ-1BtOnUCQ18zde6WfiMpojgdjri7RtdJzLLsRKWzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
-            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
-            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
-            "date_published": "2025-06-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835280",
+            "title": "Bridging the Gap Between Developers and Implementers in Health AI",
+            "summary": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "content_text": "This Viewpoint describes opportunities for health care organizations to close gaps between the development and implementation of artificial intelligence using third-party enablers for training, adherence monitoring, local governance, and evidence generation.",
+            "date_published": "2025-06-20T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anam Akhlaq, MBBS"
+                    "name": "Michael J. Pencina, PhD"
                 }
             ],
             "tags": [
-                "generative artificial intelligence"
+                "artificial intelligence",
+                "health policy",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1754685078.01969.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2835280/pencina_2025_vp_250017_1749148938.67942.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939627/avp250017t1_1749148938.84406.png?Expires=2147483647&Signature=jkog3PtzPJMtl5jp5MsCR8cUuBrhjb1vh1lI5O-rBLM9wL5oCYzLehG9W21tycXA0qVM166j1OZJfQPs~IX8hsTzuEI5o6~Me4PAakDsm-o1x0dl0J05gplocy-All56k08EHyqj1m0Nvtbc6RQgMS~wZDnBeh~wgLyXXyh6f-Jgm3EfTxWFDsQ1E0R-8rObk1X-8HH2vRrKA5ctLhFhKccdS4n9PjkRHQTjk19ZF9BWAR7XN8f~gr3Pfr9lIVUdHoq5bDsIXVk07i9nLzXLU0k8XKtH8G9EJ8VKZ~yRDil5me~6Qfuw9PvSkwhigzhpI1cr0fXMb-ilYErIZcElQw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
