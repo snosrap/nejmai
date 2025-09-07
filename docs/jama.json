@@ -4,59 +4,79 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
-            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "date_published": "2025-07-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
+            "title": "Intelligent, Human-Centric Delivery Is Needed to Maximize AI",
+            "summary": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
+            "content_text": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anjali D. Deshmukh, MD, JD"
+                    "name": "Carla M. Pugh, MD, PhD"
                 }
             ],
             "tags": [
+                "anchoring",
                 "artificial intelligence",
-                "biological products",
-                "ethics",
-                "facilitation",
-                "guidelines",
-                "life cycle stages",
-                "united states food and drug administration"
+                "clinical",
+                "cognitive load",
+                "computers",
+                "diagnosis",
+                "emotions",
+                "eye contact",
+                "friction",
+                "large language models",
+                "medical",
+                "mentorships",
+                "motivation",
+                "operating room",
+                "operative surgical procedures",
+                "script",
+                "simulators",
+                "speech",
+                "students",
+                "virtual reality",
+                "voice"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1755882468.77106.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Tyler J. Loftus, MD, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "chatbots",
-                "knowledge acquisition",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837238/jamasurgery_pugh_2025_ic_250026_1754078212.49663.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
+            "title": "Deep Learning Model of Primary Tumor and Metastatic Cervical Lymph Nodes From CT for Outcome Predictions in",
+            "summary": "This prognostic study tests a computed tomography\u2013based deep learning model that integrates primary tumor and lymph node features to predict outcomes in p16+ oropharyngeal squamous cell carcinoma and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.",
+            "content_html": "<h3>Importance</h3><p>Primary tumor (PT) and metastatic cervical lymph node (LN) characteristics are highly associated with oropharyngeal squamous cell carcinoma (OPSCC) prognosis. Currently, there is a lack of studies to combine imaging characteristics of both regions for predictions of p16+ OPSCC outcomes.</p><h3>Objectives</h3><p>To develop and validate a computed tomography (CT)\u2013based deep learning classifier that integrates PT and LN features to predict outcomes in p16+ OPSCC and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.</p><h3>Design, Setting, and Participants</h3><p>In this retrospective prognostic study, radiographic CT scans were analyzed of 811 patients with p16+ OPSCC treated with definitive radiotherapy or chemoradiotherapy from 3 independent cohorts. One cohort from the Cancer Imaging Archive (1998-2013) was used for model development and validation and the 2 remaining cohorts (2002-2015) were used to externally test the model performance. The Swin Transformer architecture was applied to fuse the features from both PT and LN into a multiregion imaging risk score (SwinScore) to predict survival outcomes across and within subpopulations at various stages. Data analysis was performed between February and July 2024.</p><h3>Exposures</h3><p>Definitive radiotherapy or chemoradiotherapy treatment for patients with p16+ OPSCC.</p><h3>Main Outcomes and Measures</h3><p>Hazard ratios (HRs), log-rank tests, concordance index (C index), and net benefit were used to evaluate the associations between multiregion imaging risk score and disease-free survival (DFS), overall survival (OS), and locoregional failure (LRF). Interaction tests were conducted to assess whether the association of chemotherapy with outcome significantly differs across dichotomized multiregion imaging risk score subgroups.</p><h3>Results</h3><p>The total patient cohort comprised 811 patients with p16+ OPSCC (median age, 59.0 years [IQR, 47.4-70.6 years]; 683 men [84.2%]). In the external test set, the multiregion imaging risk score was found to be prognostic of DFS (HR, 3.76 [95% CI, 1.99-7.10];<i>P</i>\u2009&lt;\u2009.001), OS (HR, 4.80 [95% CI, 2.22-10.40];<i>P</i>\u2009&lt;\u2009.001), and LRF (HR, 4.47 [95% CI, 1.43-14.00];<i>P</i>\u2009=\u2009.01) among all patients with p16+ OPSCC. The multiregion imaging risk score, integrating both PT and LN information, demonstrated a higher C index (0.63) compared with models focusing solely on PT (0.61) or LN (0.58). Chemotherapy was associated with improved DFS only among patients with high scores (HR, 0.09 [95% CI, 0.02-0.47];<i>P</i>\u2009=\u2009.004) but not those with low scores (HR, 0.83 [95% CI, 0.32-2.10];<i>P</i>\u2009=\u2009.69).</p><h3>Conclusions and Relevance</h3><p>This prognostic study of p16+ OPSCC describes the development of a CT-based imaging risk score integrating PT and metastatic cervical LN features to predict recurrence risk and identify suitable candidates for treatment tailoring. This tool could optimize treatment modulations of p16+ OPSCC at a highly granular level.</p>",
+            "date_published": "2025-05-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Bolin Song, PhD"
+                }
+            ],
+            "tags": [
+                "cervical lymph node group",
+                "chemoradiotherapy",
+                "chemotherapy regimen",
+                "deep learning",
+                "diagnostic imaging",
+                "malignant neoplasm of oropharynx",
+                "neoplasms",
+                "radiation therapy",
+                "squamous cell carcinoma of oropharynx",
+                "x-ray computed tomography"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833354/song_2025_oi_250299_1745349640.65412.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250299t1_1745349640.9143.png?Expires=2147483647&Signature=WZje472Zbrky4mdJ8IPAE0ZP~lSeD2fQVdm55mvofXLAwZfT4Sp3RCEX6zP8n54OMmvuoGarUcq8Q6SKBuw5P63mosqt1NXzXuToMwV-rCaQ9pxQXmAaG89ZPqbjBsX3sVt0hH28ibe3WmU2DAL2a4p-aD49J3lPLJz9Yv~HKfFz-LsMS~MMhXJBLZ6XEfPilDCknJlV-Q~wWR3crGib1XcI6NavcvoYKVPtzMdzR6mwAGaKifo-pbqWhHv15Xnt4wwZUnp6ce0u~4cTu6utwpywzMsmzKgkPBlPUDMXOhH7NqClznpqA8zJoRvClSZ9M-RqBj7Zn3E8z9vCZW1-lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
