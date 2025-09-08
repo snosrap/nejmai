@@ -4,79 +4,51 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837238",
-            "title": "Intelligent, Human-Centric Delivery Is Needed to Maximize AI",
-            "summary": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "content_text": "Artificial intelligence (AI)\u2013augmented learning is here, and many believe it is superior to all past endeavors. AI\u2019s ability to deliver real-time, objective, standardized feedback is an unprecedented game changer. Giglio et al 1 investigated whether AI feedback accelerates surgical skill acquisition using a virtual reality simulator. Medical student participants (N = 87) were stratified into 3 groups: (1) computer-generated verbal feedback based on AI performance assessment; (2) human verbal feedback using an AI script identical to that of group 1; or (3) verbal feedback based on human interpretation and personalization of the AI performance assessment. The article emphasizes that group 3 outperformed the others; however, group 2 also outperformed group 1 in trial 5 and the final realistic task.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
+            "title": "Early Recalls and Clinical Validation Gaps in Artificial Intelligence\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
+            "content_text": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
+            "date_published": "2025-08-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Carla M. Pugh, MD, PhD"
+                    "name": "Branden Lee, BS"
                 }
             ],
             "tags": [
-                "anchoring",
                 "artificial intelligence",
-                "clinical",
-                "cognitive load",
-                "computers",
-                "diagnosis",
-                "emotions",
-                "eye contact",
-                "friction",
-                "large language models",
-                "medical",
-                "mentorships",
-                "motivation",
-                "operating room",
-                "operative surgical procedures",
-                "script",
-                "simulators",
-                "speech",
-                "students",
-                "virtual reality",
-                "voice"
+                "medical devices"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837238/jamasurgery_pugh_2025_ic_250026_1754078212.49663.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837802/lee_2025_ld_250027_1755811003.04068.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939659/ald250027f1_1755811003.15568.png?Expires=2147483647&Signature=JSr6FLV8OrM0HftdbuRKLoxlE3YsbDPMdviKrXNo-MSWNMyNrulUtYudEzkAcc0QgCcZ5v9qWo1M6wb-RLsNviZyrQGZsFArKvLTpBoRXTzq8m4QKbhkx8Hhegra9UWw~lCGot3UnX4e1SQhmOoxafY0zvWdUvyecjsFco~TfoBSt0jiH2KFWMIMZYf-o1x9tfZYXPnyHv18vBRnPBEPs5mRfbjkZXd0Ps7fbWux3pd6gAA9Q7MR2Db1SczwYxYliqh-1YoU89gbEYtAribuGFcAxUSz5Cx3mvqnILuH0P9LWiJLvQN~DpCAfFY4yCi9umK~oAb5UWsroU29U3LyFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
-            "title": "Deep Learning Model of Primary Tumor and Metastatic Cervical Lymph Nodes From CT for Outcome Predictions in",
-            "summary": "This prognostic study tests a computed tomography\u2013based deep learning model that integrates primary tumor and lymph node features to predict outcomes in p16+ oropharyngeal squamous cell carcinoma and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.",
-            "content_html": "<h3>Importance</h3><p>Primary tumor (PT) and metastatic cervical lymph node (LN) characteristics are highly associated with oropharyngeal squamous cell carcinoma (OPSCC) prognosis. Currently, there is a lack of studies to combine imaging characteristics of both regions for predictions of p16+ OPSCC outcomes.</p><h3>Objectives</h3><p>To develop and validate a computed tomography (CT)\u2013based deep learning classifier that integrates PT and LN features to predict outcomes in p16+ OPSCC and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.</p><h3>Design, Setting, and Participants</h3><p>In this retrospective prognostic study, radiographic CT scans were analyzed of 811 patients with p16+ OPSCC treated with definitive radiotherapy or chemoradiotherapy from 3 independent cohorts. One cohort from the Cancer Imaging Archive (1998-2013) was used for model development and validation and the 2 remaining cohorts (2002-2015) were used to externally test the model performance. The Swin Transformer architecture was applied to fuse the features from both PT and LN into a multiregion imaging risk score (SwinScore) to predict survival outcomes across and within subpopulations at various stages. Data analysis was performed between February and July 2024.</p><h3>Exposures</h3><p>Definitive radiotherapy or chemoradiotherapy treatment for patients with p16+ OPSCC.</p><h3>Main Outcomes and Measures</h3><p>Hazard ratios (HRs), log-rank tests, concordance index (C index), and net benefit were used to evaluate the associations between multiregion imaging risk score and disease-free survival (DFS), overall survival (OS), and locoregional failure (LRF). Interaction tests were conducted to assess whether the association of chemotherapy with outcome significantly differs across dichotomized multiregion imaging risk score subgroups.</p><h3>Results</h3><p>The total patient cohort comprised 811 patients with p16+ OPSCC (median age, 59.0 years [IQR, 47.4-70.6 years]; 683 men [84.2%]). In the external test set, the multiregion imaging risk score was found to be prognostic of DFS (HR, 3.76 [95% CI, 1.99-7.10];<i>P</i>\u2009&lt;\u2009.001), OS (HR, 4.80 [95% CI, 2.22-10.40];<i>P</i>\u2009&lt;\u2009.001), and LRF (HR, 4.47 [95% CI, 1.43-14.00];<i>P</i>\u2009=\u2009.01) among all patients with p16+ OPSCC. The multiregion imaging risk score, integrating both PT and LN information, demonstrated a higher C index (0.63) compared with models focusing solely on PT (0.61) or LN (0.58). Chemotherapy was associated with improved DFS only among patients with high scores (HR, 0.09 [95% CI, 0.02-0.47];<i>P</i>\u2009=\u2009.004) but not those with low scores (HR, 0.83 [95% CI, 0.32-2.10];<i>P</i>\u2009=\u2009.69).</p><h3>Conclusions and Relevance</h3><p>This prognostic study of p16+ OPSCC describes the development of a CT-based imaging risk score integrating PT and metastatic cervical LN features to predict recurrence risk and identify suitable candidates for treatment tailoring. This tool could optimize treatment modulations of p16+ OPSCC at a highly granular level.</p>",
-            "date_published": "2025-05-01T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
+            "title": "Establishing Consensual Terms of AS-OCT Anatomical Landmarks",
+            "summary": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
+            "content_text": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
+            "date_published": "2025-08-14T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Bolin Song, PhD"
+                    "name": "Poemen P. Chan, MBBS, FCOphthHK"
                 }
             ],
             "tags": [
-                "cervical lymph node group",
-                "chemoradiotherapy",
-                "chemotherapy regimen",
-                "deep learning",
-                "diagnostic imaging",
-                "malignant neoplasm of oropharynx",
-                "neoplasms",
-                "radiation therapy",
-                "squamous cell carcinoma of oropharynx",
-                "x-ray computed tomography"
+                "anatomical landmarks"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833354/song_2025_oi_250299_1745349640.65412.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837463/jamaophthalmology_chan_2025_ic_250031_1754085929.98219.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250299t1_1745349640.9143.png?Expires=2147483647&Signature=WZje472Zbrky4mdJ8IPAE0ZP~lSeD2fQVdm55mvofXLAwZfT4Sp3RCEX6zP8n54OMmvuoGarUcq8Q6SKBuw5P63mosqt1NXzXuToMwV-rCaQ9pxQXmAaG89ZPqbjBsX3sVt0hH28ibe3WmU2DAL2a4p-aD49J3lPLJz9Yv~HKfFz-LsMS~MMhXJBLZ6XEfPilDCknJlV-Q~wWR3crGib1XcI6NavcvoYKVPtzMdzR6mwAGaKifo-pbqWhHv15Xnt4wwZUnp6ce0u~4cTu6utwpywzMsmzKgkPBlPUDMXOhH7NqClznpqA8zJoRvClSZ9M-RqBj7Zn3E8z9vCZW1-lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
