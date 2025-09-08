@@ -4,30 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
-            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
-            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
-            "date_published": "2025-08-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
+            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
+            "date_published": "2025-03-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robert C. Grant, MD, PhD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "chronic",
-                "cisplatin",
-                "kidney failure",
-                "machine learning"
+                "primary health care",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
