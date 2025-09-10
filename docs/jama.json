@@ -4,56 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837938",
-            "title": "Clinician Perspectives on AI-Generated Drafts of Patient Test Result Explanations",
-            "summary": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
-            "content_text": "This quality improvement study evaluates clinician perspectives on the usability and utility of generative artificial intelligence (AI)\u2013based large language model tool to draft result comments for laboratory, imaging, and pathology results.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "title": "Large Language Models for Rare Disease Diagnosis at the Undiagnosed Diseases Network",
+            "summary": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
+            "content_text": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
             "date_published": "2025-08-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Shreya J. Shah, MD"
+                    "name": "Cathy Shyr, PhD"
                 }
             ],
             "tags": [
-                "diagnostic imaging",
-                "generative artificial intelligence",
-                "informatics (discipline)",
-                "laboratory test finding",
                 "large language models",
-                "quality improvement"
+                "rare diseases",
+                "undiagnosed diseases"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837938/shah_2025_ld_250182_1755198196.12517.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837941/shyr_2025_ld_250177_1755198200.64007.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250182f1_1755198196.32594.png?Expires=2147483647&Signature=mE3TMVqLbH5v9ElUsDi3Kb~OLaLX8YSLvc5nN0J7zECuvHVqmOzlgUgzLa8rFqEPEUgwAlDdD-PU7u-ucFd8wLODBLtN5II-hVim5KWIgTL8L46KZWWaLD2HKQISaG0dP8Cvy~TXREbU-CUEpKGTYs73p74JB1R756lWX2ROjHbWp9R8YPYuijru~SGJQgZKQsCKEm1iYnd-dn9hlRqvEp-m9RFXZaOxZxvWDAKgWnNpJEI0WsLZvJO8rAhrcgo9tqhZIxBb37kSVja922JjuAxs2hICYzWWcc41vEmQB0i-jK9fn0Ws8NzLUXQTIAZ4kaVCq3HCdBLNDHaJ0Y5VjA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250177t1_1755198200.75203.png?Expires=2147483647&Signature=C06DkRiFQkWZeW9SR1rbKK7fmAyhHiB4tLZQHXVq~WtT1YDKS99t~tQhtydzET6CJQkldPO9Gn2wzRCs~VcLVCfCm7w8tipArnfAmHiry4HUjhDdf6Qbgs17sus8H7AY-riarrBsGEVhYpX2na-Hv0VT-BJpHvXB~5naRAftBxtyT5SjV8e-sPbJU2Y5p~ZXxDudvOn5IeKEeQA7yB0Di1U4scauL2sfN9vxKsfcDMwNJkTbSDN09zOjgTI9lU87O8aBtPZw5TV30u-dlMcgcMMxRrofOOfg9EnZCShVNBw8Mpoa4ioO8ZUpRK5YG-sk2Pg-b-mfiEdtcyIB5ib3Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
+            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
+            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Robert C. Grant, MD, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "informatics (discipline)"
+                "chronic",
+                "cisplatin",
+                "kidney failure",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
