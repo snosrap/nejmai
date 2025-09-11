@@ -4,29 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
-            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
-            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
-            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
-            "date_published": "2025-09-05T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "women's health"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
             "title": "3D Deep Learning Analysis of OCT to Classify Optic Atrophy",
@@ -49,6 +26,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "title": "Enhanced Surgical Instructions Using Large Language Models",
+            "summary": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "content_text": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "date_published": "2025-08-13T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Maxwell Sahhar, BS"
+                }
+            ],
+            "tags": [
+                "chatbots",
+                "large language models",
+                "operative surgical procedures",
+                "postoperative care",
+                "preoperative care"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837476/jamasurgery_sahhar_2025_ld_250012_1755016308.69279.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/sld250012t1_1755016308.88787.png?Expires=2147483647&Signature=K7bZlJgI6~QBpw6BllpnFZ2pdT4A30fr~HjYo~LYmMrSBEpW-L1OKnBRhjjap3p-iqT3nC1LzmI9nufb~uUx~B2OhhX0hIzNTSLsYQA5fCpppgn2SnoIZzuxWRsxde7wygScCNt9eYy6GgIm54S6ChAfCJkaI8QmFaUXjOyhbl450pDIFxbNsQJF0hsildUroyMoYqK4~kGg9wiwyXybM7sojTnXo3zKDc7u2nUku5qwPTKujGVf5~bn7TwMdzoZWpJK-AoXzUg0OkArBNUNXJqgt6f-r3GcEtqXib4oN3jRwn0ozM-pWhZ5OvY8t5mME2Ldd3lvkpNtB3hjUiI8CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
