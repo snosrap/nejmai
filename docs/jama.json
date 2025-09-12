@@ -4,28 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835165",
-            "title": "A Patient-in-the-Loop Approach to Artificial Intelligence in Medicine",
-            "summary": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "content_text": "The rapid development of artificial intelligence (AI) in medicine has far outpaced its clinical practice implementation. This gap stems largely from the high safety and trustworthiness standards expected and required by health care practitioners. 1 Patient acceptance remains a substantial hurdle, as many lack sufficient information to form opinions on AI; in some cases, this uncertainty even leads to resistance against the integration of AI in their care. 2",
-            "date_published": "2025-06-10T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "title": "Large Language Model Analysis of Reporting Quality of Randomized Clinical Trial Articles: A Systematic Review",
+            "summary": "This study uses a zero-shot large-language model to automatically assess compliance with the Consolidated Standards of Reporting Trials guideline for English-language randomized clinical trials published from 1966 to 2024.",
+            "content_html": "<h3>Importance</h3><p>Incomplete reporting in randomized clinical trials (RCTs) obscures bias and limits reproducibility. Manual audits for adherence to the Consolidated Standards of Reporting Trials (CONSORT) guideline cannot keep pace with publication volume.</p><h3>Objectives</h3><p>To build and validate a zero-shot large-language-model (LLM) pipeline for automated CONSORT assessment and to map reporting quality over time, biomedical disciplines, and trial features.</p><h3>Design, Setting, and Participants</h3><p>This systematic review included RCTs that were indexed on PubMed, available in English, open access, human-participant research, and published between MONTH 1966 to MONTH 2024. PubMed PDFs were converted to XML and linked with Semantic Scholar and ClinicalTrials.gov metadata. Chat GPT-4o-mini was tested on the 50-article CONSORT\u2013Text Classification Model (CONSORT-TM) benchmark, checked by experts in 70 randomly sampled RCTs, and then applied to the full sample.</p><h3>Exposure</h3><p>Publication year, biomedical discipline, funding source, trial phase, US Food and Drug Administration regulation, and oversight features.</p><h3>Main Outcomes and Measures</h3><p>The LLM judged whether each of 21 CONSORT items was met. Primary outcomes were (1) model performance vs expert review (precision, recall, and macro F1 score) and (2) proportion of items reported.</p><h3>Results</h3><p>Of 53\u202f137 screened PDFs, 21\u202f041 RCTs (median [IQR] publication year, 2014 [2003-2020]; 30 disciplines) were included, with a registry-linked subset of 1790 RCTs that had a median (IQR) planned enrollment of 210 (95-440) participants. In the 70-article validation set (2210 decisions) LLM outputs matched experts 91.7% of the time (2026 of 2210 decision); the macro F1 score on CONSORT-TM was 0.86 (95% CI, 0.84-0.87). Mean CONSORT compliance increased from 27.3% (95% CI, 27.0%-27.6%) in 1966 to 1990 to 57.0% (95% CI, 56.8%-57.2%) in 2010 to 2024. However, reporting critical elements remained uncommon, such as allocation-concealment mechanism (16.1% [95% CI, 15.6%-16.6%]) and external-validity discussion (1.6% [95% CI, 1.5%-1.8%]). Compliance varied across disciplines from 35.2% (95% CI, 34.8%-35.6%) in pharmacology to 63.4% (95% CI, 62.1%-64.7%) in urology and showed only negligible associations with clinical trial characteristics (all Cramer<i>V</i>&lt;0.10).</p><h3>Conclusions and Relevance</h3><p>In this systemic review of RCTs, a zero-shot LLM audited CONSORT adherence at scale, uncovering persistent reporting gaps and wide disciplinary variation across biomedical fields, underscoring the need for targeted editorial action to boost transparency and reproducibility.</p>",
+            "date_published": "2025-08-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxime F. Griot, MSc, MD"
+                    "name": "Apoorva Srinivasan, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "informatics (discipline)"
+                "benchmarking",
+                "guidelines",
+                "large language models",
+                "performance reporting"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2835165/griot_2025_ic_250114_1748961730.20134.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2838106/srinivasan_2025_oi_250829_1755710567.16303.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250829f1_1755710567.26803.png?Expires=2147483647&Signature=p7LnLTyebxOuAgds0kccJscmb~dRICv7YEa7fDigxZBro~ORriTSqRnf8GEhy9Qttg-fJaw46BSkdhl3HxgyxOIpkar7w0VuIEa6erVuVUUrIOcWndrm3uSlKty5I1~pHEnZuv9MhXy1LJyRlE4ykFvwElJEk70YjZfXd-aC~YIgD43JE4dSg2Gw~-9-OUYzynr1AeDo9CZLKD7P6vpM2dJYrjMrINo~o38reWj86FScElsmf9wuqiod8~skv0RacjWs~qVZtSG8O39FiQNKjM0b34IOuZ5ACodSdPegm~JBoB6r6NzHQ6Bs8JVe1~UEOLieATv25JgytxUGQKU7lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -717,6 +719,37 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "title": "Identifying and Addressing Bias in Artificial Intelligence",
@@ -813,36 +846,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
