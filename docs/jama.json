@@ -4,59 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "title": "Artificial Intelligence in Peer Review",
-            "summary": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "content_text": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "date_published": "2025-08-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
+            "title": "Ensuring Inclusive Governance for Trustworthy and Responsible AI Network",
+            "summary": "To the Editor A recent Viewpoint 1 described the launch of a new artificial intelligence (AI) governance initiative to promote trustworthy and responsible AI. As Black scholars, one of whom is also Native American, working at the intersection of AI and health equity, we offer several points for further consideration.",
+            "content_text": "To the Editor A recent Viewpoint 1 described the launch of a new artificial intelligence (AI) governance initiative to promote trustworthy and responsible AI. As Black scholars, one of whom is also Native American, working at the intersection of AI and health equity, we offer several points for further consideration.",
+            "date_published": "2025-08-25T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy H. Perlis, MD, MSc"
+                    "name": "Tiffani J. Bright, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                ""
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838453/jama_perlis_2025_ed_250062_1756244190.44739.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838005/jama_bright_2025_le_250097_1755553965.13538.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833354",
-            "title": "Deep Learning Model of Primary Tumor and Metastatic Cervical Lymph Nodes From CT for Outcome Predictions in",
-            "summary": "This prognostic study tests a computed tomography\u2013based deep learning model that integrates primary tumor and lymph node features to predict outcomes in p16+ oropharyngeal squamous cell carcinoma and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.",
-            "content_html": "<h3>Importance</h3><p>Primary tumor (PT) and metastatic cervical lymph node (LN) characteristics are highly associated with oropharyngeal squamous cell carcinoma (OPSCC) prognosis. Currently, there is a lack of studies to combine imaging characteristics of both regions for predictions of p16+ OPSCC outcomes.</p><h3>Objectives</h3><p>To develop and validate a computed tomography (CT)\u2013based deep learning classifier that integrates PT and LN features to predict outcomes in p16+ OPSCC and to identify patients with stage I disease who may derive added benefit associated with chemotherapy.</p><h3>Design, Setting, and Participants</h3><p>In this retrospective prognostic study, radiographic CT scans were analyzed of 811 patients with p16+ OPSCC treated with definitive radiotherapy or chemoradiotherapy from 3 independent cohorts. One cohort from the Cancer Imaging Archive (1998-2013) was used for model development and validation and the 2 remaining cohorts (2002-2015) were used to externally test the model performance. The Swin Transformer architecture was applied to fuse the features from both PT and LN into a multiregion imaging risk score (SwinScore) to predict survival outcomes across and within subpopulations at various stages. Data analysis was performed between February and July 2024.</p><h3>Exposures</h3><p>Definitive radiotherapy or chemoradiotherapy treatment for patients with p16+ OPSCC.</p><h3>Main Outcomes and Measures</h3><p>Hazard ratios (HRs), log-rank tests, concordance index (C index), and net benefit were used to evaluate the associations between multiregion imaging risk score and disease-free survival (DFS), overall survival (OS), and locoregional failure (LRF). Interaction tests were conducted to assess whether the association of chemotherapy with outcome significantly differs across dichotomized multiregion imaging risk score subgroups.</p><h3>Results</h3><p>The total patient cohort comprised 811 patients with p16+ OPSCC (median age, 59.0 years [IQR, 47.4-70.6 years]; 683 men [84.2%]). In the external test set, the multiregion imaging risk score was found to be prognostic of DFS (HR, 3.76 [95% CI, 1.99-7.10];<i>P</i>\u2009&lt;\u2009.001), OS (HR, 4.80 [95% CI, 2.22-10.40];<i>P</i>\u2009&lt;\u2009.001), and LRF (HR, 4.47 [95% CI, 1.43-14.00];<i>P</i>\u2009=\u2009.01) among all patients with p16+ OPSCC. The multiregion imaging risk score, integrating both PT and LN information, demonstrated a higher C index (0.63) compared with models focusing solely on PT (0.61) or LN (0.58). Chemotherapy was associated with improved DFS only among patients with high scores (HR, 0.09 [95% CI, 0.02-0.47];<i>P</i>\u2009=\u2009.004) but not those with low scores (HR, 0.83 [95% CI, 0.32-2.10];<i>P</i>\u2009=\u2009.69).</p><h3>Conclusions and Relevance</h3><p>This prognostic study of p16+ OPSCC describes the development of a CT-based imaging risk score integrating PT and metastatic cervical LN features to predict recurrence risk and identify suitable candidates for treatment tailoring. This tool could optimize treatment modulations of p16+ OPSCC at a highly granular level.</p>",
-            "date_published": "2025-05-01T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Bolin Song, PhD"
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
                 }
             ],
             "tags": [
-                "cervical lymph node group",
-                "chemoradiotherapy",
-                "chemotherapy regimen",
-                "deep learning",
-                "diagnostic imaging",
-                "malignant neoplasm of oropharynx",
-                "neoplasms",
-                "radiation therapy",
-                "squamous cell carcinoma of oropharynx",
-                "x-ray computed tomography"
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2833354/song_2025_oi_250299_1745349640.65412.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939603/zoi250299t1_1745349640.9143.png?Expires=2147483647&Signature=WZje472Zbrky4mdJ8IPAE0ZP~lSeD2fQVdm55mvofXLAwZfT4Sp3RCEX6zP8n54OMmvuoGarUcq8Q6SKBuw5P63mosqt1NXzXuToMwV-rCaQ9pxQXmAaG89ZPqbjBsX3sVt0hH28ibe3WmU2DAL2a4p-aD49J3lPLJz9Yv~HKfFz-LsMS~MMhXJBLZ6XEfPilDCknJlV-Q~wWR3crGib1XcI6NavcvoYKVPtzMdzR6mwAGaKifo-pbqWhHv15Xnt4wwZUnp6ce0u~4cTu6utwpywzMsmzKgkPBlPUDMXOhH7NqClznpqA8zJoRvClSZ9M-RqBj7Zn3E8z9vCZW1-lQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
