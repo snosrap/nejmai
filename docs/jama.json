@@ -4,53 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
-            "title": "Large Language Models for Rare Disease Diagnosis at the Undiagnosed Diseases Network",
-            "summary": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
-            "content_text": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
-            "date_published": "2025-08-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Cathy Shyr, PhD"
+                    "name": "Larry Han, PhD"
                 }
             ],
             "tags": [
-                "large language models",
-                "rare diseases",
-                "undiagnosed diseases"
+                "informatics (discipline)"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837941/shyr_2025_ld_250177_1755198200.64007.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250177t1_1755198200.75203.png?Expires=2147483647&Signature=C06DkRiFQkWZeW9SR1rbKK7fmAyhHiB4tLZQHXVq~WtT1YDKS99t~tQhtydzET6CJQkldPO9Gn2wzRCs~VcLVCfCm7w8tipArnfAmHiry4HUjhDdf6Qbgs17sus8H7AY-riarrBsGEVhYpX2na-Hv0VT-BJpHvXB~5naRAftBxtyT5SjV8e-sPbJU2Y5p~ZXxDudvOn5IeKEeQA7yB0Di1U4scauL2sfN9vxKsfcDMwNJkTbSDN09zOjgTI9lU87O8aBtPZw5TV30u-dlMcgcMMxRrofOOfg9EnZCShVNBw8Mpoa4ioO8ZUpRK5YG-sk2Pg-b-mfiEdtcyIB5ib3Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837847",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837847",
-            "title": "Ambient Documentation Technology in Clinician Experience of Documentation Burden and Burnout",
-            "summary": "This survey study examines clinicians\u2019 experience of documentation burden and burnout before and after using ambient documentation technology to draft clinical notes.",
-            "content_html": "<h3>Importance</h3><p>Documentation burden is associated with clinician burnout. To address documentation burden, Mass General Brigham (MGB) in Somerville, Massachusetts, and Emory Healthcare in Atlanta, Georgia, have piloted ambient documentation technology (ADT), which develops artificial intelligence\u2013drafted clinical notes from clinician-patient conversations.</p><h3>Objective</h3><p>To examine the prevalence of ADT use and its association with clinicians\u2019 experience of documentation burden and burnout before and after use.</p><h3>Design, Setting, and Participants</h3><p>This survey study included clinicians who used ADT for at least 42 days and responded to both the pre- and postsurveys (onboarded February 27 to July 31, 2024, at MGB and July 19, 2023, to July 31, 2024, at Emory).</p><h3>Exposure</h3><p>Ambient documentation technology.</p><h3>Main Outcomes and Measures</h3><p>The main outcomes were the proportion of self-reported ADT usage, change in proportion of clinicians meeting the criteria for burnout or a positive outcome of their documentation practice associated with their well-being, and free-text survey comments.</p><h3>Results</h3><p>Across MGB and Emory, 1430 clinicians, including 873 at MGB (573 clinicians [65.6%] practiced for &gt;10 years; 478 women [54.8%]) and 557 at Emory (286 clinicians [51.3%] practiced for &gt;10 years; 309 women [55.5%]) were enrolled in ADT pilot studies. The majority of clinicians were physicians (688 [78.8%] at MGB and 418 [75.0%] at Emory). Approximately equal proportions of clinicians practiced in primary care (192 [22.0%] at MGB and 156 [28.0%] at Emory). The response rates to relevant components of the MGB survey was 30.4% (265 of 873 respondents) for the 42-day midsurvey and 22.0% (192 of 873 respondents) for the 84-day postsurvey; for the Emory survey, the postsurvey response rate was 11.1% (62 of 557 respondents). A total of 128 of 264 MGB survey respondents (48.5%) had self-reported using ADT for at least 50% of their patient visits, while 27 of 62 Emory respondents (43.5%) self-reported usage for most or all of their visits. The proportion of MGB clinicians reporting burnout (Professional Fulfillment Index overall burnout score &gt;1.33) decreased from 50.6% to 29.4% (\u03c7<sup>2</sup>\u2009=\u200942.4;<i>P</i>\u2009&lt;\u2009.001) at 42 days and decreased from 52.6% to 30.7% (\u03c7<sup>2</sup>\u2009=\u200932.7;<i>P</i>\u2009&lt;\u2009.001) at 84 days. The proportion of Emory clinicians reporting a positive impact of their documentation practice on well-being (defined as a score of 3-4 for positive or very positive) improved from 1.6% to 32.3% (\u03c7<sup>2</sup>\u2009=\u200919.0;<i>P</i>\u2009&lt;\u2009.001). Qualitative analysis of free-text survey comments revealed that clinicians found improved joy in practice with ADT use and saw opportunities for improved ADT functionality.</p><h3>Conclusions and Relevance</h3><p>Across these survey studies, ADT use was associated with reductions in burnout and increases in perceived well-being. These findings suggest that ADT may enhance clinicians\u2019 documentation-related experience and reduce burnout.</p>",
-            "date_published": "2025-08-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jacqueline G. You, MD"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
-                "personal satisfaction",
-                "physical and emotional exhaustion state"
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837847/you_2025_oi_250796_1755115742.48441.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250796t1_1755115742.75442.png?Expires=2147483647&Signature=OzCfpP0Vfi4Y17XU-gfokdNAPVMijhivJyIT9kZ1iF0SM3mrnXoEdVua0q~O7N-CrUx~arrnsT3EmIOKzAS1gObvkeNY5MUdIntZwV4qxCX-TbX-1eBMPYss7YlVVK6QXlK1rCvXLzzrUXQNCEOdc7vBLW9VUKCkEiLpZBFTvrj4no3v7JmAhF7xdRfrH-iSjPH9YU~RAaa7RqbxlIZQsP81T-YCVD9slqrjMa-JyKMiQKPjfMx2FBEogWEt3jRkj1LbN9KiWlnhlXhkE12ORh3NC8LgHAlqvM3CErHoda4am1YRyt8pSYiv0O0w6b37U~8dDGNT7-H9corDhiDhSA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
