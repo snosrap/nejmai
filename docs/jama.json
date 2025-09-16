@@ -4,34 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "title": "Large Language Models for Rare Disease Diagnosis at the Undiagnosed Diseases Network",
+            "summary": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
+            "content_text": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
+            "date_published": "2025-08-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Cathy Shyr, PhD"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
-                "screening procedure",
-                "united states preventive services task force"
+                "large language models",
+                "rare diseases",
+                "undiagnosed diseases"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837941/shyr_2025_ld_250177_1755198200.64007.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250177t1_1755198200.75203.png?Expires=2147483647&Signature=C06DkRiFQkWZeW9SR1rbKK7fmAyhHiB4tLZQHXVq~WtT1YDKS99t~tQhtydzET6CJQkldPO9Gn2wzRCs~VcLVCfCm7w8tipArnfAmHiry4HUjhDdf6Qbgs17sus8H7AY-riarrBsGEVhYpX2na-Hv0VT-BJpHvXB~5naRAftBxtyT5SjV8e-sPbJU2Y5p~ZXxDudvOn5IeKEeQA7yB0Di1U4scauL2sfN9vxKsfcDMwNJkTbSDN09zOjgTI9lU87O8aBtPZw5TV30u-dlMcgcMMxRrofOOfg9EnZCShVNBw8Mpoa4ioO8ZUpRK5YG-sk2Pg-b-mfiEdtcyIB5ib3Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837847",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837847",
+            "title": "Ambient Documentation Technology in Clinician Experience of Documentation Burden and Burnout",
+            "summary": "This survey study examines clinicians\u2019 experience of documentation burden and burnout before and after using ambient documentation technology to draft clinical notes.",
+            "content_html": "<h3>Importance</h3><p>Documentation burden is associated with clinician burnout. To address documentation burden, Mass General Brigham (MGB) in Somerville, Massachusetts, and Emory Healthcare in Atlanta, Georgia, have piloted ambient documentation technology (ADT), which develops artificial intelligence\u2013drafted clinical notes from clinician-patient conversations.</p><h3>Objective</h3><p>To examine the prevalence of ADT use and its association with clinicians\u2019 experience of documentation burden and burnout before and after use.</p><h3>Design, Setting, and Participants</h3><p>This survey study included clinicians who used ADT for at least 42 days and responded to both the pre- and postsurveys (onboarded February 27 to July 31, 2024, at MGB and July 19, 2023, to July 31, 2024, at Emory).</p><h3>Exposure</h3><p>Ambient documentation technology.</p><h3>Main Outcomes and Measures</h3><p>The main outcomes were the proportion of self-reported ADT usage, change in proportion of clinicians meeting the criteria for burnout or a positive outcome of their documentation practice associated with their well-being, and free-text survey comments.</p><h3>Results</h3><p>Across MGB and Emory, 1430 clinicians, including 873 at MGB (573 clinicians [65.6%] practiced for &gt;10 years; 478 women [54.8%]) and 557 at Emory (286 clinicians [51.3%] practiced for &gt;10 years; 309 women [55.5%]) were enrolled in ADT pilot studies. The majority of clinicians were physicians (688 [78.8%] at MGB and 418 [75.0%] at Emory). Approximately equal proportions of clinicians practiced in primary care (192 [22.0%] at MGB and 156 [28.0%] at Emory). The response rates to relevant components of the MGB survey was 30.4% (265 of 873 respondents) for the 42-day midsurvey and 22.0% (192 of 873 respondents) for the 84-day postsurvey; for the Emory survey, the postsurvey response rate was 11.1% (62 of 557 respondents). A total of 128 of 264 MGB survey respondents (48.5%) had self-reported using ADT for at least 50% of their patient visits, while 27 of 62 Emory respondents (43.5%) self-reported usage for most or all of their visits. The proportion of MGB clinicians reporting burnout (Professional Fulfillment Index overall burnout score &gt;1.33) decreased from 50.6% to 29.4% (\u03c7<sup>2</sup>\u2009=\u200942.4;<i>P</i>\u2009&lt;\u2009.001) at 42 days and decreased from 52.6% to 30.7% (\u03c7<sup>2</sup>\u2009=\u200932.7;<i>P</i>\u2009&lt;\u2009.001) at 84 days. The proportion of Emory clinicians reporting a positive impact of their documentation practice on well-being (defined as a score of 3-4 for positive or very positive) improved from 1.6% to 32.3% (\u03c7<sup>2</sup>\u2009=\u200919.0;<i>P</i>\u2009&lt;\u2009.001). Qualitative analysis of free-text survey comments revealed that clinicians found improved joy in practice with ADT use and saw opportunities for improved ADT functionality.</p><h3>Conclusions and Relevance</h3><p>Across these survey studies, ADT use was associated with reductions in burnout and increases in perceived well-being. These findings suggest that ADT may enhance clinicians\u2019 documentation-related experience and reduce burnout.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Jacqueline G. You, MD"
+                }
+            ],
+            "tags": [
+                "personal satisfaction",
+                "physical and emotional exhaustion state"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837847/you_2025_oi_250796_1755115742.48441.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250796t1_1755115742.75442.png?Expires=2147483647&Signature=OzCfpP0Vfi4Y17XU-gfokdNAPVMijhivJyIT9kZ1iF0SM3mrnXoEdVua0q~O7N-CrUx~arrnsT3EmIOKzAS1gObvkeNY5MUdIntZwV4qxCX-TbX-1eBMPYss7YlVVK6QXlK1rCvXLzzrUXQNCEOdc7vBLW9VUKCkEiLpZBFTvrj4no3v7JmAhF7xdRfrH-iSjPH9YU~RAaa7RqbxlIZQsP81T-YCVD9slqrjMa-JyKMiQKPjfMx2FBEogWEt3jRkj1LbN9KiWlnhlXhkE12ORh3NC8LgHAlqvM3CErHoda4am1YRyt8pSYiv0O0w6b37U~8dDGNT7-H9corDhiDhSA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -819,36 +838,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
