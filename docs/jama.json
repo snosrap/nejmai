@@ -4,57 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "title": "Artificial Intelligence in Peer Review",
-            "summary": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "content_text": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "title": "Large Language Model Analysis of Reporting Quality of Randomized Clinical Trial Articles: A Systematic Review",
+            "summary": "This study uses a zero-shot large-language model to automatically assess compliance with the Consolidated Standards of Reporting Trials guideline for English-language randomized clinical trials published from 1966 to 2024.",
+            "content_html": "<h3>Importance</h3><p>Incomplete reporting in randomized clinical trials (RCTs) obscures bias and limits reproducibility. Manual audits for adherence to the Consolidated Standards of Reporting Trials (CONSORT) guideline cannot keep pace with publication volume.</p><h3>Objectives</h3><p>To build and validate a zero-shot large-language-model (LLM) pipeline for automated CONSORT assessment and to map reporting quality over time, biomedical disciplines, and trial features.</p><h3>Design, Setting, and Participants</h3><p>This systematic review included RCTs that were indexed on PubMed, available in English, open access, human-participant research, and published between MONTH 1966 to MONTH 2024. PubMed PDFs were converted to XML and linked with Semantic Scholar and ClinicalTrials.gov metadata. Chat GPT-4o-mini was tested on the 50-article CONSORT\u2013Text Classification Model (CONSORT-TM) benchmark, checked by experts in 70 randomly sampled RCTs, and then applied to the full sample.</p><h3>Exposure</h3><p>Publication year, biomedical discipline, funding source, trial phase, US Food and Drug Administration regulation, and oversight features.</p><h3>Main Outcomes and Measures</h3><p>The LLM judged whether each of 21 CONSORT items was met. Primary outcomes were (1) model performance vs expert review (precision, recall, and macro F1 score) and (2) proportion of items reported.</p><h3>Results</h3><p>Of 53\u202f137 screened PDFs, 21\u202f041 RCTs (median [IQR] publication year, 2014 [2003-2020]; 30 disciplines) were included, with a registry-linked subset of 1790 RCTs that had a median (IQR) planned enrollment of 210 (95-440) participants. In the 70-article validation set (2210 decisions) LLM outputs matched experts 91.7% of the time (2026 of 2210 decision); the macro F1 score on CONSORT-TM was 0.86 (95% CI, 0.84-0.87). Mean CONSORT compliance increased from 27.3% (95% CI, 27.0%-27.6%) in 1966 to 1990 to 57.0% (95% CI, 56.8%-57.2%) in 2010 to 2024. However, reporting critical elements remained uncommon, such as allocation-concealment mechanism (16.1% [95% CI, 15.6%-16.6%]) and external-validity discussion (1.6% [95% CI, 1.5%-1.8%]). Compliance varied across disciplines from 35.2% (95% CI, 34.8%-35.6%) in pharmacology to 63.4% (95% CI, 62.1%-64.7%) in urology and showed only negligible associations with clinical trial characteristics (all Cramer<i>V</i>&lt;0.10).</p><h3>Conclusions and Relevance</h3><p>In this systemic review of RCTs, a zero-shot LLM audited CONSORT adherence at scale, uncovering persistent reporting gaps and wide disciplinary variation across biomedical fields, underscoring the need for targeted editorial action to boost transparency and reproducibility.</p>",
             "date_published": "2025-08-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy H. Perlis, MD, MSc"
+                    "name": "Apoorva Srinivasan, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "benchmarking",
+                "guidelines",
+                "large language models",
+                "performance reporting"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838453/jama_perlis_2025_ed_250062_1756244190.44739.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2838106/srinivasan_2025_oi_250829_1755710567.16303.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250829f1_1755710567.26803.png?Expires=2147483647&Signature=p7LnLTyebxOuAgds0kccJscmb~dRICv7YEa7fDigxZBro~ORriTSqRnf8GEhy9Qttg-fJaw46BSkdhl3HxgyxOIpkar7w0VuIEa6erVuVUUrIOcWndrm3uSlKty5I1~pHEnZuv9MhXy1LJyRlE4ykFvwElJEk70YjZfXd-aC~YIgD43JE4dSg2Gw~-9-OUYzynr1AeDo9CZLKD7P6vpM2dJYrjMrINo~o38reWj86FScElsmf9wuqiod8~skv0RacjWs~qVZtSG8O39FiQNKjM0b34IOuZ5ACodSdPegm~JBoB6r6NzHQ6Bs8JVe1~UEOLieATv25JgytxUGQKU7lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
-                "screening procedure",
-                "united states preventive services task force"
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
