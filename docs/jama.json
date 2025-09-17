@@ -4,52 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
-            "title": "3D Deep Learning Analysis of OCT to Classify Optic Atrophy",
-            "summary": "In a study by Szanto et al, 1 a 3-dimensional (3D) deep learning model trained on unsegmented optical coherence tomography (OCT) scans was used to distinguish between glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), optic neuritis, and healthy controls. A ResNet-3D model was trained and tested using 5-fold stratified cross-validation in 3 different settings: model A analyzed the full unoccluded OCT scan; model B, only the peripapillary retina; and model C, only the optic nerve head. Overall, model A had the highest diagnostic accuracy (88.9%), followed by model C (87.0%) and model B (85.9%). 1 We commend Szanto et al on their novel work and use of an international, multicenter cohort including robust data from randomized clinical trials. Their work moves beyond traditional 2D patterns in efforts to identify disease-specific atrophy signatures residing within the optic nerve head and surrounding retina. In recent years, seminal work introducing the role of deep learning models to make optic neuropathy diagnoses from ocular imaging has spurred much interest and catalyzed additional exploration. 2 - 4 The important work by Szanto et al builds on this momentum and paves the way for future clinical applications.",
-            "content_text": "In a study by Szanto et al, 1 a 3-dimensional (3D) deep learning model trained on unsegmented optical coherence tomography (OCT) scans was used to distinguish between glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), optic neuritis, and healthy controls. A ResNet-3D model was trained and tested using 5-fold stratified cross-validation in 3 different settings: model A analyzed the full unoccluded OCT scan; model B, only the peripapillary retina; and model C, only the optic nerve head. Overall, model A had the highest diagnostic accuracy (88.9%), followed by model C (87.0%) and model B (85.9%). 1 We commend Szanto et al on their novel work and use of an international, multicenter cohort including robust data from randomized clinical trials. Their work moves beyond traditional 2D patterns in efforts to identify disease-specific atrophy signatures residing within the optic nerve head and surrounding retina. In recent years, seminal work introducing the role of deep learning models to make optic neuropathy diagnoses from ocular imaging has spurred much interest and catalyzed additional exploration. 2 - 4 The important work by Szanto et al builds on this momentum and paves the way for future clinical applications.",
-            "date_published": "2025-08-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
+            "title": "Artificial Intelligence in Peer Review",
+            "summary": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
+            "content_text": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
+            "date_published": "2025-08-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sabrina Poonja, MD"
+                    "name": "Roy H. Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "deep learning",
-                "optic atrophy"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837616/jamaophthalmology_poonja_2025_ic_250034_1754518411.21167.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838453/jama_perlis_2025_ed_250062_1756244190.44739.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy"
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
