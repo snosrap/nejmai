@@ -4,53 +4,50 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
-            "title": "Large Language Model Analysis of Reporting Quality of Randomized Clinical Trial Articles: A Systematic Review",
-            "summary": "This study uses a zero-shot large-language model to automatically assess compliance with the Consolidated Standards of Reporting Trials guideline for English-language randomized clinical trials published from 1966 to 2024.",
-            "content_html": "<h3>Importance</h3><p>Incomplete reporting in randomized clinical trials (RCTs) obscures bias and limits reproducibility. Manual audits for adherence to the Consolidated Standards of Reporting Trials (CONSORT) guideline cannot keep pace with publication volume.</p><h3>Objectives</h3><p>To build and validate a zero-shot large-language-model (LLM) pipeline for automated CONSORT assessment and to map reporting quality over time, biomedical disciplines, and trial features.</p><h3>Design, Setting, and Participants</h3><p>This systematic review included RCTs that were indexed on PubMed, available in English, open access, human-participant research, and published between MONTH 1966 to MONTH 2024. PubMed PDFs were converted to XML and linked with Semantic Scholar and ClinicalTrials.gov metadata. Chat GPT-4o-mini was tested on the 50-article CONSORT\u2013Text Classification Model (CONSORT-TM) benchmark, checked by experts in 70 randomly sampled RCTs, and then applied to the full sample.</p><h3>Exposure</h3><p>Publication year, biomedical discipline, funding source, trial phase, US Food and Drug Administration regulation, and oversight features.</p><h3>Main Outcomes and Measures</h3><p>The LLM judged whether each of 21 CONSORT items was met. Primary outcomes were (1) model performance vs expert review (precision, recall, and macro F1 score) and (2) proportion of items reported.</p><h3>Results</h3><p>Of 53\u202f137 screened PDFs, 21\u202f041 RCTs (median [IQR] publication year, 2014 [2003-2020]; 30 disciplines) were included, with a registry-linked subset of 1790 RCTs that had a median (IQR) planned enrollment of 210 (95-440) participants. In the 70-article validation set (2210 decisions) LLM outputs matched experts 91.7% of the time (2026 of 2210 decision); the macro F1 score on CONSORT-TM was 0.86 (95% CI, 0.84-0.87). Mean CONSORT compliance increased from 27.3% (95% CI, 27.0%-27.6%) in 1966 to 1990 to 57.0% (95% CI, 56.8%-57.2%) in 2010 to 2024. However, reporting critical elements remained uncommon, such as allocation-concealment mechanism (16.1% [95% CI, 15.6%-16.6%]) and external-validity discussion (1.6% [95% CI, 1.5%-1.8%]). Compliance varied across disciplines from 35.2% (95% CI, 34.8%-35.6%) in pharmacology to 63.4% (95% CI, 62.1%-64.7%) in urology and showed only negligible associations with clinical trial characteristics (all Cramer<i>V</i>&lt;0.10).</p><h3>Conclusions and Relevance</h3><p>In this systemic review of RCTs, a zero-shot LLM audited CONSORT adherence at scale, uncovering persistent reporting gaps and wide disciplinary variation across biomedical fields, underscoring the need for targeted editorial action to boost transparency and reproducibility.</p>",
-            "date_published": "2025-08-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
+            "title": "Ensuring Inclusive Governance for Trustworthy and Responsible AI Network",
+            "summary": "To the Editor A recent Viewpoint 1 described the launch of a new artificial intelligence (AI) governance initiative to promote trustworthy and responsible AI. As Black scholars, one of whom is also Native American, working at the intersection of AI and health equity, we offer several points for further consideration.",
+            "content_text": "To the Editor A recent Viewpoint 1 described the launch of a new artificial intelligence (AI) governance initiative to promote trustworthy and responsible AI. As Black scholars, one of whom is also Native American, working at the intersection of AI and health equity, we offer several points for further consideration.",
+            "date_published": "2025-08-25T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Apoorva Srinivasan, MS"
+                    "name": "Tiffani J. Bright, PhD"
                 }
             ],
             "tags": [
-                "benchmarking",
-                "guidelines",
-                "large language models",
-                "performance reporting"
+                ""
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2838106/srinivasan_2025_oi_250829_1755710567.16303.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838005/jama_bright_2025_le_250097_1755553965.13538.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250829f1_1755710567.26803.png?Expires=2147483647&Signature=p7LnLTyebxOuAgds0kccJscmb~dRICv7YEa7fDigxZBro~ORriTSqRnf8GEhy9Qttg-fJaw46BSkdhl3HxgyxOIpkar7w0VuIEa6erVuVUUrIOcWndrm3uSlKty5I1~pHEnZuv9MhXy1LJyRlE4ykFvwElJEk70YjZfXd-aC~YIgD43JE4dSg2Gw~-9-OUYzynr1AeDo9CZLKD7P6vpM2dJYrjMrINo~o38reWj86FScElsmf9wuqiod8~skv0RacjWs~qVZtSG8O39FiQNKjM0b34IOuZ5ACodSdPegm~JBoB6r6NzHQ6Bs8JVe1~UEOLieATv25JgytxUGQKU7lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
-            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
-            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
-            "date_published": "2025-06-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anam Akhlaq, MBBS"
+                    "name": "Ellen Wright Clayton, MD, JD"
                 }
             ],
             "tags": [
-                "generative artificial intelligence"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1754685078.01969.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
