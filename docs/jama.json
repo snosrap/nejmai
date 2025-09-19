@@ -4,23 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "title": "Artificial Intelligence in Peer Review",
-            "summary": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "content_text": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "date_published": "2025-08-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839110",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839110",
+            "title": "Expanding Pathways to Major Journals for Early-Career Researchers",
+            "summary": "After opening a manuscript rejection email, many researchers are left asking themselves, \u201cWhy was my work really rejected?\u201d Early-career investigators who can correctly answer this question will improve future manuscripts and are more likely to publish in high-impact journals. Yet learning these lessons typically occurs by trial and error.",
+            "content_text": "After opening a manuscript rejection email, many researchers are left asking themselves, \u201cWhy was my work really rejected?\u201d Early-career investigators who can correctly answer this question will improve future manuscripts and are more likely to publish in high-impact journals. Yet learning these lessons typically occurs by trial and error.",
+            "date_published": "2025-09-18T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy H. Perlis, MD, MSc"
+                    "name": "Michael O. Mensah, MD, MPH, MHS"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "chatbots",
+                "conflict of interest",
+                "educational process of instructing",
+                "greenland",
+                "knowledge acquisition",
+                "learning health system",
+                "medical literature",
+                "nurses",
+                "podcasts as topic",
+                "rejection (psychology)",
+                "social media"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838453/jama_perlis_2025_ed_250062_1756244190.44739.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839110/jama_mensah_2025_ed_250061_1757701481.28589.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
