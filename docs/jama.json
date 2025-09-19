@@ -4,38 +4,15 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838005",
-            "title": "Ensuring Inclusive Governance for Trustworthy and Responsible AI Network",
-            "summary": "To the Editor A recent Viewpoint 1 described the launch of a new artificial intelligence (AI) governance initiative to promote trustworthy and responsible AI. As Black scholars, one of whom is also Native American, working at the intersection of AI and health equity, we offer several points for further consideration.",
-            "content_text": "To the Editor A recent Viewpoint 1 described the launch of a new artificial intelligence (AI) governance initiative to promote trustworthy and responsible AI. As Black scholars, one of whom is also Native American, working at the intersection of AI and health equity, we offer several points for further consideration.",
-            "date_published": "2025-08-25T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
+            "title": "Artificial Intelligence in Peer Review",
+            "summary": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
+            "content_text": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
+            "date_published": "2025-08-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tiffani J. Bright, PhD"
-                }
-            ],
-            "tags": [
-                ""
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838005/jama_bright_2025_le_250097_1755553965.13538.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
-            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "date_published": "2025-07-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Ellen Wright Clayton, MD, JD"
+                    "name": "Roy H. Perlis, MD, MSc"
                 }
             ],
             "tags": [
@@ -43,11 +20,36 @@
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838453/jama_perlis_2025_ed_250062_1756244190.44739.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837941",
+            "title": "Large Language Models for Rare Disease Diagnosis at the Undiagnosed Diseases Network",
+            "summary": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
+            "content_text": "This cohort study assesses whether large language models (LLMs) can identify the final diagnosis, based on available clinical information, for patients referred to the Undiagnosed Diseases Network.",
+            "date_published": "2025-08-22T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Cathy Shyr, PhD"
+                }
+            ],
+            "tags": [
+                "large language models",
+                "rare diseases",
+                "undiagnosed diseases"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837941/shyr_2025_ld_250177_1755198200.64007.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zld250177t1_1755198200.75203.png?Expires=2147483647&Signature=C06DkRiFQkWZeW9SR1rbKK7fmAyhHiB4tLZQHXVq~WtT1YDKS99t~tQhtydzET6CJQkldPO9Gn2wzRCs~VcLVCfCm7w8tipArnfAmHiry4HUjhDdf6Qbgs17sus8H7AY-riarrBsGEVhYpX2na-Hv0VT-BJpHvXB~5naRAftBxtyT5SjV8e-sPbJU2Y5p~ZXxDudvOn5IeKEeQA7yB0Di1U4scauL2sfN9vxKsfcDMwNJkTbSDN09zOjgTI9lU87O8aBtPZw5TV30u-dlMcgcMMxRrofOOfg9EnZCShVNBw8Mpoa4ioO8ZUpRK5YG-sk2Pg-b-mfiEdtcyIB5ib3Ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
