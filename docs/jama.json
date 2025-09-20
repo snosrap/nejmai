@@ -4,37 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839110",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839110",
-            "title": "Expanding Pathways to Major Journals for Early-Career Researchers",
-            "summary": "After opening a manuscript rejection email, many researchers are left asking themselves, \u201cWhy was my work really rejected?\u201d Early-career investigators who can correctly answer this question will improve future manuscripts and are more likely to publish in high-impact journals. Yet learning these lessons typically occurs by trial and error.",
-            "content_text": "After opening a manuscript rejection email, many researchers are left asking themselves, \u201cWhy was my work really rejected?\u201d Early-career investigators who can correctly answer this question will improve future manuscripts and are more likely to publish in high-impact journals. Yet learning these lessons typically occurs by trial and error.",
-            "date_published": "2025-09-18T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
+            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "date_published": "2025-09-05T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Michael O. Mensah, MD, MPH, MHS"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "chatbots",
-                "conflict of interest",
-                "educational process of instructing",
-                "greenland",
-                "knowledge acquisition",
-                "learning health system",
-                "medical literature",
-                "nurses",
-                "podcasts as topic",
-                "rejection (psychology)",
-                "social media"
+                "women's health"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839110/jama_mensah_2025_ed_250061_1757701481.28589.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837614",
+            "title": "Optic Nerve Atrophy Conditions Associated With 3D Unsegmented Optical Coherence Tomography Volumes Using Deep",
+            "summary": "This cross-sectional study uses clinical trial data to test whether a 3-dimensional deep learning model trained on unsegmented optical coherence tomography scans of the optic nerve head can reliably distinguish optic atrophy in both eyes with disease and healthy eyes.",
+            "content_html": "<h3>Importance</h3><p>Accurate differentiation of optic nerve head (ONH) atrophy is vital for guiding diagnosis and treatment of conditions such as glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), and optic neuritis. Traditional 2-dimensional assessments may overlook subtle, volumetric changes.</p><h3>Objective</h3><p>To determine whether a 3-dimensional (3D) deep learning model trained on unsegmented ONH optical coherence tomography (OCT) scans can reliably distinguish optic atrophy in glaucoma, NAION, optic neuritis, and healthy eyes.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study used data from multiple clinical trials and referral centers (2008-2025), including randomized trials, longitudinal studies, and referral clinics. Participants included patients with glaucoma, NAION, or optic neuritis and healthy control patients.</p><h3>Exposures</h3><p>Three ResNet-3D-18 models were trained using 5-fold stratified cross-validation. One assessed the full OCT volume, another focused only on the peripapillary region (PPR), and the third considered only the ONH. Identical data splits were used to allow direct performance comparison.</p><h3>Main Outcomes and Measures</h3><p>Classification accuracy, macro area under the receiver operating characteristic curve (AUC-ROC), precision, recall, and F1 scores, aggregated across all validation folds. Confusion matrices were generated to characterize misclassifications.</p><h3>Results</h3><p>A total of 7014 Cirrus ONH OCT scans from 1382 eyes of glaucoma (n\u2009=\u2009113), NAION (n\u2009=\u2009311), optic neuritis (n\u2009=\u2009163), and healthy controls (n\u2009=\u2009715) were analyzed. The mean (SD) age was 54.2 (16.9) years; there were 733 (65%) male patients and 402 (35%) female patients. The entire-volume model achieved 88.9% accuracy (macro AUC-ROC, 0.977; 95% CI, 0.974-0.979) and F1 scores of 0.94, 0.87, 0.78, and 0.91 for glaucoma, NAION, optic neuritis, and healthy eyes, respectively. The PPR-only model reached 85.9% accuracy (AUC-ROC, 0.970; 95% CI, 0.967-0.972), while the ONH-only model attained 87.0% accuracy (AUC-ROC, 0.972; 95% CI, 0.970-0.975). Both achieved F1 scores from 0.71 to 0.94. Optic neuritis presented the greatest classification challenge, misclassified as NAION or healthy when axonal loss was severe or minimal. Activation maps revealed disease-specific regions of interest in the retina, including the retinal nerve fiber layer, ganglion cell layer, and retinal pigment epithelium.</p><h3>Conclusions and Relevance</h3><p>Deep learning\u2013based analysis of unsegmented OCT scans reliably distinguished between different forms of optic nerve atrophy, suggesting subtle, disease-specific structural patterns. This automated approach may support diagnostic efforts, guide clinical management of optic neuropathies, and complement less standardized imaging modalities and subjective clinical impressions.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "David Szanto, BA"
+                }
+            ],
+            "tags": [
+                "atrophy",
+                "deep learning",
+                "eye",
+                "glaucoma",
+                "nonarteritic anterior ischemic optic neuropathy (naion)",
+                "optic atrophy",
+                "optic disk",
+                "optic neuritis",
+                "optical coherence",
+                "tomography"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837614/jamaophthalmology_szanto_2025_oi_250042_1754518407.21116.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250042t1_1754518407.35223.png?Expires=2147483647&Signature=NN2NZCn~A~Sb~VhCXhrKoSmzQHD2Ik5F7oqNYlNv4LQNdAkVyuqEPCWgl01TJpg2uu6brYtMEEG2rswfe9CNMYH~AmDwAWjMBjcJetLnCu3k2H9bmksLXTMvOoLV-Ae4zq3VAjyrwjH00LbpTob2KP8JHz0eKQa1OexVZ8Ai47yn9FQaXgjjK84ZK1ADg~WUEg0Jk9VYLXXYrJOAI0ZocR8S1fWdtDv~WaZzinz-xZD2Q6VT81bqlL43NIQXFnv1MuUpJlMmiU-rrXTx8WDPzrwzvDaeOyj4TW~RMFMneZQwC6dsQpnS16mLo0MbOanqLl9ucEhHRb3HJVJ12GPKAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -822,34 +844,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
-            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
-            "date_published": "2024-04-30T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "breast neoplasm screening",
-                "magnetic resonance imaging",
-                "malignant neoplasm of breast",
-                "mammography",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
