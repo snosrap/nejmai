@@ -4,53 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
-            "title": "Accuracy of Artificial Intelligence vs Professionally Translated Discharge Instructions",
-            "summary": "This comparative effectiveness analysis describes the process of implementation for artificial intelligence\u2013based translation and investigates its accuracy for translating discharge instructions into Simplified Chinese, Somali, Spanish, and Vietnamese.",
-            "content_html": "<h3>Importance</h3><p>Patients using languages other than English are a group at risk of poor health outcomes and encounter barriers to access of translated written materials. Although artificial intelligence (AI) may offer an opportunity to improve access, few studies have evaluated the accuracy and safety of AI translation for clinical care under routine practice conditions.</p><h3>Objective</h3><p>To investigate the accuracy of AI translation compared with professional human translation of patient-specific issued pediatric inpatient discharge instructions.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness analysis compared translations by a neural machine translation model vs professional translators using patient-specific pediatric inpatient discharge instructions received by families between May 18, 2023, and May 18, 2024, at a single center academic pediatric hospital. Instructions were translated to Simplified Chinese, Somali, Spanish, and Vietnamese by professional translators and the Azure AI system and then broken into scoring sections. Two professional translators per language evaluated translations (blinded to source) on an established 5-point scale for fluency, adequacy, meaning, and error severity, with 1 indicating worst performance and 5 indicating best performance.</p><h3>Exposure</h3><p>AI vs professional translation.</p><h3>Main Outcome and Measure</h3><p>Quality of discharge instruction translation, including fluency, adequacy, meaning, and severity of errors.</p><h3>Results</h3><p>A total of 148 sections from 34 discharge instructions were analyzed. When considering all 4 languages together, average fluency, adequacy, and meaning were lower among AI compared with professional human translations. Among all tested languages, mean (SD) fluency for AI translations was 2.98 (1.12) compared with 3.90 (0.96) for professional translations (difference, 0.92; 95% CI, 0.83-1.01;<i>P</i>\u2009&lt;\u2009.001), adequacy was 3.81 (1.14) compared with 4.56 (0.70) (difference, 0.74; 95% CI, 0.65-0.83;<i>P</i>\u2009&lt;\u2009.001), meaning was 3.38 (1.15) compared with 4.28 (0.84) (difference, 0.90; 95% CI, 0.80-0.99;<i>P</i>\u2009&lt;\u2009.001), and error severity was 3.53 (1.28) compared with 4.48 (0.88) (difference, 0.95; 95% CI, 0.85-1.06;<i>P</i>\u2009&lt;\u2009.001). Compared with professional translations, the Spanish AI translations were noninferior in adequacy (difference, 0.08; 95% CI, \u22120.02 to 0.19) and error severity (difference, 0.03; 95% CI, \u22120.09 to 0.14) but inferior in fluency (difference, 0.38; 95% CI, 0.23-0.53) and just crossed the inferiority threshold in meaning (difference, 0.08; 95% CI, \u22120.04 to 0.20). The Chinese, Vietnamese, and Somali AI translations were inferior to the professional translations across all metrics, with the greatest differences for Somali.</p><h3>Conclusions and Relevance</h3><p>In this comparative effectiveness analysis of AI- vs professionally translated issued discharge instructions, AI-translated instructions performed similarly for Spanish but worse for other languages tested. Validation and clinical implementation of AI-based translation will require special attention to languages of lesser diffusion to prevent creating new inequities.</p>",
-            "date_published": "2025-09-17T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Melissa Martos, MD, MS"
+                    "name": "Tyler J. Loftus, MD, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "comparative effectiveness research",
-                "hospital discharge instructions (treatment)",
-                "somali language"
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839035/martos_2025_oi_250911_1757519918.02934.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250911t1_1757519918.19076.png?Expires=2147483647&Signature=UBEvR4UyNh5NpgpSY7SqYjqdCi1toBWwnCPp~H4pUa~5jzHnhH5B9FBI-1eFTFk9Vvgg6GRttIXCRRiykMjgWhM-8fmLzSQEx7xVWvxTubHMkl1ecyno2M2AbS~HjC1j6A6mylRyjMut1wX1GGe8UZ-dm5OSCW0LoLdy9jehISDSpaI~7Mvkq6kbMzPjb5Y7BbcuCvLFOnBdneiN8RuVpViOu5FcKR1pFK3IruYBzBpE98gHsnPc12vB1RSZVBjbPZoKeteK3I3riTyAQq5CXS3Smkb2eWuWOnV5f-QyxH8v3jKOZAJRDWos9fKTH4hKv-lutWFaoVVbXnOpnesuxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838453",
-            "title": "Artificial Intelligence in Peer Review",
-            "summary": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "content_text": "Like David Foster Wallace\u2019s tale of 2 fish that don\u2019t notice the water they\u2019re swimming in because it\u2019s all around them, 1 the medical community has at times taken for granted peer review and its centrality to evidence-based medicine. But the peer review process is under increasing pressure: the number of journals seeking peer reviewers and the number of manuscripts requiring peer review continue to grow. The pressures on peer reviewers themselves have grown in parallel, with many complaining of \u201creviewer fatigue\u201d or simply opting out of reviewing altogether. 2 Journal editors have acknowledged longstanding critiques that the peer review process is inefficient, slows publication of important work, introduces potential for reviewer bias and inconsistency, and fails to prevent publication of poor-quality or fraudulent research. 3 , 4",
-            "date_published": "2025-08-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Roy H. Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838453/jama_perlis_2025_ed_250062_1756244190.44739.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -938,6 +915,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
