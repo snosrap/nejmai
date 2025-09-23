@@ -4,31 +4,51 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
-            "title": "Enhanced Surgical Instructions Using Large Language Models",
-            "summary": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
-            "content_text": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
-            "date_published": "2025-08-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
+            "title": "3D Deep Learning Analysis of OCT to Classify Optic Atrophy",
+            "summary": "In a study by Szanto et al, 1 a 3-dimensional (3D) deep learning model trained on unsegmented optical coherence tomography (OCT) scans was used to distinguish between glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), optic neuritis, and healthy controls. A ResNet-3D model was trained and tested using 5-fold stratified cross-validation in 3 different settings: model A analyzed the full unoccluded OCT scan; model B, only the peripapillary retina; and model C, only the optic nerve head. Overall, model A had the highest diagnostic accuracy (88.9%), followed by model C (87.0%) and model B (85.9%). 1 We commend Szanto et al on their novel work and use of an international, multicenter cohort including robust data from randomized clinical trials. Their work moves beyond traditional 2D patterns in efforts to identify disease-specific atrophy signatures residing within the optic nerve head and surrounding retina. In recent years, seminal work introducing the role of deep learning models to make optic neuropathy diagnoses from ocular imaging has spurred much interest and catalyzed additional exploration. 2 - 4 The important work by Szanto et al builds on this momentum and paves the way for future clinical applications.",
+            "content_text": "In a study by Szanto et al, 1 a 3-dimensional (3D) deep learning model trained on unsegmented optical coherence tomography (OCT) scans was used to distinguish between glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), optic neuritis, and healthy controls. A ResNet-3D model was trained and tested using 5-fold stratified cross-validation in 3 different settings: model A analyzed the full unoccluded OCT scan; model B, only the peripapillary retina; and model C, only the optic nerve head. Overall, model A had the highest diagnostic accuracy (88.9%), followed by model C (87.0%) and model B (85.9%). 1 We commend Szanto et al on their novel work and use of an international, multicenter cohort including robust data from randomized clinical trials. Their work moves beyond traditional 2D patterns in efforts to identify disease-specific atrophy signatures residing within the optic nerve head and surrounding retina. In recent years, seminal work introducing the role of deep learning models to make optic neuropathy diagnoses from ocular imaging has spurred much interest and catalyzed additional exploration. 2 - 4 The important work by Szanto et al builds on this momentum and paves the way for future clinical applications.",
+            "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maxwell Sahhar, BS"
+                    "name": "Sabrina Poonja, MD"
                 }
             ],
             "tags": [
-                "chatbots",
-                "large language models",
-                "operative surgical procedures",
-                "postoperative care",
-                "preoperative care"
+                "deep learning",
+                "optic atrophy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837476/jamasurgery_sahhar_2025_ld_250012_1755016308.69279.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837616/jamaophthalmology_poonja_2025_ic_250034_1754518411.21167.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/sld250012t1_1755016308.88787.png?Expires=2147483647&Signature=K7bZlJgI6~QBpw6BllpnFZ2pdT4A30fr~HjYo~LYmMrSBEpW-L1OKnBRhjjap3p-iqT3nC1LzmI9nufb~uUx~B2OhhX0hIzNTSLsYQA5fCpppgn2SnoIZzuxWRsxde7wygScCNt9eYy6GgIm54S6ChAfCJkaI8QmFaUXjOyhbl450pDIFxbNsQJF0hsildUroyMoYqK4~kGg9wiwyXybM7sojTnXo3zKDc7u2nUku5qwPTKujGVf5~bn7TwMdzoZWpJK-AoXzUg0OkArBNUNXJqgt6f-r3GcEtqXib4oN3jRwn0ozM-pWhZ5OvY8t5mME2Ldd3lvkpNtB3hjUiI8CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887",
+            "title": "Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI",
+            "summary": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "content_text": "Distribution shift, or data shift, is a fundamental challenge in generalizing or transporting scientific evidence from observed source populations to new, potentially only partially observed target populations. In medical research, data from external or historical randomized clinical trials or observational studies are often used to estimate treatment effects for a new target population. Subasri et al 1 empirically examined the deployment of state-of-the-art machine learning (ML) and artificial intelligence (AI) algorithms across clinical datasets under distribution shifts. Analyzing a retrospective cohort of 109 802 patients across 7 hospitals in Toronto, Canada (2010-2020), spanning both academic and community settings, they evaluated ML and AI predictions of 14-day all-cause in-hospital mortality using electronic health record data. Their work highlights both the potential and challenges of applying ML and AI algorithms in heterogeneous clinical environments, emphasizing the need for robust strategies to handle distribution shifts.",
+            "date_published": "2025-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Larry Han, PhD"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2834887/han_2025_ic_250107_1748437545.14825.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -916,33 +936,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
