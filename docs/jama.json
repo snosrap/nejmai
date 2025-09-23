@@ -4,30 +4,31 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
-            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
-            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "title": "Enhanced Surgical Instructions Using Large Language Models",
+            "summary": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "content_text": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "date_published": "2025-08-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Tyler J. Loftus, MD, PhD"
+                    "name": "Maxwell Sahhar, BS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
                 "chatbots",
-                "knowledge acquisition",
-                "large language models"
+                "large language models",
+                "operative surgical procedures",
+                "postoperative care",
+                "preoperative care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837476/jamasurgery_sahhar_2025_ld_250012_1755016308.69279.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/sld250012t1_1755016308.88787.png?Expires=2147483647&Signature=K7bZlJgI6~QBpw6BllpnFZ2pdT4A30fr~HjYo~LYmMrSBEpW-L1OKnBRhjjap3p-iqT3nC1LzmI9nufb~uUx~B2OhhX0hIzNTSLsYQA5fCpppgn2SnoIZzuxWRsxde7wygScCNt9eYy6GgIm54S6ChAfCJkaI8QmFaUXjOyhbl450pDIFxbNsQJF0hsildUroyMoYqK4~kGg9wiwyXybM7sojTnXo3zKDc7u2nUku5qwPTKujGVf5~bn7TwMdzoZWpJK-AoXzUg0OkArBNUNXJqgt6f-r3GcEtqXib4oN3jRwn0ozM-pWhZ5OvY8t5mME2Ldd3lvkpNtB3hjUiI8CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
