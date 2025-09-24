@@ -4,60 +4,50 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2838437",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2838437",
-            "title": "DeepSeek-R1 vs OpenAI o1 for Ophthalmic Diagnoses and Management Plans",
-            "summary": "This cross-sectional study evaluates the diagnostic accuracy, management decision-making, and cost of DeepSeek-R1 vs OpenAI o1 across diverse ophthalmic subspecialties.",
-            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) are increasingly being explored in clinical decision-making, but few studies have evaluated their performance on complex ophthalmology cases from clinical practice settings. Understanding whether open-weight, reasoning-enhanced LLMs can outperform proprietary models has implications for clinical utility and accessibility.</p><h3>Objective</h3><p>To evaluate the diagnostic accuracy, management decision-making, and cost of DeepSeek-R1 vs OpenAI o1 across diverse ophthalmic subspecialties.</p><h3>Design, Setting, and Participants</h3><p>This was a cross-sectional evaluation conducted using standardized prompts and model configurations. Clinical cases were sourced from<i>JAMA Ophthalmology</i>\u2019s Clinical Challenge articles, containing complex cases from clinical practice settings. Each case included an open-ended diagnostic question and a multiple-choice next-step decision. All cases were included without exclusions, and no human participants were involved. Data were analyzed from March 13 to March 30, 2025.</p><h3>Exposures</h3><p>DeepSeek-R1and OpenAI o1 were evaluated using the Plan-and-Solve Plus (PS+) prompt engineering method.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were diagnostic accuracy and next-step decision-making accuracy, defined as the proportion of correct responses. Token cost analyses were performed to estimate expenses. Intermodel agreement was evaluated using Cohen \u03ba, and McNemar test was used to compare performance.</p><h3>Results</h3><p>A total of 422 clinical cases were included, spanning 10 subspecialties. DeepSeek-R1 achieved a higher diagnostic accuracy of 70.4% (297 of 422 cases) compared with 63.0% (266 of 422 cases) for OpenAI o1, a 7.3% difference (95% CI, 1.0%-13.7%;<i>P</i>\u2009=\u2009.02). For next-step decisions, DeepSeek-R1 was correct in 82.7% of cases (349 of 422 cases) vs OpenAI o1\u2019s accuracy of 75.8% (320 of 422 cases), a 6.9% difference (95% CI, 1.4%-12.3%;<i>P</i>\u2009=\u2009.01). Intermodel agreement was moderate (\u03ba\u2009=\u20090.422; 95% CI, 0.375-0.469;<i>P</i>\u2009&lt;\u2009.001). DeepSeek-R1 offered lower costs per query than OpenAI o1, with savings exceeding 66-fold (up to 98.5%) during off-peak pricing.</p><h3>Conclusions and Relevance</h3><p>DeepSeek-R1 outperformed OpenAI o1 in diagnosis and management across subspecialties while lowering operating costs, supporting the potential of open-weight, reinforcement learning\u2013augmented LLMs as scalable and cost-saving tools for clinical decision support. Further investigations should evaluate safety guardrails and assess performance of self-hosted adaptations of DeepSeek-R1 with domain-specific ophthalmic expertise to optimize clinical utility.</p>",
-            "date_published": "2025-09-04T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
+            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "date_published": "2025-08-15T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "David Mikhail, MD(C), MSc(C)"
+                    "name": "Andrew Wong, MD, MS"
                 }
             ],
             "tags": [
-                "cost savings",
-                "decision making",
-                "engineering",
-                "eye",
-                "large language models",
-                "ophthalmology specialty",
-                "reasoning"
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2838437/jamaophthalmology_mikhail_2025_oi_250045_1756220676.51703.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1755204727.34294.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250045t1_1756220676.87603.png?Expires=2147483647&Signature=cZNocuW4ovGv1IVJokI78srMO1GB9BMJ-gS-U6oam9rwBLwxRiDgh8tkn~E7nPmC~F60wITvTExs9mmZiKDRAqAz8WMibfbbvQV2XMFDtFZvMSSRpFb1Z1DmI-n-aG~Kvd~1CGRFuM4m-VlaV4DWyWj7jbyRGuuzGXMf6g9kSW8G282f86LnwjxMDq1VqWehoB5DZhgIzp-cMFFgc4LGjENytKyvehMidYbVMQ~MVGdNIN8XCtseNiPr~FuS2C7H7lPvlSehFs9D8vk~0n5WgcvLY00gryDPBIRi5Uag~aRItH6yGNzu8qBlxq6THvkmfzK4htY6-YiFW4zjiNwfbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
-            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
-            "title": "Computer Vision in Clinical Neurology: A Review",
-            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
-            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
-            "date_published": "2025-02-17T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
+            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Maximilian U. Friedrich, MD"
+                    "name": "R. Chris Jones, MD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "computer vision systems",
-                "neurologic examination",
-                "neurology speciality",
-                "technology"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1753802811.81777.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
