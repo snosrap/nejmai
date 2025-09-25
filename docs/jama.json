@@ -4,50 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
-            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "date_published": "2025-08-15T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
+            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "date_published": "2025-09-05T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Andrew Wong, MD, MS"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "health policy"
+                "women's health"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1755204727.34294.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837476",
+            "title": "Enhanced Surgical Instructions Using Large Language Models",
+            "summary": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "content_text": "This cross-sectional study compares the capability of human authors with that of a chatbot in simplifying preoperative and postoperative documents for patients.",
+            "date_published": "2025-08-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "R. Chris Jones, MD"
+                    "name": "Maxwell Sahhar, BS"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "chatbots",
+                "large language models",
+                "operative surgical procedures",
+                "postoperative care",
+                "preoperative care"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1753802811.81777.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837476/jamasurgery_sahhar_2025_ld_250012_1755016308.69279.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/0/sld250012t1_1755016308.88787.png?Expires=2147483647&Signature=K7bZlJgI6~QBpw6BllpnFZ2pdT4A30fr~HjYo~LYmMrSBEpW-L1OKnBRhjjap3p-iqT3nC1LzmI9nufb~uUx~B2OhhX0hIzNTSLsYQA5fCpppgn2SnoIZzuxWRsxde7wygScCNt9eYy6GgIm54S6ChAfCJkaI8QmFaUXjOyhbl450pDIFxbNsQJF0hsildUroyMoYqK4~kGg9wiwyXybM7sojTnXo3zKDc7u2nUku5qwPTKujGVf5~bn7TwMdzoZWpJK-AoXzUg0OkArBNUNXJqgt6f-r3GcEtqXib4oN3jRwn0ozM-pWhZ5OvY8t5mME2Ldd3lvkpNtB3hjUiI8CQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -276,31 +280,6 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
-            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
-            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
-            "date_published": "2024-11-07T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Grace K. Sun, BS"
-                }
-            ],
-            "tags": [
-                "informatics (discipline)",
-                "natural language processing",
-                "triage"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825990",
             "title": "Performance of Risk Models for Antimicrobial Resistance in Adult Patients With Sepsis",
@@ -328,6 +307,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939484/zoi241246t1_1730394547.41392.png?Expires=2147483647&Signature=FSC2y3JA-qK-Kgh1~d2zI85WJkQWmh7wpEFsHRU0~lYBCB1zRqCCucTQKkfbaH5DTwfutBzSHf9vjf0I~O632wyh1qNyuyv7aaneKvn0cewmXZVvoiRfkgbFqwCPX5BA-9WZTDbdCzMfVCyf6JkjMY7jnTpi2W1LWZz4NlVvYZqg75MKgl-easXJ1orBYLWPvyB4UJQi8XVI6DkxGuu7Z-i7rtzAqei6ahl3JZLMefs2j6ULhXBKBTMJVXXIMlnXEfgs9836MZy5RlgN8m-eUAPwvgrmNJum~D~IrRQhV9E4WVn3wa3cIlv9V1DgA9fu7B7iIDxo9-~qCSMGsLDv9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825994",
+            "title": "Applying Natural Language Processing to Electronic Health Record Data\u2014From Text to Triage",
+            "summary": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "content_text": "For patients with heart failure (HF), medical decision-making is contingent on symptom burden. Most information about a patient\u2019s clinical status, disease progression, and response to treatment lies in qualitative clinician documentation in the electronic health record (EHR). The New York Heart Association (NYHA) classification was developed to standardize functional status assessments and treatment decisions. 1 However, due to inconsistent implementation in routine care, much of the critical information remains in unstructured EHR data that is difficult to capture and analyze. Natural language processing (NLP) is an emerging tool that uses artificial intelligence to process unstructured or semistructured free-text data, such as the embedded assessments of HF symptom status in clinician documentation. 2",
+            "date_published": "2024-11-07T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Grace K. Sun, BS"
+                }
+            ],
+            "tags": [
+                "informatics (discipline)",
+                "natural language processing",
+                "triage"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2825994/sun_2024_ic_240265_1730394558.65636.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825987",
@@ -383,29 +387,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/pld240047t1_1730388847.19245.png?Expires=2147483647&Signature=iTMGjU2cKlGmtRlPax7eiepentmyOxLlc-xaHtV9zp1mxggdHVLQNp87-2A96MnvwE6MY-4ZZ10ub6YWInYUT-Up8PQXpEW-YTOho1af4ktF4eyV9WwznaHF52IYdrKhFAOJ9nkD82z3y27VUgH9-KsVogSDry6lC182an8j7hqMpdoMe045DdBM9ckhfFqxNKde1MsTvoZYDxCta4WLqE34llWIDDRP3VhEc9IwjmOiGvSeBfXPxxdOPW3Dw3S-DcUWK~wv89LEcZKSw5g9J5tkqw5a4eygN7TAO~o6ExfNgtHGE9TyBs~4anDJ1uQwnJ~p1A12CrEP9d65~dAxTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
-            "title": "Deep Learning to Improve Diagnosis Must Also Not Do Harm",
-            "summary": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
-            "content_text": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
-            "date_published": "2024-11-01T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Heather E. Moss, MD, PhD"
-                }
-            ],
-            "tags": [
-                "deep learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2824479/jamaophthalmology_moss_2024_ic_240043_1731639456.39073.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824475",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824475",
             "title": "Deep Learning to Discriminate Arteritic From Nonarteritic Ischemic Optic Neuropathy on Color Images",
@@ -437,6 +418,29 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939499/eoi240064t1_1731639422.53949.png?Expires=2147483647&Signature=n6MGK7JwQu-WsLaEPlRpgPkjUTkJbvJNf5sdC6QBLyo6~JryvObPOQ9ixJzaZc-iJ~HdNPvNLqIO-tiI6hYUbUD4dEBetucze2jrSKXSRePo0R9UdmkXEJZ~c7wIfILCAkwJ5lIduCtjHbddBfeB1EjpElPQSoa8FLceSqgbatY4xUyXhNqouUVSkxORMysEW3xeH3z5TeySzYxFD08rnAttu0tqRsO3QBns0AyVhVVcrptXBEPGPwDlR5UY5ndAkzfBGNiFl2GiDZ-fQPaSEgKTeNhft3g~OjJ9H5oAKzJoDtH3hvQPefihLKB1nETXAHioFBL0xxf7RPRjPe988g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2824479",
+            "title": "Deep Learning to Improve Diagnosis Must Also Not Do Harm",
+            "summary": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
+            "content_text": "Both arteritic and nonarteritic anterior ischemic optic neuropathy typically cause sudden, unilateral vision loss with optic disc edema in people older than 50 years. 1 While there is no proven treatment that improves visual outcome in the affected eye(s) for either entity, management is strikingly different. Arteritic anterior ischemic optic neuropathy (AAION) requires prompt diagnostic confirmation and initiation of corticosteroid treatment to reduce the imminent risk of vision loss in the fellow eye and risk of ischemic stroke and other ischemic complications of systemic arteritic disease, most commonly giant cell arteritis. In contrast, nonarteritic anterior ischemic optic neuropathy (NAION) is a clinical diagnosis for which no acute intervention has been shown to reduce risk of fellow eye involvement over the longer term. Differentiating between these 2 anterior optic neuropathies in the acute setting is critically important to reduce risk of vision loss and complications of systemic arteritic disease in people with acute AAION, while minimizing unnecessary treatment and testing in people with acute NAION.",
+            "date_published": "2024-11-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Heather E. Moss, MD, PhD"
+                }
+            ],
+            "tags": [
+                "deep learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2824479/jamaophthalmology_moss_2024_ic_240043_1731639456.39073.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2825181",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2825181",
             "title": "Use of Artificial Intelligence\u2013Based Detection of Diabetic Retinopathy in the US",
@@ -461,30 +465,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eld240007t1_1728936602.24537.png?Expires=2147483647&Signature=jzKftewxojEf-nZ7DBH7I2Y1HzcvI6SvsQhf~6RhF6wWiI6LAYFXxCfHqGYNmofLXMqMkUty1ihVC~ZvT1V9~hAJWu1Qu6bArMWkWxrN4zlOMUDD-QhLEbo2LNCy7J1HuFgVN1Mw4542C6VVoi9DRpra3DxCeoH77aLswQOHASgFQCi3kg~e-UQ1u8ulXKB6nWKt4RWW0ahQnIuwixgKV6C~GB9l94VpBton97mUkmvKp3uVqvYE-jeiRKCXJcU7XLLHTGyEFbytSWcLekZ6gCJmiNfsLkM4jlxByLZ4097RGS5ERxzyfIkJrLw~drlaEpIQ3dsk7Aeww2J1xmN6bg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
-            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
-            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
-            "date_published": "2024-10-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Andrew Gonzalez, MD, JD, MPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "machine learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825399",
@@ -536,6 +516,30 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939467/zoi241182f1_1729527081.5449.png?Expires=2147483647&Signature=3ekbX2qtg2we0UEDs85fc8mIbpunw6yVZ9RixFhv-7wsbIhkuxVJyinRve6Q7a-YO9akijgF84cLzFzcLOG~z1MEneiA3RScpDCzVnsl4Cnmh7dXoiK~jkP0Drf7LF2I-bwEFhgsTgdK8kYTDv0SyQFydIDPNL0Sh1FRatBd2iF4nmNa-puvaGNifFodpadTrYjj9j3Y7PDFkCkP5VoWnC-DKd4xfqDELz-Dv~HXnXBctVWdBBHNAZZEcjvPiyF5WLAo0s5zGLgmTZOiXMBKYLYvLj5tfPpeGYkVkeU-e8EccuAZ1A-ShjCdvg0Gwx~6UO5LL7G5MoMQe3j9r-FHDA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825454",
+            "title": "AI Code of Conduct\u2014Safety, Inclusivity, and Sustainability",
+            "summary": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "content_text": "This Viewpoint discusses the need for guidance and governance in assessing the safety of health care artificial intelligence (AI) and machine learning systems.",
+            "date_published": "2024-10-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Andrew Gonzalez, MD, JD, MPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "machine learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2825454/jamainternal_gonzalez_2024_vp_240033_1729697203.01842.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825235",
@@ -637,30 +641,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi240124f1_1730324416.78684.png?Expires=2147483647&Signature=EzSJWPA8wZ8M4EItkW5uUvcHAYbNLdTxfOL11CFixhRRKqUExoM7rP0dJ6ycvskqOWZO1BTAgv0UNKZjTHhGrvF~Djsfb3hpt20UHy2cye71bMyd0~O~qQbVym5qKeHiLLyDlaJdAWdPOtCklt9YJImVSE1hS-I6ylfcdhH6SO6-EdCKXIQX8kOU298BQv6-oxo12ApYG0HI5azY~JGYraAEAAPNxZKTidp7izrp-LuxxIp0oOtlsdDeuLhvTyQiHhPzEXz1YzKxdMZLh0lTTty5iUKo6adFxDv~WS0tzNVRDhZHOgJqqRSVVuTIklNR1PgU0jknvkx4Pe~dT5SoHg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
-            "title": "Toward the Rigorous Evaluation of Early Warning Scores",
-            "summary": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
-            "content_text": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
-            "date_published": "2024-10-15T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Amol A. Verma, MD, MPhil"
-                }
-            ],
-            "tags": [
-                "early warning score",
-                "informatics (discipline)"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2824889/verma_2024_ic_240227_1727980029.8035.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2825146",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2825146",
             "title": "FDA Perspective on the Regulation of Artificial Intelligence in Health Care and Biomedicine",
@@ -689,6 +669,30 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc240014f1_1728674739.97756.png?Expires=2147483647&Signature=P4lIg3LTH6JyLytnXRH4LM46vgd0ofmG3AHp1V2Va2ZIIwlw99rPslEprnlElxKSUfbQz2ZKcMWp~4dw6LlobwcwyvRmXgCdM5bo7C8MImsdredJOMJlIs~TR3IvFM3F-YaPG-HX3DBfC6aXkt~9QcKtkXJgAGpribYQEh804Ow-2CQTxVlnDYl0x09ceVpdQLbutOYIOfa8A16fIC-kYHogFefXqQqE3JwM-QXwIW6BJHKNCYhiN4wCNIG2j22ocWff7BHW9jSPUEgmgLIn5QBRKfT86mrrNB~8XxSMkyQcpS6zIHg4UR~3tLCnXekyyk4kFxXytXFQStE4OFvPAQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824889",
+            "title": "Toward the Rigorous Evaluation of Early Warning Scores",
+            "summary": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
+            "content_text": "Many hospitals use early warning scores to help clinicians recognize potentially deteriorating patients and intervene early. Systematic reviews 1 - 3 have identified more than 30 such scores, which vary widely in the methods used for their development and validation. Edelson and colleagues 4 compared 6 early warning scores across more than 362 000 medical-surgical ward encounters in 7 hospitals in the Yale New Haven Health System. They compared 3 statistically advanced scores (eCART, the Rothman Index, and the Epic Deterioration Index) and 3 simpler, points-based scores (National Early Warning Score [NEWS], NEWS2, and Modified Early Warning Score [MEWS]) in their ability to predict ward-to\u2013intensive care unit (ICU) transfer or death within 24 hours of the prediction. Accuracy and the amount of lead time between a high-risk prediction and a deterioration event varied across the scores. In some cases, the simpler scores outperformed more statistically advanced scores. The best performing score was eCART, whereas the Epic Deterioration Index was among the worst performing scores.",
+            "date_published": "2024-10-15T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Amol A. Verma, MD, MPhil"
+                }
+            ],
+            "tags": [
+                "early warning score",
+                "informatics (discipline)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2824889/verma_2024_ic_240227_1727980029.8035.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823641",
@@ -763,6 +767,30 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
+            "title": "Travel Guide From the Brave New World of Artificial Intelligence",
+            "summary": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
+            "content_text": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
+            "date_published": "2024-08-01T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Daniel E. Hall, MD, MDiv, MHSc"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "travel"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2819797/jamasurgery_hall_2024_ic_240029_1723061390.4786.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819793",
             "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819793",
             "title": "Deep Learning for Video-Based Assessment in Surgery",
@@ -786,30 +814,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939434/ssi240001f1_1723061349.03528.png?Expires=2147483647&Signature=JJwsEN-hiug2kmNfdFlMksVLUQnjVZ5JMDl83JJGj0JUfaWPFRXd4mhuCHOfwh9ImqrpoLHTC0lCvPxKfzF~XJgKa09vFJo0PSprvBPUGpBajsSFLySmEzKBrh6qBQfvDXQlUPk3TC14lOe6ilbxWAV-eo04G4WcwmNOR69fhGR7sh00cS6Eg5pkGrRDZJf292bZf6m1Rgcjwqa8qKPUa~k3P~nmsRcAke-7rejmQaEEFtBvuMfSfHQuSYkNCODU3OXELxzzsE9~pXL49-LmIpqQrWGFicpT5aV71LBGUEEGdoWDHc~EBtDwBTy7BfafWdNsBt0CDYaC3mXIr2RwJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2819797",
-            "title": "Travel Guide From the Brave New World of Artificial Intelligence",
-            "summary": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
-            "content_text": "Just over 1 year has passed since ChatGPT (OpenAI) burst onto the scene to become the fastest growing consumer software application in history. 1 It was immediately obvious that large language models (LLMs) were extraordinarily powerful, but the scope, nature, application, and implications of that power remain unclear. Chung and colleagues 2 present a fascinating article in JAMA Surgery demonstrating the ability of a specific LLM (GPT-4 Turbo [OpenAI]) to inspect preoperative clinician notes from the electronic health record to classify or predict several perioperative parameters such as the American Society of Anesthesiologists Physical Status (ASA) classification, hospital or intensive care unit admission, and postoperative lengths of stay. They find that the LLM not only classified cases accurately but also provided an explanation justifying why, for example, a specific patient was categorized as ASA class 3 but not class 4. By contrast, the LLM struggled to make accurate predictions of linear outcomes like length of stay.",
-            "date_published": "2024-08-01T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Daniel E. Hall, MD, MDiv, MHSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "travel"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2819797/jamasurgery_hall_2024_ic_240029_1723061390.4786.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2820406",
@@ -937,6 +941,33 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
+            "title": "A Nationwide Network of Health AI Assurance Laboratories",
+            "summary": "This article outlines the need for a nationwide public-private network of assurance laboratories that would aid in the evaluation and development of artificial intelligence (AI) in health care.",
+            "content_html": "<h3>Importance</h3><p>Given the importance of rigorous development and evaluation standards needed of artificial intelligence (AI) models used in health care, nationwide accepted procedures to provide assurance that the use of AI is fair, appropriate, valid, effective, and safe are urgently needed.</p><h3>Observations</h3><p>While there are several efforts to develop standards and best practices to evaluate AI, there is a gap between having such guidance and the application of such guidance to both existing and new AI models being developed. As of now, there is no publicly available, nationwide mechanism that enables objective evaluation and ongoing assessment of the consequences of using health AI models in clinical care settings.</p><h3>Conclusion and Relevance</h3><p>The need to create a public-private partnership to support a nationwide health AI assurance labs network is outlined here. In this network, community best practices could be applied for testing health AI models to produce reports on their performance that can be widely shared for managing the lifecycle of AI models over time and across populations and sites where these models are deployed.</p>",
+            "date_published": "2024-01-16T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Nigam H. Shah, MBBS, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "best practice",
+                "laboratory techniques and procedures",
+                "laboratory test finding",
+                "partnership"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2813425/jama_shah_2023_sc_230010_1704388743.12177.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230010f1_1704388743.37082.png?Expires=2147483647&Signature=hKbKpEzXo~ur6lHISvH6Yi4n~BNV~O98VVPo7bUfvikETpoOglDqfJA50a14JmylSIub-FKCUneBQv5r5pOv~Tw9mb1J23B7ZuyuqSF7UrR~zfihrUbGkjejNmozPx-XfZgk4Kc3NjvoSszs~oRFd6-0dbKXWqhJWL2uBIGK8Jl0mpvKIcCg44yN-jWiGH86YGd8HFtrDgdSHJ0Cg3UAygCVV80OIV5DJpssyvRMeapj4tiWxhg~GRNA4olnzeFnptJ7ZYkLyQ0TF-N0JmcDc~beoMLD8mhnSp1DqXiRTl8Fc-AN70IG7CVOpKS4AeIzYH~ui6I1bsHbJmPat~Gavw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2813874",
             "title": "Three Epochs of Artificial Intelligence in Health Care",
@@ -963,33 +994,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230009f1_1704388744.43262.png?Expires=2147483647&Signature=EtUVNILw27a2MT9~PlU46ZH2HiydY7Iv6p7OGP2TKU7pgMPjs8eppQbCFXsw0IhiYqzYbtM8MBgk1iTasjdLyeMTDTYpd2ho5nY5nIS~vdMdwOp7lXtetR3JF7PEdtVhzaOPYc03mz9B-iuKsWAtv457KO3y3bnAClUh4pCSXW4nxNCZyz64l7nGIVtJQM~MBhcOOs1~RT2DkqQBz8Ifs4Y-Wu-W9HxdFLg69V~ORKrgmt1jK-zbYsevLrxMWgTOsZ0AO38s~Jnw6ui~mY2Vz8QopO9ThENJnltrZRcNy5XlDwG6vrbfTRfanuPFvkt2gVmDPDg0Cj46vzBaMaBG5w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
-            "title": "A Nationwide Network of Health AI Assurance Laboratories",
-            "summary": "This article outlines the need for a nationwide public-private network of assurance laboratories that would aid in the evaluation and development of artificial intelligence (AI) in health care.",
-            "content_html": "<h3>Importance</h3><p>Given the importance of rigorous development and evaluation standards needed of artificial intelligence (AI) models used in health care, nationwide accepted procedures to provide assurance that the use of AI is fair, appropriate, valid, effective, and safe are urgently needed.</p><h3>Observations</h3><p>While there are several efforts to develop standards and best practices to evaluate AI, there is a gap between having such guidance and the application of such guidance to both existing and new AI models being developed. As of now, there is no publicly available, nationwide mechanism that enables objective evaluation and ongoing assessment of the consequences of using health AI models in clinical care settings.</p><h3>Conclusion and Relevance</h3><p>The need to create a public-private partnership to support a nationwide health AI assurance labs network is outlined here. In this network, community best practices could be applied for testing health AI models to produce reports on their performance that can be widely shared for managing the lifecycle of AI models over time and across populations and sites where these models are deployed.</p>",
-            "date_published": "2024-01-16T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Nigam H. Shah, MBBS, PhD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "best practice",
-                "laboratory techniques and procedures",
-                "laboratory test finding",
-                "partnership"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2813425/jama_shah_2023_sc_230010_1704388743.12177.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939302/jsc230010f1_1704388743.37082.png?Expires=2147483647&Signature=hKbKpEzXo~ur6lHISvH6Yi4n~BNV~O98VVPo7bUfvikETpoOglDqfJA50a14JmylSIub-FKCUneBQv5r5pOv~Tw9mb1J23B7ZuyuqSF7UrR~zfihrUbGkjejNmozPx-XfZgk4Kc3NjvoSszs~oRFd6-0dbKXWqhJWL2uBIGK8Jl0mpvKIcCg44yN-jWiGH86YGd8HFtrDgdSHJ0Cg3UAygCVV80OIV5DJpssyvRMeapj4tiWxhg~GRNA4olnzeFnptJ7ZYkLyQ0TF-N0JmcDc~beoMLD8mhnSp1DqXiRTl8Fc-AN70IG7CVOpKS4AeIzYH~ui6I1bsHbJmPat~Gavw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2812615",
