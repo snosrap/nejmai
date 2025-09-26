@@ -4,52 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837463",
-            "title": "Establishing Consensual Terms of AS-OCT Anatomical Landmarks",
-            "summary": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "content_text": "Anterior-segment optical coherence tomography (AS-OCT) was first described by Izatt et al 1 with an OCT wavelength of 830 nm and limited penetration. The advancement from time-domain to spectral-domain to swept-source OCT has led to AS-OCT with longer wavelength (up to 1310 nm), faster scan speed (up to 50 000 A-scans per second), and higher transverse resolution (up to 800 A-scans per B-scan). These improvements provide multiple scans for 360\u00b0 cross-sectional AS images in high definition. This further allows detailed and repeatable quantitative analysis of various structures, including ocular surface, tear film, cornea, and anterior chamber structures. These advances in AS-OCT have led to numerous publications, advancing our knowledge in pathological structural changes. However, the use of different AS-OCT device models and image processing technologies has resulted in an array of anatomical terminologies, which can be associated with confusion across studies, affecting interstudy interpretability, data comparability, and interpretation of results. To address this problem, the Advised Protocol for OCT Study Terminology and Elements Extension for Anterior Segment (APOSTEL-AS) study group initiated a multinational, multistage consensus exercise to standardize AS-OCT anatomical terminology based on the Accurate Consensus Reporting Document (ACCORD) recommendation. 2",
-            "date_published": "2025-08-14T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
+            "title": "Payments to Health Care Professionals and Teaching Hospitals by AI- and Machine Learning\u2013Enabled Medical",
+            "summary": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
+            "content_text": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
+            "date_published": "2025-09-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Poemen P. Chan, MBBS, FCOphthHK"
+                    "name": "David-Dan Nguyen, MDCM, MPH"
                 }
             ],
             "tags": [
-                "anatomical landmarks"
+                "health personnel",
+                "machine learning",
+                "medical devices",
+                "teaching hospitals"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837463/jamaophthalmology_chan_2025_ic_250031_1758049790.28805.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839115/jama_nguyen_2025_ld_250056_1758047857.95258.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250056t1_1758047858.15387.png?Expires=2147483647&Signature=pT~nYB8-WK9V1Hl0PcSeqfX4X7YemQCeb3-Fy2qredaXBUElyaZdrujl6lFaaVS-efloJzek1QXewbLZYmgG7mLr6ZPzpIxksIAs-YVUJL5m0c6Y7HlS~4nf9W2hW5Xr2bv4teGQ03eyesjYi3W1AeXrptZXETD1vNElto-ALgRpnSoTfxstMe0zgkXFq8bHggTRo050K8imUh2jAdyAaiqlFhhjmHeNRMnCsA4EeoTeHM5Go9HSLBC7ly5JbKAoV4QI35~Uu1UtNyV8QcYvI-FLslm8xDTcA1ErrwZHN-rZXAbhLKRGSMOgmyiUFv75HFs2DGp6A4778RXDZ4KKdg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Anjali D. Deshmukh, MD, JD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "big data",
-                "health equity"
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1755882468.77106.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
