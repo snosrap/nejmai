@@ -4,52 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
-            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "date_published": "2025-09-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
+            "title": "Payments to Health Care Professionals and Teaching Hospitals by AI- and Machine Learning\u2013Enabled Medical",
+            "summary": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
+            "content_text": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
+            "date_published": "2025-09-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sangwon Baek, BA"
+                    "name": "David-Dan Nguyen, MDCM, MPH"
                 }
             ],
             "tags": [
-                "gastroenterology (field)",
-                "hepatology (field)",
-                "large language models"
+                "health personnel",
+                "machine learning",
+                "medical devices",
+                "teaching hospitals"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839115/jama_nguyen_2025_ld_250056_1758820452.44901.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250056t1_1758820453.23392.png?Expires=2147483647&Signature=DKCfUC8GPhmGQAy-xAZH4DqD8qTk3grYecq5NTbtJwmgoxRNMkRLbY-PYkIwejGXDG1SC4vz2CD35pgpJSZHERVg5f9oEa5vr32Tovbiq-nSHDpXwqeCWzZbw3Bn1R8M16vMkxN~tvXQ0xjVfYzhfTykPZNfFccVmnYU9TGntFuw0haUnhquajTAS~kDlopjgAXsY-2G3u9T~M8jrohkGGvldem3FmscnKvHmeMtyBeFuETMcEGsrA~TpXzeMv04scMEwCejdwjFEEl9wDNJxMTtjROZfQwqyfZ~N-KCSkD1AKOFIktWFPyFS0y6HjAHtbA9H-WvFKR1x02dWRN42w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838106",
+            "title": "Large Language Model Analysis of Reporting Quality of Randomized Clinical Trial Articles: A Systematic Review",
+            "summary": "This study uses a zero-shot large-language model to automatically assess compliance with the Consolidated Standards of Reporting Trials guideline for English-language randomized clinical trials published from 1966 to 2024.",
+            "content_html": "<h3>Importance</h3><p>Incomplete reporting in randomized clinical trials (RCTs) obscures bias and limits reproducibility. Manual audits for adherence to the Consolidated Standards of Reporting Trials (CONSORT) guideline cannot keep pace with publication volume.</p><h3>Objectives</h3><p>To build and validate a zero-shot large-language-model (LLM) pipeline for automated CONSORT assessment and to map reporting quality over time, biomedical disciplines, and trial features.</p><h3>Design, Setting, and Participants</h3><p>This systematic review included RCTs that were indexed on PubMed, available in English, open access, human-participant research, and published between MONTH 1966 to MONTH 2024. PubMed PDFs were converted to XML and linked with Semantic Scholar and ClinicalTrials.gov metadata. Chat GPT-4o-mini was tested on the 50-article CONSORT\u2013Text Classification Model (CONSORT-TM) benchmark, checked by experts in 70 randomly sampled RCTs, and then applied to the full sample.</p><h3>Exposure</h3><p>Publication year, biomedical discipline, funding source, trial phase, US Food and Drug Administration regulation, and oversight features.</p><h3>Main Outcomes and Measures</h3><p>The LLM judged whether each of 21 CONSORT items was met. Primary outcomes were (1) model performance vs expert review (precision, recall, and macro F1 score) and (2) proportion of items reported.</p><h3>Results</h3><p>Of 53\u202f137 screened PDFs, 21\u202f041 RCTs (median [IQR] publication year, 2014 [2003-2020]; 30 disciplines) were included, with a registry-linked subset of 1790 RCTs that had a median (IQR) planned enrollment of 210 (95-440) participants. In the 70-article validation set (2210 decisions) LLM outputs matched experts 91.7% of the time (2026 of 2210 decision); the macro F1 score on CONSORT-TM was 0.86 (95% CI, 0.84-0.87). Mean CONSORT compliance increased from 27.3% (95% CI, 27.0%-27.6%) in 1966 to 1990 to 57.0% (95% CI, 56.8%-57.2%) in 2010 to 2024. However, reporting critical elements remained uncommon, such as allocation-concealment mechanism (16.1% [95% CI, 15.6%-16.6%]) and external-validity discussion (1.6% [95% CI, 1.5%-1.8%]). Compliance varied across disciplines from 35.2% (95% CI, 34.8%-35.6%) in pharmacology to 63.4% (95% CI, 62.1%-64.7%) in urology and showed only negligible associations with clinical trial characteristics (all Cramer<i>V</i>&lt;0.10).</p><h3>Conclusions and Relevance</h3><p>In this systemic review of RCTs, a zero-shot LLM audited CONSORT adherence at scale, uncovering persistent reporting gaps and wide disciplinary variation across biomedical fields, underscoring the need for targeted editorial action to boost transparency and reproducibility.</p>",
+            "date_published": "2025-08-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "R. Chris Jones, MD"
+                    "name": "Apoorva Srinivasan, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "benchmarking",
+                "guidelines",
+                "large language models",
+                "performance reporting"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1753802811.81777.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2838106/srinivasan_2025_oi_250829_1755710567.16303.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250829f1_1755710567.26803.png?Expires=2147483647&Signature=p7LnLTyebxOuAgds0kccJscmb~dRICv7YEa7fDigxZBro~ORriTSqRnf8GEhy9Qttg-fJaw46BSkdhl3HxgyxOIpkar7w0VuIEa6erVuVUUrIOcWndrm3uSlKty5I1~pHEnZuv9MhXy1LJyRlE4ykFvwElJEk70YjZfXd-aC~YIgD43JE4dSg2Gw~-9-OUYzynr1AeDo9CZLKD7P6vpM2dJYrjMrINo~o38reWj86FScElsmf9wuqiod8~skv0RacjWs~qVZtSG8O39FiQNKjM0b34IOuZ5ACodSdPegm~JBoB6r6NzHQ6Bs8JVe1~UEOLieATv25JgytxUGQKU7lg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
