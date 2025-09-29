@@ -4,56 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
-            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "date_published": "2025-08-15T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2837616",
+            "title": "3D Deep Learning Analysis of OCT to Classify Optic Atrophy",
+            "summary": "In a study by Szanto et al, 1 a 3-dimensional (3D) deep learning model trained on unsegmented optical coherence tomography (OCT) scans was used to distinguish between glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), optic neuritis, and healthy controls. A ResNet-3D model was trained and tested using 5-fold stratified cross-validation in 3 different settings: model A analyzed the full unoccluded OCT scan; model B, only the peripapillary retina; and model C, only the optic nerve head. Overall, model A had the highest diagnostic accuracy (88.9%), followed by model C (87.0%) and model B (85.9%). 1 We commend Szanto et al on their novel work and use of an international, multicenter cohort including robust data from randomized clinical trials. Their work moves beyond traditional 2D patterns in efforts to identify disease-specific atrophy signatures residing within the optic nerve head and surrounding retina. In recent years, seminal work introducing the role of deep learning models to make optic neuropathy diagnoses from ocular imaging has spurred much interest and catalyzed additional exploration. 2 - 4 The important work by Szanto et al builds on this momentum and paves the way for future clinical applications.",
+            "content_text": "In a study by Szanto et al, 1 a 3-dimensional (3D) deep learning model trained on unsegmented optical coherence tomography (OCT) scans was used to distinguish between glaucoma, nonarteritic anterior ischemic optic neuropathy (NAION), optic neuritis, and healthy controls. A ResNet-3D model was trained and tested using 5-fold stratified cross-validation in 3 different settings: model A analyzed the full unoccluded OCT scan; model B, only the peripapillary retina; and model C, only the optic nerve head. Overall, model A had the highest diagnostic accuracy (88.9%), followed by model C (87.0%) and model B (85.9%). 1 We commend Szanto et al on their novel work and use of an international, multicenter cohort including robust data from randomized clinical trials. Their work moves beyond traditional 2D patterns in efforts to identify disease-specific atrophy signatures residing within the optic nerve head and surrounding retina. In recent years, seminal work introducing the role of deep learning models to make optic neuropathy diagnoses from ocular imaging has spurred much interest and catalyzed additional exploration. 2 - 4 The important work by Szanto et al builds on this momentum and paves the way for future clinical applications.",
+            "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Andrew Wong, MD, MS"
+                    "name": "Sabrina Poonja, MD"
                 }
             ],
             "tags": [
-                "health policy"
+                "deep learning",
+                "optic atrophy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1757537665.43458.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2837616/jamaophthalmology_poonja_2025_ic_250034_1754518411.21167.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
-            "date_published": "2025-04-08T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "behavior therapy",
-                "counseling risk factor reduction and behavior change intervention",
-                "infant",
-                "patient referral",
-                "pregnancy",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -841,6 +813,34 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
+            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
+            "date_published": "2024-04-30T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "breast neoplasm screening",
+                "magnetic resonance imaging",
+                "malignant neoplasm of breast",
+                "mammography",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
