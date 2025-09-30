@@ -4,58 +4,51 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
-            "date_published": "2025-04-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839289",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839289",
+            "title": "Sociodemographic Bias in Large Language Model\u2013Assisted Gastroenterology",
+            "summary": "This quality improvement study investigates the association of demographic characteristics with large language model\u2013generated recommendations for simulated gastroenterology clinic cases.",
+            "content_text": "This quality improvement study investigates the association of demographic characteristics with large language model\u2013generated recommendations for simulated gastroenterology clinic cases.",
+            "date_published": "2025-09-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Asaf Levartovsky, MD"
                 }
             ],
             "tags": [
-                "behavior therapy",
-                "counseling risk factor reduction and behavior change intervention",
-                "infant",
-                "patient referral",
-                "pregnancy",
-                "primary health care",
-                "united states preventive services task force"
+                "gastroenterology (field)",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839289/levartovsky_2025_ld_250205_1758058621.51218.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zld250205f1_1758058621.6212.png?Expires=2147483647&Signature=XPrQznP~c0mdy1Y9W~ApfgjWQTeRh-dufCj7L09r61MatJ83PhncYK8K0kA9ah4diYZqtNvbPIepW~5GgERIjJ9fvawx-qtMNUY58zpXNzOJqiYpBXzGiqmvNVTYaYgXXeUhW7dDSreQnJ54cxOqm1SD~iVUxu0xq7ZE4Zvak-8eQn-lUKprBQE5fvRZV4QNhvdc81fF-Iq3v~ULUhVkZ6xg8oW77jnLvH85h1O~QvSPlTfEZIhPbidsP4xFmYYjhh5pNoVnd7JDtBwwL4iA2AkY~s~UgOG7rzIIei6JCnxjDhWVQFRI8LZv2KFtX~0Kp5EgUgMCiE8cN~KvOmHB7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
+            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "date_published": "2025-09-05T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "women's health"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
