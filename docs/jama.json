@@ -4,59 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
-            "title": "Payments to Health Care Professionals and Teaching Hospitals by AI- and Machine Learning\u2013Enabled Medical",
-            "summary": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
-            "content_text": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
-            "date_published": "2025-09-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "David-Dan Nguyen, MDCM, MPH"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "health personnel",
-                "machine learning",
-                "medical devices",
-                "teaching hospitals"
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839115/jama_nguyen_2025_ld_250056_1758820452.44901.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250056t1_1758820453.23392.png?Expires=2147483647&Signature=DKCfUC8GPhmGQAy-xAZH4DqD8qTk3grYecq5NTbtJwmgoxRNMkRLbY-PYkIwejGXDG1SC4vz2CD35pgpJSZHERVg5f9oEa5vr32Tovbiq-nSHDpXwqeCWzZbw3Bn1R8M16vMkxN~tvXQ0xjVfYzhfTykPZNfFccVmnYU9TGntFuw0haUnhquajTAS~kDlopjgAXsY-2G3u9T~M8jrohkGGvldem3FmscnKvHmeMtyBeFuETMcEGsrA~TpXzeMv04scMEwCejdwjFEEl9wDNJxMTtjROZfQwqyfZ~N-KCSkD1AKOFIktWFPyFS0y6HjAHtbA9H-WvFKR1x02dWRN42w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2838437",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2838437",
-            "title": "DeepSeek-R1 vs OpenAI o1 for Ophthalmic Diagnoses and Management Plans",
-            "summary": "This cross-sectional study evaluates the diagnostic accuracy, management decision-making, and cost of DeepSeek-R1 vs OpenAI o1 across diverse ophthalmic subspecialties.",
-            "content_html": "<h3>Importance</h3><p>Large language models (LLMs) are increasingly being explored in clinical decision-making, but few studies have evaluated their performance on complex ophthalmology cases from clinical practice settings. Understanding whether open-weight, reasoning-enhanced LLMs can outperform proprietary models has implications for clinical utility and accessibility.</p><h3>Objective</h3><p>To evaluate the diagnostic accuracy, management decision-making, and cost of DeepSeek-R1 vs OpenAI o1 across diverse ophthalmic subspecialties.</p><h3>Design, Setting, and Participants</h3><p>This was a cross-sectional evaluation conducted using standardized prompts and model configurations. Clinical cases were sourced from<i>JAMA Ophthalmology</i>\u2019s Clinical Challenge articles, containing complex cases from clinical practice settings. Each case included an open-ended diagnostic question and a multiple-choice next-step decision. All cases were included without exclusions, and no human participants were involved. Data were analyzed from March 13 to March 30, 2025.</p><h3>Exposures</h3><p>DeepSeek-R1and OpenAI o1 were evaluated using the Plan-and-Solve Plus (PS+) prompt engineering method.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes were diagnostic accuracy and next-step decision-making accuracy, defined as the proportion of correct responses. Token cost analyses were performed to estimate expenses. Intermodel agreement was evaluated using Cohen \u03ba, and McNemar test was used to compare performance.</p><h3>Results</h3><p>A total of 422 clinical cases were included, spanning 10 subspecialties. DeepSeek-R1 achieved a higher diagnostic accuracy of 70.4% (297 of 422 cases) compared with 63.0% (266 of 422 cases) for OpenAI o1, a 7.3% difference (95% CI, 1.0%-13.7%;<i>P</i>\u2009=\u2009.02). For next-step decisions, DeepSeek-R1 was correct in 82.7% of cases (349 of 422 cases) vs OpenAI o1\u2019s accuracy of 75.8% (320 of 422 cases), a 6.9% difference (95% CI, 1.4%-12.3%;<i>P</i>\u2009=\u2009.01). Intermodel agreement was moderate (\u03ba\u2009=\u20090.422; 95% CI, 0.375-0.469;<i>P</i>\u2009&lt;\u2009.001). DeepSeek-R1 offered lower costs per query than OpenAI o1, with savings exceeding 66-fold (up to 98.5%) during off-peak pricing.</p><h3>Conclusions and Relevance</h3><p>DeepSeek-R1 outperformed OpenAI o1 in diagnosis and management across subspecialties while lowering operating costs, supporting the potential of open-weight, reinforcement learning\u2013augmented LLMs as scalable and cost-saving tools for clinical decision support. Further investigations should evaluate safety guardrails and assess performance of self-hosted adaptations of DeepSeek-R1 with domain-specific ophthalmic expertise to optimize clinical utility.</p>",
-            "date_published": "2025-09-04T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "David Mikhail, MD(C), MSc(C)"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
-                "cost savings",
-                "decision making",
-                "engineering",
-                "eye",
-                "large language models",
-                "ophthalmology specialty",
-                "reasoning"
+                "artificial intelligence",
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2838437/jamaophthalmology_mikhail_2025_oi_250045_1756220676.51703.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250045t1_1756220676.87603.png?Expires=2147483647&Signature=cZNocuW4ovGv1IVJokI78srMO1GB9BMJ-gS-U6oam9rwBLwxRiDgh8tkn~E7nPmC~F60wITvTExs9mmZiKDRAqAz8WMibfbbvQV2XMFDtFZvMSSRpFb1Z1DmI-n-aG~Kvd~1CGRFuM4m-VlaV4DWyWj7jbyRGuuzGXMf6g9kSW8G282f86LnwjxMDq1VqWehoB5DZhgIzp-cMFFgc4LGjENytKyvehMidYbVMQ~MVGdNIN8XCtseNiPr~FuS2C7H7lPvlSehFs9D8vk~0n5WgcvLY00gryDPBIRi5Uag~aRItH6yGNzu8qBlxq6THvkmfzK4htY6-YiFW4zjiNwfbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
