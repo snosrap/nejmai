@@ -4,33 +4,60 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
-            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
-            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507",
+            "url": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507",
+            "title": "Artificial Intelligence Model for Imaging-Based Extranodal Extension Detection and Outcome Prediction in Human",
+            "summary": "This cohort study develops an artificial intelligence\u2212driven pipeline for classification of lymph node segmentation and imaging-based extranodal extension using pretreatment computed tomography for prognoses in human papilloma virus-positive oropharyngeal cancer.",
+            "content_html": "<h3>Importance</h3><p>Although not included in the eighth edition of the<i>American Joint Committee on Cancer Staging System</i>, there is growing evidence suggesting that imaging-based extranodal extension (iENE) is associated with worse outcomes in HPV-associated oropharyngeal carcinoma (OPC). Key challenges with iENE include the lack of standardized criteria, reliance on radiological expertise, and interreader variability.</p><h3>Objective</h3><p>To develop an artificial intelligence (AI)\u2212driven pipeline for lymph node segmentation and iENE classification using pretreatment computed tomography (CT) scans, and to evaluate its association with oncologic outcomes in HPV-positive OPC.</p><h3>Design, Setting, and Participants</h3><p>This was a single-center cohort study conducted at a tertiary oncology center in Montreal, Canada, of adult patients with HPV-positive cN<sup>+</sup>OPC treated with up-front (chemo)radiotherapy from January 2009 to January 2020. Participants were followed up until January 2024. Data analysis was performed from March 2024 to April 2025.</p><h3>Exposures</h3><p>Pretreatment planning CT scans along with lymph node gross tumor volume segmentations performed by expert radiation oncologists were extracted. For lymph node segmentation, an nnU-Net model was developed. For iENE classification, radiomic and deep learning feature extraction methods were compared.</p><h3>Main Outcomes and Measures</h3><p>iENE classification accuracy was assessed against 2 expert neuroradiologist evaluations using area under the receiver operating characteristic curve (AUC). Subsequently, the association of AI-predicted iENE with oncologic outcomes\u2014ie, overall survival (OS), recurrence-free survival (RFS), distant control (DC), and locoregional control (LRC)\u2014was assessed.</p><h3>Results</h3><p>Among 397 patients (mean [SD] age, 62.3 [9.1] years; 80 females [20.2%] and 317 males [79.8%]), AI-iENE classification using radiomics achieved an AUC of 0.81. Patients with AI-predicted iENE had worse 3-year OS (83.8% vs 96.8%), RFS (80.7% vs 93.7%), and DC (84.3% vs 97.1%), but similar LRC. AI-iENE had significantly higher Concordance indices than radiologist-assessed iENE for OS (0.64 vs 0.55), RFS (0.67 vs 0.60), and DC (0.79 vs 0.68). In multivariable analysis, AI-iENE remained independently associated with OS (adjusted hazard ratio [aHR], 2.82; 95% CI, 1.21-6.57), RFS (aHR, 4.20; 95% CI, 1.93-9.11), and DC (aHR, 12.33; 95% CI, 4.15-36.67), adjusting for age, tumor category, node category, and number of lymph nodes.</p><h3>Conclusions and Relevance</h3><p>This single-center cohort study found that an AI-driven pipeline can successfully automate lymph node segmentation and iENE classification from pretreatment CT scans in HPV-associated OPC. Predicted iENE was independently associated with worse oncologic outcomes. External validation is required to assess generalizability and the potential for implementation in institutions without specialized imaging expertise.</p>",
+            "date_published": "2025-09-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Bianca Giglio, MSc"
+                    "name": "Gabriel S. Dayan, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "educational process of instructing",
-                "medical",
-                "operative surgical procedures",
-                "students",
-                "transfer technique",
-                "tutoring"
+                "diagnostic imaging",
+                "extranodal extension",
+                "gross tumor volume",
+                "human papillomavirus",
+                "lymph nodes",
+                "malignant neoplasm of oropharynx",
+                "radiologist",
+                "squamous cell carcinoma of oropharynx",
+                "x-ray computed tomography"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaotolaryngology/articlepdf/2839507/jamaotolaryngology_dayan_2025_oi_250064_1758731483.8984.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/otol/0/ooi250064f1_1758731484.2719.png?Expires=2147483647&Signature=nq~dOldo8hV479njsjyZFWnd1bU0cX0NjzNaDFz39-ePKWQFjo7SDNHL7rAdFN2sSpvhqMTMPLcZexWWFqCA2BNj-Hq~qgO~NXoklOTjd7eH~ILSh9LNZQVIFVYm9OCJxsAcwlUr7Vv3JCbIisoIwKXty9svkufztQ9MYoT1wPE7PL6l6Xtsb1DYDcUBZK5Gd-MpXyzuOCXEgSHHG-K25fIbsF3wspLX0ObWOTroH8UkdAdJBknQduE0Ss6hgRDm811SFbvnrogi8RbaX76ZYLXQbGqaWmVKHaZ5H4F2LjdjDGBvDlShFeBnx1UVkIv4Uc9X7yswtIxpIK0kmyUu0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
+            "title": "Early Recalls and Clinical Validation Gaps in Artificial Intelligence\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
+            "content_text": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
+            "date_published": "2025-08-22T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Branden Lee, BS"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "medical devices"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837802/lee_2025_ld_250027_1755811003.04068.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939659/ald250027f1_1755811003.15568.png?Expires=2147483647&Signature=JSr6FLV8OrM0HftdbuRKLoxlE3YsbDPMdviKrXNo-MSWNMyNrulUtYudEzkAcc0QgCcZ5v9qWo1M6wb-RLsNviZyrQGZsFArKvLTpBoRXTzq8m4QKbhkx8Hhegra9UWw~lCGot3UnX4e1SQhmOoxafY0zvWdUvyecjsFco~TfoBSt0jiH2KFWMIMZYf-o1x9tfZYXPnyHv18vBRnPBEPs5mRfbjkZXd0Ps7fbWux3pd6gAA9Q7MR2Db1SczwYxYliqh-1YoU89gbEYtAribuGFcAxUSz5Cx3mvqnILuH0P9LWiJLvQN~DpCAfFY4yCi9umK~oAb5UWsroU29U3LyFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -918,33 +945,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
