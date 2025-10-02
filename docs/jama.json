@@ -4,36 +4,63 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507",
-            "url": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507",
-            "title": "Artificial Intelligence Model for Imaging-Based Extranodal Extension Detection and Outcome Prediction in Human",
-            "summary": "This cohort study develops an artificial intelligence\u2212driven pipeline for classification of lymph node segmentation and imaging-based extranodal extension using pretreatment computed tomography for prognoses in human papilloma virus-positive oropharyngeal cancer.",
-            "content_html": "<h3>Importance</h3><p>Although not included in the eighth edition of the<i>American Joint Committee on Cancer Staging System</i>, there is growing evidence suggesting that imaging-based extranodal extension (iENE) is associated with worse outcomes in HPV-associated oropharyngeal carcinoma (OPC). Key challenges with iENE include the lack of standardized criteria, reliance on radiological expertise, and interreader variability.</p><h3>Objective</h3><p>To develop an artificial intelligence (AI)\u2212driven pipeline for lymph node segmentation and iENE classification using pretreatment computed tomography (CT) scans, and to evaluate its association with oncologic outcomes in HPV-positive OPC.</p><h3>Design, Setting, and Participants</h3><p>This was a single-center cohort study conducted at a tertiary oncology center in Montreal, Canada, of adult patients with HPV-positive cN<sup>+</sup>OPC treated with up-front (chemo)radiotherapy from January 2009 to January 2020. Participants were followed up until January 2024. Data analysis was performed from March 2024 to April 2025.</p><h3>Exposures</h3><p>Pretreatment planning CT scans along with lymph node gross tumor volume segmentations performed by expert radiation oncologists were extracted. For lymph node segmentation, an nnU-Net model was developed. For iENE classification, radiomic and deep learning feature extraction methods were compared.</p><h3>Main Outcomes and Measures</h3><p>iENE classification accuracy was assessed against 2 expert neuroradiologist evaluations using area under the receiver operating characteristic curve (AUC). Subsequently, the association of AI-predicted iENE with oncologic outcomes\u2014ie, overall survival (OS), recurrence-free survival (RFS), distant control (DC), and locoregional control (LRC)\u2014was assessed.</p><h3>Results</h3><p>Among 397 patients (mean [SD] age, 62.3 [9.1] years; 80 females [20.2%] and 317 males [79.8%]), AI-iENE classification using radiomics achieved an AUC of 0.81. Patients with AI-predicted iENE had worse 3-year OS (83.8% vs 96.8%), RFS (80.7% vs 93.7%), and DC (84.3% vs 97.1%), but similar LRC. AI-iENE had significantly higher Concordance indices than radiologist-assessed iENE for OS (0.64 vs 0.55), RFS (0.67 vs 0.60), and DC (0.79 vs 0.68). In multivariable analysis, AI-iENE remained independently associated with OS (adjusted hazard ratio [aHR], 2.82; 95% CI, 1.21-6.57), RFS (aHR, 4.20; 95% CI, 1.93-9.11), and DC (aHR, 12.33; 95% CI, 4.15-36.67), adjusting for age, tumor category, node category, and number of lymph nodes.</p><h3>Conclusions and Relevance</h3><p>This single-center cohort study found that an AI-driven pipeline can successfully automate lymph node segmentation and iENE classification from pretreatment CT scans in HPV-associated OPC. Predicted iENE was independently associated with worse oncologic outcomes. External validation is required to assess generalizability and the potential for implementation in institutions without specialized imaging expertise.</p>",
-            "date_published": "2025-09-30T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Gabriel S. Dayan, MD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "diagnostic imaging",
-                "extranodal extension",
-                "gross tumor volume",
-                "human papillomavirus",
-                "lymph nodes",
-                "malignant neoplasm of oropharynx",
-                "radiologist",
-                "squamous cell carcinoma of oropharynx",
-                "x-ray computed tomography"
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaotolaryngology/articlepdf/2839507/jamaotolaryngology_dayan_2025_oi_250064_1758731483.8984.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/otol/0/ooi250064f1_1758731484.2719.png?Expires=2147483647&Signature=nq~dOldo8hV479njsjyZFWnd1bU0cX0NjzNaDFz39-ePKWQFjo7SDNHL7rAdFN2sSpvhqMTMPLcZexWWFqCA2BNj-Hq~qgO~NXoklOTjd7eH~ILSh9LNZQVIFVYm9OCJxsAcwlUr7Vv3JCbIisoIwKXty9svkufztQ9MYoT1wPE7PL6l6Xtsb1DYDcUBZK5Gd-MpXyzuOCXEgSHHG-K25fIbsF3wspLX0ObWOTroH8UkdAdJBknQduE0Ss6hgRDm811SFbvnrogi8RbaX76ZYLXQbGqaWmVKHaZ5H4F2LjdjDGBvDlShFeBnx1UVkIv4Uc9X7yswtIxpIK0kmyUu0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -897,33 +924,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
