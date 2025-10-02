@@ -36,30 +36,6 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/otol/0/ooi250064f1_1758731484.2719.png?Expires=2147483647&Signature=nq~dOldo8hV479njsjyZFWnd1bU0cX0NjzNaDFz39-ePKWQFjo7SDNHL7rAdFN2sSpvhqMTMPLcZexWWFqCA2BNj-Hq~qgO~NXoklOTjd7eH~ILSh9LNZQVIFVYm9OCJxsAcwlUr7Vv3JCbIisoIwKXty9svkufztQ9MYoT1wPE7PL6l6Xtsb1DYDcUBZK5Gd-MpXyzuOCXEgSHHG-K25fIbsF3wspLX0ObWOTroH8UkdAdJBknQduE0Ss6hgRDm811SFbvnrogi8RbaX76ZYLXQbGqaWmVKHaZ5H4F2LjdjDGBvDlShFeBnx1UVkIv4Uc9X7yswtIxpIK0kmyUu0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
-            "title": "Early Recalls and Clinical Validation Gaps in Artificial Intelligence\u2013Enabled Medical Devices",
-            "summary": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
-            "content_text": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
-            "date_published": "2025-08-22T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Branden Lee, BS"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "medical devices"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837802/lee_2025_ld_250027_1755811003.04068.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939659/ald250027f1_1755811003.15568.png?Expires=2147483647&Signature=JSr6FLV8OrM0HftdbuRKLoxlE3YsbDPMdviKrXNo-MSWNMyNrulUtYudEzkAcc0QgCcZ5v9qWo1M6wb-RLsNviZyrQGZsFArKvLTpBoRXTzq8m4QKbhkx8Hhegra9UWw~lCGot3UnX4e1SQhmOoxafY0zvWdUvyecjsFco~TfoBSt0jiH2KFWMIMZYf-o1x9tfZYXPnyHv18vBRnPBEPs5mRfbjkZXd0Ps7fbWux3pd6gAA9Q7MR2Db1SczwYxYliqh-1YoU89gbEYtAribuGFcAxUSz5Cx3mvqnILuH0P9LWiJLvQN~DpCAfFY4yCi9umK~oAb5UWsroU29U3LyFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -921,6 +897,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
