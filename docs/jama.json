@@ -4,32 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032",
-            "title": "Machine Learning\u2013Based Selection of Resection vs Transplant and Survival in Hepatocellular Carcinoma",
-            "summary": "This cohort study develops and validates a machine learning\u2013based decision-support model to assess whether it can be used for risk stratification to optimize individualized treatment selection between liver transplantation and surgical resection among patients with hepatocellular carcinoma.",
-            "content_html": "<h3>Importance</h3><p>Liver transplantation (LT) generally provides superior long-term survival compared with surgical resection (SR) for hepatocellular carcinoma (HCC), but optimal treatment selection remains challenging due to donor scarcity and patient heterogeneity.</p><h3>Objective</h3><p>To develop and validate a machine learning (ML)\u2013based decision-support model to estimate optimized individualized treatment selection between LT and SR in HCC.</p><h3>Design, Setting, and Participants</h3><p>This nationwide cohort study included patients with HCC who underwent either LT or SR between 2008 and 2018 from the Korea Central Cancer Registry as the derivation cohort. An independent cohort of patients with HCC treated between 2009 and 2020 at Seoul St Mary\u2019s Hospital was used for external validation. Data were analyzed from February to March 2025.</p><h3>Exposures</h3><p>Curative treatment with LT or SR for HCC.</p><h3>Main Outcomes and Measures</h3><p>Separate ML models estimating 3-year overall survival (OS) were developed for LT and SR. Patients were stratified into high- and low-risk groups for each treatment, identifying LT-favorable and LT-nonfavorable groups. Counterfactual analysis evaluated OS differences between ML-guided and clinical practice treatments.</p><h3>Results</h3><p>A total of 3915 patients (3137 [80.1%] male), 296 in the LT group (median [IQR] age, 54.0 [49.0-60.0] years) and 3619 in the SR group (median [IQR] age, 58.0 [51.0-66.0] years), were included in the derivation cohort, and 614 patients (497 [80.9%] male)\u2014314 in the LT group (median [IQR] age, 55.0 [51.0-60.0] years) and 300 in the SR group (median [IQR] age, 59.0 [52.0-66.0] years)\u2014were included in the external validation cohort. Across both cohorts, LT recipients were generally younger and had more advanced liver disease, with higher rates of cirrhosis (78 [26.4%] vs 699 [19.3%];<i>P</i>\u2009=\u2009.005), hepatic encephalopathy (20 [6.8%] vs 10 [0.3%];<i>P</i>\u2009&lt;\u2009.001), and ascites (50 [19.9%] vs 153 [4.2%];<i>P</i>\u2009&lt;\u2009.001). LT recipients also exhibited poorer liver function, with lower albumin levels (median [IQR], 3.4 [2.8-4.0] vs 4.2 [3.9-4.5] g/dL), higher bilirubin levels (median [IQR], 1.4 [0.9-2.5] vs 0.7 [0.5-1.0] mg/dL), and prolonged international normalized ratios (median [IQR], 1.2 [1.1-1.5] vs 1.1 [1.0-1.1]), and had smaller tumors (median [IQR], 2.3 [1.5-3.6] vs 3.2 [2.2-5.0] cm;<i>P</i>\u2009&lt;\u2009.001) but more tumors (mean [SD], 1.6 [1.0] vs 1.2 [0.7];<i>P</i>\u2009&lt;\u2009.001). The support vector machine model achieved the highest area under the receiver operating characteristic curve (AUROC) of 0.82 (95% CI, 0.78-0.86) in the LT cohort, whereas CatBoost performed best in the SR cohort (AUROC, 0.79 [95% CI, 0.78-0.80]). Counterfactual analysis estimated that ML-guided treatment decisions could improve survival compared with observed clinical practice decisions (HR, 0.46 [95% CI, 0.42-0.50];<i>P</i>\u2009&lt;\u2009.001). These findings were consistent in the independent cohort.</p><h3>Conclusions and Relevance</h3><p>Findings from this cohort study of patients with HCC indicated that an ML-based decision-support model estimated accurate risk stratification and identified the potential for improved survival through individualized, model-guided treatment selection. These findings suggest clinical utility in supplementing existing guidelines.</p>",
-            "date_published": "2025-09-17T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839356",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839356",
+            "title": "Artificial Intelligence Across the JAMA Network: A Call for Submissions",
+            "summary": "Few technologies have generated enthusiasm in medicine as rapidly and intensely as artificial intelligence (AI), often outstripping the research community\u2019s capacity to study its impact. The explosion in interest in both research and implementation of AI in medicine is driven by a leap in the ability of these tools to analyze and synthesize data derived from written text, wearable technology, and images. For example, deep learning\u2013based image analysis has enabled the prediction of pathologic gene sequence variations directly from digital histopathology slides in oncology 1 and demonstrated that insights exceeding expert human capability could be derived in specific use cases. To date, the US Food and Drug Administration (FDA) has authorized for marketing more than 1000 AI- and machine learning\u2013enabled medical devices 2 designed for a wide range of applications, such as predictive analytics, clinical decision support, and deep phenotyping. The ability of large language models to recognize patterns in unstructured text and speech has already been used to dramatic effect, such as ambient scribing in clinical settings.",
+            "content_text": "Few technologies have generated enthusiasm in medicine as rapidly and intensely as artificial intelligence (AI), often outstripping the research community\u2019s capacity to study its impact. The explosion in interest in both research and implementation of AI in medicine is driven by a leap in the ability of these tools to analyze and synthesize data derived from written text, wearable technology, and images. For example, deep learning\u2013based image analysis has enabled the prediction of pathologic gene sequence variations directly from digital histopathology slides in oncology 1 and demonstrated that insights exceeding expert human capability could be derived in specific use cases. To date, the US Food and Drug Administration (FDA) has authorized for marketing more than 1000 AI- and machine learning\u2013enabled medical devices 2 designed for a wide range of applications, such as predictive analytics, clinical decision support, and deep phenotyping. The ability of large language models to recognize patterns in unstructured text and speech has already been used to dramatic effect, such as ambient scribing in clinical settings.",
+            "date_published": "2025-09-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Hyun Uk Kim"
+                    "name": "T. Y. Alvin Liu, MD"
                 }
             ],
             "tags": [
-                "excision",
-                "machine learning",
-                "neoplasms",
-                "primary carcinoma of the liver cells",
-                "transplantation",
-                "transplantation of liver"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839032/kim_2025_oi_250914_1757519911.88655.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839356/jama_liu_2025_en_250011_1758567776.01272.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250914f1_1757519912.17655.png?Expires=2147483647&Signature=Lp68BFU2etj6K93nAM9WPFcEIoCh6vW66hfcrjqaDwjee9HfYfN33Qq0tZSoI7a4WHgT41ThD-eOaqu89Qc81ERDLTdm4FqDAdohL5ijkqieE6OEUvGtk-~6NAJ~pjtqPO1GAYlPqRAc5-ZySROCG0N3c2sFRfCwM7GZnWafyZ55sts2o-f8cuil7MjSsfV8xsZ8y-BO2LrPhMfbW-ZmrKuHwYIpACw-7oh32qY2y0HaQDWqWDrH7MHSCmO1dHq0XJaqRGOL1sOZOHW0832p78vfQSNw93PaznrN9cYXRnheBH~U8iWc6AcxxdkeE25-k0r8KilTSwqzuRC1y-4K4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -817,36 +841,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
