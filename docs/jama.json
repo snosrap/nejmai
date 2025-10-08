@@ -4,56 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
-            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
-            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
-            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
-            "date_published": "2025-09-05T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839484",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839484",
+            "title": "AI-Enhanced Analysis of Built Environment Imagery and Neighborhood Obesity in US Cities",
+            "summary": "This cross-sectional study investigates the association of artificial intelligence (AI)\u2013enhanced analysis of geospatial built environment images with estimates of neighborhood obesity prevalence.",
+            "content_html": "<h3>Importance</h3><p>Obesity prevalence is a significant public health issue, particularly in urban areas. While social factors are known risks, using artificial intelligence (AI) to scalably assess the association of the built environment with obesity prevalence is an emerging area critical for targeted interventions.</p><h3>Objective</h3><p>To investigate whether AI analysis of satellite and street view imagery is associated with improved estimates of neighborhood obesity prevalence beyond conventional demographic and socioeconomic (DSE) and social determinants of health (SDOH) factors.</p><h3>Design, Setting, and Participants</h3><p>This cross-sectional study used an AI-enhanced modeling framework. Data from the 2023 Centers for Disease Control and Prevention (CDC) PLACES dataset and 2019 American Community Survey were linked to geospatial imagery retrieved between May and July 2024 for US Census tracts within 94 of the 100 most populous US cities (6 were excluded due to missing obesity data). The unit of analysis was the census tract. Data included more than 94\u202f000 Google satellite images and 670\u202f000 Street View images, which, along with obesity prevalence, DSE, and SDOH factors, were all linked at the census tract level. The analysis was conducted from September 2024 to May 2025.</p><h3>Exposures</h3><p>Built environment features were extracted from satellite and street view imagery using convolutional neural networks.</p><h3>Main Outcomes and Measures</h3><p>Crude obesity prevalence at the census tract level (adults aged \u226518 years with body mass index \u226530.0) was obtained from the 2023 CDC PLACES dataset.</p><h3>Results</h3><p>The study included 14\u202f413 census tracts (median [IQR] resident age, 35 [32-40] years; median [IQR], 51.1% [48.7%-53.8%] female) with a median (IQR) obesity prevalence of 32.4% (26.6%-38.8%). At the census tract level, the median (IQR) population was 3861 (2701-5210) residents, with a median (IQR) annual household income of $56\u202f042 ($38\u202f494-$80\u202f859). The study processed 94\u202f498 satellite and 670\u202f860 street view images. A linear mixed-effects model including DSE, SDOH, satellite images, and street view imagery features explained 92.6% of the variance in obesity prevalence (conditional<i>R</i><sup>2</sup>\u2009=\u20090.926, including random effects). Adding image-derived features to a model with DSE and SDOH covariates was associated with an increase in the variance explained by fixed effects, with an increase in the marginal<i>R</i><sup>2</sup>from 0.632 to 0.745 (\u03c7<sup>2</sup>\u2009=\u20091303.4;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, integrating AI-derived built environment features from geospatial imagery was associated with enhanced ability to explain and estimate neighborhood-level obesity prevalence beyond conventional DSE and SDOH factors.</p>",
+            "date_published": "2025-09-30T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "women's health"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
-            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
-            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
-            "date_published": "2025-08-06T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Bianca Giglio, MSc"
+                    "name": "Zhuo Chen, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "educational process of instructing",
-                "medical",
-                "operative surgical procedures",
-                "students",
-                "transfer technique",
-                "tutoring"
+                "built environment",
+                "guided imagery",
+                "neighborhood",
+                "obesity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839484/chen_2025_oi_250967_1758638238.88197.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250967f1_1758638239.06197.png?Expires=2147483647&Signature=AxwkaYLSxC26aFbiK16KO7CBVyuBOe8J6j3VtUUODBwFmkwfhJHi~3RYWnRJmG1oBgI5~miyRaxYYABrwguMvVShlnDKh1JexwMGy8MWEzZCH13cqTLVFo07dlStoln87TpEBYd-y~Qd~iZ-fll2l67Qh~I8LcY1C1U61uaWA9NTmRTUCRayEqfO0WmMRLFtbPePkGM2NCraHLkjkbwowE1Cf8PrrrL2-q4x6l3xPv5zaCnhKpQlynfxqf5FUpcJCfVhrhnb4l45DLyoneYqGyv8oD7xRXRKxRvI0CRt0PIpW1WdeC1RxzLBq2nmflMFlloxSggF1cd2jUc0FRTysw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839289",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839289",
+            "title": "Sociodemographic Bias in Large Language Model\u2013Assisted Gastroenterology",
+            "summary": "This quality improvement study investigates the association of demographic characteristics with large language model\u2013generated recommendations for simulated gastroenterology clinic cases.",
+            "content_text": "This quality improvement study investigates the association of demographic characteristics with large language model\u2013generated recommendations for simulated gastroenterology clinic cases.",
+            "date_published": "2025-09-24T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Asaf Levartovsky, MD"
+                }
+            ],
+            "tags": [
+                "gastroenterology (field)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839289/levartovsky_2025_ld_250205_1758058621.51218.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zld250205f1_1758058621.6212.png?Expires=2147483647&Signature=XPrQznP~c0mdy1Y9W~ApfgjWQTeRh-dufCj7L09r61MatJ83PhncYK8K0kA9ah4diYZqtNvbPIepW~5GgERIjJ9fvawx-qtMNUY58zpXNzOJqiYpBXzGiqmvNVTYaYgXXeUhW7dDSreQnJ54cxOqm1SD~iVUxu0xq7ZE4Zvak-8eQn-lUKprBQE5fvRZV4QNhvdc81fF-Iq3v~ULUhVkZ6xg8oW77jnLvH85h1O~QvSPlTfEZIhPbidsP4xFmYYjhh5pNoVnd7JDtBwwL4iA2AkY~s~UgOG7rzIIei6JCnxjDhWVQFRI8LZv2KFtX~0Kp5EgUgMCiE8cN~KvOmHB7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
