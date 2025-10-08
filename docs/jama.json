@@ -4,57 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "R. Chris Jones, MD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1753802811.81777.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
+            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
+            "date_published": "2025-03-11T09:00:00-04:00",
             "authors": [
                 {
                     "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
+                "primary health care",
                 "screening procedure",
                 "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Anai N. Kothari, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "big data",
+                "health equity"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
