@@ -4,54 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
+            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
+            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
+            "date_published": "2025-08-20T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Arunashis Sau, PhD"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "aire gene",
+                "artificial intelligence",
+                "complete atrioventricular block",
+                "deep learning",
+                "electrocardiogram",
+                "heart block"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
-            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
-            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
-            "date_published": "2025-01-08T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "date_published": "2025-07-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Anai N. Kothari, MD"
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "big data",
-                "health equity"
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
