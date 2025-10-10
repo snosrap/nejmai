@@ -4,54 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
-            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "date_published": "2025-09-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
+            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
+            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
+            "date_published": "2025-09-05T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sangwon Baek, BA"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "gastroenterology (field)",
-                "hepatology (field)",
-                "large language models"
+                "women's health"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
-            "title": "Advancing Toward Clinical Deployment of AI-Generated Discharge Summaries\u2014Beyond the Bench",
-            "summary": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
-            "content_text": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
-            "date_published": "2025-08-13T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Charumathi Raghu Subramanian, MD"
-                }
-            ],
-            "tags": [
-                "human placental lactogen",
-                "informatics (discipline)",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837488/raghu_subramanian_2025_ic_250185_1754331303.51111.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -915,6 +888,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
