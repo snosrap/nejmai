@@ -4,27 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838643",
-            "title": "The Promise and Challenge of AI for Women\u2019s Health: A Special JAMA+ AI Conversation",
-            "summary": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
-            "content_text": "In this special edition of JAMA+ AI Conversations, I\u2019m joined by Linda Brubaker, editor in chief of JAMA+ Women\u2019s Health and deputy editor at JAMA . We speak with Linda Moy, MD, inaugural vice chair of AI for the NYU Department of Radiology and former editor of Radiology , about the opportunities and risks of applying AI in medical imaging. Will these new tools be a net positive for women\u2019s health?",
-            "date_published": "2025-09-05T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839599",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839599",
+            "title": "AI-Driven Clinical Decision Support to Reduce Hospital-Acquired Venous Thromboembolism: A Trial Protocol",
+            "summary": "This trial protocol describes a randomized clinical trial to assess artificial intelligence (AI)\u2013driven clinical decision support in reducing hospital-acquired venous thromboembolism incidence in hospitalized adults across urban and rural settings in Tennessee.",
+            "content_html": "<h3>Importance</h3><p>Hospital-acquired venous thromboembolism (HA-VTE) remains a leading cause of preventable death among hospitalized adults in the US. Despite numerous attempts to prognosticate HA-VTE with risk models, no single model has outperformed the rest, and the effectiveness of such models to drive prophylaxis decisions is unknown. Testing such systems in urban and rural settings may inform their generalizability.</p><h3>Objective</h3><p>To conduct a randomized clinical trial to assess the effectiveness of artificial intelligence (AI)\u2013driven clinical decision support (CDS) in reducing HA-VTE incidence in adults across urban and rural hospital settings.</p><h3>Design, Setting, and Participants</h3><p>This parallel-group, single-blind, pragmatic randomized clinical trial is planned to be conducted from October 1, 2025, through September 30, 2027, by the Vanderbilt University Medical Center, a major academic health system in Tennessee. The study population will include adult (aged \u226518 years) patients admitted to medical, surgical, and intensive care units who may be at high risk for VTE and with no active or contraindication to deep vein thrombosis prophylaxis at Vanderbilt Adult Hospital in urban Nashville and 3 affiliated hospitals serving rural communities in Middle Tennessee.</p><h3>Intervention</h3><p>Patients will be randomized 1:1 within the electronic health record to receive either VTE-AI\u2013driven CDS (nudge practice alert [intervention arm]) or standard care using traditional risk assessment (control arm).</p><h3>Main Outcome and Measures</h3><p>The primary outcome will be incidence of HA-VTE. Secondary trial outcomes will be process metrics, including length of stay, readmission rates, safety, and bleeding events. Outcomes will be analyzed using descriptive statistics and compared using Poisson regression.</p><h3>Discussion</h3><p>Using a validated prognostic model, this study is one of the first to provide insights into whether AI-driven CDS can effectively reduce HA-VTE incidence without increasing adverse events. This study also is intended to provide insights into the usefulness of the same AI model implemented across urban and rural settings. The study\u2019s findings and statistical code will be shared with the public through peer-reviewed publication and ClinicalTrials.gov.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06939803</p>",
+            "date_published": "2025-10-03T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Colin G. Walsh, MD, MA"
                 }
             ],
             "tags": [
-                "women's health"
+                "artificial intelligence",
+                "clinical decision support",
+                "nudges",
+                "operative surgical procedures",
+                "tennessee",
+                "venous thromboembolism"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838643/jama_perlis_2025_en_250010_1756839342.5518.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839599/walsh_2025_oi_250986_1758913881.18348.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250010fa_1756839342.6128.png?Expires=2147483647&Signature=rJhQP7lohkX4QnIIj0R9rG6Lf8s5xtVNQVYq4Gq-qsbQREyUKKADY-L1pDjKZUvl1aH9~Ep1No2Ri8Pu8fDV75mzLKA9mRad8kKWMRqsFTLp4QmGyYM6SE4BGTBqnfSMLgzEbYLYu0Pvgv0o~t2tJBIXz6Xk6xWoRp7gFS-lT1ITrW5UDB5hvv3fr2r6hvRN-W7g0XZdlkFGzpmxV2vdItv7M~LRIdhdNpwxiPQ8PAW5olVfHSmGtDW2Vj~Y~qvIEGus4B5ICWjTUsE7BU~UCCi7alMY290Fo8ITaEJMLw0vXtUZJMD6Wv5X0ORC3LmZj3gkQMYpC0hd47oeuEtwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi250986f1_1758913881.35536.png?Expires=2147483647&Signature=iaG10Emw2NRYDAWi1QKmlREYJuda5Q~CSsKyR03qhrOf0COFkBdPEXvDUWQmzqw5nRsGn~Vo5TREUXWhlQmeHxf6-Q1yWlu4vBMsR3XaxJpPvpizWOdRI8LfxKgAlHKIYoTZ3QLjfw7NLR1y9Q4WA96deEqXeuOMiqGuDpYSKUVzEsn1ZhXimc8sHV7rH9-rmHg6Qy2au9QvGl6Ei7276jmcmOfjK0~SPF0bRDG8mNdDXZmPVJS9Os0hVzu~i~XiEhGO25twfzMc3p68Y6yCJu2-FkLy5RYMq5re~EMU9ynb-Fr5skgG7liDsnQVhlDSuPXAuIIAmoLmqsKmhEqV3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839289",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839289",
+            "title": "Sociodemographic Bias in Large Language Model\u2013Assisted Gastroenterology",
+            "summary": "This quality improvement study investigates the association of demographic characteristics with large language model\u2013generated recommendations for simulated gastroenterology clinic cases.",
+            "content_text": "This quality improvement study investigates the association of demographic characteristics with large language model\u2013generated recommendations for simulated gastroenterology clinic cases.",
+            "date_published": "2025-09-24T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Asaf Levartovsky, MD"
+                }
+            ],
+            "tags": [
+                "gastroenterology (field)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839289/levartovsky_2025_ld_250205_1758058621.51218.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zld250205f1_1758058621.6212.png?Expires=2147483647&Signature=XPrQznP~c0mdy1Y9W~ApfgjWQTeRh-dufCj7L09r61MatJ83PhncYK8K0kA9ah4diYZqtNvbPIepW~5GgERIjJ9fvawx-qtMNUY58zpXNzOJqiYpBXzGiqmvNVTYaYgXXeUhW7dDSreQnJ54cxOqm1SD~iVUxu0xq7ZE4Zvak-8eQn-lUKprBQE5fvRZV4QNhvdc81fF-Iq3v~ULUhVkZ6xg8oW77jnLvH85h1O~QvSPlTfEZIhPbidsP4xFmYYjhh5pNoVnd7JDtBwwL4iA2AkY~s~UgOG7rzIIei6JCnxjDhWVQFRI8LZv2KFtX~0Kp5EgUgMCiE8cN~KvOmHB7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -888,33 +917,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
