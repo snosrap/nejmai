@@ -4,53 +4,61 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
-            "title": "AI-Augmented Electron Microscopy for Glomerular Disease Diagnosis",
-            "summary": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
-            "content_text": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
-            "date_published": "2025-10-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839599",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839599",
+            "title": "AI-Driven Clinical Decision Support to Reduce Hospital-Acquired Venous Thromboembolism: A Trial Protocol",
+            "summary": "This trial protocol describes a randomized clinical trial to assess artificial intelligence (AI)\u2013driven clinical decision support in reducing hospital-acquired venous thromboembolism incidence in hospitalized adults across urban and rural settings in Tennessee.",
+            "content_html": "<h3>Importance</h3><p>Hospital-acquired venous thromboembolism (HA-VTE) remains a leading cause of preventable death among hospitalized adults in the US. Despite numerous attempts to prognosticate HA-VTE with risk models, no single model has outperformed the rest, and the effectiveness of such models to drive prophylaxis decisions is unknown. Testing such systems in urban and rural settings may inform their generalizability.</p><h3>Objective</h3><p>To conduct a randomized clinical trial to assess the effectiveness of artificial intelligence (AI)\u2013driven clinical decision support (CDS) in reducing HA-VTE incidence in adults across urban and rural hospital settings.</p><h3>Design, Setting, and Participants</h3><p>This parallel-group, single-blind, pragmatic randomized clinical trial is planned to be conducted from October 1, 2025, through September 30, 2027, by the Vanderbilt University Medical Center, a major academic health system in Tennessee. The study population will include adult (aged \u226518 years) patients admitted to medical, surgical, and intensive care units who may be at high risk for VTE and with no active or contraindication to deep vein thrombosis prophylaxis at Vanderbilt Adult Hospital in urban Nashville and 3 affiliated hospitals serving rural communities in Middle Tennessee.</p><h3>Intervention</h3><p>Patients will be randomized 1:1 within the electronic health record to receive either VTE-AI\u2013driven CDS (nudge practice alert [intervention arm]) or standard care using traditional risk assessment (control arm).</p><h3>Main Outcome and Measures</h3><p>The primary outcome will be incidence of HA-VTE. Secondary trial outcomes will be process metrics, including length of stay, readmission rates, safety, and bleeding events. Outcomes will be analyzed using descriptive statistics and compared using Poisson regression.</p><h3>Discussion</h3><p>Using a validated prognostic model, this study is one of the first to provide insights into whether AI-driven CDS can effectively reduce HA-VTE incidence without increasing adverse events. This study also is intended to provide insights into the usefulness of the same AI model implemented across urban and rural settings. The study\u2019s findings and statistical code will be shared with the public through peer-reviewed publication and ClinicalTrials.gov.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06939803</p>",
+            "date_published": "2025-10-03T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Wisit Cheungpasitporn, MD"
+                    "name": "Colin G. Walsh, MD, MA"
                 }
             ],
             "tags": [
-                "nephrology speciality",
-                "renal glomerular disease"
+                "artificial intelligence",
+                "clinical decision support",
+                "nudges",
+                "operative surgical procedures",
+                "tennessee",
+                "venous thromboembolism"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839747/cheungpasitporn_2025_ic_250245_1759258684.10434.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839599/walsh_2025_oi_250986_1758913881.18348.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi250986f1_1758913881.35536.png?Expires=2147483647&Signature=iaG10Emw2NRYDAWi1QKmlREYJuda5Q~CSsKyR03qhrOf0COFkBdPEXvDUWQmzqw5nRsGn~Vo5TREUXWhlQmeHxf6-Q1yWlu4vBMsR3XaxJpPvpizWOdRI8LfxKgAlHKIYoTZ3QLjfw7NLR1y9Q4WA96deEqXeuOMiqGuDpYSKUVzEsn1ZhXimc8sHV7rH9-rmHg6Qy2au9QvGl6Ei7276jmcmOfjK0~SPF0bRDG8mNdDXZmPVJS9Os0hVzu~i~XiEhGO25twfzMc3p68Y6yCJu2-FkLy5RYMq5re~EMU9ynb-Fr5skgG7liDsnQVhlDSuPXAuIIAmoLmqsKmhEqV3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
-            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "date_published": "2025-09-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sangwon Baek, BA"
+                    "name": "Anjali D. Deshmukh, MD, JD"
                 }
             ],
             "tags": [
-                "gastroenterology (field)",
-                "hepatology (field)",
-                "large language models"
+                "artificial intelligence",
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1755882468.77106.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
