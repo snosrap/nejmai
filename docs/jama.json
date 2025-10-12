@@ -4,61 +4,30 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839599",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839599",
-            "title": "AI-Driven Clinical Decision Support to Reduce Hospital-Acquired Venous Thromboembolism: A Trial Protocol",
-            "summary": "This trial protocol describes a randomized clinical trial to assess artificial intelligence (AI)\u2013driven clinical decision support in reducing hospital-acquired venous thromboembolism incidence in hospitalized adults across urban and rural settings in Tennessee.",
-            "content_html": "<h3>Importance</h3><p>Hospital-acquired venous thromboembolism (HA-VTE) remains a leading cause of preventable death among hospitalized adults in the US. Despite numerous attempts to prognosticate HA-VTE with risk models, no single model has outperformed the rest, and the effectiveness of such models to drive prophylaxis decisions is unknown. Testing such systems in urban and rural settings may inform their generalizability.</p><h3>Objective</h3><p>To conduct a randomized clinical trial to assess the effectiveness of artificial intelligence (AI)\u2013driven clinical decision support (CDS) in reducing HA-VTE incidence in adults across urban and rural hospital settings.</p><h3>Design, Setting, and Participants</h3><p>This parallel-group, single-blind, pragmatic randomized clinical trial is planned to be conducted from October 1, 2025, through September 30, 2027, by the Vanderbilt University Medical Center, a major academic health system in Tennessee. The study population will include adult (aged \u226518 years) patients admitted to medical, surgical, and intensive care units who may be at high risk for VTE and with no active or contraindication to deep vein thrombosis prophylaxis at Vanderbilt Adult Hospital in urban Nashville and 3 affiliated hospitals serving rural communities in Middle Tennessee.</p><h3>Intervention</h3><p>Patients will be randomized 1:1 within the electronic health record to receive either VTE-AI\u2013driven CDS (nudge practice alert [intervention arm]) or standard care using traditional risk assessment (control arm).</p><h3>Main Outcome and Measures</h3><p>The primary outcome will be incidence of HA-VTE. Secondary trial outcomes will be process metrics, including length of stay, readmission rates, safety, and bleeding events. Outcomes will be analyzed using descriptive statistics and compared using Poisson regression.</p><h3>Discussion</h3><p>Using a validated prognostic model, this study is one of the first to provide insights into whether AI-driven CDS can effectively reduce HA-VTE incidence without increasing adverse events. This study also is intended to provide insights into the usefulness of the same AI model implemented across urban and rural settings. The study\u2019s findings and statistical code will be shared with the public through peer-reviewed publication and ClinicalTrials.gov.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06939803</p>",
-            "date_published": "2025-10-03T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
+            "title": "Payments to Health Care Professionals and Teaching Hospitals by AI- and Machine Learning\u2013Enabled Medical",
+            "summary": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
+            "content_text": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
+            "date_published": "2025-09-22T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Colin G. Walsh, MD, MA"
+                    "name": "David-Dan Nguyen, MDCM, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "clinical decision support",
-                "nudges",
-                "operative surgical procedures",
-                "tennessee",
-                "venous thromboembolism"
+                "health personnel",
+                "machine learning",
+                "medical devices",
+                "teaching hospitals"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839599/walsh_2025_oi_250986_1758913881.18348.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839115/jama_nguyen_2025_ld_250056_1758820452.44901.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi250986f1_1758913881.35536.png?Expires=2147483647&Signature=iaG10Emw2NRYDAWi1QKmlREYJuda5Q~CSsKyR03qhrOf0COFkBdPEXvDUWQmzqw5nRsGn~Vo5TREUXWhlQmeHxf6-Q1yWlu4vBMsR3XaxJpPvpizWOdRI8LfxKgAlHKIYoTZ3QLjfw7NLR1y9Q4WA96deEqXeuOMiqGuDpYSKUVzEsn1ZhXimc8sHV7rH9-rmHg6Qy2au9QvGl6Ei7276jmcmOfjK0~SPF0bRDG8mNdDXZmPVJS9Os0hVzu~i~XiEhGO25twfzMc3p68Y6yCJu2-FkLy5RYMq5re~EMU9ynb-Fr5skgG7liDsnQVhlDSuPXAuIIAmoLmqsKmhEqV3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
-            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "date_published": "2025-07-07T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Anjali D. Deshmukh, MD, JD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "biological products",
-                "ethics",
-                "facilitation",
-                "guidelines",
-                "life cycle stages",
-                "united states food and drug administration"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1755882468.77106.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250056t1_1758820453.23392.png?Expires=2147483647&Signature=DKCfUC8GPhmGQAy-xAZH4DqD8qTk3grYecq5NTbtJwmgoxRNMkRLbY-PYkIwejGXDG1SC4vz2CD35pgpJSZHERVg5f9oEa5vr32Tovbiq-nSHDpXwqeCWzZbw3Bn1R8M16vMkxN~tvXQ0xjVfYzhfTykPZNfFccVmnYU9TGntFuw0haUnhquajTAS~kDlopjgAXsY-2G3u9T~M8jrohkGGvldem3FmscnKvHmeMtyBeFuETMcEGsrA~TpXzeMv04scMEwCejdwjFEEl9wDNJxMTtjROZfQwqyfZ~N-KCSkD1AKOFIktWFPyFS0y6HjAHtbA9H-WvFKR1x02dWRN42w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -846,6 +815,34 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
+            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
+            "date_published": "2024-04-30T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "breast neoplasm screening",
+                "magnetic resonance imaging",
+                "malignant neoplasm of breast",
+                "mammography",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
