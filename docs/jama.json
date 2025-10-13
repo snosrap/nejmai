@@ -4,54 +4,64 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839115",
-            "title": "Payments to Health Care Professionals and Teaching Hospitals by AI- and Machine Learning\u2013Enabled Medical",
-            "summary": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
-            "content_text": "This study examines the extent and nature of payments made to health care professionals and teaching hospitals by manufacturers of FDA-authorized AI- and machine learning\u2013enabled devices.",
-            "date_published": "2025-09-22T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2839236",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2839236",
+            "title": "Benefit-Risk Reporting for FDA-Cleared Artificial Intelligence\u2212Enabled Medical Devices",
+            "summary": "This cross-sectional study assesses pre- and postmarket reporting of efficacy, safety, and risk for artificial intelligence\u2212/machine learning\u2212enabled medical devices cleared by the US Food and Drug Administration.",
+            "content_html": "<h3>Importance</h3><p>Devices enabled by artificial intelligence (AI) and machine learning (ML) are increasingly used in clinical settings, but there are concerns regarding benefit-risk assessment and surveillance by the US Food and Drug Administration (FDA).</p><h3>Objective</h3><p>To characterize pre- and postmarket efficacy, safety, and risk assessment reporting for FDA-cleared AI/ML devices.</p><h3>Design and Setting</h3><p>This was a cross-sectional study using linked data from FDA decision summaries and approvals databases, the FDA Manufacturer and User Facility Device Experience Database, and the FDA Medical Device Recalls Database for all AI/ML devices cleared by the FDA from September 1995 to July 2023. Data were analyzed from October to November 2024.</p><h3>Main Outcomes and Measures</h3><p>AI/ML reporting of study design, data availability, efficacy, safety, bias assessments, adverse events, device recalls, and risk classification.</p><h3>Results</h3><p>The analysis included data for all 691 AI/ML devices that received FDA clearance through 2023, with 254 (36.8%) cleared in or after 2021. Device summaries often failed to report study designs (323 [46.7%]), training sample size (368 [53.3%]), and/or demographic information (660 [95.5%]). Only 6 devices (1.6%) reported data from randomized clinical trials and 53 (7.7%) from prospective studies. Few premarket summaries contained data published in peer-reviewed journals (272 [39.4%]) or provided statistical or clinical performance, including sensitivity (166 [24.0%]), specificity (152 [22.0%]), and/or patient outcomes (3 [&lt;1%]). Some devices reported safety assessments (195 [28.2%]), adherence to international safety standards (344 [49.8%]), and/or risks to health (42 [6.1%]). In all, 489 adverse events were reported involving 36 (5.2%) devices, including 458 malfunctions, 30 injuries, and 1 death. A total of 40 devices (5.8%) were recalled 113 times, primarily due to software issues.</p><h3>Conclusions and Relevance</h3><p>This cross-sectional study suggests that despite increasing clearance of AI/ML devices, standardized efficacy, safety, and risk assessment by the FDA are lacking. Dedicated regulatory pathways and postmarket surveillance of AI/ML safety events may address these challenges.</p>",
+            "date_published": "2025-09-26T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "David-Dan Nguyen, MDCM, MPH"
+                    "name": "John C. Lin, BS"
                 }
             ],
             "tags": [
-                "health personnel",
-                "machine learning",
+                "adverse event",
+                "artificial intelligence",
                 "medical devices",
-                "teaching hospitals"
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839115/jama_nguyen_2025_ld_250056_1758820452.44901.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2839236/lin_2025_oi_250070_1758813939.60019.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jld250056t1_1758820453.23392.png?Expires=2147483647&Signature=DKCfUC8GPhmGQAy-xAZH4DqD8qTk3grYecq5NTbtJwmgoxRNMkRLbY-PYkIwejGXDG1SC4vz2CD35pgpJSZHERVg5f9oEa5vr32Tovbiq-nSHDpXwqeCWzZbw3Bn1R8M16vMkxN~tvXQ0xjVfYzhfTykPZNfFccVmnYU9TGntFuw0haUnhquajTAS~kDlopjgAXsY-2G3u9T~M8jrohkGGvldem3FmscnKvHmeMtyBeFuETMcEGsrA~TpXzeMv04scMEwCejdwjFEEl9wDNJxMTtjROZfQwqyfZ~N-KCSkD1AKOFIktWFPyFS0y6HjAHtbA9H-WvFKR1x02dWRN42w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939687/aoi250070t1_1758813939.82505.png?Expires=2147483647&Signature=1jJz9LAZ1SU90C0EVVmtjWhfnPpIBvbGCDxQOtEVH9-Dq9f4Ar2wK5ZWeC1lBYyf3nPCsjhfuZ5zT0ZyN6BoBXqeCdlpKQN6pEJMpu6JgZOVd0ErJZhw17eG2dxmVpR3Q1bHV5wrj64kC4rJWejgKwaECjlSHVeh2aTBTnMy1AjGRuyYE7-XYwstuRdEl6C~S4ZmstWn9MPEbmyPM8SvWXq7pMFfUjybZ-oz-i9YP1-OE4fr1jBA0t2MPDQxltI0pCcXM~nZrNtTooSUw6MTy9SzgsNTYCAoOOYw7ygO1s4RHDkCIFcjQHvffy8oFeq4-9wRQe2KgLnrteHME4JbZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "title": "A Digital Therapeutic Intervention for Inpatients With Elevated Suicide Risk: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the efficacy of a smartphone-based educational intervention in reducing suicidal behavior after discharge of patients hospitalized for a suicide attempt or suicidal ideation.",
+            "content_html": "<h3>Importance</h3><p>Suicide is a leading cause of death in the US. Suicide-specific cognitive behavior therapy (CBT) is effective for reducing suicide attempts but is difficult to implement.</p><h3>Objective</h3><p>To evaluate the efficacy of a smartphone-based digital therapeutic intervention designed to deliver suicide-focused CBT in reducing suicidal behavior among patients hospitalized for a suicide attempt or suicidal ideation.</p><h3>Design, Setting, and Participants</h3><p>This multisite, double-blind, randomized clinical trial was conducted in 6 psychiatric inpatient units across the US. Adult patients admitted with elevated suicide risk from April 2022 to April 2024 were included. Participants completed a baseline assessment and were randomly assigned to either the digital therapeutic group or control application group. The trial was stopped early by the Data Management Safety Board because it surpassed the prespecified futility boundary for the primary end point. Statistical analysis followed the intention-to-treat principle.</p><h3>Interventions</h3><p>The digital therapeutic intervention includes 12 sessions of smartphone-based educational modules (lasting 10-15 minutes each) drawn from CBT for suicide prevention. The active control is a 12-session smartphone-based application that delivers safety planning and psychoeducation about suicide. For both interventions, the first session was completed prior to hospital discharge and the remaining self-paced sessions could be completed after discharge. All participants also received treatment as usual, which included suicide risk assessment, supportive listening, crisis resources, clinician assessment, safety planning, and referral to outpatient treatment.</p><h3>Main Outcomes and Measures</h3><p>The primary end point was time (days) to first actual suicide attempt during follow-up. The secondary end points were change in suicidal ideation from baseline to week 24 (quantified as a change in the Scale for Suicide Ideation total score) and clinician-rated clinical improvement at week 24. The nonprespecified sensitivity analysis end point for suicide attempts was the rate of suicide attempts (actual, aborted, and interrupted). Prespecified subgroup analyses were also conducted to examine treatment effects among patients with vs without prior suicide attempts.</p><h3>Results</h3><p>A total of 339 participants (mean [SD] age, 27.9 [10.7] years; 224 females [66.1%]) were included. Follow-up data were available from 266 participants (78.5%). Time to first actual suicide attempt, the primary end point, was not significantly different across treatment groups (log-rank \u03c7<sup>2</sup><sub>1</sub>\u2009=\u20093.6;<i>P</i>\u2009=\u2009.06). Among the 170 participants with prior suicide attempts, nonprespecified sensitivity analyses indicated that the adjusted rate of follow-up suicide attempts was 58.3% lower in the digital therapeutic group than the control application group (0.70 vs 1.68 attempts per person-year; rate ratio [RR], 0.42 [95% CI, 0.18-0.95];<i>P</i>\u2009=\u2009.04), and the odds of clinical improvement were higher in the digital therapeutic group than the control application group (97.9% vs 87.5%; odds ratio, 7.59; 95% CI, 1.14-153.62;<i>P</i>\u2009=\u2009.04). Trajectories of suicidal ideation significantly differed between the digital therapeutic and control application groups (<i>F</i><sub>3,206</sub>\u2009=\u20092.9,<i>P</i>\u2009=\u2009.04), with decreased suicidal ideation through week 24 in the digital therapeutic group, but in the control application group, suicidal ideation decreased through week 12 and then increased at week 24. Nonprespecified dose-response analyses indicated the suicide attempt rate among patients with a prior suicide attempt decreased by 14.0% for every digital therapeutic module completed (adjusted RR, 0.86; 95% CI, 0.76-0.98;<i>P</i>\u2009=\u2009.02).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the digital therapeutic intervention did not change the time to first actual suicide attempt but helped to sustain reductions in suicidal ideation among inpatients with elevated suicide risk. However, among patients with prior suicide attempts, the digital therapeutic intervention helped reduce recurrent suicide attempts and increased the percentage of inpatients with clinician-rated clinical improvement.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05144685</p>",
+            "date_published": "2025-08-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Craig J. Bryan, PsyD, ABPP"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "health policy"
+                "cellular phone",
+                "cognitive therapy",
+                "feeling suicidal",
+                "group psychotherapy",
+                "posttreatment followup",
+                "psychiatry specialty",
+                "suicidal behavior",
+                "suicide",
+                "suicide attempt",
+                "suicide risk assessment",
+                "surrogate endpoints",
+                "therapeutic intervention"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837367/bryan_2025_oi_250730_1753980323.56512.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250730f1_1753980323.8456.png?Expires=2147483647&Signature=oUz~VyfII21~JYJTFq31fzdVCv7kA-MK2KY--XL~4rVe4g5Ot66~Za8uMM-1k~ahXS7ViTNAiAd2sjdxLVOhOzinidZrF27z5yGFa4aWCy0muleJn0-c7-q-R69hJPPf0QyVgU5p42w8grqpvifh~V7ffUbdNYYaCzRuY8tELlB-X5YsiLkLUp5cTNTqN~sD5GkFLS3KsYhqe-ovYnM3KXSK5zWNT8XjVi7M65ok0FgXJG1H~Wnndt3O0OK-6uAcJpurM7kvIJzdp~Kvp6IOthrKUf~P9Rz71lINaoSA9kEpZ-1BtOnUCQ18zde6WfiMpojgdjri7RtdJzLLsRKWzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
