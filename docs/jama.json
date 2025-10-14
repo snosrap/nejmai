@@ -4,58 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2839236",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2839236",
-            "title": "Benefit-Risk Reporting for FDA-Cleared Artificial Intelligence\u2212Enabled Medical Devices",
-            "summary": "This cross-sectional study assesses pre- and postmarket reporting of efficacy, safety, and risk for artificial intelligence\u2212/machine learning\u2212enabled medical devices cleared by the US Food and Drug Administration.",
-            "content_html": "<h3>Importance</h3><p>Devices enabled by artificial intelligence (AI) and machine learning (ML) are increasingly used in clinical settings, but there are concerns regarding benefit-risk assessment and surveillance by the US Food and Drug Administration (FDA).</p><h3>Objective</h3><p>To characterize pre- and postmarket efficacy, safety, and risk assessment reporting for FDA-cleared AI/ML devices.</p><h3>Design and Setting</h3><p>This was a cross-sectional study using linked data from FDA decision summaries and approvals databases, the FDA Manufacturer and User Facility Device Experience Database, and the FDA Medical Device Recalls Database for all AI/ML devices cleared by the FDA from September 1995 to July 2023. Data were analyzed from October to November 2024.</p><h3>Main Outcomes and Measures</h3><p>AI/ML reporting of study design, data availability, efficacy, safety, bias assessments, adverse events, device recalls, and risk classification.</p><h3>Results</h3><p>The analysis included data for all 691 AI/ML devices that received FDA clearance through 2023, with 254 (36.8%) cleared in or after 2021. Device summaries often failed to report study designs (323 [46.7%]), training sample size (368 [53.3%]), and/or demographic information (660 [95.5%]). Only 6 devices (1.6%) reported data from randomized clinical trials and 53 (7.7%) from prospective studies. Few premarket summaries contained data published in peer-reviewed journals (272 [39.4%]) or provided statistical or clinical performance, including sensitivity (166 [24.0%]), specificity (152 [22.0%]), and/or patient outcomes (3 [&lt;1%]). Some devices reported safety assessments (195 [28.2%]), adherence to international safety standards (344 [49.8%]), and/or risks to health (42 [6.1%]). In all, 489 adverse events were reported involving 36 (5.2%) devices, including 458 malfunctions, 30 injuries, and 1 death. A total of 40 devices (5.8%) were recalled 113 times, primarily due to software issues.</p><h3>Conclusions and Relevance</h3><p>This cross-sectional study suggests that despite increasing clearance of AI/ML devices, standardized efficacy, safety, and risk assessment by the FDA are lacking. Dedicated regulatory pathways and postmarket surveillance of AI/ML safety events may address these challenges.</p>",
-            "date_published": "2025-09-26T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
+            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
+            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "John C. Lin, BS"
+                    "name": "Bianca Giglio, MSc"
                 }
             ],
             "tags": [
-                "adverse event",
                 "artificial intelligence",
-                "medical devices",
-                "united states food and drug administration"
+                "educational process of instructing",
+                "medical",
+                "operative surgical procedures",
+                "students",
+                "transfer technique",
+                "tutoring"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2839236/lin_2025_oi_250070_1758813939.60019.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939687/aoi250070t1_1758813939.82505.png?Expires=2147483647&Signature=1jJz9LAZ1SU90C0EVVmtjWhfnPpIBvbGCDxQOtEVH9-Dq9f4Ar2wK5ZWeC1lBYyf3nPCsjhfuZ5zT0ZyN6BoBXqeCdlpKQN6pEJMpu6JgZOVd0ErJZhw17eG2dxmVpR3Q1bHV5wrj64kC4rJWejgKwaECjlSHVeh2aTBTnMy1AjGRuyYE7-XYwstuRdEl6C~S4ZmstWn9MPEbmyPM8SvWXq7pMFfUjybZ-oz-i9YP1-OE4fr1jBA0t2MPDQxltI0pCcXM~nZrNtTooSUw6MTy9SzgsNTYCAoOOYw7ygO1s4RHDkCIFcjQHvffy8oFeq4-9wRQe2KgLnrteHME4JbZg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
-            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
-            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
-            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
-            "date_published": "2025-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Arunashis Sau, PhD"
-                }
-            ],
-            "tags": [
-                "aire gene",
-                "artificial intelligence",
-                "complete atrioventricular block",
-                "deep learning",
-                "electrocardiogram",
-                "heart block"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -843,6 +818,36 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
