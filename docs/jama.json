@@ -4,63 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507",
-            "url": "https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507",
-            "title": "Artificial Intelligence Model for Imaging-Based Extranodal Extension Detection and Outcome Prediction in Human",
-            "summary": "This cohort study develops an artificial intelligence\u2212driven pipeline for classification of lymph node segmentation and imaging-based extranodal extension using pretreatment computed tomography for prognoses in human papilloma virus-positive oropharyngeal cancer.",
-            "content_html": "<h3>Importance</h3><p>Although not included in the eighth edition of the<i>American Joint Committee on Cancer Staging System</i>, there is growing evidence suggesting that imaging-based extranodal extension (iENE) is associated with worse outcomes in HPV-associated oropharyngeal carcinoma (OPC). Key challenges with iENE include the lack of standardized criteria, reliance on radiological expertise, and interreader variability.</p><h3>Objective</h3><p>To develop an artificial intelligence (AI)\u2212driven pipeline for lymph node segmentation and iENE classification using pretreatment computed tomography (CT) scans, and to evaluate its association with oncologic outcomes in HPV-positive OPC.</p><h3>Design, Setting, and Participants</h3><p>This was a single-center cohort study conducted at a tertiary oncology center in Montreal, Canada, of adult patients with HPV-positive cN<sup>+</sup>OPC treated with up-front (chemo)radiotherapy from January 2009 to January 2020. Participants were followed up until January 2024. Data analysis was performed from March 2024 to April 2025.</p><h3>Exposures</h3><p>Pretreatment planning CT scans along with lymph node gross tumor volume segmentations performed by expert radiation oncologists were extracted. For lymph node segmentation, an nnU-Net model was developed. For iENE classification, radiomic and deep learning feature extraction methods were compared.</p><h3>Main Outcomes and Measures</h3><p>iENE classification accuracy was assessed against 2 expert neuroradiologist evaluations using area under the receiver operating characteristic curve (AUC). Subsequently, the association of AI-predicted iENE with oncologic outcomes\u2014ie, overall survival (OS), recurrence-free survival (RFS), distant control (DC), and locoregional control (LRC)\u2014was assessed.</p><h3>Results</h3><p>Among 397 patients (mean [SD] age, 62.3 [9.1] years; 80 females [20.2%] and 317 males [79.8%]), AI-iENE classification using radiomics achieved an AUC of 0.81. Patients with AI-predicted iENE had worse 3-year OS (83.8% vs 96.8%), RFS (80.7% vs 93.7%), and DC (84.3% vs 97.1%), but similar LRC. AI-iENE had significantly higher Concordance indices than radiologist-assessed iENE for OS (0.64 vs 0.55), RFS (0.67 vs 0.60), and DC (0.79 vs 0.68). In multivariable analysis, AI-iENE remained independently associated with OS (adjusted hazard ratio [aHR], 2.82; 95% CI, 1.21-6.57), RFS (aHR, 4.20; 95% CI, 1.93-9.11), and DC (aHR, 12.33; 95% CI, 4.15-36.67), adjusting for age, tumor category, node category, and number of lymph nodes.</p><h3>Conclusions and Relevance</h3><p>This single-center cohort study found that an AI-driven pipeline can successfully automate lymph node segmentation and iENE classification from pretreatment CT scans in HPV-associated OPC. Predicted iENE was independently associated with worse oncologic outcomes. External validation is required to assess generalizability and the potential for implementation in institutions without specialized imaging expertise.</p>",
-            "date_published": "2025-09-30T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Gabriel S. Dayan, MD"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "diagnostic imaging",
-                "extranodal extension",
-                "gross tumor volume",
-                "human papillomavirus",
-                "lymph nodes",
-                "malignant neoplasm of oropharynx",
-                "radiologist",
-                "squamous cell carcinoma of oropharynx",
-                "x-ray computed tomography"
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaotolaryngology/articlepdf/2839507/jamaotolaryngology_dayan_2025_oi_250064_1758731483.8984.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/otol/0/ooi250064f1_1758731484.2719.png?Expires=2147483647&Signature=nq~dOldo8hV479njsjyZFWnd1bU0cX0NjzNaDFz39-ePKWQFjo7SDNHL7rAdFN2sSpvhqMTMPLcZexWWFqCA2BNj-Hq~qgO~NXoklOTjd7eH~ILSh9LNZQVIFVYm9OCJxsAcwlUr7Vv3JCbIisoIwKXty9svkufztQ9MYoT1wPE7PL6l6Xtsb1DYDcUBZK5Gd-MpXyzuOCXEgSHHG-K25fIbsF3wspLX0ObWOTroH8UkdAdJBknQduE0Ss6hgRDm811SFbvnrogi8RbaX76ZYLXQbGqaWmVKHaZ5H4F2LjdjDGBvDlShFeBnx1UVkIv4Uc9X7yswtIxpIK0kmyUu0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "title": "AI Use for Injury Surveillance in Emergency Departments",
-            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
+            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
+            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
+            "date_published": "2025-03-11T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "emergency service",
-                "ethics",
-                "hospital",
-                "informatics (discipline)",
-                "privacy"
+                "primary health care",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
