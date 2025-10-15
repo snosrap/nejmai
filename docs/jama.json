@@ -4,6 +4,64 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
+            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
+            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
+            "date_published": "2025-08-06T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Bianca Giglio, MSc"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "educational process of instructing",
+                "medical",
+                "operative surgical procedures",
+                "students",
+                "transfer technique",
+                "tutoring"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -791,31 +849,6 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
-            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
-            "date_published": "2024-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "elderly",
-                "exercise",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "title": "Harnessing Artificial Intelligence to Address Oral Health Disparities",
@@ -914,33 +947,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
