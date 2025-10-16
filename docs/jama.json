@@ -4,62 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
-            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
-            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839739",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839739",
+            "title": "AI-Based System for Analysis of Electron Microscope Images in Glomerular Disease",
+            "summary": "This diagnostic study describes the development and validation of an artificial intelligence (AI) model using transmission electron microscopy for the diagnosis of glomerular disease.",
+            "content_html": "<h3>Importance</h3><p>Kidney biopsy pathology via transmission electron microscopy (TEM) is essential for diagnosing glomerular diseases, offering critical information on glomerular basement membrane (GBM) thickness, foot process (FP) number, and electron-dense deposits (EDDs). These tasks are laborious and time-consuming.</p><h3>Objective</h3><p>To develop and validate an artificial intelligence (AI) diagnostic system, TEM image\u2013based AI-assisted device (TEM-AID), that accurately segments and measures glomerular ultrastructures (including the GBM, FPs, and EDDs) and determines glomerular disease subtypes using TEM images.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study used a large, multicenter cohort including 160\u202f727 TEM images from 31\u202f670 patients with chronic kidney disease across 6 medical centers from January 2021 to December 2023. TEM-AID was trained and validated on 26\u202f650 patients from 1 center and tested externally on 5020 patients (5 test sets) plus a human-AI test set (454 patients representing 7 glomerular disease subtypes). Data were analyzed from January to December 2024.</p><h3>Exposures</h3><p>TEM-AID integrates 4 modules. Segmentation combined YOLO-v8 detection, segment anything model, and human-in-the-loop refinement to segment GBMs, podocyte FPs, and EDDs. Measurement quantified GBM thickness, FP fusion degree, and EDD deposition sites. Classification used least absolute shrinkage and selection operator\u2013selected deep learning and statistical features with a stacking classifier to diagnose 7 glomerular disease subtypes: immunoglobin A nephropathy, membranous nephropathy, lupus nephritis, diabetic nephropathy, minimal change disease, mesangial proliferative glomerulonephritis, and thin basement membrane nephropathy.</p><h3>Main Outcomes and Measures</h3><p>Outcomes of interest were segmentation performance (mean intersection-over-union [IOU], Dice coefficient), subtype classification accuracy, area under the receiver operating characteristic curve (AUC), and human-AI diagnostic concordance.</p><h3>Results</h3><p>A total of 31\u202f670 patients (mean [SD] age, 43.2 [16.5] years; 17\u202f372 [54.9%] male) contributed 160\u202f727 TEM images for analysis. Segmentation achieved a mean (SD) IOU of 0.835 (0.062) and Dice of 0.874 (0.023). Subtype classification accuracy was 0.911 (95% CI, 0.904-0.918) in internal validation and 0.895 to 0.914 in external tests. Macro-AUC ranged from 0.972 to 0.989 across cohorts. In human-AI testing (454 patients), TEM-AID accuracy (0.886 (95% CI, 0.859-0.912]; AUC, 0.963 [95% CI, 0.937-0.989]) exceeded clinicians\u2019 unaided performance. Clinicians\u2019 accuracy improved by a mean (SD) of 11.7% (5.2%) when they used TEM-AID.</p><h3>Conclusions and Relevance</h3><p>In this multicenter diagnostic study, TEM-AID precisely quantified glomerular ultrastructures and determined glomerular disease subtypes from TEM images, significantly enhancing diagnostic efficiency and accuracy. This system provides quantitative evaluation tools to support clinical pathologists in diagnostic workflows, demonstrating robust multicenter performance.</p>",
+            "date_published": "2025-10-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Bianca Giglio, MSc"
+                    "name": "Pengcheng Ma, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "educational process of instructing",
-                "medical",
-                "operative surgical procedures",
-                "students",
-                "transfer technique",
-                "tutoring"
+                "kidney glomerulus",
+                "medical pathologist",
+                "renal glomerular disease",
+                "transmission electron microscopes"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839739/ma_2025_oi_250980_1759258673.65792.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi250980f1_1759258673.95293.png?Expires=2147483647&Signature=oewV0wd8cL93TbGD8nH5aldmISybT0YF01Ravb8jr4nMU1ci7FBM2DQjDaJ9IWp7bGxYyoTxKwJdVgEjvEKF6E99DuMssP0Xko-o22odKxE3y1YfcRhzmyVPQptH6PbRLCPcAz7wWuyW8lf8BhDFqCfbslTlV-YMOzAt~aZ2l2mTyXWfourEp9fsn5I9ukzYzLtGM3qxWWzOHVuzhoS65r5N6eB-pdMccYRJoRC2EQyj7KDUbSLTXFkqS0JVe0w8NjEtMsxUC5TY7Ehh~I6jaefLRxy5VUNK1iUmmyDmYBGlHsR0s-UPTVlefPSyrsfwrcq9VR7a3kH8g8Xy9f4dEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
-            "date_published": "2025-04-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
+            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "date_published": "2025-08-15T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Andrew Wong, MD, MS"
                 }
             ],
             "tags": [
-                "behavior therapy",
-                "counseling risk factor reduction and behavior change intervention",
-                "infant",
-                "patient referral",
-                "pregnancy",
-                "primary health care",
-                "united states preventive services task force"
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1757537665.43458.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
