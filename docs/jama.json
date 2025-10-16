@@ -4,54 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839739",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839739",
-            "title": "AI-Based System for Analysis of Electron Microscope Images in Glomerular Disease",
-            "summary": "This diagnostic study describes the development and validation of an artificial intelligence (AI) model using transmission electron microscopy for the diagnosis of glomerular disease.",
-            "content_html": "<h3>Importance</h3><p>Kidney biopsy pathology via transmission electron microscopy (TEM) is essential for diagnosing glomerular diseases, offering critical information on glomerular basement membrane (GBM) thickness, foot process (FP) number, and electron-dense deposits (EDDs). These tasks are laborious and time-consuming.</p><h3>Objective</h3><p>To develop and validate an artificial intelligence (AI) diagnostic system, TEM image\u2013based AI-assisted device (TEM-AID), that accurately segments and measures glomerular ultrastructures (including the GBM, FPs, and EDDs) and determines glomerular disease subtypes using TEM images.</p><h3>Design, Setting, and Participants</h3><p>This diagnostic study used a large, multicenter cohort including 160\u202f727 TEM images from 31\u202f670 patients with chronic kidney disease across 6 medical centers from January 2021 to December 2023. TEM-AID was trained and validated on 26\u202f650 patients from 1 center and tested externally on 5020 patients (5 test sets) plus a human-AI test set (454 patients representing 7 glomerular disease subtypes). Data were analyzed from January to December 2024.</p><h3>Exposures</h3><p>TEM-AID integrates 4 modules. Segmentation combined YOLO-v8 detection, segment anything model, and human-in-the-loop refinement to segment GBMs, podocyte FPs, and EDDs. Measurement quantified GBM thickness, FP fusion degree, and EDD deposition sites. Classification used least absolute shrinkage and selection operator\u2013selected deep learning and statistical features with a stacking classifier to diagnose 7 glomerular disease subtypes: immunoglobin A nephropathy, membranous nephropathy, lupus nephritis, diabetic nephropathy, minimal change disease, mesangial proliferative glomerulonephritis, and thin basement membrane nephropathy.</p><h3>Main Outcomes and Measures</h3><p>Outcomes of interest were segmentation performance (mean intersection-over-union [IOU], Dice coefficient), subtype classification accuracy, area under the receiver operating characteristic curve (AUC), and human-AI diagnostic concordance.</p><h3>Results</h3><p>A total of 31\u202f670 patients (mean [SD] age, 43.2 [16.5] years; 17\u202f372 [54.9%] male) contributed 160\u202f727 TEM images for analysis. Segmentation achieved a mean (SD) IOU of 0.835 (0.062) and Dice of 0.874 (0.023). Subtype classification accuracy was 0.911 (95% CI, 0.904-0.918) in internal validation and 0.895 to 0.914 in external tests. Macro-AUC ranged from 0.972 to 0.989 across cohorts. In human-AI testing (454 patients), TEM-AID accuracy (0.886 (95% CI, 0.859-0.912]; AUC, 0.963 [95% CI, 0.937-0.989]) exceeded clinicians\u2019 unaided performance. Clinicians\u2019 accuracy improved by a mean (SD) of 11.7% (5.2%) when they used TEM-AID.</p><h3>Conclusions and Relevance</h3><p>In this multicenter diagnostic study, TEM-AID precisely quantified glomerular ultrastructures and determined glomerular disease subtypes from TEM images, significantly enhancing diagnostic efficiency and accuracy. This system provides quantitative evaluation tools to support clinical pathologists in diagnostic workflows, demonstrating robust multicenter performance.</p>",
-            "date_published": "2025-10-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
+            "title": "What Will Next Year Bring for AI in Health?",
+            "summary": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
+            "content_text": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
+            "date_published": "2025-10-09T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Pengcheng Ma, PhD"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "kidney glomerulus",
-                "medical pathologist",
-                "renal glomerular disease",
-                "transmission electron microscopes"
+                "investments",
+                "mesenchymal stem cells"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839739/ma_2025_oi_250980_1759258673.65792.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839717/jama_perlis_2025_en_250012_1759242163.88935.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi250980f1_1759258673.95293.png?Expires=2147483647&Signature=oewV0wd8cL93TbGD8nH5aldmISybT0YF01Ravb8jr4nMU1ci7FBM2DQjDaJ9IWp7bGxYyoTxKwJdVgEjvEKF6E99DuMssP0Xko-o22odKxE3y1YfcRhzmyVPQptH6PbRLCPcAz7wWuyW8lf8BhDFqCfbslTlV-YMOzAt~aZ2l2mTyXWfourEp9fsn5I9ukzYzLtGM3qxWWzOHVuzhoS65r5N6eB-pdMccYRJoRC2EQyj7KDUbSLTXFkqS0JVe0w8NjEtMsxUC5TY7Ehh~I6jaefLRxy5VUNK1iUmmyDmYBGlHsR0s-UPTVlefPSyrsfwrcq9VR7a3kH8g8Xy9f4dEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250012fa_1759242164.01636.png?Expires=2147483647&Signature=e0XLeQV4uq6Q7Zld1eJY1JsaQS887y28mRNoiJ3JqMsaAGiJpiNjpA8evIGodaAWrZnlwzcjzItxR~QCpK7B~WJaTU6HWhioOHyG9SR04fbRE2pMbpyBolwxLBWbvwFZS0fs2ARjS~b0suNFzwtz-KMrdxavk9qpRiGzEbxlYE6wFRNF~S4xwJydTRs-J04x5AEJ9d2Nd7dDiGfvSsofKcEmqFAAxKzXvSRFG7nl5Kfm3VSPnUuGM5wW4qHHPWSynv7jGTkpH2wEsY82VWTJsFnfIyMHcZiLqngNc4SM9XJZsOW3JQ0KCT7V0vFjMIos0pk0cOiFNwabUxIjugTjPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
-            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "date_published": "2025-08-15T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
+            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
+            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Andrew Wong, MD, MS"
+                    "name": "Robert C. Grant, MD, PhD"
                 }
             ],
             "tags": [
-                "health policy"
+                "chronic",
+                "cisplatin",
+                "kidney failure",
+                "machine learning"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1757537665.43458.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
