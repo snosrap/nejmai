@@ -4,57 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
-            "title": "What Will Next Year Bring for AI in Health?",
-            "summary": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
-            "content_text": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
-            "date_published": "2025-10-09T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "investments",
-                "mesenchymal stem cells"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839717/jama_perlis_2025_en_250012_1759242163.88935.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250012fa_1759242164.01636.png?Expires=2147483647&Signature=e0XLeQV4uq6Q7Zld1eJY1JsaQS887y28mRNoiJ3JqMsaAGiJpiNjpA8evIGodaAWrZnlwzcjzItxR~QCpK7B~WJaTU6HWhioOHyG9SR04fbRE2pMbpyBolwxLBWbvwFZS0fs2ARjS~b0suNFzwtz-KMrdxavk9qpRiGzEbxlYE6wFRNF~S4xwJydTRs-J04x5AEJ9d2Nd7dDiGfvSsofKcEmqFAAxKzXvSRFG7nl5Kfm3VSPnUuGM5wW4qHHPWSynv7jGTkpH2wEsY82VWTJsFnfIyMHcZiLqngNc4SM9XJZsOW3JQ0KCT7V0vFjMIos0pk0cOiFNwabUxIjugTjPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
-            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
-            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
-            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
-            "date_published": "2025-08-21T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Robert C. Grant, MD, PhD"
-                }
-            ],
-            "tags": [
-                "chronic",
-                "cisplatin",
-                "kidney failure",
-                "machine learning"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1755626769.10859.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/coi250044t1_1755626769.31358.png?Expires=2147483647&Signature=uHMp~D9owdDcrkTv-rMpAfUeE5-U4ckGJmpoFWPyAQPe3cZxLNf3qGDoPJbnwgEuMfG3svYeJKpKq6gFSLLx76-nHQNniQBvtcYJsqjfxKKpsi7xsEpL5CnOjasP4OzW42~PO7TC3X3dp2s16bolcb8nIb6oKx-LLgnpZ4mpOCD6PNQR8yFjDFp5XlkFyIkRA7ECisI0x8Gtvsll1T2KFxg58CiFoQ6Y~Npbsi2egl-eachTi-QevhCp8KUjONhwz30yHXEYPEdQ1FAhV7cMLjTawQg6UT-SWlSe-0QBeWY43m8Ps2Xn3SlKnuZwln-XfAa7ZxJ27BnsIoJd8doYdA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -744,6 +693,37 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "title": "Identifying and Addressing Bias in Artificial Intelligence",
@@ -840,6 +820,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
+            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
+            "date_published": "2024-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "exercise",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
