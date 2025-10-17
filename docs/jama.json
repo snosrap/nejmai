@@ -4,6 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839600",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839600",
+            "title": "Use of AI in Identification of Sexually Transmitted Infections and Anogenital Dermatoses: A Systematic Review",
+            "summary": "This systematic review and meta-analysis investigates the performance of artificial intelligence (AI) algorithms in detecting sexually transmitted infections and anogenital dermatoses from clinical images.",
+            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) excels in dermatology. However, its applications to sexually transmitted infections (STIs) remain unclear.</p><h3>Objective</h3><p>To assess the performance of AI algorithms and their applications in detecting STIs and anogenital dermatoses from clinical images in sexual health.</p><h3>Data Sources</h3><p>Six databases (IEEE Xplore, Embase, Scopus, Medline, Web of Science, and CINAHL) were searched for studies published from January 1, 2010, to April 12, 2024, using 3 main concepts:<i>artificial intelligence</i>,<i>diagnosis</i>, and<i>sexually transmitted infections</i>.</p><h3>Study Selection</h3><p>Studies that used AI to identify anogenital skin conditions from clinical images were included. Studies that used non-AI approaches or nonanogenital conditions, as well as reviews and studies lacking performance metrics, were excluded.</p><h3>Data Extraction and Synthesis</h3><p>Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, 2 reviewers independently assessed full-text articles and extracted data using a standardized spreadsheet. Another 2 reviewers resolved any disagreements. A modified Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) critical appraisal tool and the Checklist for Evaluation of Image-Based AI Reports in Dermatology (CLEAR Derm) were used for quality assessment.</p><h3>Main Outcomes and Measures</h3><p>Pooled sensitivity and specificity of AI applications for detecting anogenital skin conditions. A bivariate random-effects meta-analysis was conducted for conditions with more than 3 studies.</p><h3>Results</h3><p>Of 5381 studies screened and 258 full texts selected, 140 met the inclusion criteria. Most studies reported on mpox (110 [78.6%]), while other anogenital conditions, including genital herpes (7 [5.0%]), genital warts (8 [5.7%]), scabies (8 [5.7%]), and molluscum contagiosum (6 [4.3%]), received less attention. Meta-analyses showed high performance of AI for identification of mpox (pooled sensitivity: 0.96 [95% CI, 0.93-0.97]; pooled specificity: 0.98 [95% CI, 0.97-0.99]), herpes simplex (sensitivity: 0.91 [95% CI, 0.71-0.98]; specificity: 0.97 [95% CI, 0.94-0.98]), genital warts (sensitivity: 0.87 [95% CI, 0.67-0.96]; specificity: 0.98 [95% CI, 0.95-0.99]), psoriasis (sensitivity: 0.90 [95% CI, 0.78-0.95]; specificity: 0.98 [95% CI, 0.96-0.99]), and scabies (sensitivity: 0.89 [95% CI, 0.84-0.93]; specificity: 0.98 [95% CI, 0.95-0.99]). Study quality was variable, and the assessment identified high risk of bias across the population selection (76.1%), reference standards (76.1%), and index tests (20.0%). Most studies relied on open-source datasets (121 [86.4%]); only 17 (12.1%) used external validation. All but 1 study (0.7%) remained at the proof-of-concept stage, and models were not publicly available for external evaluation.</p><h3>Conclusions and Relevance</h3><p>The findings suggest that AI shows promise in identifying STIs and anogenital dermatoses but that significant research gaps exist. Future work should prioritize understudied STIs and differential conditions while improving data quality, conducting external validation, and validating findings in clinical settings.</p>",
+            "date_published": "2025-10-03T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Nyi Nyi Soe, MPH"
+                }
+            ],
+            "tags": [
+                "anogenital venereal warts",
+                "artificial intelligence",
+                "monkeypox",
+                "psoriasis",
+                "scabies",
+                "sexually transmitted diseases",
+                "simplexvirus",
+                "skin disorder"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839600/soe_2025_oi_250944_1758913882.72381.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi250944f1_1758913882.9081.png?Expires=2147483647&Signature=JTAYrKQWBAYg8e0XhgVs8uwmE--j1Q5TzvW9Ty7FTe2Nl05CPPk2QWK-xc8nbxVJaK5ySk33anEemFVRQz8xgu7ZTxVjsZzneL8RqoP8EQYIsM7fKnAW8tmfSsrLM6PlDMnjXEA0mWOaNm4P9j53l144nguMOKihAc4B8bP4WHv1fYff3JPWkktnw2bzwbNuY2Z9DrGMVai5zZhgXR-IWQ-DQNkfQ1lw98oZ7iOixHspimVfpetMZLE9HsPMeyIaR5-Ip5BNznROwfydKw8zj7wJNgx1~coanoLo8sXupJI6kO~B7k0nUAyUW62Jf7BwM3h81XHZBAeCnZ2BNJg4qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
+            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "date_published": "2025-08-06T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "R. Chris Jones, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2826882",
             "title": "Primary Visual Pathway Changes in Individuals With Chronic Mild Traumatic Brain Injury",
@@ -789,59 +842,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
-            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
-            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
-            "date_published": "2024-06-04T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "elderly",
-                "exercise",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
-            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
-            "date_published": "2024-04-30T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "breast neoplasm screening",
-                "magnetic resonance imaging",
-                "malignant neoplasm of breast",
-                "mammography",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
