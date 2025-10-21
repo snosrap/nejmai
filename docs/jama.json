@@ -4,59 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
-            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
-            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
-            "date_published": "2025-05-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
+            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "date_published": "2025-08-15T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Robert N. Weinreb, MD"
+                    "name": "Andrew Wong, MD, MS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "delivery of health care",
-                "diagnostic imaging of retina",
-                "eye",
-                "health services accessibility",
-                "ophthalmic examination and evaluation",
-                "screening procedure",
-                "technology"
+                "health policy"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1757537665.43458.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -844,6 +812,34 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
+            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
+            "date_published": "2024-04-30T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "breast neoplasm screening",
+                "magnetic resonance imaging",
+                "malignant neoplasm of breast",
+                "mammography",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
