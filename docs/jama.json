@@ -4,54 +4,33 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840377",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840377",
-            "title": "Large Language Model Assistant for Emergency Department Discharge Documentation",
-            "summary": "This comparative effectiveness study investigates a large language model designed to assist emergency department physicians with writing discharge notes and evaluates its effectiveness on documentation quality and workflow efficiency compared with manual note writing.",
-            "content_html": "<h3>Importance</h3><p>Emergency department (ED) discharge documentation is time-consuming and often incomplete.</p><h3>Objective</h3><p>To develop a large language model (LLM) assistant that generates ED discharge notes and to evaluate its effectiveness on documentation quality and workflow efficiency.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness study, which was conducted at a 2400-bed tertiary care hospital in South Korea, consisted of 2 primary phases: a development phase and sequential validation of the LLM assistant. In the randomized sequential prospective validation, 6 emergency physicians first wrote discharge notes manually (session 1), then edited LLM-generated drafts after a 1-hour washout period (session 2). Three independent physicians evaluated 300 note sets (each containing a manual note, an LLM draft, and an LLM-assisted note). For model development and validation, patient records from ED visits between September 1, 2022, and August 31, 2023, were used. The inclusion criteria encompassed adult patients (aged \u226517 years) and pediatric patients with nondisease conditions (eg, trauma, poisoning, or burns). Emergency physicians selected 592 representative cases for training and 50 for validation.</p><h3>Exposure</h3><p>A commercially available text generation transformer model was used as a core LLM, fine-tuned using the 592 training cases. Two distinct processing pipelines were implemented within the LLM assistant due to different input data: (1) for patients managed solely by emergency physicians, using the ED initial record and prescription list, and (2) for those requiring specialty consultations, using the ED initial record and consultation request form.</p><h3>Main Outcomes and Measures</h3><p>Quality of notes using 4C metrics (completeness, correctness, conciseness, and clinical utility) on a Likert scale ranging from 1 to 5 and time taken to complete the notes manually and with the LLM assistant.</p><h3>Results</h3><p>Of the 50 test cases, the mean (SD) patient age was 57.7 (23.1) years, and 28 patients (56%) were female. LLM-assisted notes achieved higher scores than manual notes in completeness (4.23 [95% CI, 4.17-4.28] vs 4.03 [95% CI, 3.96-4.09]), correctness (4.38 [95% CI, 4.33-4.42] vs 4.20 [95% CI, 4.14-4.26]), conciseness (4.23 [95% CI, 4.18-4.28] vs 4.11 [95% CI, 4.05-4.17]), and clinical utility (4.17 [95% CI, 4.11-4.23] vs 3.85 [95% CI, 3.78-3.91]) (all<i>P</i>\u2009&lt;\u2009.001). When compared with LLM drafts, LLM-assisted notes excelled in conciseness (4.23 vs 3.98 [95% CI, 3.91-4.04];<i>P</i>\u2009&lt;\u2009.001) and maintained equivalent clinical utility (4.17 vs 4.16 [95% CI, 4.11-4.21];<i>P</i>\u2009&gt;\u2009.99), but scored lower in completeness (4.23 vs 4.34 [95% CI, 4.29-4.39];<i>P</i>\u2009=\u2009.001) and correctness (4.38 vs 4.45 [95% CI, 4.41-4.49];<i>P</i>\u2009&lt;\u2009.001). The median documentation time per note dropped from 69.5 (95% CI, 65.5-78.0) seconds for manual notes to 32.0 (95% CI, 29.5-36.0) seconds for LLM-assisted notes (<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusion</h3><p>In this comparative effectiveness study, use of an on-site LLM assistant was associated with reduced writing time for ED discharge notes compared with manual note-taking, without compromising documentation quality, representing a critical advancement in the use of artificial intelligence for clinical practice.</p>",
-            "date_published": "2025-10-21T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ji Woo Song"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "comparative effectiveness research",
-                "emergency service",
-                "hospital",
-                "large language models",
-                "workflow"
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840377/song_2025_oi_251067_1760473359.10173.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251067f1_1760473359.2288.png?Expires=2147483647&Signature=MkeLdNKTwj0by7pNo0QQCfJX~GDKWq64zSS155zGVDvSzculXi2bb2Xqn2WRk~CxNM6wHL-DIMyi-QNd7mBoNu0VS3MWflzc3OcAFIKLqc8yuJhJ5Evt6qcnVU9es6vohOkqNbS1Ay~ofYqaKYzmy~QM~0IwmgnL8Qgvn0a6Nbh5FAaZSPu7qGvzhjBa6gp8r2AQu~I-Ohd~cuai1b8jjW1UxeuUkEfBfpEwQDxxKe9gRNEwWY3d-JoMFmGU9~WlFQaAfDwZ80mEfoHUg8ktUJZBFARv3Nqql0eql4QT0aUwZrkBeUsoeqqxKMahlvLTKKljRNViRscFndZfhmSEEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
-            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "date_published": "2025-07-28T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Ellen Wright Clayton, MD, JD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -741,6 +720,37 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
