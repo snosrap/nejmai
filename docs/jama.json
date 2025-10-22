@@ -4,27 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
-            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
-            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
-            "date_published": "2025-08-15T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840377",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840377",
+            "title": "Large Language Model Assistant for Emergency Department Discharge Documentation",
+            "summary": "This comparative effectiveness study investigates a large language model designed to assist emergency department physicians with writing discharge notes and evaluates its effectiveness on documentation quality and workflow efficiency compared with manual note writing.",
+            "content_html": "<h3>Importance</h3><p>Emergency department (ED) discharge documentation is time-consuming and often incomplete.</p><h3>Objective</h3><p>To develop a large language model (LLM) assistant that generates ED discharge notes and to evaluate its effectiveness on documentation quality and workflow efficiency.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness study, which was conducted at a 2400-bed tertiary care hospital in South Korea, consisted of 2 primary phases: a development phase and sequential validation of the LLM assistant. In the randomized sequential prospective validation, 6 emergency physicians first wrote discharge notes manually (session 1), then edited LLM-generated drafts after a 1-hour washout period (session 2). Three independent physicians evaluated 300 note sets (each containing a manual note, an LLM draft, and an LLM-assisted note). For model development and validation, patient records from ED visits between September 1, 2022, and August 31, 2023, were used. The inclusion criteria encompassed adult patients (aged \u226517 years) and pediatric patients with nondisease conditions (eg, trauma, poisoning, or burns). Emergency physicians selected 592 representative cases for training and 50 for validation.</p><h3>Exposure</h3><p>A commercially available text generation transformer model was used as a core LLM, fine-tuned using the 592 training cases. Two distinct processing pipelines were implemented within the LLM assistant due to different input data: (1) for patients managed solely by emergency physicians, using the ED initial record and prescription list, and (2) for those requiring specialty consultations, using the ED initial record and consultation request form.</p><h3>Main Outcomes and Measures</h3><p>Quality of notes using 4C metrics (completeness, correctness, conciseness, and clinical utility) on a Likert scale ranging from 1 to 5 and time taken to complete the notes manually and with the LLM assistant.</p><h3>Results</h3><p>Of the 50 test cases, the mean (SD) patient age was 57.7 (23.1) years, and 28 patients (56%) were female. LLM-assisted notes achieved higher scores than manual notes in completeness (4.23 [95% CI, 4.17-4.28] vs 4.03 [95% CI, 3.96-4.09]), correctness (4.38 [95% CI, 4.33-4.42] vs 4.20 [95% CI, 4.14-4.26]), conciseness (4.23 [95% CI, 4.18-4.28] vs 4.11 [95% CI, 4.05-4.17]), and clinical utility (4.17 [95% CI, 4.11-4.23] vs 3.85 [95% CI, 3.78-3.91]) (all<i>P</i>\u2009&lt;\u2009.001). When compared with LLM drafts, LLM-assisted notes excelled in conciseness (4.23 vs 3.98 [95% CI, 3.91-4.04];<i>P</i>\u2009&lt;\u2009.001) and maintained equivalent clinical utility (4.17 vs 4.16 [95% CI, 4.11-4.21];<i>P</i>\u2009&gt;\u2009.99), but scored lower in completeness (4.23 vs 4.34 [95% CI, 4.29-4.39];<i>P</i>\u2009=\u2009.001) and correctness (4.38 vs 4.45 [95% CI, 4.41-4.49];<i>P</i>\u2009&lt;\u2009.001). The median documentation time per note dropped from 69.5 (95% CI, 65.5-78.0) seconds for manual notes to 32.0 (95% CI, 29.5-36.0) seconds for LLM-assisted notes (<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusion</h3><p>In this comparative effectiveness study, use of an on-site LLM assistant was associated with reduced writing time for ED discharge notes compared with manual note-taking, without compromising documentation quality, representing a critical advancement in the use of artificial intelligence for clinical practice.</p>",
+            "date_published": "2025-10-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Andrew Wong, MD, MS"
+                    "name": "Ji Woo Song"
                 }
             ],
             "tags": [
-                "health policy"
+                "comparative effectiveness research",
+                "emergency service",
+                "hospital",
+                "large language models",
+                "workflow"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1757537665.43458.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840377/song_2025_oi_251067_1760473359.10173.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251067f1_1760473359.2288.png?Expires=2147483647&Signature=MkeLdNKTwj0by7pNo0QQCfJX~GDKWq64zSS155zGVDvSzculXi2bb2Xqn2WRk~CxNM6wHL-DIMyi-QNd7mBoNu0VS3MWflzc3OcAFIKLqc8yuJhJ5Evt6qcnVU9es6vohOkqNbS1Ay~ofYqaKYzmy~QM~0IwmgnL8Qgvn0a6Nbh5FAaZSPu7qGvzhjBa6gp8r2AQu~I-Ohd~cuai1b8jjW1UxeuUkEfBfpEwQDxxKe9gRNEwWY3d-JoMFmGU9~WlFQaAfDwZ80mEfoHUg8ktUJZBFARv3Nqql0eql4QT0aUwZrkBeUsoeqqxKMahlvLTKKljRNViRscFndZfhmSEEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Ellen Wright Clayton, MD, JD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -812,34 +839,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
-            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
-            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
-            "date_published": "2024-04-30T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "breast neoplasm screening",
-                "magnetic resonance imaging",
-                "malignant neoplasm of breast",
-                "mammography",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
