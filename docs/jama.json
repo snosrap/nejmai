@@ -4,6 +4,304 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840495",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840495",
+            "title": "Characteristics and Safety of Consumer Chatbots for Emergent Adolescent Health Concerns",
+            "summary": "This cross-sectional study examines content policies and assesses behaviors of consumer chatbots in response to adolescent health crises.",
+            "content_text": "This cross-sectional study examines content policies and assesses behaviors of consumer chatbots in response to adolescent health crises.",
+            "date_published": "2025-10-23T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Ryan C. L. Brewster, MD"
+                }
+            ],
+            "tags": [
+                "adolescent health services",
+                "chatbots"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840495/brewster_2025_ld_250241_1760640353.03623.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zld250241t1_1760640353.19733.png?Expires=2147483647&Signature=MPkw4mGXSZBbYCYq6JRfEALLk1jAuSw~fbfL~QTak3wWJzh72QARgBiQ4NtwtRPcQ6fuPuRxxd215XRAhr6gxuiOz9byEEsJHUAvygYmW1Sk54BIHbacRdcPpq6ukbVfRTS9hF4sRdCz7W974ciIIxbr5vrehOg0BWwY6GhxM5wp1zqzT~DIHj0AvTASxxdzipAYXgF9o0HZHFWl3hssZR2Wo8ZERbsu~2FN7rbJV3x5BgDhN~9WDNPhWPfjryLphYzi-B2g1MVubC6amQ2EUvZ0XgHI0UdLiBajrKNldkr23z21X0XqBEjLcmEZY-3Ff9oHnmW7METTwFcVEG0Lew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "title": "Adolescent Vulnerability to Consumer Chatbots\u2014Artificial Agents and Genuine Risk",
+            "summary": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "content_text": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "date_published": "2025-10-23T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Alison Giovanelli, PhD"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "chatbots",
+                "pediatric discipline"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840497/giovanelli_2025_ic_250270_1760640354.83833.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840377",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840377",
+            "title": "Large Language Model Assistant for Emergency Department Discharge Documentation",
+            "summary": "This comparative effectiveness study investigates a large language model designed to assist emergency department physicians with writing discharge notes and evaluates its effectiveness on documentation quality and workflow efficiency compared with manual note writing.",
+            "content_html": "<h3>Importance</h3><p>Emergency department (ED) discharge documentation is time-consuming and often incomplete.</p><h3>Objective</h3><p>To develop a large language model (LLM) assistant that generates ED discharge notes and to evaluate its effectiveness on documentation quality and workflow efficiency.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness study, which was conducted at a 2400-bed tertiary care hospital in South Korea, consisted of 2 primary phases: a development phase and sequential validation of the LLM assistant. In the randomized sequential prospective validation, 6 emergency physicians first wrote discharge notes manually (session 1), then edited LLM-generated drafts after a 1-hour washout period (session 2). Three independent physicians evaluated 300 note sets (each containing a manual note, an LLM draft, and an LLM-assisted note). For model development and validation, patient records from ED visits between September 1, 2022, and August 31, 2023, were used. The inclusion criteria encompassed adult patients (aged \u226517 years) and pediatric patients with nondisease conditions (eg, trauma, poisoning, or burns). Emergency physicians selected 592 representative cases for training and 50 for validation.</p><h3>Exposure</h3><p>A commercially available text generation transformer model was used as a core LLM, fine-tuned using the 592 training cases. Two distinct processing pipelines were implemented within the LLM assistant due to different input data: (1) for patients managed solely by emergency physicians, using the ED initial record and prescription list, and (2) for those requiring specialty consultations, using the ED initial record and consultation request form.</p><h3>Main Outcomes and Measures</h3><p>Quality of notes using 4C metrics (completeness, correctness, conciseness, and clinical utility) on a Likert scale ranging from 1 to 5 and time taken to complete the notes manually and with the LLM assistant.</p><h3>Results</h3><p>Of the 50 test cases, the mean (SD) patient age was 57.7 (23.1) years, and 28 patients (56%) were female. LLM-assisted notes achieved higher scores than manual notes in completeness (4.23 [95% CI, 4.17-4.28] vs 4.03 [95% CI, 3.96-4.09]), correctness (4.38 [95% CI, 4.33-4.42] vs 4.20 [95% CI, 4.14-4.26]), conciseness (4.23 [95% CI, 4.18-4.28] vs 4.11 [95% CI, 4.05-4.17]), and clinical utility (4.17 [95% CI, 4.11-4.23] vs 3.85 [95% CI, 3.78-3.91]) (all<i>P</i>\u2009&lt;\u2009.001). When compared with LLM drafts, LLM-assisted notes excelled in conciseness (4.23 vs 3.98 [95% CI, 3.91-4.04];<i>P</i>\u2009&lt;\u2009.001) and maintained equivalent clinical utility (4.17 vs 4.16 [95% CI, 4.11-4.21];<i>P</i>\u2009&gt;\u2009.99), but scored lower in completeness (4.23 vs 4.34 [95% CI, 4.29-4.39];<i>P</i>\u2009=\u2009.001) and correctness (4.38 vs 4.45 [95% CI, 4.41-4.49];<i>P</i>\u2009&lt;\u2009.001). The median documentation time per note dropped from 69.5 (95% CI, 65.5-78.0) seconds for manual notes to 32.0 (95% CI, 29.5-36.0) seconds for LLM-assisted notes (<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusion</h3><p>In this comparative effectiveness study, use of an on-site LLM assistant was associated with reduced writing time for ED discharge notes compared with manual note-taking, without compromising documentation quality, representing a critical advancement in the use of artificial intelligence for clinical practice.</p>",
+            "date_published": "2025-10-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Ji Woo Song"
+                }
+            ],
+            "tags": [
+                "comparative effectiveness research",
+                "emergency service",
+                "hospital",
+                "large language models",
+                "workflow"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840377/song_2025_oi_251067_1760473359.10173.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251067f1_1760473359.2288.png?Expires=2147483647&Signature=MkeLdNKTwj0by7pNo0QQCfJX~GDKWq64zSS155zGVDvSzculXi2bb2Xqn2WRk~CxNM6wHL-DIMyi-QNd7mBoNu0VS3MWflzc3OcAFIKLqc8yuJhJ5Evt6qcnVU9es6vohOkqNbS1Ay~ofYqaKYzmy~QM~0IwmgnL8Qgvn0a6Nbh5FAaZSPu7qGvzhjBa6gp8r2AQu~I-Ohd~cuai1b8jjW1UxeuUkEfBfpEwQDxxKe9gRNEwWY3d-JoMFmGU9~WlFQaAfDwZ80mEfoHUg8ktUJZBFARv3Nqql0eql4QT0aUwZrkBeUsoeqqxKMahlvLTKKljRNViRscFndZfhmSEEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
+            "title": "Clinical Integration of Local AI Assistants Into Emergency Department Discharge Documentation",
+            "summary": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
+            "content_text": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
+            "date_published": "2025-10-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Jared Silberlust, MD, MPH"
+                }
+            ],
+            "tags": [
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840384/silberlust_2025_ic_250266_1760473371.90391.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840380",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840380",
+            "title": "Diabetic Retinopathy Screening Among Federally Qualified Health Center Patients Using Point-of-Care AI:",
+            "summary": "This trial protocol describes a multicomponent randomized clinical trial that integrated an artificial intelligence (AI)\u2013powered diabetic retinopathy screening workflow to improve screening rates, detection of early-stage disease, and timely eye specialist follow-up.",
+            "content_html": "<h3>Importance</h3><p>Diabetic retinopathy screening (DRS) rates have historically been low among underserved populations due to barriers in accessing traditional eye care. Although artificial intelligence (AI)\u2013powered DRS provides a potential strategy to improve screening rates, its optimal integration into primary care workflows within federally qualified health centers (FQHCs) requires rigorous evaluation. The clinical workflow of the Diabetic Retinopathy Screening Point-of-Care Artificial Intelligence (DRES-POCAI) trial in FQHCs integrates AI-powered DRS with electronic health records (EHRs) to automate results and prompt referrals, aiming to improve screening rates and facilitate early diagnosis and timely treatment.</p><h3>Objective</h3><p>To increase DRS rates, facilitate early-stage DR detection, improve timely eye specialist follow-up, and assess the effect of DRS on patients\u2019 knowledge, attitudes, self-efficacy, and satisfaction.</p><h3>Design, Setting, and Participants</h3><p>DRES-POCAI is a patient-level, multiclinic, open-label, parallel superiority randomized clinical trial at 2 FQHC sites of San Ysidro Health in San Diego County, California. The study recruitment targets 848 active FQHC patients aged 22 years or older with diabetes, no DRS in the prior 11 months, and scheduled medical visits during the intervention period. Patients with a history of retinopathy or retinal vascular occlusion and other physical or mental conditions are excluded. The study started in June 2024, with recruitment anticipated to conclude in August 2025 and follow-up until February 2026.</p><h3>Intervention</h3><p>The intervention arm receives DRS at their primary care clinic using an AI-powered DRS system, with retinal image analysis to identify more than mild DR and vision-threatening DR. Results are immediately available in the EHRs, and practitioners receive risk-stratified referral recommendations. The usual care arm receives referrals to an FQHC optometrist or external eye care practitioner, with results transmitted to the medical home later.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome is DRS completion status. Secondary outcomes include DR diagnosis stage, specialist referrals, and participants\u2019 DR knowledge, attitudes, and intentions regarding future AI-powered DRS.</p><h3>Results</h3><p>Findings will be disseminated in peer-reviewed publications after data collection and analysis.</p><h3>Conclusions and Relevance</h3><p>DRES-POCAI will determine the effectiveness of an AI-powered DRS intervention to increase DRS rates in FQHC primary care workflows.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06721351.</p>",
+            "date_published": "2025-10-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Edgar A. Diaz, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "diabetes mellitus",
+                "diabetic retinopathy screening",
+                "eye",
+                "eye care (regime/therapy)",
+                "federally qualified health centers",
+                "non-insulin-dependent",
+                "posttreatment followup",
+                "rectal examination",
+                "screening procedure",
+                "workflow"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840380/diaz_2025_oi_251057_1760473365.4331.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251057f1_1760473365.6142.png?Expires=2147483647&Signature=W6Tgz3Wgww~jd6teJC8NXNVpuNHYXkijyMkoxydVrjreQ0mHrrOvQpd4l-TC4vq0ARbXkwfaMfz3CrhzVVQGup00stckOpL44~UHX1-U6Ih2tAJwMg2mYiy6U1PxDXzhpz7yZPNv4Vgeb2P0LkN29wR8hltpOIf81XZ9etAj2U5hQWesT8LIXw3dTMOHk4ibsgC01eNRsMI7mAGHGhD0jhfFvuPLtOYPy0iEZMFk34MVN8UR38tTlwAJhGzmx-jIo7RaBfIb27ue1tzhpcUfs2BsQoR-1XmigbIQpUd8Kil3G1~pze9dZHTDS9l3St5tKl85npyHyD3IVmUvNyezbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840363",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840363",
+            "title": "Machine Learning for Anastomotic Leak Prediction in Colorectal Surgery\u2014Between Validation and Clinical",
+            "summary": "Despite decades of research and the proposal of numerous risk scores and prediction models, reliably identifying patients at risk for anastomotic leakage (AL) remains challenging\u2014even for experienced surgeons. 1 , 2 AL contributes substantially to postoperative morbidity, mortality, and prolonged hospitalization, yet its occurrence often defies conventional clinical expectations. 3 It may occur in patients without obvious risk factors, whereas others with multiple comorbidities recover uneventfully.",
+            "content_text": "Despite decades of research and the proposal of numerous risk scores and prediction models, reliably identifying patients at risk for anastomotic leakage (AL) remains challenging\u2014even for experienced surgeons. 1 , 2 AL contributes substantially to postoperative morbidity, mortality, and prolonged hospitalization, yet its occurrence often defies conventional clinical expectations. 3 It may occur in patients without obvious risk factors, whereas others with multiple comorbidities recover uneventfully.",
+            "date_published": "2025-10-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Kamacay Cira, MD"
+                }
+            ],
+            "tags": [
+                "anastomotic leak",
+                "colon and rectal surgery (procedure)",
+                "machine learning",
+                "operative surgical procedures",
+                "surgery specialty"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840363/cira_2025_ic_250263_1760388434.8239.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840357",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840357",
+            "title": "Development of a Clinical Prediction Model for Anastomotic Leakage in Colorectal Surgery",
+            "summary": "This prognostic study evaluates a meta-model that integrates logits from different existing predictive models combined with patient-specific features to predict anastomotic leakage risk after colorectal surgery.",
+            "content_html": "<h3>Importance</h3><p>Anastomotic leakage is a severe complication after colorectal surgery that can significantly affect clinical outcomes and patient prognosis. Although multiple risk factors for anastomotic leakage have been identified, predicting the incidence of anastomotic leakage remains difficult.</p><h3>Objective</h3><p>To develop a machine learning predictive model that combines logits from different base models to predict the incidence of anastomotic leakage more accurately.</p><h3>Design, Setting, and Participants</h3><p>This retrospective prognostic study was conducted across 13 centers in Europe and North America between January 1, 2012, and December 31, 2020, and with data from the European Society of Coloproctology (ESCP). The study population included patients 18 years or older who underwent colon resection with anastomosis and had a follow-up of at least 6 months. Patients with metastatic disease and insufficient follow-up were excluded. A total of 6079 patients from 13 centers across different countries were included in the analysis with an additional 3041 patients from the ESCP. Data analysis was conducted from October 2024 to January 2025.</p><h3>Exposure</h3><p>Colon anastomosis for various reasons, including neoplasia, diverticulitis, ischemia, iatrogenic or traumatic perforation, or inflammatory bowel disease.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome of this study was to predict anastomotic leakage using a cross-attention\u2013based meta-model, which integrated predictions from base models and patient-level clinical features. The F1 score was used to assess the prediction performance of the models.</p><h3>Results</h3><p>A total of 9120 patients (mean [SD] age, 61.26 [15.71] years; 4636 [50.8%] male) from the 513 centers and the ESCP were included in the analysis. There was no difference in distribution between the 13 centers and the ESCP dataset. The model\u2019s predictive performance achieved overall F1 scores of 87% (95% CI, 78%-95%) and 70% across tests using a cross-validation process and external validation test set, respectively. The meta-model\u2019s performance was better than that of its component parts (eg, CatBoost: cross-validation F1 score, 87% [95% CI, 78%-95%]; external validation F1 score, 70%).</p><h3>Conclusions and Relevance</h3><p>In this prognostic study of patients who underwent colon resection with anastomosis, a meta-model was found to improve predictive accuracy. Additional prospective studies are needed to assess the clinical utility of the model in real-time settings and its integration into surgical workflows.</p>",
+            "date_published": "2025-10-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Vincent Ochs"
+                }
+            ],
+            "tags": [
+                "anastomosis",
+                "clinical prediction rule",
+                "colon and rectal surgery (procedure)",
+                "ischemia",
+                "machine learning",
+                "neoplasms",
+                "operative surgical procedures",
+                "surgical"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840357/ochs_2025_oi_251060_1760388421.74079.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251060f1_1760388423.72116.png?Expires=2147483647&Signature=JzKYnBs9~H80ebpqQyfTLI8RBIS5UPUF8Wr2pZrN6YMIfZpiaCtFSBVUSo4aR7pInibAuRVba1ApkqNcjUEhnhFucZonKUbXmJ-26ox3bN-9bRoTkUEBGnqHdBQvHwQ-up8dYE5OgWYAmHnDRor3jq~iKH8ZImgAyHiPvtUQfWeyKXbbTtovNLl0ELnpt4EucdIaemGjCNOlb8B98E-osUfLr4dwD-HOa6-08QraxG0QCaIr~Z02MyNEBj5DEKLpkDjR1DPQuwLF4dPBP3fh-FJfNF1UpAP2Q7F8ZcjDAAv~cMl69dpkXv2DHpIfJvDEE40WRjq~70iAas-~gb2yDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840279",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840279",
+            "title": "Sodium Reduction Program Incorporating Genetic Profile and an AI-Based App: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the effectiveness of a sodium reduction program incorporating a genetic profile and an artificial intelligence (AI)\u2013based mobile app at reducing salt intake among adults with elevated blood pressure and a sodium-sensitive genotype.",
+            "content_html": "<h3>Importance</h3><p>Excess salt intake is a major modifiable risk factor for hypertension and cardiovascular disease. Personalized interventions using genetic information and digital tools, such as smartphone applications, may enhance sodium reduction, but evidence remains limited.</p><h3>Objective</h3><p>To evaluate the effectiveness of a sodium reduction program incorporating a genetic profile and an artificial intelligence (AI)\u2013based mobile app among adults with elevated blood pressure and a sodium-sensitive genotype.</p><h3>Design, Setting, and Participants</h3><p>A 3-arm randomized clinical trial, conducted at a Japanese electronics company from September 17 to December 16, 2024, included employees aged 20 to 65 years with elevated blood pressure and the sodium-sensitive<i>AGT M235T</i>genotype.</p><h3>Interventions</h3><p>Participants were randomized on a 1:1:0.2 basis to (1) a treatment group receiving a genetic profile and an AI-based app incorporating sodium-specific information; (2) a control group receiving no intervention; or (3) an app-only group using the app without a genetic profile or information.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was daily salt intake, estimated from spot urine samples using the INTERSALT (International Study of Electrolyte Excretion and Blood Pressure) formula. Secondary outcomes included self-reported body mass index, behavior change intentions, and systolic and diastolic blood pressure. Analysis was performed on an intention-to-treat basis.</p><h3>Results</h3><p>Of 312 randomized participants, 289 completed follow-up (mean [SD] age, 51.3 [8.3] years; 252 of 279 men [90.3%]). The mean (SD) baseline salt intake was 11.3 (2.0) g/d. At 3 months, no significant difference in salt intake was observed between the treatment and control groups (mean difference, \u22120.2 g/d; 95% CI, \u22120.7 to 0.3 g/d) or between the treatment and app-only groups (mean difference, \u22120.04 g/d; 95% CI, \u22120.9 to 0.8 g/d). No significant differences were observed between groups in any secondary outcomes.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial conducted among individuals with elevated blood pressure and a sodium-sensitive genotype, a sodium reduction program combining a genetic profile and an AI-based app with sodium-specific information did not significantly reduce salt intake. These findings highlight the challenges of achieving dietary behavior change through genetic personalized plus digital interventions.</p><h3>Trial Registration</h3><p>http://umin.ac.jp/ctrIdentifier:UMIN000052685</p>",
+            "date_published": "2025-10-16T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Koryu Sato, MPH, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "behavioral change",
+                "blood pressure",
+                "diet",
+                "genetic profile",
+                "genotype",
+                "hypertensive disease",
+                "mobile applications",
+                "salt intake",
+                "science of genetics",
+                "sodium"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840279/sato_2025_oi_251034_1760130436.65958.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251034f1_1760130436.85565.png?Expires=2147483647&Signature=iovav~h3IULU1SKAX6WNIBYIfrzxsfmhkbBwiSFuxmTebRIJWo5--L-p9NG2OwOT-9E4gsI0bXIfsa2Jxbkb-M6zT30~JSUZpyzI4-qmGf120ZVV9N~GvNfb3xywXK2XrftMRGD8SYhK419VpPf0FUbG0I87P4JDnbqRpe0KmlCvRR6rjyYHUWQ81~m-sHLuwMWsUaxdEXgR8dsqkUtpySRYVL16yEF5Y9cFT2NRid2Qxed3xOjOEGcwN9ZBApx9YbuFZC2XG9e3NFlG-T3hOWhYGAyM-WnEuHXGYsajDEsKZ9hADecCa8KQfEJGZ22PGiPiXOCj6W1sK8l8t~MXjg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2839639",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2839639",
+            "title": "Leveraging Large Language Models to Generate Multiple-Choice Questions for Ophthalmology Education",
+            "summary": "This survey study evaluates whether general-domain large language models can reliably generate high-quality, novel, and readable multiple-choice questions that are comparable to those of a committee of experienced examination writers.",
+            "content_html": "<h3>Importance</h3><p>Multiple choice questions (MCQs) are an important and integral component of ophthalmology residency training evaluation and board certification; however, high-quality questions are difficult and time-consuming to draft.</p><h3>Objective</h3><p>To evaluate whether general-domain large language models (LLMs), particularly OpenAI\u2019s Generative Pre-trained Transformer 4 (GPT-4), can reliably generate high-quality, novel, and readable MCQs comparable to those of a committee of experienced examination writers.</p><h3>Design, Setting, and Participants</h3><p>This survey study, conducted from September 2024 to April 2025, assesses LLM performance in generating MCQs based on the American Academy of Ophthalmology (AAO)<i>Basic and Clinical Science Course</i>(<i>BCSC</i>) compared with a committee of human experts. Ten expert ophthalmologists, who were masked to the generation source, independently evaluated MCQs using a 10-point Likert scale (1\u2009=\u2009extremely poor; 10\u2009=\u2009criterion standard quality) across 5 criteria: appropriateness, clarity and specificity, relevance, discriminative power, and suitability for trainees.</p><h3>Intervention</h3><p>Relevant<i>BCSC</i>content and AAO question-writing guidelines were input into GPT-4o via Microsoft\u2019s Azure OpenAI Service, and structured prompts were used to generate MCQs.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were median scores and statistical comparisons using the bootstrapping method; string similarity scores based on Levenshtein distance (0-100, with 100 indicating identical content) between LLM-MCQs and the entire<i>BCSC</i>question bank; Flesch Reading Ease metric for readability; and intraclass correlation coefficient (ICC) for inter-rater agreement are reported.</p><h3>Results</h3><p>The 10 graders had between 1 and 28 years of clinical experience in ophthalmology (median [IQR] experience, 6 years [3-15 years]). Questions generated by GPT-4 and a committee of experts received median scores of 9 and 9 in combined scores, appropriateness, clarity and specificity, and relevance (difference, 0; 95% CI, 0-0;<i>P</i>\u2009&gt;\u2009.99); 8 and 9 in discriminative power (difference, 1; 95% CI, \u22121 to 1;<i>P</i>\u2009=\u2009.52); and 8 and 8 in suitability for trainees (difference, 0; 95% CI, \u22121 to 0;<i>P</i>\u2009&gt;\u2009.99), respectively. Nearly 95% of LLM-MCQs had similarity scores less than 60, indicating most LLM-MCQs had limited or no resemblance to existing content. Interrater reliability was moderate (ICC, 0.63;<i>P</i>\u2009&lt;\u2009.001), and mean (SD) readability scores were similar across sources (37.14 [22.54] vs 42.60 [22.84];<i>P</i>\u2009&gt;\u2009.99).</p><h3>Conclusions and Relevance</h3><p>In this survey study, results indicate that an LLM could be used to develop ophthalmology board\u2013style MCQs and expand examination banks to further support ophthalmology residency training. Despite most questions having a low similarity score, the quality, novelty, and readability of the LLM-generated questions need to be further assessed.</p>",
+            "date_published": "2025-10-16T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Shahrzad Gholami, MSC, PhD"
+                }
+            ],
+            "tags": [
+                "large language models",
+                "ophthalmologist (occupation)",
+                "ophthalmology specialty"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2839639/jamaophthalmology_gholami_2025_oi_250059_1759159935.1256.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/0/eoi250059f1_1759159935.44616.png?Expires=2147483647&Signature=oY8g3EnnDM~EkviZ1~~735CiRbmmu2irKhnCiJ3M1bW5LF6i3R8akSWLwVbw8f~rRMMLqQjFUhBic6hg~QbF1W-1dFmaeGozs6BAPNBDitD-tP-aK97R0Bc2SeHclVJlO-1C5mnWrf5GNqTr4VIEEtb6Mp9RlVUkZETtQ47hh-7uZhI5lO0j0I3exMwjtqWZdvihEr9wiVARQW7lqTmDPi5SIBXS5Zcxba8xKOLjQnDSjMslYWCqgKrIWFmisCE8TDqbtEa6zUJnArubrnjNumFyPuhRlQVKuNp-bcv2CAWxQGNTTKssC2l7Qcug58uzw7oECZOFfSPIBPX7-zqOTg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2839648",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2839648",
+            "title": "Transforming Ophthalmic Education With Large Language Models",
+            "summary": "Swift advancements in large language models (LLMs) are transforming ophthalmic education, moving beyond traditional teaching methods toward more dynamic and personalized learning approaches. In their recent study, Gholami and colleagues 1 showcased a novel advancement in the use of LLMs for ophthalmic education by demonstrating that ophthalmology board\u2013style multiple choice questions (MCQs) generated by OpenAI\u2019s GPT-4o were of comparable quality to those meticulously crafted by expert committees through rigorous iterative review. 1 This study marks a shift from investigating the utility of LLMs for question answering to question generation. 2 , 3 Such findings illustrate the potential of LLM-based tools to efficiently expand ophthalmic educational resources, easing current burdens associated with examination content creation. In addition, LLMs may help address a long-standing challenge in medical education, namely the delay between emerging clinical evidence and its incorporation into standardized assessments. While traditional MCQ banks are often slow to adapt, LLMs trained on current medical literature could facilitate the timely creation of questions that more closely reflect contemporary clinical knowledge.",
+            "content_text": "Swift advancements in large language models (LLMs) are transforming ophthalmic education, moving beyond traditional teaching methods toward more dynamic and personalized learning approaches. In their recent study, Gholami and colleagues 1 showcased a novel advancement in the use of LLMs for ophthalmic education by demonstrating that ophthalmology board\u2013style multiple choice questions (MCQs) generated by OpenAI\u2019s GPT-4o were of comparable quality to those meticulously crafted by expert committees through rigorous iterative review. 1 This study marks a shift from investigating the utility of LLMs for question answering to question generation. 2 , 3 Such findings illustrate the potential of LLM-based tools to efficiently expand ophthalmic educational resources, easing current burdens associated with examination content creation. In addition, LLMs may help address a long-standing challenge in medical education, namely the delay between emerging clinical evidence and its incorporation into standardized assessments. While traditional MCQ banks are often slow to adapt, LLMs trained on current medical literature could facilitate the timely creation of questions that more closely reflect contemporary clinical knowledge.",
+            "date_published": "2025-10-16T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Andrew Mihalache, MD(C)"
+                }
+            ],
+            "tags": [
+                "eye",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2839648/jamaophthalmology_mihalache_2025_ic_250044_1759159944.76501.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840200",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840200",
+            "title": "Women\u2019s Health and Artificial Intelligence",
+            "summary": "Innovative approaches and tools are essential to address and narrow the women\u2019s health gap, whereby women spend 25% more of their lives in poor health compared to men. 1 Artificial intelligence (AI), if implemented thoughtfully and equitably, could unlock a more precise understanding of women\u2019s health. This potential is rooted in AI\u2019s ability to uncover patterns in data that may have eluded clinical observation or pathophysiologic understanding to date.",
+            "content_text": "Innovative approaches and tools are essential to address and narrow the women\u2019s health gap, whereby women spend 25% more of their lives in poor health compared to men. 1 Artificial intelligence (AI), if implemented thoughtfully and equitably, could unlock a more precise understanding of women\u2019s health. This potential is rooted in AI\u2019s ability to uncover patterns in data that may have eluded clinical observation or pathophysiologic understanding to date.",
+            "date_published": "2025-10-13T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Eve Rittenberg, MD, MA"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "women's health"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840200/jamainternal_rittenberg_2025_ed_250009_1760021009.72674.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840199",
             "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840199",
             "title": "Artificial Intelligence and Clinical Care: JAMA Internal Medicine Call for Papers",
@@ -28,6 +326,168 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ied250010t1_1760021008.87478.png?Expires=2147483647&Signature=afXyGtn0-pwj92-JwXNEqMNKRK2MivbXWU1OvPu65idoiDXqPiRyvSjtcDMVZxLdwFyJOUtSfZi5rRI7tWmBFRRchLSrPdcbSk2SPJPNMeFAwdq9SJS9kiHnMv7bXfcVln-EGtv08te3U719gueno6c1S~5zi3Ht-uAGgMCvbBpGchrM8X5ZHBC9JwXTsSqhkRFNQW8YokfA0rd-NuC2gGtToWZ813XUa6EChaZbSUn3G06d~F075BV8Dd21QmyJc8e6e2RoHlbYpd8yP4FwGrVjID~QoxFjW5dPuSG7FN~kc9rPP6ZeHgSp49GiwlREXYxJ5ZVRSde1LFjDL8E6WA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
+            "title": "AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence",
+            "summary": "This Special Communication discusses how health and health care artificial intelligence (AI) should be developed, evaluated, regulated, disseminated, and monitored.",
+            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored.</p><h3>Observations</h3><p>Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration\u2019s regulatory oversight. A major challenge in evaluation is that a tool\u2019s effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes.</p><h3>Conclusions and Relevance</h3><p>AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health.</p>",
+            "date_published": "2025-10-13T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Derek C. Angus, MD, MPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "clinical diagnostic instrument",
+                "computer software",
+                "delivery of health care",
+                "diabetic retinopathy screening",
+                "diagnostic imaging",
+                "health care systems",
+                "incentives",
+                "life cycle stages",
+                "sepsis"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840175/jama_angus_2025_sc_250012_1759956894.77765.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc250012t1_1759956895.19173.png?Expires=2147483647&Signature=lfrzpvFPSptOiBUf3eMieOpGL3FBZApRyVPP7tfuh-NAg8IjKk52hnFSbhdVrrNJxOnKc3FnHOq~go4ZUgwEI-W6DwBYLGm7WVdC31Gf-BbcdBdaapBqcAhbSwrIECEd254bw30KUlfjEvATAF4ZyM5C39XEnndgNT4MWjTKG-RBpM1huR1j92Tz1cy6KGRxQLLhTK977Y5HNlBLxSJD3LNcyqjY5mscWVXKdmm~6eZv0wKvpxxox1lo4eHw0Cl8Dnsp83vLa2CUTWVygkpZAY0L4S-9ozoU8KRP1a7WTihvLebLdDxonVD4rMK2UuhN0QrBoo0F70~nAUBHw1iPvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2840033",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2840033",
+            "title": "Derivation and Validation of Predictive Models for Early Pediatric Sepsis",
+            "summary": "This cohort study evaluates the use of a machine learning model to estimate the probability of sepsis development within 48 hours among pediatric patients.",
+            "content_html": "<h3>Importance</h3><p>Sepsis is a leading cause of death in children. Early recognition and treatment improve outcomes, but predictive models have not to date improved early diagnosis.</p><h3>Objective</h3><p>To develop machine learning models to estimate the probability of developing sepsis in the subsequent 48 hours.</p><h3>Design, Setting, and Participants</h3><p>This was a multisite registry for model derivation and validation using electronic health record (EHR) data from January 2016 through February 2020 and temporal validation from January 2021 through December 2022. The performance of machine learning algorithms was compared to predict development of sepsis and septic shock via logistic regression, specifically ridge regression and gradient tree boosting. Five health systems contributing to the Pediatric Emergency Care Applied Research Network were included. Emergency department (ED) visits for children aged 2 months or older to less than 18 years of age excluding patients with ED disposition of death or transfer, trauma diagnosis, or sepsis present during predictive features window. The TRIPOD-AI reporting guideline was followed, and data analysis was conducted from September 2023 to July 2025.</p><h3>Exposures</h3><p>Patient and physiologic characteristics within the first 4 hours of ED care.</p><h3>Main Outcomes and Measures</h3><p>Sepsis, defined as suspected infection with a Phoenix Sepsis Criteria (PSC) score of 2 or more or death within 48 hours of ED arrival.</p><h3>Results</h3><p>The dataset included 1\u202f604\u202f422 eligible visits in the training cohort and 719\u202f298 visits in the test cohort. Performance characteristics for the PSC sepsis prediction models were AUROC of 0.92 (95% CI, 0.92-0.93) for logistic regression and 0.94 (95% CI, 0.93-0.94) for gradient tree boosting. AUROCs for PSC shock models were 0.92 or greater. The gradient tree boosting models had positive likelihood ratios ranging from 4.67 (95% CI, 4.61-4.74) to 6.18 (95% CI, 6.08-6.28) for sepsis and from 4.16 (95% CI, 4.07-4.24) to 5.83 (95% CI, 5.67-5.99) for septic shock. Predictive features included emergency severity index, age-adjusted vital signs, and medical complexity. Assessment of model performance fairness was similar for all demographic characteristics except payor; AUROC for patients with Medicaid insurance was better than for those with commercial payers.</p><h3>Conclusions and Relevance</h3><p>Using a large multicenter population, models were developed and validated with high AUROC to predict the future development of sepsis based on EHR data collected in the ED. The models achieved positive likelihood ratios to predict sepsis and septic shock. The results highlight the opportunity for future studies that combine EHR-based models with clinical judgment to improve prediction.</p>",
+            "date_published": "2025-10-13T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Elizabeth R. Alpern, MD, MSCE"
+                }
+            ],
+            "tags": [
+                "child",
+                "machine learning",
+                "pediatric discipline",
+                "sepsis",
+                "trees (plant)"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2840033/jamapediatrics_alpern_2025_oi_250055_1759774351.40926.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi250055f1_1759774351.59585.png?Expires=2147483647&Signature=cV-NAds2hQ-HnmYrTLS6F0wZSv8v~NJ2ldGW3MCI7T6BivFs1w7Cvpg5WAtVwASJLKDupE-LcxDdbkhqrcQBBYr7X10thSe9cvN9U2h2pXNV64~brbHGPADyHhFsXwekzRZnyp6Rq8qKonR~XuE3-TrRpcjwf81sTvA2WMxVnTsTVZN70SKtD4XbkeONkG~4-bI6zKZb0v4YPvgBtExA97T~6acGCe~zzjEpKTP0aS11ZISj~Bitp9Tid0Ss2mcQnwiT58HbDQ8puRLnUesZI4mAXeHf3olkKge2w1DLymkE09DI98zMcYzfXpNVKMLKGW8~KhgXZFBzxa3WaXkewA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
+            "title": "What Will Next Year Bring for AI in Health?",
+            "summary": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
+            "content_text": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
+            "date_published": "2025-10-09T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Roy Perlis, MD, MSc"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "investments",
+                "mesenchymal stem cells"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839717/jama_perlis_2025_en_250012_1759242163.88935.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250012fa_1759242164.01636.png?Expires=2147483647&Signature=e0XLeQV4uq6Q7Zld1eJY1JsaQS887y28mRNoiJ3JqMsaAGiJpiNjpA8evIGodaAWrZnlwzcjzItxR~QCpK7B~WJaTU6HWhioOHyG9SR04fbRE2pMbpyBolwxLBWbvwFZS0fs2ARjS~b0suNFzwtz-KMrdxavk9qpRiGzEbxlYE6wFRNF~S4xwJydTRs-J04x5AEJ9d2Nd7dDiGfvSsofKcEmqFAAxKzXvSRFG7nl5Kfm3VSPnUuGM5wW4qHHPWSynv7jGTkpH2wEsY82VWTJsFnfIyMHcZiLqngNc4SM9XJZsOW3JQ0KCT7V0vFjMIos0pk0cOiFNwabUxIjugTjPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
+            "title": "What Will Next Year Bring for AI in Health?",
+            "summary": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
+            "content_text": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
+            "date_published": "2025-10-09T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Roy Perlis, MD, MSc"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "investments",
+                "mesenchymal stem cells"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839717/jama_perlis_2025_en_250012_1759242163.88935.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250012fa_1759242164.01636.png?Expires=2147483647&Signature=e0XLeQV4uq6Q7Zld1eJY1JsaQS887y28mRNoiJ3JqMsaAGiJpiNjpA8evIGodaAWrZnlwzcjzItxR~QCpK7B~WJaTU6HWhioOHyG9SR04fbRE2pMbpyBolwxLBWbvwFZS0fs2ARjS~b0suNFzwtz-KMrdxavk9qpRiGzEbxlYE6wFRNF~S4xwJydTRs-J04x5AEJ9d2Nd7dDiGfvSsofKcEmqFAAxKzXvSRFG7nl5Kfm3VSPnUuGM5wW4qHHPWSynv7jGTkpH2wEsY82VWTJsFnfIyMHcZiLqngNc4SM9XJZsOW3JQ0KCT7V0vFjMIos0pk0cOiFNwabUxIjugTjPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839763",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839763",
+            "title": "A Hybrid Chatbot to Promote Pneumococcal Vaccination Among Older Adults: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial compares the relative efficacy of a hybrid chatbot delivering tailored interventions and providing real-time answers with a chatbot delivering the standard intervention to increase pneumococcal vaccination uptake among adults 65 years of age or older.",
+            "content_html": "<h3>Importance</h3><p>There are few robust evaluations assessing the efficacy of chatbots to improve pneumococcal vaccination (PV) uptake among adults 65 years of age or older.</p><h3>Objective</h3><p>To evaluate the relative efficacy of a hybrid chatbot in increasing PV uptake among Hong Kong residents aged 65 years or older.</p><h3>Design, Setting, and Participants</h3><p>This partially masked, parallel-group randomized clinical trial was conducted between May 1, 2023, and November 30, 2024 in Hong Kong, China. Participants were aged 65 years or older, had a Hong Kong identity card, could speak and comprehend Cantonese, were smartphone and WhatsApp users, and had no prior PV uptake. Participants were recruited through random telephone calls and were randomized to either the stage of change group or the standard intervention group.</p><h3>Interventions</h3><p>In the stage of change group, the rule-based component of the hybrid chatbot assessed participants\u2019 stage of change regarding PV uptake and then delivered stage of change\u2013tailored interventions at months 0, 1, 2, and 3. The natural language processing component of the hybrid chatbot provided real-time answers to participants\u2019 PV-related questions. In the standard intervention group, the chatbot sent participants a link to access a standard online video covering PV information at months 0, 1, 2, and 3.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was self-reported PV uptake at month 12, which was validated by the research team. The secondary outcome was participants\u2019 stage of change measured at month 0 and month 12 by using validated questions, with a score of 1\u2009=\u2009precontemplation, 2\u2009=\u2009contemplation, 3\u2009=\u2009preparation, and 4\u2009=\u2009action.</p><h3>Results</h3><p>A total of 374 participants (213 female [57.0%]; mean [SD] age, 69.6 [3.1] years) were randomized to either the stage of change group (n\u2009=\u2009187) or the standard intervention group (n\u2009=\u2009187). The intention-to-treat analysis showed that the validated PV uptake rate was higher in the stage of change group than in the standard intervention group (29.4% vs 18.7%;<i>P</i>\u2009=\u2009.01). The mean (SD) stage of change score was higher in the stage of change group than in the standard intervention group (2.2 [1.3] vs 1.9 [1.1];<i>P</i>\u2009=\u2009.02). More participants in the stage of change group than in the standard intervention group completed at least 1 intervention session (79.7% vs 57.8%;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the hybrid chatbot was more efficacious than the standard intervention in increasing PV uptake among older adults in Hong Kong. A hybrid chatbot may be a sustainable PV promotion for older adults.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05772117</p>",
+            "date_published": "2025-10-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Zixin Wang, PhD"
+                }
+            ],
+            "tags": [
+                "chatbots",
+                "elderly",
+                "hong kong",
+                "internship and residency",
+                "medical residencies",
+                "natural language processing",
+                "pneumococcal vaccine"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839763/wang_2025_oi_251002_1759324739.35313.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251002f1_1759324739.55498.png?Expires=2147483647&Signature=yAynSbC~~3Js-CwV~M7Wdy-lQa5VBTW-rULDWd6CBl~2WI5p~qVOqjlDqMMJtRj-v0-Ka-ZMLDrj-Sk31J91eI21bIGEDVoCTzUAh8At-GzQM~XoA43G4X4hPc~knDFeGOxK3djYR5H~PGoHJempmQnOosqpee~RVZlMROzAKBH271lRZAjVLkjLjniZr-F3j2L0KxtZAgpNjzd2mmz4uBfjiZowy-6ce6bDME~bDjIFQo~k7tXGQ4COyJpxY2-NyiMVXWX6Pr8r9olCMPYiVDLsVLeb-XP2NXBrKuW3yyvt4v9bhCFihmheennrE2vZm5aOpCLyKQv~bOkHC6A~Kg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
+            "title": "AI-Augmented Electron Microscopy for Glomerular Disease Diagnosis",
+            "summary": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
+            "content_text": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
+            "date_published": "2025-10-07T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Wisit Cheungpasitporn, MD"
+                }
+            ],
+            "tags": [
+                "nephrology speciality",
+                "renal glomerular disease"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839747/cheungpasitporn_2025_ic_250245_1759258684.10434.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2839356",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2839356",
             "title": "Artificial Intelligence Across the JAMA Network: A Call for Submissions",
@@ -49,6 +509,512 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
+            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
+            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
+            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
+            "date_published": "2025-09-24T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Sangwon Baek, BA"
+                }
+            ],
+            "tags": [
+                "gastroenterology (field)",
+                "hepatology (field)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
+            "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
+            "summary": "This prognostic study characterizes the incidence of chronic kidney disease after cisplatin treatment and evaluates prediction models.",
+            "content_html": "<h3>Importance</h3><p>Cisplatin is a widely used treatment for cancer that can permanently damage the kidneys. Treatment modifications and other strategies may prevent chronic kidney disease (CKD) in patients at risk; however, the incidence and predictability of CKD following cisplatin treatment remain poorly understood.</p><h3>Objective</h3><p>To characterize the incidence of CKD after cisplatin treatment and evaluate prediction models.</p><h3>Design, Setting, and Participants</h3><p>In this population-based prognostic study, prediction models were developed based on a retrospective cohort study of patients who received cisplatin chemotherapy for nonhematologic cancer in an outpatient setting between July 1, 2014, and June 30, 2017. Models were tested on a temporal-test cohort of patients from Ontario, Canada, who started treatment between July 1, 2017, and June 30, 2020, and an external-test cohort of patients from a single center in the United States. Data were analyzed from May 1, 2021 to May 7, 2025.</p><h3>Exposures</h3><p>Predictive features included demographics, cancer diagnosis, cisplatin dose and schedule, comorbidities, laboratory testing, and patient-reported symptoms.</p><h3>Main Outcomes and Measures</h3><p>The outcomes were CKD (estimated glomerular filtration rate [eGFR] &lt;60 mL/min/1.73 m<sup>2</sup>) and the eGFR after cisplatin treatment. Measures included the area under the receiver operating characteristic curve and the mean absolute error (MAE).</p><h3>Results</h3><p>The population-level cohort included 9521 patients (median age, 63 years [IQR, 56-70 years]; 4841 men [50.8%]). Among the 9010 patients without pretreatment CKD, 1228 (13.6%) developed CKD, 81 (0.9%) developed grade 4 or worse CKD, and 16 (0.18%) required dialysis. The eGFR decreased by a mean of 8.1 mL/min/1.73 m<sup>2</sup>(95% CI, 7.8-8.4 mL/min/1.73 m<sup>2</sup>). A simple spline-based regression model based solely on the pretreatment eGFR predicted posttreatment CKD in the temporal-test cohort (area under the curve, 0.80 [95% CI, 0.78-0.82]) and the external-test cohort (area under the curve, 0.73 [95% CI, 0.66-0.78]). Similarly, the posttreatment eGFR was predicted by a spline regression based solely on the pretreatment eGFR (temporal-test MAE, 12.6 mL/min/1.73 m<sup>2</sup>[95% CI, 12.3-13.0 mL/min/1.73 m<sup>2</sup>]; external-test MAE, 14.3 mL/min/1.73 m<sup>2</sup>[95% CI, 13.2-15.5 mL/min/1.73 m<sup>2</sup>]). Complex machine learning systems incorporating all features failed to improve predictions over the univariable models.</p><h3>Conclusions and Relevance</h3><p>This study found that cisplatin treatment was followed by a predictable decrease in the eGFR, placing patients with a lower baseline eGFR at the highest risk of CKD. A simple model based on the pretreatment eGFR predicts CKD risk and could guide clinical decision-making.</p>",
+            "date_published": "2025-08-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Robert C. Grant, MD, PhD"
+                }
+            ],
+            "tags": [
+                "chronic",
+                "cisplatin",
+                "kidney failure",
+                "machine learning"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2837871/jamaoncology_grant_2025_oi_250044_1759848038.68193.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/939713/coi250044t1_1759848038.8988.png?Expires=2147483647&Signature=oYFMgmDiKcpQhtGI7~WbfiQCA6ARd9AHlgKGbJnTYKijaNeAWYfw94UP-zEvhJS~KXA87P7vMx1hCEAGfaAxkgEgkFUsDQYIk-bVavr~Hk7fkiSA0FIsmJ3ZP6AR5beypkE56PPZX9fgJXh-4ktukg6DfwQqp7sEkpd2P9BhXU45G6qV1foUVDV5itR5RmftTcxRBkkc4g3lCYvg8QASZXpOlBdV-tQOKK3b6~YdLBXwIGxSJ50q8YfboSkroxaH1taKyv37F9rteh5bj0S4GZEcYonKO79f7kzr1ZqYAH3OJoIZFOdd~kSBydOHxx1AXldsuLVWbLlqPDcFwX9YsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
+            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
+            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
+            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
+            "date_published": "2025-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Arunashis Sau, PhD"
+                }
+            ],
+            "tags": [
+                "aire gene",
+                "artificial intelligence",
+                "complete atrioventricular block",
+                "deep learning",
+                "electrocardiogram",
+                "heart block"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
+            "title": "Understanding Model Drift and Its Impact on Health Care Policy",
+            "summary": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "content_text": "With the recent rise of artificial intelligence (AI), clinical prediction models have become increasingly pervasive throughout health care. Prediction models can make clinical care and population health more efficient and effective, but only when the models are accurate. Model drift is when the performance of an initially accurate model degrades over time. Currently, model drift often goes unmeasured, and its impact is underappreciated. 1 Developing policies and practices to recognize and correct for model drift will be a key component of an effective infrastructure for clinical prediction models, leading to a key question on what such practices might look like.",
+            "date_published": "2025-08-15T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Andrew Wong, MD, MS"
+                }
+            ],
+            "tags": [
+                "health policy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837524/wong_2025_ic_250007_1757537665.43458.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "title": "Advancing Toward Clinical Deployment of AI-Generated Discharge Summaries\u2014Beyond the Bench",
+            "summary": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "content_text": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "date_published": "2025-08-13T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Charumathi Raghu Subramanian, MD"
+                }
+            ],
+            "tags": [
+                "human placental lactogen",
+                "informatics (discipline)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837488/raghu_subramanian_2025_ic_250185_1754331303.51111.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
+            "title": "A Digital Therapeutic Intervention for Inpatients With Elevated Suicide Risk: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the efficacy of a smartphone-based educational intervention in reducing suicidal behavior after discharge of patients hospitalized for a suicide attempt or suicidal ideation.",
+            "content_html": "<h3>Importance</h3><p>Suicide is a leading cause of death in the US. Suicide-specific cognitive behavior therapy (CBT) is effective for reducing suicide attempts but is difficult to implement.</p><h3>Objective</h3><p>To evaluate the efficacy of a smartphone-based digital therapeutic intervention designed to deliver suicide-focused CBT in reducing suicidal behavior among patients hospitalized for a suicide attempt or suicidal ideation.</p><h3>Design, Setting, and Participants</h3><p>This multisite, double-blind, randomized clinical trial was conducted in 6 psychiatric inpatient units across the US. Adult patients admitted with elevated suicide risk from April 2022 to April 2024 were included. Participants completed a baseline assessment and were randomly assigned to either the digital therapeutic group or control application group. The trial was stopped early by the Data Management Safety Board because it surpassed the prespecified futility boundary for the primary end point. Statistical analysis followed the intention-to-treat principle.</p><h3>Interventions</h3><p>The digital therapeutic intervention includes 12 sessions of smartphone-based educational modules (lasting 10-15 minutes each) drawn from CBT for suicide prevention. The active control is a 12-session smartphone-based application that delivers safety planning and psychoeducation about suicide. For both interventions, the first session was completed prior to hospital discharge and the remaining self-paced sessions could be completed after discharge. All participants also received treatment as usual, which included suicide risk assessment, supportive listening, crisis resources, clinician assessment, safety planning, and referral to outpatient treatment.</p><h3>Main Outcomes and Measures</h3><p>The primary end point was time (days) to first actual suicide attempt during follow-up. The secondary end points were change in suicidal ideation from baseline to week 24 (quantified as a change in the Scale for Suicide Ideation total score) and clinician-rated clinical improvement at week 24. The nonprespecified sensitivity analysis end point for suicide attempts was the rate of suicide attempts (actual, aborted, and interrupted). Prespecified subgroup analyses were also conducted to examine treatment effects among patients with vs without prior suicide attempts.</p><h3>Results</h3><p>A total of 339 participants (mean [SD] age, 27.9 [10.7] years; 224 females [66.1%]) were included. Follow-up data were available from 266 participants (78.5%). Time to first actual suicide attempt, the primary end point, was not significantly different across treatment groups (log-rank \u03c7<sup>2</sup><sub>1</sub>\u2009=\u20093.6;<i>P</i>\u2009=\u2009.06). Among the 170 participants with prior suicide attempts, nonprespecified sensitivity analyses indicated that the adjusted rate of follow-up suicide attempts was 58.3% lower in the digital therapeutic group than the control application group (0.70 vs 1.68 attempts per person-year; rate ratio [RR], 0.42 [95% CI, 0.18-0.95];<i>P</i>\u2009=\u2009.04), and the odds of clinical improvement were higher in the digital therapeutic group than the control application group (97.9% vs 87.5%; odds ratio, 7.59; 95% CI, 1.14-153.62;<i>P</i>\u2009=\u2009.04). Trajectories of suicidal ideation significantly differed between the digital therapeutic and control application groups (<i>F</i><sub>3,206</sub>\u2009=\u20092.9,<i>P</i>\u2009=\u2009.04), with decreased suicidal ideation through week 24 in the digital therapeutic group, but in the control application group, suicidal ideation decreased through week 12 and then increased at week 24. Nonprespecified dose-response analyses indicated the suicide attempt rate among patients with a prior suicide attempt decreased by 14.0% for every digital therapeutic module completed (adjusted RR, 0.86; 95% CI, 0.76-0.98;<i>P</i>\u2009=\u2009.02).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the digital therapeutic intervention did not change the time to first actual suicide attempt but helped to sustain reductions in suicidal ideation among inpatients with elevated suicide risk. However, among patients with prior suicide attempts, the digital therapeutic intervention helped reduce recurrent suicide attempts and increased the percentage of inpatients with clinician-rated clinical improvement.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05144685</p>",
+            "date_published": "2025-08-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Craig J. Bryan, PsyD, ABPP"
+                }
+            ],
+            "tags": [
+                "cellular phone",
+                "cognitive therapy",
+                "feeling suicidal",
+                "group psychotherapy",
+                "posttreatment followup",
+                "psychiatry specialty",
+                "suicidal behavior",
+                "suicide",
+                "suicide attempt",
+                "suicide risk assessment",
+                "surrogate endpoints",
+                "therapeutic intervention"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837367/bryan_2025_oi_250730_1753980323.56512.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250730f1_1753980323.8456.png?Expires=2147483647&Signature=oUz~VyfII21~JYJTFq31fzdVCv7kA-MK2KY--XL~4rVe4g5Ot66~Za8uMM-1k~ahXS7ViTNAiAd2sjdxLVOhOzinidZrF27z5yGFa4aWCy0muleJn0-c7-q-R69hJPPf0QyVgU5p42w8grqpvifh~V7ffUbdNYYaCzRuY8tELlB-X5YsiLkLUp5cTNTqN~sD5GkFLS3KsYhqe-ovYnM3KXSK5zWNT8XjVi7M65ok0FgXJG1H~Wnndt3O0OK-6uAcJpurM7kvIJzdp~Kvp6IOthrKUf~P9Rz71lINaoSA9kEpZ-1BtOnUCQ18zde6WfiMpojgdjri7RtdJzLLsRKWzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
+            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
+            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
+            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
+            "date_published": "2025-08-06T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Bianca Giglio, MSc"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "educational process of instructing",
+                "medical",
+                "operative surgical procedures",
+                "students",
+                "transfer technique",
+                "tutoring"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
+            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "date_published": "2025-08-06T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "R. Chris Jones, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "date_published": "2025-07-31T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                }
+            ],
+            "tags": [
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Ellen Wright Clayton, MD, JD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
+            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
+            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
+            "date_published": "2025-07-11T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Sandro Galea, MD, DrPH"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "health policy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
+            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
+            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
+            "date_published": "2025-07-07T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Anjali D. Deshmukh, MD, JD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "biological products",
+                "ethics",
+                "facilitation",
+                "guidelines",
+                "life cycle stages",
+                "united states food and drug administration"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1755882468.77106.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
+            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
+            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
+            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
+            "date_published": "2025-06-26T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Anam Akhlaq, MBBS"
+                }
+            ],
+            "tags": [
+                "generative artificial intelligence"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1754685078.01969.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Robert N. Weinreb, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
+            "title": "Computer Vision in Clinical Neurology: A Review",
+            "summary": "This narrative review outlines recent advances and challenges in technologies arising from computer vision, a branch of artificial intelligence (AI), which has the potential to improve clinical neurological care by providing objective measures of neurological signs.",
+            "content_html": "<h3>Importance</h3><p>Neurological examinations traditionally rely on visual analysis of physical clinical signs, such as tremor, ataxia, or nystagmus. Contemporary score-based assessments aim to standardize and quantify these observations, but these tools suffer from clinimetric limitations and often fail to capture subtle yet important aspects of human movement. This poses a significant roadblock to more precise and personalized neurological care, which increasingly focuses on early stages of disease. Computer vision, a branch of artificial intelligence, has the potential to address these challenges by providing objective measures of neurological signs based solely on video footage.</p><h3>Observations</h3><p>Recent studies highlight the potential of computer vision to measure disease severity, discover novel biomarkers, and characterize therapeutic outcomes in neurology with high accuracy and granularity. Computer vision may enable sensitive detection of subtle movement patterns that escape the human eye, aligning with an emerging research focus on early disease stages. However, challenges in accessibility, ethics, and validation need to be addressed for widespread adoption. In particular, improvements in clinical usability and algorithmic robustness are key priorities for future developments.</p><h3>Conclusions and Relevance</h3><p>Computer vision technologies have the potential to revolutionize neurological practice by providing objective, quantitative measures of neurological signs. These tools could enhance diagnostic accuracy, improve treatment monitoring, and democratize specialized neurological care. Clinicians should be aware of these emerging technologies and their potential to complement traditional assessment methods. However, further research focusing on clinical validation, ethical considerations, and practical implementation is necessary to fully realize the potential of computer vision in clinical neurology.</p>",
+            "date_published": "2025-02-17T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Maximilian U. Friedrich, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "computer vision systems",
+                "neurologic examination",
+                "neurology speciality",
+                "technology"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamaneurology/articlepdf/2830246/jamaneurology_friedrich_2025_rv_240008_1743609732.97877.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/neur/939587/nrv240008f1_1743609733.10377.png?Expires=2147483647&Signature=V8AXERauUkrXfdzr08DvJBSi22wUrx8XABGZOL83pNe1pKdXiHGQ31D~HeEPVcA~n1o-Oe-04~uM5RzDIqdoCfuaSazJUrHFuPjOOrHTUu~agpSKYLlL4I5bsj6FFOMJ~IvtjjYj2lfXzceRph1Z7bVDruxCThSt4zpx-62EKGKyKoKDUZmoxX6gKvdIvGZbYUoXfyovQvzgOjfxAInO9S2dN~bfIdaJEUdx-BXRYdihzo7qMu8qTcYi6ZrTX-LqJlsWg9WbGWjo2Tmm2foK8vW2RlM7vzqL9T3~nPs5qra~imw1-3Sd-fHuzIYiORCPSyepTl4rEUIODmtnbR1EGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Tyler J. Loftus, MD, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Anai N. Kothari, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "big data",
+                "health equity"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -740,6 +1706,37 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "title": "Identifying and Addressing Bias in Artificial Intelligence",
@@ -838,6 +1835,89 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2819573",
+            "title": "Interventions to Prevent Falls in Community-Dwelling Older Adults: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls (B recommendation) and that clinicians individualize the decision to offer multifactorial interventions to prevent falls in this population (C recommendation).",
+            "content_html": "<h3>Importance</h3><p>Falls are the leading cause of injury-related morbidity and mortality among older adults in the US. In 2018, 27.5% of community-dwelling adults 65 years or older reported at least 1 fall in the past year and 10.2% reported a fall-related injury. In 2021, an estimated 38\u202f742 deaths resulted from fall-related injuries.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the effectiveness and harms of primary care\u2013relevant interventions to prevent falls and fall-related morbidity and mortality in community-dwelling adults 65 years or older.</p><h3>Population</h3><p>Community-dwelling adults 65 years or older at increased risk of falls.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that exercise interventions provide a moderate net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls. The USPSTF concludes with moderate certainty that multifactorial interventions provide a small net benefit in preventing falls and fall-related morbidity in older adults at increased risk for falls.</p><h3>Recommendation</h3><p>The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. (B recommendation) The USPSTF recommends that clinicians individualize the decision to offer multifactorial interventions to prevent falls to community-dwelling adults 65 years or older who are at increased risk for falls. Existing evidence indicates that the overall net benefit of routinely offering multifactorial interventions to prevent falls is small. When determining whether this service is appropriate for an individual, patients and clinicians should consider the balance of benefits and harms based on the circumstances of prior falls, presence of comorbid medical conditions, and the patient\u2019s values and preferences. (C recommendation)</p>",
+            "date_published": "2024-06-04T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "elderly",
+                "exercise",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2819573/jama_nicholson_2024_us_240006_1718902286.60853.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939398/jus240006fa_1718902286.76353.png?Expires=2147483647&Signature=uTh9q~3TW3gEZ4Z6G0WDjAe44CxT3XqJJ8QY2sJnWgjq79fzqkKawl8i1Y4j8K2GSwRo9FSeNgxbC3NbOeBz-rsmJWVEZ4lXfFlHGgfaCedJVV5rlYC6QZjLtM6HX4Em37kC8N9B5-9e2Y4B11SMvbLvm6b2NYssGOBcRJLW6zVBZ0R5e4rB4YrtXCFlQzW2oxgVlc2bmZmFbdUsDn5L1oUZRXIxV6mUMdFl7FYE~SXSjLw~vlaB~xBkZR8ZMeyIMgMudw3b57u2B4Irm1EvH8N5Re38OgpwdIhPvyi84ILmPDR0hy-OjKsWUyMHxOlCUOCN7zwENBpNXJlRl1tBEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
+            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
+            "date_published": "2024-04-30T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "breast neoplasm screening",
+                "magnetic resonance imaging",
+                "malignant neoplasm of breast",
+                "mammography",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
             "title": "Harnessing Artificial Intelligence to Address Oral Health Disparities",
@@ -914,6 +1994,33 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
             "title": "Enhancing Health Care Communication With Large Language Models\u2014The Role, Challenges, and Future Directions",
@@ -936,6 +2043,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
