@@ -4,6 +4,169 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840791",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840791",
+            "title": "Brief Digital Interventions for Psychological Distress: An AI-Enhanced Response-Adaptive Randomized Clinical",
+            "summary": "This randomized clinical trial compares the effectiveness of 3 brief smartphone app\u2013based interventions (physical activity, mindfulness, and sleep hygiene) or an active control (ecological momentary assessment) for reducing mild, moderate, and severe psychological distress among college students.",
+            "content_html": "<h3>Importance</h3><p>A large proportion of college students report experiencing psychological distress. Smartphone app\u2013based interventions may alleviate distress, but their effectiveness across severity levels is unclear. Artificial intelligence (AI)\u2013enhanced response-adaptive randomized clinical trials may offer an efficient method to evaluate competing interventions.</p><h3>Objective</h3><p>To compare the effectiveness of 3 brief, 2-week self-guided smartphone application\u2013based interventions (physical activity, mindfulness, sleep hygiene) or an active control (ecological momentary assessment [EMA]) for reducing psychological distress among college students with mild, moderate, or severe distress.</p><h3>Design, Setting, and Participants</h3><p>This population-based AI-enhanced response-adaptive randomized clinical trial included 1282 participants with distress scores of 20 or more on the 10-item Kessler Psychological Distress Scale in 12 minitrials from November 9, 2021, with final follow-up on February 17, 2023. Participants\u2019 distress was categorized as mild, moderate, or severe based on their normalized 21-item Depression Anxiety Stress Scale (DASS-21) scores at screening.</p><h3>Interventions</h3><p>After a 2-week onboarding period of daily EMA, participants were assigned by a contextual multi-armed bandit algorithm to 1 of 4 two-week self-guided app interventions: physical activity, mindfulness, sleep hygiene, or a control that continued EMA.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was change in psychological distress (DASS-21 total score) from week 2 (before intervention) to week 4 (after intervention). The primary end point was after the intervention (4 weeks). Secondary outcomes included DASS-21 subscale scores, self-reported physical activity, mindfulness, sleep quality, and app engagement, usability, and satisfaction. Analysis was performed on an intention-to-treat basis.</p><h3>Results</h3><p>A total of 1282 individuals (mean [SD] age, 23.5 [5.2] years; 950 women [74.1%]) participated: physical activity (n\u2009=\u2009305), mindfulness (n\u2009=\u2009453), sleep hygiene (n\u2009=\u2009431), or a control that continued EMA (n\u2009=\u200993). Among 349 participants with severe distress, physical activity (n\u2009=\u200979) and mindfulness (n\u2009=\u2009180) were significantly more effective than the EMA control (n\u2009=\u200929) in reducing DASS-21 total scores (physical activity vs control: standardized mean difference [SMD], 0.62 [95% CI, 0.23-1.02]; mindfulness vs control: SMD, 0.53 [95% CI, 0.19-0.87]) and sleep hygiene (n\u2009=\u200961) (physical activity vs sleep hygiene: SMD, 0.50 [95% CI, 0.16-0.84]; mindfulness vs sleep hygiene: SMD, 0.41 [95% CI, 0.13-0.69]). Among 494 participants with mild distress, physical activity (n\u2009=\u2009161) and sleep hygiene (n\u2009=\u2009224) were significantly more effective than control (n\u2009=\u200937) in reducing DASS-21 total scores (physical activity vs control: SMD, 0.58 [95% CI, 0.30-0.86]; sleep hygiene vs control: SMD, 0.47 [95% CI, 0.20-0.73]). No significant group differences were observed among participants with moderate distress (n\u2009=\u2009439).</p><h3>Conclusions and Relevance</h3><p>In this AI-enhanced response-adaptive randomized clinical trial among college students, physical activity and mindfulness were most effective for severe distress, while physical activity and sleep hygiene were most effective for mild distress. These findings can guide personalized mental health interventions for college students. This trial improved efficiency by minimizing control group allocation but had reduced power to detect significant group differences.</p><h3>Trial Registration</h3><p>http://anzctr.org.auIdentifier:ACTRN12621001223820</p>",
+            "date_published": "2025-10-31T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Jill Newby, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "college student",
+                "ecological momentary assessment",
+                "mindfulness",
+                "mobile applications",
+                "physical activity",
+                "primary outcome measure",
+                "psychological distress",
+                "sleep hygiene",
+                "stress"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840791/newby_2025_oi_251112_1761324844.41019.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251112t1_1761324844.75129.png?Expires=2147483647&Signature=VS1aORBaM2ptSB8ZvJXpeqO~ZniULL6BZDMNv71jxUrgS3oERNcDJgMS-FkQjzxiQW4nkacEJ8FWIhOa11UEJC7Bane61JFjIU~sWAE2TSyz~SY9dAYFvIk4~R1txm0XNT-~FVTy4i~0oqOnTl5JejhIQfu41DZ95tJgY0NREFr5h7iabU60Ix9zlz2g6bmTVWqyfi6UIA27Q2TyH7mwSV41efzoQMucqgcs6-uYxIz24SwHEcPpTwqqWbBbIsbnAJcDYCieDBpDQHu9QjQ2iUrXEDaSGBtkBR6KyGmARNO3ixocy9zaxUeS2eo44rLvw3RE8YtdwI-9gWlYbdWuFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840621",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840621",
+            "title": "Prediction of Cardiopulmonary Resuscitation Outcomes for Arrest in Surgical Settings",
+            "summary": "This prognostic study generates and internally validates predictive models for 30-day mortality and nonhome discharge using routinely available preoperative data.",
+            "content_html": "<h3>Importance</h3><p>Perioperative cardiac arrest and cardiopulmonary resuscitation (CPR) are associated with significant morbidity and mortality. Despite a growing focus on goal-concordant surgical care and longstanding emphasis on preoperative code status discussions, clinicians lack tools to individualize risk estimates and inform shared decision-making (SDM) regarding perioperative CPR.</p><h3>Objective</h3><p>To generate and internally validate predictive models for 30-day mortality and nonhome discharge using routinely available preoperative data.</p><h3>Design, Setting, and Participants</h3><p>A prospective, multicenter, prognostic study of patients within the American College of Surgeons (ACS)-National Surgical Quality Improvement Program (NSQIP), including nearly 700 participating hospitals in the US, from January 1, 2012, through December 31, 2023. Follow-up duration was 30 days. Seven machine learning models were developed using 10-fold cross validation. Participants were patients aged 18 years or older undergoing noncardiac surgery who underwent CPR on the day of surgery.</p><h3>Exposures</h3><p>Thirty-three preoperative sociodemographic, clinical, laboratory, and procedural variables were evaluated for their association with 30-day mortality and nonhome discharge.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was 30-day mortality following CPR. The secondary outcome was nonhome discharge among survivors admitted from home. Performance was evaluated using area under the receiver operating characteristic curve (AUROC), accuracy, sensitivity, specificity, positive predictive value, negative predictive value, and calibration (Brier score and calibration curves). Clinical utility was evaluated using Shapley additive values (SHAP) decision curve analysis (DCA).</p><h3>Results</h3><p>Among 6405 patients (median [IQR] age 69 [60-78], 3572 [55.8%] men, 860 [13.4%] Black, 4343 [67.8%] White, and 261 [4.1%] another racial category, including American Indian or Alaska Native, Asian, and Native Hawaiian or Other Pacific Islander), 3710 (57.9%) died within 30 days. The extreme gradient boosting model (CPR Outcome Prediction for Arrest in Surgical Settings [COMPASS]) achieved the best performance (AUROC for mortality\u2009=\u20090.80; 95 % CI, 0.78-0.82; accuracy\u2009=\u20090.73; 95% CI, 0.71-0.75; sensitivity\u2009=\u20090.77; 95% CI, 0.74-0.79; specificity\u2009=\u20090.68; 95% CI, 0.65-0.71; Brier score\u2009=\u20090.18). Among 2478 survivors admitted from home, 822 (33.2%) were discharged to a facility. For nonhome discharge, extreme gradient boosting demonstrated an AUROC of 0.78 (95 % CI, 0.74-0.82), accuracy of 0.76; and Brier score of 0.17. SHAP analysis identified American Society of Anesthesiologists status, case urgency, and frailty as key predictors. DCA indicated greater net benefit of extreme gradient boosting over default strategies (ie, treat all or treat none) across wide threshold ranges.</p><h3>Conclusions and Relevance</h3><p>In this prospective prognostic study of outcomes following perioperative CPR, extreme gradient boosting generated individualized predictions of outcomes following perioperative CPR that may inform prevention strategies and goal-concordant surgical care.</p>",
+            "date_published": "2025-10-28T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Lucy Chen, MD, PhD"
+                }
+            ],
+            "tags": [
+                "calibration",
+                "cardiopulmonary resuscitation",
+                "frailty",
+                "machine learning",
+                "operative surgical procedures",
+                "perioperative cardiac arrest",
+                "perioperative care",
+                "preoperative care"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840621/chen_2025_oi_251095_1761061296.2962.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251095t1_1761061296.48807.png?Expires=2147483647&Signature=t2rDtas34Ymwd~KpTm7iK2ECFtIzov589m2yejfCQ1NLPIAy5qBaZDG8dJLDJGwhz1IUzJ7SSvJqdLWglmXGms4h662PPbSzgpKV8YwZJ8liNgkwBHBRXjnIwNaK15efF8uQbwXvVI6jXK5Hbwarqn0xROv-54gxMzdORSd8iks6unLoDZ-vrpQB2A3zcZTb5G8DQmodHlOixBgiwgFMAeocAPS5Zv~1bwhKSHvZsXaycgvuKlC9zknXQSllgXAbIdvC08IHZHX7gy4fWBMQy4fVfxEaWpn2iESYvtvr7lbRJgztcr8iqa5qUt4CX1ucZS~FZzSwTM4LBwjro-MU~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840704",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840704",
+            "title": "Artificial Intelligence and Diabetes Prevention",
+            "summary": "As of 2021, an estimated 38.4 million people in the US had diabetes, and 97.6 million with prediabetes were at increased risk of diabetes. 1 Approximately 70% of people with prediabetes develop diabetes over their lifetime. 2 , 3 Furthermore, there is evidence that people with prediabetes have increased risk of the microvascular and macrovascular complications of diabetes, even if they do not meet diagnostic criteria for diabetes. 4 , 5 Hence, the American Diabetes Association supports screening, diagnosis, and intervention for people with prediabetes. 6 These recommendations are the direct result of findings from landmark trials such as the US Diabetes Prevention Program (DPP) that enrolled participants with prediabetes and tested strategies to prevent or delay the progression to overt diabetes. Major findings included reduction of onset of type 2 diabetes by 58% with lifestyle modification and 31% with metformin compared with placebo during the 3-year DPP randomized trial, and durability of the initial interventions to prevent or delay diabetes for more than 20 years after randomization in the extension DPP Observational Study, as well as cost-effectiveness of intensive lifestyle modification and health care cost savings from metformin. 7",
+            "content_text": "As of 2021, an estimated 38.4 million people in the US had diabetes, and 97.6 million with prediabetes were at increased risk of diabetes. 1 Approximately 70% of people with prediabetes develop diabetes over their lifetime. 2 , 3 Furthermore, there is evidence that people with prediabetes have increased risk of the microvascular and macrovascular complications of diabetes, even if they do not meet diagnostic criteria for diabetes. 4 , 5 Hence, the American Diabetes Association supports screening, diagnosis, and intervention for people with prediabetes. 6 These recommendations are the direct result of findings from landmark trials such as the US Diabetes Prevention Program (DPP) that enrolled participants with prediabetes and tested strategies to prevent or delay the progression to overt diabetes. Major findings included reduction of onset of type 2 diabetes by 58% with lifestyle modification and 31% with metformin compared with placebo during the 3-year DPP randomized trial, and durability of the initial interventions to prevent or delay diabetes for more than 20 years after randomization in the extension DPP Observational Study, as well as cost-effectiveness of intensive lifestyle modification and health care cost savings from metformin. 7",
+            "date_published": "2025-10-27T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Leigh Perreault, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "diabetes prevention"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840704/jama_perreault_2025_ed_250074_1761169535.18406.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840575",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840575",
+            "title": "The Need for Oversight Over Apps for Substance Use Reduction",
+            "summary": "This Viewpoint describes the substance use reduction app marketplace, highlights concerns related to integration of generative artificial intelligence into such apps, and suggests how oversight can be strengthened to protect public health.",
+            "content_text": "This Viewpoint describes the substance use reduction app marketplace, highlights concerns related to integration of generative artificial intelligence into such apps, and suggests how oversight can be strengthened to protect public health.",
+            "date_published": "2025-10-27T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Alex M. Russell, PhD"
+                }
+            ],
+            "tags": [
+                "generative artificial intelligence",
+                "mobile applications",
+                "substance use disorders"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840575/jama_russell_2025_vp_250131_1761000470.59904.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840524",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840524",
+            "title": "Syndromic Analysis of Sepsis Cohorts Using Large Language Models",
+            "summary": "This cohort study compares the performance of a large language model against manual medical record review for extracting presenting signs and symptoms data from hospital admission notes and uses these data to examine their associations with different sepsis syndromes and mortality.",
+            "content_html": "<h3>Importance</h3><p>Presenting signs and symptoms affect the care of patients with possible sepsis. However, signs and symptoms are not incorporated into most large observational studies because they are difficult to extract from clinical notes at scale.</p><h3>Objective</h3><p>To assess the use of large language models (LLMs) to extract presenting signs and symptoms from admission notes and characterize their associations with infectious diagnoses, multidrug-resistant infections, and mortality.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study obtained data from 5 Massachusetts hospitals within 1 health care system between June 1, 2015, and August 1, 2022. Participants were hospitalized adult patients with possible infection (determined by blood culture drawn and intravenous antibiotics administered within 24 hours of arrival). An LLM (LLaMA 3 8B; Meta) was used to extract up to 10 presenting signs and symptoms from each patient\u2019s history-and-physical admission notes. LLM-generated labels were validated by blinded review of 303 random admission notes. Data analyses were performed from July 2023 to August 2025.</p><h3>Exposures</h3><p>Thirty most common signs and symptoms were retained as exposures, and unsupervised clustering was used to create syndromes, which were compared with infection sources derived from the<i>International Statistical Classification of Diseases, Tenth Revision, Clinical Modification</i>discharge codes.</p><h3>Main Outcomes and Measures</h3><p>Outcomes included positive cultures for methicillin-resistant<i>Staphylococcus aureus</i>(MRSA), positive cultures for multidrug-resistant gram-negative (MDRGN) organisms, and in-hospital mortality. Multivariable logistic regression was used to adjust for demographics, comorbidities, physiologic markers of severity of illness, and time to antibiotics.</p><h3>Results</h3><p>Among the 104\u202f248 patients (median [IQR] age, 66 [52-78] years; 54 137 males [51.9%]) included, 23\u202f619 (22.7%) had sepsis without shock, 25\u202f990 (24.9%) had septic shock, and 94\u202f913 (91.0%) had 1 or more admission note within 24 hours. The LLM labeled the notes of 93\u202f674 of 94\u202f913 patients (98.7%). On manual validation, LLM labels had an accuracy of 99.3% (95% CI, 99.2%-99.3%), balanced accuracy of 84.6% (95% CI, 83.5%-85.8%), positive predictive value of 68.4% (95% CI, 66.0%-70.7%), sensitivity of 69.7% (95% CI, 67.3%-72.0%), and specificity of 99.6% (95% CI, 99.6%-99.6%) compared with the physician medical record reviewer. The 30 most common signs and symptoms were clustered into syndromes that correlated with infection sources. Presence of skin and soft tissue symptoms (adjusted odds ratio [AOR], 1.73; 95% CI, 1.49-2.00) and absence of gastrointestinal (AOR, 0.63; 95% CI, 0.54-0.73) or urinary tract symptoms (AOR, 0.34; 95% CI, 0.22-0.50) were associated with MRSA culture positivity; inverse associations were seen for MDRGN organisms. Cardiopulmonary symptoms were associated with increased mortality (AOR, 1.30; 95% CI, 1.17-1.45).</p><h3>Conclusions and Relevance</h3><p>This cohort study found that an LLM accurately extracted presenting signs and symptoms from admission notes that clustered into syndromes differentially correlated with infection sources, multidrug-resistant infections, and mortality. Further research is warranted to evaluate the value of large-scale sign-and-symptom data in models of antibiotic choice, effectiveness, and outcomes in patients with possible sepsis.</p>",
+            "date_published": "2025-10-24T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Theodore R. Pak, MD, PhD"
+                }
+            ],
+            "tags": [
+                "antibiotics",
+                "infection",
+                "large language models",
+                "methicillin resistant staphylococcus aureus (organism)",
+                "sepsis",
+                "signs and symptoms"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840524/pak_2025_oi_251086_1760718018.14066.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251086t1_1760718018.33199.png?Expires=2147483647&Signature=hxhx72VouomXl~BKU0YUsgt~eK~7-opot~3pQ~cwmkwMPf6tsZ1qii8v0MOWNnqKw6Fs0lkopj2Wti9OJqN4X-~HsFHmt8Tfj0oMFZAPS6g9b5TUXcNl76e7FPON2dwLC4SDBPPfUtZONUbNOsD~CmjSoMY58Ria4IBcLNRFOrZwhaxWOFj9dp-wz2CS9hQpCZQoaFoY~SZpV-ykXKf9JkFXbYfWi-CWpgpZhPtZoxW11rX~zERD~fwNVNrrHLcpkA4NzFJ43zg8zv4QepfYfRZtab5YROSav1Z0BIw3BjzDjO7yCS8uGrjhm1566iSR5Q8jFuhxTy~Yfhsin-IgiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
+            "title": "Extracting Symptoms of Sepsis From Admission Notes With LLM\u2014Maybe AI Knows Something That We Do Not",
+            "summary": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
+            "content_text": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
+            "date_published": "2025-10-24T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Jonathan D. Baghdadi, MD, PhD"
+                }
+            ],
+            "tags": [
+                "large language models",
+                "sepsis"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840529/baghdadi_2025_ic_250272_1760718028.85344.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840495",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840495",
             "title": "Characteristics and Safety of Consumer Chatbots for Emergent Adolescent Health Concerns",
@@ -278,52 +441,36 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840200",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840200",
-            "title": "Women\u2019s Health and Artificial Intelligence",
-            "summary": "Innovative approaches and tools are essential to address and narrow the women\u2019s health gap, whereby women spend 25% more of their lives in poor health compared to men. 1 Artificial intelligence (AI), if implemented thoughtfully and equitably, could unlock a more precise understanding of women\u2019s health. This potential is rooted in AI\u2019s ability to uncover patterns in data that may have eluded clinical observation or pathophysiologic understanding to date.",
-            "content_text": "Innovative approaches and tools are essential to address and narrow the women\u2019s health gap, whereby women spend 25% more of their lives in poor health compared to men. 1 Artificial intelligence (AI), if implemented thoughtfully and equitably, could unlock a more precise understanding of women\u2019s health. This potential is rooted in AI\u2019s ability to uncover patterns in data that may have eluded clinical observation or pathophysiologic understanding to date.",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
+            "title": "AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence",
+            "summary": "This Special Communication discusses how health and health care artificial intelligence (AI) should be developed, evaluated, regulated, disseminated, and monitored.",
+            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored.</p><h3>Observations</h3><p>Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration\u2019s regulatory oversight. A major challenge in evaluation is that a tool\u2019s effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes.</p><h3>Conclusions and Relevance</h3><p>AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health.</p>",
             "date_published": "2025-10-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Eve Rittenberg, MD, MA"
+                    "name": "Derek C. Angus, MD, MPH"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "women's health"
+                "clinical diagnostic instrument",
+                "computer software",
+                "delivery of health care",
+                "diabetic retinopathy screening",
+                "diagnostic imaging",
+                "health care systems",
+                "incentives",
+                "life cycle stages",
+                "sepsis"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840200/jamainternal_rittenberg_2025_ed_250009_1760021009.72674.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840175/jama_angus_2025_sc_250012_1759956894.77765.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840199",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840199",
-            "title": "Artificial Intelligence and Clinical Care: JAMA Internal Medicine Call for Papers",
-            "summary": "The field of medicine has entered the era of artificial intelligence (AI; Table ). Increases in computational power, scale and availability of data, and the development of novel machine learning methods have enabled the creation of tools that ultimately may transform medical care and improve health. Each documented patient encounter, laboratory or imaging test result, along with additional data captured from a patient\u2019s mobile device, can be aggregated and analyzed using increasingly complex analytic approaches.",
-            "content_text": "The field of medicine has entered the era of artificial intelligence (AI; Table ). Increases in computational power, scale and availability of data, and the development of novel machine learning methods have enabled the creation of tools that ultimately may transform medical care and improve health. Each documented patient encounter, laboratory or imaging test result, along with additional data captured from a patient\u2019s mobile device, can be aggregated and analyzed using increasingly complex analytic approaches.",
-            "date_published": "2025-10-13T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Cary P. Gross, MD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "internal medicine specialty"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840199/jamainternal_gross_2025_ed_250010_1760021008.63192.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ied250010t1_1760021008.87478.png?Expires=2147483647&Signature=afXyGtn0-pwj92-JwXNEqMNKRK2MivbXWU1OvPu65idoiDXqPiRyvSjtcDMVZxLdwFyJOUtSfZi5rRI7tWmBFRRchLSrPdcbSk2SPJPNMeFAwdq9SJS9kiHnMv7bXfcVln-EGtv08te3U719gueno6c1S~5zi3Ht-uAGgMCvbBpGchrM8X5ZHBC9JwXTsSqhkRFNQW8YokfA0rd-NuC2gGtToWZ813XUa6EChaZbSUn3G06d~F075BV8Dd21QmyJc8e6e2RoHlbYpd8yP4FwGrVjID~QoxFjW5dPuSG7FN~kc9rPP6ZeHgSp49GiwlREXYxJ5ZVRSde1LFjDL8E6WA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc250012t1_1759956895.19173.png?Expires=2147483647&Signature=lfrzpvFPSptOiBUf3eMieOpGL3FBZApRyVPP7tfuh-NAg8IjKk52hnFSbhdVrrNJxOnKc3FnHOq~go4ZUgwEI-W6DwBYLGm7WVdC31Gf-BbcdBdaapBqcAhbSwrIECEd254bw30KUlfjEvATAF4ZyM5C39XEnndgNT4MWjTKG-RBpM1huR1j92Tz1cy6KGRxQLLhTK977Y5HNlBLxSJD3LNcyqjY5mscWVXKdmm~6eZv0wKvpxxox1lo4eHw0Cl8Dnsp83vLa2CUTWVygkpZAY0L4S-9ozoU8KRP1a7WTihvLebLdDxonVD4rMK2UuhN0QrBoo0F70~nAUBHw1iPvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
@@ -358,110 +505,27 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc250012t1_1759956895.19173.png?Expires=2147483647&Signature=lfrzpvFPSptOiBUf3eMieOpGL3FBZApRyVPP7tfuh-NAg8IjKk52hnFSbhdVrrNJxOnKc3FnHOq~go4ZUgwEI-W6DwBYLGm7WVdC31Gf-BbcdBdaapBqcAhbSwrIECEd254bw30KUlfjEvATAF4ZyM5C39XEnndgNT4MWjTKG-RBpM1huR1j92Tz1cy6KGRxQLLhTK977Y5HNlBLxSJD3LNcyqjY5mscWVXKdmm~6eZv0wKvpxxox1lo4eHw0Cl8Dnsp83vLa2CUTWVygkpZAY0L4S-9ozoU8KRP1a7WTihvLebLdDxonVD4rMK2UuhN0QrBoo0F70~nAUBHw1iPvA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2840033",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2840033",
-            "title": "Derivation and Validation of Predictive Models for Early Pediatric Sepsis",
-            "summary": "This cohort study evaluates the use of a machine learning model to estimate the probability of sepsis development within 48 hours among pediatric patients.",
-            "content_html": "<h3>Importance</h3><p>Sepsis is a leading cause of death in children. Early recognition and treatment improve outcomes, but predictive models have not to date improved early diagnosis.</p><h3>Objective</h3><p>To develop machine learning models to estimate the probability of developing sepsis in the subsequent 48 hours.</p><h3>Design, Setting, and Participants</h3><p>This was a multisite registry for model derivation and validation using electronic health record (EHR) data from January 2016 through February 2020 and temporal validation from January 2021 through December 2022. The performance of machine learning algorithms was compared to predict development of sepsis and septic shock via logistic regression, specifically ridge regression and gradient tree boosting. Five health systems contributing to the Pediatric Emergency Care Applied Research Network were included. Emergency department (ED) visits for children aged 2 months or older to less than 18 years of age excluding patients with ED disposition of death or transfer, trauma diagnosis, or sepsis present during predictive features window. The TRIPOD-AI reporting guideline was followed, and data analysis was conducted from September 2023 to July 2025.</p><h3>Exposures</h3><p>Patient and physiologic characteristics within the first 4 hours of ED care.</p><h3>Main Outcomes and Measures</h3><p>Sepsis, defined as suspected infection with a Phoenix Sepsis Criteria (PSC) score of 2 or more or death within 48 hours of ED arrival.</p><h3>Results</h3><p>The dataset included 1\u202f604\u202f422 eligible visits in the training cohort and 719\u202f298 visits in the test cohort. Performance characteristics for the PSC sepsis prediction models were AUROC of 0.92 (95% CI, 0.92-0.93) for logistic regression and 0.94 (95% CI, 0.93-0.94) for gradient tree boosting. AUROCs for PSC shock models were 0.92 or greater. The gradient tree boosting models had positive likelihood ratios ranging from 4.67 (95% CI, 4.61-4.74) to 6.18 (95% CI, 6.08-6.28) for sepsis and from 4.16 (95% CI, 4.07-4.24) to 5.83 (95% CI, 5.67-5.99) for septic shock. Predictive features included emergency severity index, age-adjusted vital signs, and medical complexity. Assessment of model performance fairness was similar for all demographic characteristics except payor; AUROC for patients with Medicaid insurance was better than for those with commercial payers.</p><h3>Conclusions and Relevance</h3><p>Using a large multicenter population, models were developed and validated with high AUROC to predict the future development of sepsis based on EHR data collected in the ED. The models achieved positive likelihood ratios to predict sepsis and septic shock. The results highlight the opportunity for future studies that combine EHR-based models with clinical judgment to improve prediction.</p>",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840192",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840192",
+            "title": "How Physicians Can Prepare for Generative AI",
+            "summary": "This Viewpoint discusses basic skills for using generative artificial intelligence (AI) and how to take an active role implementing AI into patient care.",
+            "content_text": "This Viewpoint discusses basic skills for using generative artificial intelligence (AI) and how to take an active role implementing AI into patient care.",
             "date_published": "2025-10-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Elizabeth R. Alpern, MD, MSCE"
+                    "name": "Daniel J. Morgan, MD, MS"
                 }
             ],
             "tags": [
-                "child",
-                "machine learning",
-                "pediatric discipline",
-                "sepsis",
-                "trees (plant)"
+                "generative artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2840033/jamapediatrics_alpern_2025_oi_250055_1759774351.40926.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840192/jamainternal_morgan_2025_vp_250019_1760020998.27887.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi250055f1_1759774351.59585.png?Expires=2147483647&Signature=cV-NAds2hQ-HnmYrTLS6F0wZSv8v~NJ2ldGW3MCI7T6BivFs1w7Cvpg5WAtVwASJLKDupE-LcxDdbkhqrcQBBYr7X10thSe9cvN9U2h2pXNV64~brbHGPADyHhFsXwekzRZnyp6Rq8qKonR~XuE3-TrRpcjwf81sTvA2WMxVnTsTVZN70SKtD4XbkeONkG~4-bI6zKZb0v4YPvgBtExA97T~6acGCe~zzjEpKTP0aS11ZISj~Bitp9Tid0Ss2mcQnwiT58HbDQ8puRLnUesZI4mAXeHf3olkKge2w1DLymkE09DI98zMcYzfXpNVKMLKGW8~KhgXZFBzxa3WaXkewA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
-            "title": "What Will Next Year Bring for AI in Health?",
-            "summary": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
-            "content_text": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
-            "date_published": "2025-10-09T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "investments",
-                "mesenchymal stem cells"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839717/jama_perlis_2025_en_250012_1759242163.88935.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250012fa_1759242164.01636.png?Expires=2147483647&Signature=e0XLeQV4uq6Q7Zld1eJY1JsaQS887y28mRNoiJ3JqMsaAGiJpiNjpA8evIGodaAWrZnlwzcjzItxR~QCpK7B~WJaTU6HWhioOHyG9SR04fbRE2pMbpyBolwxLBWbvwFZS0fs2ARjS~b0suNFzwtz-KMrdxavk9qpRiGzEbxlYE6wFRNF~S4xwJydTRs-J04x5AEJ9d2Nd7dDiGfvSsofKcEmqFAAxKzXvSRFG7nl5Kfm3VSPnUuGM5wW4qHHPWSynv7jGTkpH2wEsY82VWTJsFnfIyMHcZiLqngNc4SM9XJZsOW3JQ0KCT7V0vFjMIos0pk0cOiFNwabUxIjugTjPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2839717",
-            "title": "What Will Next Year Bring for AI in Health?",
-            "summary": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
-            "content_text": "In this special episode marking 1 year since the launch of JAMA+ AI, the JAMA Network\u2019s channel for all things artificial intelligence (AI) in health, JAMA Associate Editor Yulin Hswen and I reflect on what 2026 might bring. The generative models have thinking and deep research modes and they\u2019re multimodal. The agents have arrived, with new capabilities to apply all sorts of tools\u2014though they still struggle to order groceries. Will 2026 be the year of real-world evidence that AI can actually improve patient care? Will the major challenges in bringing AI to the clinic begin to succumb to a flood of investment?",
-            "date_published": "2025-10-09T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "investments",
-                "mesenchymal stem cells"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2839717/jama_perlis_2025_en_250012_1759242163.88935.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250012fa_1759242164.01636.png?Expires=2147483647&Signature=e0XLeQV4uq6Q7Zld1eJY1JsaQS887y28mRNoiJ3JqMsaAGiJpiNjpA8evIGodaAWrZnlwzcjzItxR~QCpK7B~WJaTU6HWhioOHyG9SR04fbRE2pMbpyBolwxLBWbvwFZS0fs2ARjS~b0suNFzwtz-KMrdxavk9qpRiGzEbxlYE6wFRNF~S4xwJydTRs-J04x5AEJ9d2Nd7dDiGfvSsofKcEmqFAAxKzXvSRFG7nl5Kfm3VSPnUuGM5wW4qHHPWSynv7jGTkpH2wEsY82VWTJsFnfIyMHcZiLqngNc4SM9XJZsOW3JQ0KCT7V0vFjMIos0pk0cOiFNwabUxIjugTjPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839763",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839763",
-            "title": "A Hybrid Chatbot to Promote Pneumococcal Vaccination Among Older Adults: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial compares the relative efficacy of a hybrid chatbot delivering tailored interventions and providing real-time answers with a chatbot delivering the standard intervention to increase pneumococcal vaccination uptake among adults 65 years of age or older.",
-            "content_html": "<h3>Importance</h3><p>There are few robust evaluations assessing the efficacy of chatbots to improve pneumococcal vaccination (PV) uptake among adults 65 years of age or older.</p><h3>Objective</h3><p>To evaluate the relative efficacy of a hybrid chatbot in increasing PV uptake among Hong Kong residents aged 65 years or older.</p><h3>Design, Setting, and Participants</h3><p>This partially masked, parallel-group randomized clinical trial was conducted between May 1, 2023, and November 30, 2024 in Hong Kong, China. Participants were aged 65 years or older, had a Hong Kong identity card, could speak and comprehend Cantonese, were smartphone and WhatsApp users, and had no prior PV uptake. Participants were recruited through random telephone calls and were randomized to either the stage of change group or the standard intervention group.</p><h3>Interventions</h3><p>In the stage of change group, the rule-based component of the hybrid chatbot assessed participants\u2019 stage of change regarding PV uptake and then delivered stage of change\u2013tailored interventions at months 0, 1, 2, and 3. The natural language processing component of the hybrid chatbot provided real-time answers to participants\u2019 PV-related questions. In the standard intervention group, the chatbot sent participants a link to access a standard online video covering PV information at months 0, 1, 2, and 3.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was self-reported PV uptake at month 12, which was validated by the research team. The secondary outcome was participants\u2019 stage of change measured at month 0 and month 12 by using validated questions, with a score of 1\u2009=\u2009precontemplation, 2\u2009=\u2009contemplation, 3\u2009=\u2009preparation, and 4\u2009=\u2009action.</p><h3>Results</h3><p>A total of 374 participants (213 female [57.0%]; mean [SD] age, 69.6 [3.1] years) were randomized to either the stage of change group (n\u2009=\u2009187) or the standard intervention group (n\u2009=\u2009187). The intention-to-treat analysis showed that the validated PV uptake rate was higher in the stage of change group than in the standard intervention group (29.4% vs 18.7%;<i>P</i>\u2009=\u2009.01). The mean (SD) stage of change score was higher in the stage of change group than in the standard intervention group (2.2 [1.3] vs 1.9 [1.1];<i>P</i>\u2009=\u2009.02). More participants in the stage of change group than in the standard intervention group completed at least 1 intervention session (79.7% vs 57.8%;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the hybrid chatbot was more efficacious than the standard intervention in increasing PV uptake among older adults in Hong Kong. A hybrid chatbot may be a sustainable PV promotion for older adults.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05772117</p>",
-            "date_published": "2025-10-08T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Zixin Wang, PhD"
-                }
-            ],
-            "tags": [
-                "chatbots",
-                "elderly",
-                "hong kong",
-                "internship and residency",
-                "medical residencies",
-                "natural language processing",
-                "pneumococcal vaccine"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839763/wang_2025_oi_251002_1759324739.35313.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251002f1_1759324739.55498.png?Expires=2147483647&Signature=yAynSbC~~3Js-CwV~M7Wdy-lQa5VBTW-rULDWd6CBl~2WI5p~qVOqjlDqMMJtRj-v0-Ka-ZMLDrj-Sk31J91eI21bIGEDVoCTzUAh8At-GzQM~XoA43G4X4hPc~knDFeGOxK3djYR5H~PGoHJempmQnOosqpee~RVZlMROzAKBH271lRZAjVLkjLjniZr-F3j2L0KxtZAgpNjzd2mmz4uBfjiZowy-6ce6bDME~bDjIFQo~k7tXGQ4COyJpxY2-NyiMVXWX6Pr8r9olCMPYiVDLsVLeb-XP2NXBrKuW3yyvt4v9bhCFihmheennrE2vZm5aOpCLyKQv~bOkHC6A~Kg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ivp250019t1_1760020998.56016.png?Expires=2147483647&Signature=if5iQ-W3oHzc0ztGc1YERp5MC-mafw~~EhqsrwEIKxJAnijTlTRTpcFW1N9E0ad25GTRGgel5mFb9x9MVogOgc2qVmxN~NgO4j2pf1nqHvvYGLu1SKa5DMsoWu2fXuGmDphPoi9WIjRUo6714OS1qYYCJofqBwDHrgNaFeV1P0JED7Xio002zqvyMfa3ocQA5TegltT0KI8U6vGWda6yeJqZvkmUZwLK6U58cTvIK2UG4-Cweju5SN2XFp0aNCNZnHP4vUHQXus-uMyapaHCB6tWPccfiJ7YjnSepoqxEbN1uO3oyLvdkULCuRxKfGhOm4QVEMUHVijt1RZyo4UGqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
@@ -536,6 +600,88 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032",
+            "title": "Machine Learning\u2013Based Selection of Resection vs Transplant and Survival in Hepatocellular Carcinoma",
+            "summary": "This cohort study develops and validates a machine learning\u2013based decision-support model to assess whether it can be used for risk stratification to optimize individualized treatment selection between liver transplantation and surgical resection among patients with hepatocellular carcinoma.",
+            "content_html": "<h3>Importance</h3><p>Liver transplantation (LT) generally provides superior long-term survival compared with surgical resection (SR) for hepatocellular carcinoma (HCC), but optimal treatment selection remains challenging due to donor scarcity and patient heterogeneity.</p><h3>Objective</h3><p>To develop and validate a machine learning (ML)\u2013based decision-support model to estimate optimized individualized treatment selection between LT and SR in HCC.</p><h3>Design, Setting, and Participants</h3><p>This nationwide cohort study included patients with HCC who underwent either LT or SR between 2008 and 2018 from the Korea Central Cancer Registry as the derivation cohort. An independent cohort of patients with HCC treated between 2009 and 2020 at Seoul St Mary\u2019s Hospital was used for external validation. Data were analyzed from February to March 2025.</p><h3>Exposures</h3><p>Curative treatment with LT or SR for HCC.</p><h3>Main Outcomes and Measures</h3><p>Separate ML models estimating 3-year overall survival (OS) were developed for LT and SR. Patients were stratified into high- and low-risk groups for each treatment, identifying LT-favorable and LT-nonfavorable groups. Counterfactual analysis evaluated OS differences between ML-guided and clinical practice treatments.</p><h3>Results</h3><p>A total of 3915 patients (3137 [80.1%] male), 296 in the LT group (median [IQR] age, 54.0 [49.0-60.0] years) and 3619 in the SR group (median [IQR] age, 58.0 [51.0-66.0] years), were included in the derivation cohort, and 614 patients (497 [80.9%] male)\u2014314 in the LT group (median [IQR] age, 55.0 [51.0-60.0] years) and 300 in the SR group (median [IQR] age, 59.0 [52.0-66.0] years)\u2014were included in the external validation cohort. Across both cohorts, LT recipients were generally younger and had more advanced liver disease, with higher rates of cirrhosis (78 [26.4%] vs 699 [19.3%];<i>P</i>\u2009=\u2009.005), hepatic encephalopathy (20 [6.8%] vs 10 [0.3%];<i>P</i>\u2009&lt;\u2009.001), and ascites (50 [19.9%] vs 153 [4.2%];<i>P</i>\u2009&lt;\u2009.001). LT recipients also exhibited poorer liver function, with lower albumin levels (median [IQR], 3.4 [2.8-4.0] vs 4.2 [3.9-4.5] g/dL), higher bilirubin levels (median [IQR], 1.4 [0.9-2.5] vs 0.7 [0.5-1.0] mg/dL), and prolonged international normalized ratios (median [IQR], 1.2 [1.1-1.5] vs 1.1 [1.0-1.1]), and had smaller tumors (median [IQR], 2.3 [1.5-3.6] vs 3.2 [2.2-5.0] cm;<i>P</i>\u2009&lt;\u2009.001) but more tumors (mean [SD], 1.6 [1.0] vs 1.2 [0.7];<i>P</i>\u2009&lt;\u2009.001). The support vector machine model achieved the highest area under the receiver operating characteristic curve (AUROC) of 0.82 (95% CI, 0.78-0.86) in the LT cohort, whereas CatBoost performed best in the SR cohort (AUROC, 0.79 [95% CI, 0.78-0.80]). Counterfactual analysis estimated that ML-guided treatment decisions could improve survival compared with observed clinical practice decisions (HR, 0.46 [95% CI, 0.42-0.50];<i>P</i>\u2009&lt;\u2009.001). These findings were consistent in the independent cohort.</p><h3>Conclusions and Relevance</h3><p>Findings from this cohort study of patients with HCC indicated that an ML-based decision-support model estimated accurate risk stratification and identified the potential for improved survival through individualized, model-guided treatment selection. These findings suggest clinical utility in supplementing existing guidelines.</p>",
+            "date_published": "2025-09-17T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Hyun Uk Kim"
+                }
+            ],
+            "tags": [
+                "excision",
+                "machine learning",
+                "neoplasms",
+                "primary carcinoma of the liver cells",
+                "transplantation",
+                "transplantation of liver"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839032/kim_2025_oi_250914_1757519911.88655.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250914f1_1757519912.17655.png?Expires=2147483647&Signature=Lp68BFU2etj6K93nAM9WPFcEIoCh6vW66hfcrjqaDwjee9HfYfN33Qq0tZSoI7a4WHgT41ThD-eOaqu89Qc81ERDLTdm4FqDAdohL5ijkqieE6OEUvGtk-~6NAJ~pjtqPO1GAYlPqRAc5-ZySROCG0N3c2sFRfCwM7GZnWafyZ55sts2o-f8cuil7MjSsfV8xsZ8y-BO2LrPhMfbW-ZmrKuHwYIpACw-7oh32qY2y0HaQDWqWDrH7MHSCmO1dHq0XJaqRGOL1sOZOHW0832p78vfQSNw93PaznrN9cYXRnheBH~U8iWc6AcxxdkeE25-k0r8KilTSwqzuRC1y-4K4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838654",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838654",
+            "title": "Digital Psychological Intervention for Inflammatory Rheumatic Diseases: A Pilot Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the effectiveness of a self-guided, web-based cognitive behavioral therapy intervention in reducing psychological distress and enhancing the quality of life for patients with inflammatory rheumatic diseases.",
+            "content_html": "<h3>Importance</h3><p>Patients with inflammatory rheumatic diseases (IRDs) frequently experience psychological distress; however, access to psychological support remains limited.</p><h3>Objective</h3><p>To investigate the effectiveness of a digital psychological intervention for individuals with IRDs.</p><h3>Design, Setting, and Participants</h3><p>Participants aged 18 years or older were recruited across Germany between February 22 and June 4, 2024, if they had been diagnosed with rheumatoid arthritis, psoriatic arthritis, or systemic lupus erythematosus and reported psychological distress and reduced quality of life.</p><h3>Interventions</h3><p>Participants were randomized to either a self-guided digital psychological intervention or a treatment-as-usual control condition.</p><h3>Main Outcomes and Measures</h3><p>The primary outcomes were change in psychological distress (German version of the Hospital Anxiety and Depression Scale) and quality of life (Assessment of Quality of Life\u20138 Dimensions) from baseline to 3 months. Secondary outcomes included changes in self-efficacy, health literacy, perceived stress, functional impairment, depression, and anxiety.</p><h3>Results</h3><p>A total of 102 participants (mean [SD] age, 47.2 [12.9] years; 92 [90.2%] female) were randomized to an intervention group (n\u2009=\u200952) or a control group (n\u2009=\u200950). The intervention group showed a significantly greater reduction in psychological distress at the 3-month follow-up (least-squares mean [SE] difference, \u22123.60 [1.07]; 95% CI, \u22125.73 to \u22121.47;<i>P</i>\u2009&lt;\u2009.001; Cohen<i>d</i>\u2009=\u2009\u22120.71) and a greater improvement of quality of life (least-squares mean [SE] difference, 0.04 [0.02]; 95% CI, 0.00-0.09;<i>P</i>\u2009=\u2009.047; Cohen<i>d</i>\u2009=\u20090.49). A significantly greater number of participants in the intervention group experienced a clinically meaningful improvement in psychological distress (29 [59.2%] vs 17 [34.0%];<i>P</i>\u2009=\u2009.02) and quality of life (27 [55.1%] vs 16 [32.0%];<i>P</i>\u2009=\u2009.03) compared with the control group. Secondary outcomes measures showed a similar pattern of improvement, except for functional impairment. No adverse events related to the intervention were reported.</p><h3>Conclusions and Relevance</h3><p>This pilot randomized clinical trial supports the effectiveness and safety of a digital psychological intervention in individuals with IRDs. These findings suggest that such digital interventions could be a valuable, scalable approach to addressing mental health needs in rheumatology.</p><h3>Trial Registration</h3><p>German Clinical Trials Register (DRKS) identifier:DRKS00032862</p>",
+            "date_published": "2025-09-09T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Johannes Knitza, MD, PhD, MHBA"
+                }
+            ],
+            "tags": [
+                "hospital anxiety and depression scale",
+                "inflammatory",
+                "lupus erythematosus",
+                "psychological distress",
+                "psychosocial intervention",
+                "quality of life",
+                "rheumatism",
+                "systemic"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2838654/knitza_2025_oi_250846_1756840255.8982.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250846f1_1756840256.14128.png?Expires=2147483647&Signature=N~8XKhpPovZVqXl5C8W~XCIlzelhdxOoIZnF57RFQCCqIWC5UO6nnN1bx07q41g6UeO4iwl-iS9IPXPyF88l5EvJT9UKRJx6kXIlpuuRLPWjATXK7s3tMQtglPYCsxOMXsDan~yr6y4XdefbDKpX9-Ns0VkHSJQWOQ7FVW-cfSobuspC16IpxpPOFfqNtVMBnBsX5HEO5LWlXBxcTFSqvlzYVIt1opbu8HSd4H1Rgql~t5dsoBz~Gyt7cbTSvH1aJ0JOjxnVJomwDAhZOH7LdkK27Gj~yEo3hbCxNIcw~PsB0ABkHF4UfYn6rBgipD30Vc36Cuir0vEfTWsAvzvaUg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802",
+            "title": "Early Recalls and Clinical Validation Gaps in Artificial Intelligence\u2013Enabled Medical Devices",
+            "summary": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
+            "content_text": "This cross-sectional study examines whether lack of clinical validation and publicly traded manufacturer status were associated with recalls of artificial intelligence\u2013enabled medical devices that had been cleared by the US Food and Drug Administration.",
+            "date_published": "2025-08-22T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Branden Lee, BS"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "medical devices"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2837802/lee_2025_ld_250027_1755811003.04068.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939659/ald250027f1_1755811003.15568.png?Expires=2147483647&Signature=JSr6FLV8OrM0HftdbuRKLoxlE3YsbDPMdviKrXNo-MSWNMyNrulUtYudEzkAcc0QgCcZ5v9qWo1M6wb-RLsNviZyrQGZsFArKvLTpBoRXTzq8m4QKbhkx8Hhegra9UWw~lCGot3UnX4e1SQhmOoxafY0zvWdUvyecjsFco~TfoBSt0jiH2KFWMIMZYf-o1x9tfZYXPnyHv18vBRnPBEPs5mRfbjkZXd0Ps7fbWux3pd6gAA9Q7MR2Db1SczwYxYliqh-1YoU89gbEYtAribuGFcAxUSz5Cx3mvqnILuH0P9LWiJLvQN~DpCAfFY4yCi9umK~oAb5UWsroU29U3LyFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
             "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2837871",
             "title": "Predicting Chronic Kidney Disease After Cisplatin Treatment Using Population-Level Data",
@@ -560,34 +706,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/939713/coi250044t1_1759848038.8988.png?Expires=2147483647&Signature=oYFMgmDiKcpQhtGI7~WbfiQCA6ARd9AHlgKGbJnTYKijaNeAWYfw94UP-zEvhJS~KXA87P7vMx1hCEAGfaAxkgEgkFUsDQYIk-bVavr~Hk7fkiSA0FIsmJ3ZP6AR5beypkE56PPZX9fgJXh-4ktukg6DfwQqp7sEkpd2P9BhXU45G6qV1foUVDV5itR5RmftTcxRBkkc4g3lCYvg8QASZXpOlBdV-tQOKK3b6~YdLBXwIGxSJ50q8YfboSkroxaH1taKyv37F9rteh5bj0S4GZEcYonKO79f7kzr1ZqYAH3OJoIZFOdd~kSBydOHxx1AXldsuLVWbLlqPDcFwX9YsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837611",
-            "title": "Artificial Intelligence\u2013Enhanced Electrocardiography for Complete Heart Block Risk Stratification",
-            "summary": "This cohort study uses electrocardiography data from patients in 2 cohorts to develop and validate a deep learning risk model for predicting risk of incident complete heart block.",
-            "content_html": "<h3>Introduction</h3><p>Complete heart block (CHB) is a life-threatening condition that can lead to ventricular standstill, syncopal injury, and sudden cardiac death, and current electrocardiography (ECG)-based risk stratification (presence of bifascicular block) is crude and has limited performance. Artificial intelligence\u2013enhanced electrocardiography (AI-ECG) has been shown to identify a broad spectrum of subclinical disease and may be useful for CHB.</p><h3>Objective</h3><p>To develop an AI-ECG risk estimator for CHB (AIRE-CHB) to predict incident CHB.</p><h3>Design, Setting, and Participants</h3><p>This cohort study was a development and external validation prognostic study conducted at Beth Israel Deaconess Medical Center and validated externally in the UK Biobank volunteer cohort.</p><h3>Exposure</h3><p>Electrocardiogram.</p><h3>Main Outcomes and Measures</h3><p>A new diagnosis of CHB more than 31 days after the ECG. AIRE-CHB uses a residual convolutional neural network architecture with a discrete-time survival loss function and was trained to predict incident CHB.</p><h3>Results</h3><p>The Beth Israel Deaconess Medical Center cohort included 1\u202f163\u202f401 ECGs from 189\u202f539 patients. AIRE-CHB predicted incident CHB with a C index of 0.836 (95% CI, 0.819-0.534) and area under the receiver operating characteristics curve (AUROC) for incident CHB within 1 year of 0.889 (95% CI, 0.863-0.916). In comparison, the presence of bifascicular block had an AUROC of 0.594 (95% CI, 0.567-0.620). Participants in the high-risk quartile had an adjusted hazard ratio (aHR) of 11.6 (95% CI, 7.62-17.7;<i>P</i>\u2009&lt;\u2009.001) for development of incident CHB compared with the low-risk group. In the UKB UK Biobank cohort of 50\u202f641 ECGs from 189\u202f539 patients, the C index for incident CHB prediction was 0.936 (95% CI, 0.900-0.972) and aHR, 7.17 (95% CI, 1.67-30.81;<i>P</i>\u2009&lt;\u2009.001).</p><h3>Conclusions and Relevance</h3><p>In this study, a first-of-its-kind deep learning model identified the risk of incident CHB. AIRE-CHB could be used in diverse settings to aid in decision-making for individuals with syncope or at risk of high-grade atrioventricular block.</p>",
-            "date_published": "2025-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Arunashis Sau, PhD"
-                }
-            ],
-            "tags": [
-                "aire gene",
-                "artificial intelligence",
-                "complete atrioventricular block",
-                "deep learning",
-                "electrocardiogram",
-                "heart block"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837611/jamacardiology_sau_2025_oi_250038_1754518210.68198.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250038t1_1754518210.90362.png?Expires=2147483647&Signature=GSLYlo-ZhNDZE8DW36Ur8HfnLYn2EgMdMpciC9KzbvvX6gnIEamvGhk3eHqMB518Mp3oMhyvHll74mt-fchugCd44ExZkCvtSwvJgciCw13aIdgcVSNY4gutiu-u4SXI9cqt1U3U-woPAuaWYkafdu0Zjo-SzXodCHOMk6avVKfDy0NdIi68xzbM7xF8aM9yBMI-gbhQDgn7NsFo6mxptMgvkptRFHCBBRGA76AMv6LI3EBQIWubgY~-wgGtqgV5aN-vftLIMBhSS2cvNv~TmejcRdJ9hLWrNVKQiGAVKYBUKN4k6tM~SVMNsCAOX7vjS-Wmy7UhFWj94Eb-PKfDvw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837524",
@@ -636,69 +754,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837367",
-            "title": "A Digital Therapeutic Intervention for Inpatients With Elevated Suicide Risk: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial evaluates the efficacy of a smartphone-based educational intervention in reducing suicidal behavior after discharge of patients hospitalized for a suicide attempt or suicidal ideation.",
-            "content_html": "<h3>Importance</h3><p>Suicide is a leading cause of death in the US. Suicide-specific cognitive behavior therapy (CBT) is effective for reducing suicide attempts but is difficult to implement.</p><h3>Objective</h3><p>To evaluate the efficacy of a smartphone-based digital therapeutic intervention designed to deliver suicide-focused CBT in reducing suicidal behavior among patients hospitalized for a suicide attempt or suicidal ideation.</p><h3>Design, Setting, and Participants</h3><p>This multisite, double-blind, randomized clinical trial was conducted in 6 psychiatric inpatient units across the US. Adult patients admitted with elevated suicide risk from April 2022 to April 2024 were included. Participants completed a baseline assessment and were randomly assigned to either the digital therapeutic group or control application group. The trial was stopped early by the Data Management Safety Board because it surpassed the prespecified futility boundary for the primary end point. Statistical analysis followed the intention-to-treat principle.</p><h3>Interventions</h3><p>The digital therapeutic intervention includes 12 sessions of smartphone-based educational modules (lasting 10-15 minutes each) drawn from CBT for suicide prevention. The active control is a 12-session smartphone-based application that delivers safety planning and psychoeducation about suicide. For both interventions, the first session was completed prior to hospital discharge and the remaining self-paced sessions could be completed after discharge. All participants also received treatment as usual, which included suicide risk assessment, supportive listening, crisis resources, clinician assessment, safety planning, and referral to outpatient treatment.</p><h3>Main Outcomes and Measures</h3><p>The primary end point was time (days) to first actual suicide attempt during follow-up. The secondary end points were change in suicidal ideation from baseline to week 24 (quantified as a change in the Scale for Suicide Ideation total score) and clinician-rated clinical improvement at week 24. The nonprespecified sensitivity analysis end point for suicide attempts was the rate of suicide attempts (actual, aborted, and interrupted). Prespecified subgroup analyses were also conducted to examine treatment effects among patients with vs without prior suicide attempts.</p><h3>Results</h3><p>A total of 339 participants (mean [SD] age, 27.9 [10.7] years; 224 females [66.1%]) were included. Follow-up data were available from 266 participants (78.5%). Time to first actual suicide attempt, the primary end point, was not significantly different across treatment groups (log-rank \u03c7<sup>2</sup><sub>1</sub>\u2009=\u20093.6;<i>P</i>\u2009=\u2009.06). Among the 170 participants with prior suicide attempts, nonprespecified sensitivity analyses indicated that the adjusted rate of follow-up suicide attempts was 58.3% lower in the digital therapeutic group than the control application group (0.70 vs 1.68 attempts per person-year; rate ratio [RR], 0.42 [95% CI, 0.18-0.95];<i>P</i>\u2009=\u2009.04), and the odds of clinical improvement were higher in the digital therapeutic group than the control application group (97.9% vs 87.5%; odds ratio, 7.59; 95% CI, 1.14-153.62;<i>P</i>\u2009=\u2009.04). Trajectories of suicidal ideation significantly differed between the digital therapeutic and control application groups (<i>F</i><sub>3,206</sub>\u2009=\u20092.9,<i>P</i>\u2009=\u2009.04), with decreased suicidal ideation through week 24 in the digital therapeutic group, but in the control application group, suicidal ideation decreased through week 12 and then increased at week 24. Nonprespecified dose-response analyses indicated the suicide attempt rate among patients with a prior suicide attempt decreased by 14.0% for every digital therapeutic module completed (adjusted RR, 0.86; 95% CI, 0.76-0.98;<i>P</i>\u2009=\u2009.02).</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the digital therapeutic intervention did not change the time to first actual suicide attempt but helped to sustain reductions in suicidal ideation among inpatients with elevated suicide risk. However, among patients with prior suicide attempts, the digital therapeutic intervention helped reduce recurrent suicide attempts and increased the percentage of inpatients with clinician-rated clinical improvement.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05144685</p>",
-            "date_published": "2025-08-08T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Craig J. Bryan, PsyD, ABPP"
-                }
-            ],
-            "tags": [
-                "cellular phone",
-                "cognitive therapy",
-                "feeling suicidal",
-                "group psychotherapy",
-                "posttreatment followup",
-                "psychiatry specialty",
-                "suicidal behavior",
-                "suicide",
-                "suicide attempt",
-                "suicide risk assessment",
-                "surrogate endpoints",
-                "therapeutic intervention"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837367/bryan_2025_oi_250730_1753980323.56512.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939666/zoi250730f1_1753980323.8456.png?Expires=2147483647&Signature=oUz~VyfII21~JYJTFq31fzdVCv7kA-MK2KY--XL~4rVe4g5Ot66~Za8uMM-1k~ahXS7ViTNAiAd2sjdxLVOhOzinidZrF27z5yGFa4aWCy0muleJn0-c7-q-R69hJPPf0QyVgU5p42w8grqpvifh~V7ffUbdNYYaCzRuY8tELlB-X5YsiLkLUp5cTNTqN~sD5GkFLS3KsYhqe-ovYnM3KXSK5zWNT8XjVi7M65ok0FgXJG1H~Wnndt3O0OK-6uAcJpurM7kvIJzdp~Kvp6IOthrKUf~P9Rz71lINaoSA9kEpZ-1BtOnUCQ18zde6WfiMpojgdjri7RtdJzLLsRKWzg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2837234",
-            "title": "Artificial Intelligence\u2013Augmented Human Instruction and Surgical Simulation Performance: A Randomized Clinical",
-            "summary": "This randomized clinical trial among a sample of medical students in Canada determines the effects of artificial intelligence\u2013augmented personalized expert instruction vs artificial intelligence tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.",
-            "content_html": "<h3>Importance</h3><p>How the Intelligent Continuous Expertise Monitoring System, an artificial intelligence tutoring system, might be best optimized for surgical training is unknown.</p><h3>Objective</h3><p>To determine the effects of artificial intelligence\u2013augmented personalized expert instruction vs intelligent tutoring alone on surgical performance, skill transfer, and affective-cognitive responses.</p><h3>Design, Setting, and Participants</h3><p>This single-blinded randomized clinical trial was conducted among a volunteer sample of medical students in preparatory, first, or second year without prior use of a virtual reality surgical simulator (NeuroVR) at the McGill Neurosurgical Simulation and Artificial Intelligence Learning Centre in Montreal, Quebec, Canada. Cross-sectional data were collected from March to September 2024, and per-protocol data analysis was conducted in March 2025.</p><h3>Intervention</h3><p>During simulated surgical procedures, trainees received 1 of 3 feedback methods. Group 1 received only intelligent tutor instruction (control). The 2 intervention arms included group 2, which received expert feedback in identical words to the intelligent tutor, and group 3, which received artificial intelligence data\u2013informed personalized expert feedback.</p><h3>Main Outcomes and Measures</h3><p>The coprimary outcomes included change in overall surgical performance across practice resections and skill transfer to a complex realistic scenario, measured by artificial intelligence\u2013calculated composite expertise score (range, \u22121.00 [novice] to 1.00 [expert]). Secondary outcomes included emotional and cognitive demands, measured via questionnaires.</p><h3>Results</h3><p>In this randomized clinical trial, the final analysis included 87 medical students (46 [53%] women; mean [SD] age, 22.7 [4.0] years), with 30, 29, and 28 participants in groups 1, 2, and 3, respectively. Group 3 achieved significantly higher scores than group 1 across several trials, including trial 5 (mean difference, 0.26; 95% CI, 0.09-0.43;<i>P</i>\u2009=\u2009.01) and the realistic task (mean difference, 0.20; 95% CI, 0.06-0.34;<i>P</i>\u2009=\u2009.02). Group 3 also achieved significantly better scores than the other 2 groups in certain metrics, such as bleeding and injury risk. Emotions and cognitive load demonstrated significant differences.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, personalized expert instruction resulted in enhanced surgical performance and skill transfer compared with intelligent tutor instruction, highlighting the importance of human input and participation in artificial intelligence\u2013based surgical training.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06273579</p>",
-            "date_published": "2025-08-06T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Bianca Giglio, MSc"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "educational process of instructing",
-                "medical",
-                "operative surgical procedures",
-                "students",
-                "transfer technique",
-                "tutoring"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2837234/jamasurgery_giglio_2025_oi_250042_1757354514.05247.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/surg/939695/soi250042t1_1757354514.20039.png?Expires=2147483647&Signature=eM7SvQDzTrwxHG6N3DIS-cYzODdn24qvSZ-2KGkNSpnrLj78XPkAL2m9RqIf01GplPucGhPE~3dYjbJblgm1sxmqptPBFVC0g7KVlN321a-TNPMjRaIUa3BlOeABRuXOUAXxFKtFf-EHM25bRDVMoeKfCc0Uy4dJXlg3h4C-2BO~HXT4kY7bvBoxclcdhf-YQO99bJgSvye3~dKOd50BLClZFPz6CbR0E50JnZ2zUuHTVMPSon-Rkeb2t9IfoV7A6SftlBuGSiPTKj54~8lBcZk9cpQQpJXGdjSVMusY9SFBFEUbrQtRZAuV6DQcPqW574C7uhKVQmHL7cNI-eJWsw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
@@ -825,29 +880,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2835607",
-            "title": "Text-to-Video Generation\u2014A Cutting-Edge Generative AI Application",
-            "summary": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
-            "content_text": "In recent years, generative artificial intelligence (AI) has been broadly applied across medicine. Generally speaking, text-to-text generation has been used to automate patient discharge summaries 1 and convert discharge summaries into a patient-friendly format. 2 Text-to-image generation has been used to create synthetic radiology 3 and dermatology 4 images for training datasets, and more recently, text-to-video generation has been used to generate simulated neurosurgical videos 5 and endoscopic videos 6 for medical education. More specifically, in ophthalmology, text-to-text generation has been applied to simulate patient consultations, 7 and text-to-image generation has been used to simulate subjective patient symptoms from patient self-reported descriptions. 8 However, to our knowledge, text-to-video generation has never been attempted in ophthalmology until the current study by Wu et al. 9",
-            "date_published": "2025-06-26T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Anam Akhlaq, MBBS"
-                }
-            ],
-            "tags": [
-                "generative artificial intelligence"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2835607/jamaophthalmology_akhlaq_2025_ic_250024_1754685078.01969.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Ophthalmology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
