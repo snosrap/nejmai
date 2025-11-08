@@ -4,53 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840495",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840495",
-            "title": "Characteristics and Safety of Consumer Chatbots for Emergent Adolescent Health Concerns",
-            "summary": "This cross-sectional study examines content policies and assesses behaviors of consumer chatbots in response to adolescent health crises.",
-            "content_text": "This cross-sectional study examines content policies and assesses behaviors of consumer chatbots in response to adolescent health crises.",
-            "date_published": "2025-10-23T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ryan C. L. Brewster, MD"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "adolescent health services",
-                "chatbots"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840495/brewster_2025_ld_250241_1760640353.03623.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zld250241t1_1760640353.19733.png?Expires=2147483647&Signature=MPkw4mGXSZBbYCYq6JRfEALLk1jAuSw~fbfL~QTak3wWJzh72QARgBiQ4NtwtRPcQ6fuPuRxxd215XRAhr6gxuiOz9byEEsJHUAvygYmW1Sk54BIHbacRdcPpq6ukbVfRTS9hF4sRdCz7W974ciIIxbr5vrehOg0BWwY6GhxM5wp1zqzT~DIHj0AvTASxxdzipAYXgF9o0HZHFWl3hssZR2Wo8ZERbsu~2FN7rbJV3x5BgDhN~9WDNPhWPfjryLphYzi-B2g1MVubC6amQ2EUvZ0XgHI0UdLiBajrKNldkr23z21X0XqBEjLcmEZY-3Ff9oHnmW7METTwFcVEG0Lew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840524",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840524",
+            "title": "Syndromic Analysis of Sepsis Cohorts Using Large Language Models",
+            "summary": "This cohort study compares the performance of a large language model against manual medical record review for extracting presenting signs and symptoms data from hospital admission notes and uses these data to examine their associations with different sepsis syndromes and mortality.",
+            "content_html": "<h3>Importance</h3><p>Presenting signs and symptoms affect the care of patients with possible sepsis. However, signs and symptoms are not incorporated into most large observational studies because they are difficult to extract from clinical notes at scale.</p><h3>Objective</h3><p>To assess the use of large language models (LLMs) to extract presenting signs and symptoms from admission notes and characterize their associations with infectious diagnoses, multidrug-resistant infections, and mortality.</p><h3>Design, Setting, and Participants</h3><p>This retrospective cohort study obtained data from 5 Massachusetts hospitals within 1 health care system between June 1, 2015, and August 1, 2022. Participants were hospitalized adult patients with possible infection (determined by blood culture drawn and intravenous antibiotics administered within 24 hours of arrival). An LLM (LLaMA 3 8B; Meta) was used to extract up to 10 presenting signs and symptoms from each patient\u2019s history-and-physical admission notes. LLM-generated labels were validated by blinded review of 303 random admission notes. Data analyses were performed from July 2023 to August 2025.</p><h3>Exposures</h3><p>Thirty most common signs and symptoms were retained as exposures, and unsupervised clustering was used to create syndromes, which were compared with infection sources derived from the<i>International Statistical Classification of Diseases, Tenth Revision, Clinical Modification</i>discharge codes.</p><h3>Main Outcomes and Measures</h3><p>Outcomes included positive cultures for methicillin-resistant<i>Staphylococcus aureus</i>(MRSA), positive cultures for multidrug-resistant gram-negative (MDRGN) organisms, and in-hospital mortality. Multivariable logistic regression was used to adjust for demographics, comorbidities, physiologic markers of severity of illness, and time to antibiotics.</p><h3>Results</h3><p>Among the 104\u202f248 patients (median [IQR] age, 66 [52-78] years; 54 137 males [51.9%]) included, 23\u202f619 (22.7%) had sepsis without shock, 25\u202f990 (24.9%) had septic shock, and 94\u202f913 (91.0%) had 1 or more admission note within 24 hours. The LLM labeled the notes of 93\u202f674 of 94\u202f913 patients (98.7%). On manual validation, LLM labels had an accuracy of 99.3% (95% CI, 99.2%-99.3%), balanced accuracy of 84.6% (95% CI, 83.5%-85.8%), positive predictive value of 68.4% (95% CI, 66.0%-70.7%), sensitivity of 69.7% (95% CI, 67.3%-72.0%), and specificity of 99.6% (95% CI, 99.6%-99.6%) compared with the physician medical record reviewer. The 30 most common signs and symptoms were clustered into syndromes that correlated with infection sources. Presence of skin and soft tissue symptoms (adjusted odds ratio [AOR], 1.73; 95% CI, 1.49-2.00) and absence of gastrointestinal (AOR, 0.63; 95% CI, 0.54-0.73) or urinary tract symptoms (AOR, 0.34; 95% CI, 0.22-0.50) were associated with MRSA culture positivity; inverse associations were seen for MDRGN organisms. Cardiopulmonary symptoms were associated with increased mortality (AOR, 1.30; 95% CI, 1.17-1.45).</p><h3>Conclusions and Relevance</h3><p>This cohort study found that an LLM accurately extracted presenting signs and symptoms from admission notes that clustered into syndromes differentially correlated with infection sources, multidrug-resistant infections, and mortality. Further research is warranted to evaluate the value of large-scale sign-and-symptom data in models of antibiotic choice, effectiveness, and outcomes in patients with possible sepsis.</p>",
+            "date_published": "2025-10-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Theodore R. Pak, MD, PhD"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "antibiotics",
+                "infection",
+                "large language models",
+                "methicillin resistant staphylococcus aureus (organism)",
+                "sepsis",
+                "signs and symptoms"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840524/pak_2025_oi_251086_1760718018.14066.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251086t1_1760718018.33199.png?Expires=2147483647&Signature=hxhx72VouomXl~BKU0YUsgt~eK~7-opot~3pQ~cwmkwMPf6tsZ1qii8v0MOWNnqKw6Fs0lkopj2Wti9OJqN4X-~HsFHmt8Tfj0oMFZAPS6g9b5TUXcNl76e7FPON2dwLC4SDBPPfUtZONUbNOsD~CmjSoMY58Ria4IBcLNRFOrZwhaxWOFj9dp-wz2CS9hQpCZQoaFoY~SZpV-ykXKf9JkFXbYfWi-CWpgpZhPtZoxW11rX~zERD~fwNVNrrHLcpkA4NzFJ43zg8zv4QepfYfRZtab5YROSav1Z0BIw3BjzDjO7yCS8uGrjhm1566iSR5Q8jFuhxTy~Yfhsin-IgiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
