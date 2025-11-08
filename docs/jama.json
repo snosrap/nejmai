@@ -4,29 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
-            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
-            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
-            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
-            "date_published": "2025-11-06T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Roy Perlis, MD, MSc"
-                }
-            ],
-            "tags": [
-                "drug discovery"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840524",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840524",
             "title": "Syndromic Analysis of Sepsis Cohorts Using Large Language Models",
@@ -53,6 +30,31 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251086t1_1760718018.33199.png?Expires=2147483647&Signature=hxhx72VouomXl~BKU0YUsgt~eK~7-opot~3pQ~cwmkwMPf6tsZ1qii8v0MOWNnqKw6Fs0lkopj2Wti9OJqN4X-~HsFHmt8Tfj0oMFZAPS6g9b5TUXcNl76e7FPON2dwLC4SDBPPfUtZONUbNOsD~CmjSoMY58Ria4IBcLNRFOrZwhaxWOFj9dp-wz2CS9hQpCZQoaFoY~SZpV-ykXKf9JkFXbYfWi-CWpgpZhPtZoxW11rX~zERD~fwNVNrrHLcpkA4NzFJ43zg8zv4QepfYfRZtab5YROSav1Z0BIw3BjzDjO7yCS8uGrjhm1566iSR5Q8jFuhxTy~Yfhsin-IgiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "title": "Adolescent Vulnerability to Consumer Chatbots\u2014Artificial Agents and Genuine Risk",
+            "summary": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "content_text": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "date_published": "2025-10-23T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Alison Giovanelli, PhD"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "chatbots",
+                "pediatric discipline"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840497/giovanelli_2025_ic_250270_1760640354.83833.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
