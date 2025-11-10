@@ -4,54 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840704",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840704",
-            "title": "Artificial Intelligence and Diabetes Prevention",
-            "summary": "As of 2021, an estimated 38.4 million people in the US had diabetes, and 97.6 million with prediabetes were at increased risk of diabetes. 1 Approximately 70% of people with prediabetes develop diabetes over their lifetime. 2 , 3 Furthermore, there is evidence that people with prediabetes have increased risk of the microvascular and macrovascular complications of diabetes, even if they do not meet diagnostic criteria for diabetes. 4 , 5 Hence, the American Diabetes Association supports screening, diagnosis, and intervention for people with prediabetes. 6 These recommendations are the direct result of findings from landmark trials such as the US Diabetes Prevention Program (DPP) that enrolled participants with prediabetes and tested strategies to prevent or delay the progression to overt diabetes. Major findings included reduction of onset of type 2 diabetes by 58% with lifestyle modification and 31% with metformin compared with placebo during the 3-year DPP randomized trial, and durability of the initial interventions to prevent or delay diabetes for more than 20 years after randomization in the extension DPP Observational Study, as well as cost-effectiveness of intensive lifestyle modification and health care cost savings from metformin. 7",
-            "content_text": "As of 2021, an estimated 38.4 million people in the US had diabetes, and 97.6 million with prediabetes were at increased risk of diabetes. 1 Approximately 70% of people with prediabetes develop diabetes over their lifetime. 2 , 3 Furthermore, there is evidence that people with prediabetes have increased risk of the microvascular and macrovascular complications of diabetes, even if they do not meet diagnostic criteria for diabetes. 4 , 5 Hence, the American Diabetes Association supports screening, diagnosis, and intervention for people with prediabetes. 6 These recommendations are the direct result of findings from landmark trials such as the US Diabetes Prevention Program (DPP) that enrolled participants with prediabetes and tested strategies to prevent or delay the progression to overt diabetes. Major findings included reduction of onset of type 2 diabetes by 58% with lifestyle modification and 31% with metformin compared with placebo during the 3-year DPP randomized trial, and durability of the initial interventions to prevent or delay diabetes for more than 20 years after randomization in the extension DPP Observational Study, as well as cost-effectiveness of intensive lifestyle modification and health care cost savings from metformin. 7",
-            "date_published": "2025-10-27T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Leigh Perreault, MD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "diabetes prevention"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840704/jama_perreault_2025_ed_250074_1761169535.18406.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Sandro Galea, MD, DrPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "health policy"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -837,6 +789,64 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2818283",
+            "title": "Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends biennial screening mammography for women aged 40 to 74 years (B recommendation) and concludes that evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older (I statement) and of screening using ultrasonography or MRI in women with dense breasts on a negative mammogram (I statement).",
+            "content_html": "<h3>Importance</h3><p>Among all US women, breast cancer is the second most common cancer and the second most common cause of cancer death. In 2023, an estimated 43\u202f170 women died of breast cancer. Non-Hispanic White women have the highest incidence of breast cancer and non-Hispanic Black women have the highest mortality rate.</p><h3>Objective</h3><p>The USPSTF commissioned a systematic review to evaluate the comparative effectiveness of different mammography-based breast cancer screening strategies by age to start and stop screening, screening interval, modality, use of supplemental imaging, or personalization of screening for breast cancer on the incidence of and progression to advanced breast cancer, breast cancer morbidity, and breast cancer\u2013specific or all-cause mortality, and collaborative modeling studies to complement the evidence from the review.</p><h3>Population</h3><p>Cisgender women and all other persons assigned female at birth aged 40 years or older at average risk of breast cancer.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of screening mammography in women 75 years or older and the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasound or magnetic resonance imaging (MRI), regardless of breast density.</p><h3>Recommendation</h3><p>The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening mammography in women 75 years or older. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of supplemental screening for breast cancer using breast ultrasonography or MRI in women identified to have dense breasts on an otherwise negative screening mammogram. (I statement)</p>",
+            "date_published": "2024-04-30T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "breast neoplasm screening",
+                "magnetic resonance imaging",
+                "malignant neoplasm of breast",
+                "mammography",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2818283/jama_nicholson_2024_us_240004_1727815614.4247.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939387/jus240004fa_1727815614.64577.png?Expires=2147483647&Signature=mBx8vmBmlpmnUnmToFrEzGsn6kYMu-9Ja3IxXC5D-bbsWiJlEKBWvngHRZpd4yPhhvpQGIxbl0F32xl~Mm4-TNV1kaJPfYkCCREie1CNs8yHXivRqMY2hv79kpJpK13OzkDOd8PM4eDyZPKF4cERtTY~3ZhSQP2DaOus3r5gApdFyB1o1pQOhxbar2bdLUoy~XXyeQ5WEHn8le0SxDt-JtGvkcgnfscwuCDyfnMJRiTvuCKjlX1GFpS6cijTJbJLtWi3Qq9HOpuBXBFKh85STpaSuM~ywHrNGFDRJDp2yHDizNuJXeLm35VLgChMD9RAWSAGEtDVQuUQ0t63GYHKMw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
