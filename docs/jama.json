@@ -4,57 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
-            "title": "Digital Detection of Dementia in Primary Care: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial evaluates the effectiveness of an approach combining the Quick Dementia Rating System and Passive Digital Marker machine learning algorithm for the detection of Alzheimer disease and other related dementias in primary care.",
-            "content_html": "<h3>Importance</h3><p>Detection of Alzheimer disease and related dementias (ADRD) is a challenge in primary care settings. The Quick Dementia Rating System (QDRS) and the Passive Digital Marker (PDM) were developed as 2 scalable tools for early detection of ADRD. The QDRS is a patient-reported outcome measure, while the PDM is a machine learning algorithm that uses electronic health record (EHR) data. Both can be embedded in the EHR for ease of use.</p><h3>Objective</h3><p>To evaluate the effect of the combined approach of QDRS plus PDM in improving the annual rate of new documented ADRD diagnoses in primary care practices.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial was performed between July 2, 2022, and July 1, 2024. Nine federally qualified primary health care clinics in Indianapolis, Indiana, were randomized to usual care (no routine screening for ADRD), PDM only, or QDRS plus PDM. Participants were treated as per the randomization arm. Participants included adults 65 years and older, without a diagnosis of mild cognitive impairment, dementia, or severe mental illness. Data analysis was based on intention to treat and was performed between November 1, 2024, and August 20, 2025.</p><h3>Intervention</h3><p>Randomization of clinic to usual care, PDM only, or QDRS plus PDM.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was 12-month cumulative incidence of ADRD diagnoses; the secondary outcome was any ADRD diagnostic workup, such as laboratory tests, neuropsychological testing, or brain imaging.</p><h3>Results</h3><p>The study included 5325 patients (mean [SD] age, 71.1\u2009[5.9] years), 3312 (62.2%) of whom were female. Compared with the usual care clinics (12-month incidence, 213 of 1724 [12.4%]), the odds of an incident ADRD diagnosis were higher in the clinics randomized to QDRS plus PDM (12-month incidence, 355 of 2301 [15.4%]; adjusted odds ratio [AOR],\u20091.31; 95% CI, 1.05-1.64) but not the clinics randomized to PDM only (12-month incidence, 134 of 1300 [10.3%]; AOR,\u20090.84; 95% CI, 0.63-1.11]). Compared with the usual care clinics (12-month incidence, 500 of 1724 [29.0%]), the odds of ADRD diagnostic assessments were higher in the QDRS plus PDM clinics (12-month incidence, 844 of 2301 [36.7%]; AOR,\u20091.41; 95% CI, 1.12-1.77) but not the PDM clinics (12-month incidence, 362 of 1300 [27.8%]; AOR,\u20090.94; 95% CI, 0.72-1.22).</p><h3>Conclusions and Relevance</h3><p>This randomized clinical trial found that the combined approach was effective at scale for the early detection of ADRD in primary care settings. This is an important feature in busy primary care settings that can benefit both the health care system and patients.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05231954</p>",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "title": "Detecting Transthyretin Cardiac Amyloidosis With Artificial Intelligence: A Nonrandomized Clinical Trial",
+            "summary": "This nonrandomized clinical trial reports the development and evaluation of an artificial intelligence\u2013augmented screening program designed to detect transthyretin cardiac amyloidosis.",
+            "content_html": "<h3>Importance</h3><p>Transthyretin amyloid cardiomyopathy (ATTR-CM) is underdiagnosed despite expanding treatment options.</p><h3>Objective</h3><p>To develop and evaluate an artificial intelligence (AI)\u2013augmented clinical program for ATTR-CM detection.</p><h3>Design, Setting, and Participants</h3><p>This nonrandomized clinical trial involved constructing an AI model, ATTRACTnet, using electrocardiogram waveforms, echocardiographic measurements, demographics, and diagnosis codes for orthopedic manifestations of amyloidosis. A single-system, multisite, single-arm, open-label trial was conducted to evaluate its real-world performance. The model was trained and validated at a large academic referral site for ATTR-CM with external validation at an academic site. The trial was conducted as a single-system, multisite trial. Patients with left ventricular (LV) wall thickness 12 mm or more and an ATTRACTnet score 0.5 or higher were eligible. Exclusions included prior ATTR-CM testing, hypertrophic cardiomyopathy, expected life span less than 1 year, nursing home residence, advanced dementia, or LV wall thickness less than 14 mm explained by uncontrolled hypertension or moderate/severe aortic stenosis.</p><h3>Intervention</h3><p>Eligible patients were notified and offered nuclear scintigraphy testing, monoclonal protein testing, and follow-up care on agreement from the treating physician.</p><h3>Main Outcomes and Measure</h3><p>The primary outcome was a diagnosis of ATTR-CM by consensus criteria. ATTR-CM testing positivity was compared with historical and contemporary controls.</p><h3>Results</h3><p>ATTRACTnet was developed in an internal test set of 799 patients (mean [SD] age, 75.1 [11.1] years; 516 [64.7%] male and 283 [35.3%] female) using 5-fold cross-validation with an additional external test set of 422 patients. It had good discrimination for ATTR-CM detection with an area under the receiver operator characteristic curve of 0.85 (5-fold cross-validation, 0.77-0.85) in the internal set and 0.82 (95% CI, .81-0.83) in the external test set with similar performance in Hispanic, non-Hispanic Black, and non-Hispanic White patients. A total of 1471 patients were identified with positive AI model scores 0.5 or more during the study period, with 256 eligible patients who met study criteria. Of these patients, 50 underwent amyloidosis testing after physician and patient approval; 24 (48%) were diagnosed with ATTR-CM, and 21 (88%) initiated treatment within 3 months. The positivity rate was more than 2.8 times higher than historical controls (15.3%; 95% CI, 13.1%-17.9%;<i>P</i>\u2009&lt;\u2009.001), with an 18% relative increase in new diagnoses vs the prior year.</p><h3>Conclusions and Relevance</h3><p>AI-augmented screening may improve ATTR-CM detection and identify patients who are missed by usual care. Prospective randomized trials are needed to determine if outcomes are improved.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06469372</p>",
             "date_published": "2025-11-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Malaz A. Boustani, MD, MPH"
+                    "name": "Sneha S. Jain, MD, MBA"
                 }
             ],
             "tags": [
-                "alzheimer's disease",
-                "dementia",
-                "early diagnosis",
-                "machine learning algorithms",
-                "patient self-report",
-                "primary health care",
+                "artificial intelligence",
+                "cardiac amyloidosis",
+                "prealbumin",
+                "radionuclide imaging",
                 "screening procedure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841183/boustani_2025_oi_251152_1762199944.67884.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841169/jamacardiology_jain_2025_oi_250070_1762193484.23174.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251152f1_1762199944.89692.png?Expires=2147483647&Signature=DCmrf-JvUjZVwokvltqz1DFGNNRFW4v4Rd~UyhgGJQog5QYJDBeFoOD522x1sW6Kpi98vI5pQx7PulPhb-qeteTv~oGO-~UwmjAJLbx1NzStR1Oa4YrZysYvg2cw8sSAyEdg7hyrLr0ASJ20pR~40mcG4XpEaF5owF5CnEcj~PwSj8H0AD3ijvn4D6vcJvMuHs9pjdb69poVCc4OzKDjnAhs0UZyUgvGAXwemfH4A3o0psSssjKgwT2I6fYyCMegyfFlQ1TQ7QzXIw5~jawAhYFHQXfLjaqNRvg1YNcQsWkVWYgiIv4pVqdcfGhzs7bZii97RbyynQAITyDfiWsDrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250070f1_1762193484.45081.png?Expires=2147483647&Signature=QappskipclNFJYH~JwuvU36vkR298cgGAIGa5JuQuHQ4Usxvt4peXae8SbIjvYv~dq6GhUZnAYF84qeJLjujkmWHPpMEJuALPWVH5vAw7G914nrAltioUOg4rcNAsg9HzD-J8KYzKLqZPVSi2M~f55fJZnZ2zAENLs0-b~r8rtBB1PiVS310dUz7slH19DeJNpl5xLA932H2ZZqcj72NEq1IoGZjjv4ZMTpd~~kyBq8-iArs-1Y7DQG3cJZIxiUlp5iFTFnVn0cKGibkTlQHqFqzI1cHhBXDdXH9OnMZtawE3lmj-Mj~E4BnDm5mM~ZbUuQl4SwDYByFQH33II~GEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "title": "Extracting Symptoms of Sepsis From Admission Notes With LLM\u2014Maybe AI Knows Something That We Do Not",
-            "summary": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "content_text": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "date_published": "2025-10-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
+            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
+            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
+            "date_published": "2025-07-28T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Jonathan D. Baghdadi, MD, PhD"
+                    "name": "Ellen Wright Clayton, MD, JD"
                 }
             ],
             "tags": [
-                "large language models",
-                "sepsis"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840529/baghdadi_2025_ic_250272_1760718028.85344.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
