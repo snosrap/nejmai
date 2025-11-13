@@ -4,65 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
-            "title": "AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence",
-            "summary": "This Special Communication discusses how health and health care artificial intelligence (AI) should be developed, evaluated, regulated, disseminated, and monitored.",
-            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored.</p><h3>Observations</h3><p>Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration\u2019s regulatory oversight. A major challenge in evaluation is that a tool\u2019s effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes.</p><h3>Conclusions and Relevance</h3><p>AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health.</p>",
-            "date_published": "2025-10-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Derek C. Angus, MD, MPH"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "clinical diagnostic instrument",
-                "computer software",
-                "delivery of health care",
-                "diabetic retinopathy screening",
-                "diagnostic imaging",
-                "health care systems",
-                "incentives",
-                "life cycle stages",
-                "sepsis"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840175/jama_angus_2025_sc_250012_1761928737.84917.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939726/jsc250012t1_1761928738.15098.png?Expires=2147483647&Signature=3Jo5hrUXpJNjR6AeBY5~63~7Bmb2tuV1RDwjjeULjn7j6QeongipwnXVHjz8iPFhjOFlPdPb~3rEQeSLf4279819E7S3JOdS6lrNxSQYdwE2wXppd7eI8194ppGWnqXWJPLpBhRlheY2CwNzX4HvKDpx~lSx5iONoO24bbsdINqujAOaAKfBepKYvwHkyDQz9RNk23blYLEyh7P6om-QGGUui6RprzSSR3qvc9jR1u1lFkGMX0Cx~pLzmAeeT9TRGwTBej5GTPJElLeFi8Idt-mHfBfrfvh06sUt99k0rBHctJUNlKfbD31ZP73k7di4mo9laeNWLpEGgr2C3-neOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2838997",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2838997",
-            "title": "Individualized Prediction of Platelet Transfusion Outcomes in Preterm Infants With Severe Thrombocytopenia",
-            "summary": "This study examines a dynamic prediction model for major bleeding or mortality if prophylactic platelet transfusion were or were not to be given to infants with severe thrombocytopenia.",
-            "content_html": "<h3>IMPORTANCE</h3><p>Preterm infants with severe thrombocytopenia (platelet count &lt;50\u2009\u00d7\u200910<sup>9</sup>/L) frequently receive platelet transfusions. However, it is unclear in what cases prophylactic transfusion truly reduces bleeding risk or whether it does more harm than good.</p><h3>OBJECTIVE</h3><p>To develop and validate a dynamic prediction model for major bleeding or mortality if prophylactic platelet transfusion were or were not to be given to infants with severe thrombocytopenia.</p><h3>DESIGN, SETTING, AND PARTICIPANTS</h3><p>The dynamic prediction model was developed in an international multicenter cohort (2017-2021) comprising 14 neonatal intensive care units in the Netherlands, Sweden, and Germany. Model evaluation was performed in a national multicenter cohort (2010-2014) including 7 Dutch neonatal intensive care units. The study population consisted of infants with severe thrombocytopenia less than 34 weeks\u2019 gestation.</p><h3>EXPOSURE</h3><p>Two transfusion strategies were contrasted at each prediction point: receiving a platelet transfusion within 6 hours (prophylaxis) vs no platelet transfusion for 3 days (no prophylaxis).</p><h3>MAIN OUTCOMES AND MEASURES</h3><p>The primary outcome was the 3-day risk of major bleeding or mortality, reestimated every 2 hours during the first week after severe thrombocytopenia onset. Predictors included gestational and postnatal age, small-for-gestational-age infant, necrotizing enterocolitis, sepsis, mechanical ventilation, vasoactive agents, platelet count, and prior platelet transfusion(s). Landmarking combined with the clone-censor-weight approach enabled dynamic prediction under the 2 transfusion strategies, accounting for time-varying confounding. Model performance was evaluated in the external validation cohort.</p><h3>RESULTS</h3><p>In both the development (n\u2009=\u20091042) and validation (n\u2009=\u2009637) cohorts, the median gestational age was 28 weeks and median birth weight was 900 g; there were 613 (59%) and 370 (58%) males, respectively. Major bleeding or death occurred in 235 infants (23%) in the development cohort and 135 (21%) in the validation cohort. In the validation cohort, the time-dependent area under the receiver operating characteristic curve was 0.69 (95% CI, 0.60-0.76) for the prophylaxis strategy and 0.85 (95% CI, 0.76-0.92) for the no prophylaxis strategy, with calibration plots showing good calibration. Estimated risks under both strategies varied considerably depending on the infant\u2019s clinical condition at the time of prediction.</p><h3>CONCLUSIONS AND RELEVANCE</h3><p>Among preterm infants with severe thrombocytopenia, this modeling study found substantial variation among individuals in predicted benefits and harms of prophylactic platelet transfusion based on their current clinical characteristics. The dynamic prediction model performed well in a validation cohort, and its value to support individualized decisions warrants evaluation in future studies.</p>",
-            "date_published": "2025-09-15T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Hilde van der Staaij, MD"
-                }
-            ],
-            "tags": [
-                "hemorrhage",
-                "infant",
-                "platelet count measurement",
-                "platelet transfusion",
-                "premature",
-                "thrombocytopenia",
-                "transfusion - action"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2838997/jama_van_der_staaij_2025_oi_250061_1759505030.4154.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939711/joi250061f1_1759505030.644.png?Expires=2147483647&Signature=R0wme0WUcjq8nktSpZQ-7JDwb~vgQZpLKr3Lt2dXROBy1ySe1RFDt9YwNVbqxcwrfoBICKfBK-5YFl0uuyxMhD2JoWcBthJdqlEYrMH77V9zNc8CUrCFYDeO90J7AJiZrGDCXNT6A1PqJQnb0v5XM47gGU8ejrdWi0SHvVNKd~TvOx4NdXKRGzhulsNJ7WGd04abprAka7ZalOiN27TZTo0AWUi3S4RF17JSIdbnMAGC0SujjiU2c6w9VaN1OClTEy1CHgjyXrjl-zmFYpLKGLFc8XS5JwxN6dAFrwvRmQXkkL6VUdKBVqwegoeIfdRDJ7ve9dM4WfMtG4LvcEAklQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -850,6 +812,36 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
+            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
+            "date_published": "2024-06-18T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "behavior therapy",
+                "behavioral health interventions",
+                "body weight decreased",
+                "child",
+                "increased body mass index",
+                "pharmacotherapy",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
