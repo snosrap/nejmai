@@ -27,6 +27,31 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
+            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
+            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
+            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
+            "date_published": "2025-09-24T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Sangwon Baek, BA"
+                }
+            ],
+            "tags": [
+                "gastroenterology (field)",
+                "hepatology (field)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "url": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
             "title": "Recommendations to Ensure Safety of AI in Real-World Clinical Care",
@@ -812,36 +837,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
