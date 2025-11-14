@@ -4,62 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
-            "title": "Digital Detection of Dementia in Primary Care: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial evaluates the effectiveness of an approach combining the Quick Dementia Rating System and Passive Digital Marker machine learning algorithm for the detection of Alzheimer disease and other related dementias in primary care.",
-            "content_html": "<h3>Importance</h3><p>Detection of Alzheimer disease and related dementias (ADRD) is a challenge in primary care settings. The Quick Dementia Rating System (QDRS) and the Passive Digital Marker (PDM) were developed as 2 scalable tools for early detection of ADRD. The QDRS is a patient-reported outcome measure, while the PDM is a machine learning algorithm that uses electronic health record (EHR) data. Both can be embedded in the EHR for ease of use.</p><h3>Objective</h3><p>To evaluate the effect of the combined approach of QDRS plus PDM in improving the annual rate of new documented ADRD diagnoses in primary care practices.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial was performed between July 2, 2022, and July 1, 2024. Nine federally qualified primary health care clinics in Indianapolis, Indiana, were randomized to usual care (no routine screening for ADRD), PDM only, or QDRS plus PDM. Participants were treated as per the randomization arm. Participants included adults 65 years and older, without a diagnosis of mild cognitive impairment, dementia, or severe mental illness. Data analysis was based on intention to treat and was performed between November 1, 2024, and August 20, 2025.</p><h3>Intervention</h3><p>Randomization of clinic to usual care, PDM only, or QDRS plus PDM.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was 12-month cumulative incidence of ADRD diagnoses; the secondary outcome was any ADRD diagnostic workup, such as laboratory tests, neuropsychological testing, or brain imaging.</p><h3>Results</h3><p>The study included 5325 patients (mean [SD] age, 71.1\u2009[5.9] years), 3312 (62.2%) of whom were female. Compared with the usual care clinics (12-month incidence, 213 of 1724 [12.4%]), the odds of an incident ADRD diagnosis were higher in the clinics randomized to QDRS plus PDM (12-month incidence, 355 of 2301 [15.4%]; adjusted odds ratio [AOR],\u20091.31; 95% CI, 1.05-1.64) but not the clinics randomized to PDM only (12-month incidence, 134 of 1300 [10.3%]; AOR,\u20090.84; 95% CI, 0.63-1.11]). Compared with the usual care clinics (12-month incidence, 500 of 1724 [29.0%]), the odds of ADRD diagnostic assessments were higher in the QDRS plus PDM clinics (12-month incidence, 844 of 2301 [36.7%]; AOR,\u20091.41; 95% CI, 1.12-1.77) but not the PDM clinics (12-month incidence, 362 of 1300 [27.8%]; AOR,\u20090.94; 95% CI, 0.72-1.22).</p><h3>Conclusions and Relevance</h3><p>This randomized clinical trial found that the combined approach was effective at scale for the early detection of ADRD in primary care settings. This is an important feature in busy primary care settings that can benefit both the health care system and patients.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05231954</p>",
-            "date_published": "2025-11-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "title": "FDA Approval of Artificial Intelligence and Machine Learning Devices in Radiology: A Systematic Review",
+            "summary": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "content_text": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "date_published": "2025-11-07T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Malaz A. Boustani, MD, MPH"
+                    "name": "Ram Sivakumar, MD"
                 }
             ],
             "tags": [
-                "alzheimer's disease",
-                "dementia",
-                "early diagnosis",
-                "machine learning algorithms",
-                "patient self-report",
-                "primary health care",
-                "screening procedure"
+                "artificial intelligence",
+                "diagnostic imaging",
+                "diagnostic radiologic examination",
+                "drug approval",
+                "machine learning",
+                "radiology specialty",
+                "united states food and drug administration"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841183/boustani_2025_oi_251152_1762199944.67884.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841066/sivakumar_2025_ld_250259_1761924420.41873.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251152f1_1762199944.89692.png?Expires=2147483647&Signature=DCmrf-JvUjZVwokvltqz1DFGNNRFW4v4Rd~UyhgGJQog5QYJDBeFoOD522x1sW6Kpi98vI5pQx7PulPhb-qeteTv~oGO-~UwmjAJLbx1NzStR1Oa4YrZysYvg2cw8sSAyEdg7hyrLr0ASJ20pR~40mcG4XpEaF5owF5CnEcj~PwSj8H0AD3ijvn4D6vcJvMuHs9pjdb69poVCc4OzKDjnAhs0UZyUgvGAXwemfH4A3o0psSssjKgwT2I6fYyCMegyfFlQ1TQ7QzXIw5~jawAhYFHQXfLjaqNRvg1YNcQsWkVWYgiIv4pVqdcfGhzs7bZii97RbyynQAITyDfiWsDrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250259f1_1761924420.63273.png?Expires=2147483647&Signature=G3HTsQCwJwaxkoKTjomcEAJlR1uodfW1nwDxfRDcFJcCLTOABskfna1DudmVkU~JcLRhSnls5Vg6ZIRKwrtvpWKShmM6LQsOrlEJcYWSyoWZdcK8dTiVeiXmGjxE~EU~ON-Bhob2c26NGhtRZTg1VVlB5inwkTmUh6ucX2i97PW20TdBc65zYR8sbaKVciA8zl8emEaLSCBgzrCRdpoOFk4vbe3fJc3~DZK4oH9A9BCOVnHglhGuJ~92Y3I~CEu3KunApWwm-kfLqvt2cfhuTGc-zBBz0~sIVYyM-EpDp-LvN~2zkdEuunQRWcr4RVr0XrrqnsS-GTybOrLas7v8Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841041",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841041",
-            "title": "Machine Learning Model for Response to Internet-Delivered CBT vs Antidepressant Medication",
-            "summary": "This prognostic study describes the development and validation of a machine learning model to predict patient response to internet-delivered cognitive behavioral therapy (CBT) and tests its specificity against antidepressant medications.",
-            "content_html": "<h3>Importance</h3><p>Many treatments exist for depression, yet none are universally effective. Multivariable predictive models support personalized treatment selection.</p><h3>Objective</h3><p>To develop a model predicting response to internet-delivered cognitive behavioral therapy (iCBT) and test its treatment specificity against antidepressant medications.</p><h3>Design, Setting, and Participants</h3><p>The Precision in Psychiatry prognostic study was a 4-week study collecting extensive baseline self-report and cognitive data online to predict early iCBT response, from February 2019 to May 2022. Patients in the iCBT group were recruited via an Irish mental health charity and a UK NHS Talking Therapies clinic. A separate antidepressant group was recruited globally online and via print advertisements. Participants were aged 18 to 70 years, fluent in English, had computer access, started treatment within 2 days of enrollment, and scored at least 10 on the Work and Social Adjustment Scale. Analysis was completed in December 2024.</p><h3>Exposures</h3><p>Low-intensity, clinician-guided iCBT with multimedia psychoeducation. Patients receiving antidepressants primarily received selective serotonin-reuptake inhibitors or serotonin-norepinephrine reuptake inhibitors.</p><h3>Main Outcomes and Measures</h3><p>Machine learning models were trained using the iCBT sample to predict change in depression severity (16-item Quick Inventory of Depressive Symptomatology\u2013Self Report) at week 4. The best model was tested on holdout iCBT and antidepressant data. A separate model was trained on patients receiving iCBT only to assess treatment-specificity.</p><h3>Results</h3><p>Of 2674 patients screened, 883 completed baseline and final assessments, with 776 patients receiving iCBT (mean [SD] age, 31.8 [11.0] years; 600 [77.5%] female) and 107 patients receiving antidepressant medication (mean [SD] age, 30.1 [10.4] years; 78 [72.9%] female). Both samples had some treatment overlap (24% and 34%, respectively). Elastic net regression with 27 predictors best explained the variance in depression change (<i>R</i><sup>2</sup>\u2009=\u200914%; SD, 0.8%; 95% CI, 13.8%-14.2%). Key predictors included baseline depression, treatment expectation, transdiagnostic symptoms, and, less strongly, cognitive variables. The model performed well on holdout iCBT (<i>R</i><sup>2</sup>\u2009=\u200918.8%; root mean square error [RMSE], 0.88) and antidepressant (<i>R</i><sup>2</sup>\u2009=\u200917.9%; RMSE, 1.10) data. Retraining on 181 patients who received iCBT only increased treatment specificity in predictions (<i>R</i><sup>2</sup>\u2009=\u200919.3%; RMSE, 0.89) vs 71 patients who received antidepressants only (<i>R</i><sup>2</sup>\u2009=\u200910.8%; RMSE, 1.17).</p><h3>Conclusions and Relevance</h3><p>This prognostic study in a naturalistic setting found that self-reported data predicted iCBT response better than cognitive data. Model predictions generalized to patients receiving antidepressants, some of whom also received psychotherapy. Training models on single-treatment cohorts may yield more treatment-specific predictions.</p>",
-            "date_published": "2025-11-06T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
+            "title": "Accuracy of Artificial Intelligence vs Professionally Translated Discharge Instructions",
+            "summary": "This comparative effectiveness analysis describes the process of implementation for artificial intelligence\u2013based translation and investigates its accuracy for translating discharge instructions into Simplified Chinese, Somali, Spanish, and Vietnamese.",
+            "content_html": "<h3>Importance</h3><p>Patients using languages other than English are a group at risk of poor health outcomes and encounter barriers to access of translated written materials. Although artificial intelligence (AI) may offer an opportunity to improve access, few studies have evaluated the accuracy and safety of AI translation for clinical care under routine practice conditions.</p><h3>Objective</h3><p>To investigate the accuracy of AI translation compared with professional human translation of patient-specific issued pediatric inpatient discharge instructions.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness analysis compared translations by a neural machine translation model vs professional translators using patient-specific pediatric inpatient discharge instructions received by families between May 18, 2023, and May 18, 2024, at a single center academic pediatric hospital. Instructions were translated to Simplified Chinese, Somali, Spanish, and Vietnamese by professional translators and the Azure AI system and then broken into scoring sections. Two professional translators per language evaluated translations (blinded to source) on an established 5-point scale for fluency, adequacy, meaning, and error severity, with 1 indicating worst performance and 5 indicating best performance.</p><h3>Exposure</h3><p>AI vs professional translation.</p><h3>Main Outcome and Measure</h3><p>Quality of discharge instruction translation, including fluency, adequacy, meaning, and severity of errors.</p><h3>Results</h3><p>A total of 148 sections from 34 discharge instructions were analyzed. When considering all 4 languages together, average fluency, adequacy, and meaning were lower among AI compared with professional human translations. Among all tested languages, mean (SD) fluency for AI translations was 2.98 (1.12) compared with 3.90 (0.96) for professional translations (difference, 0.92; 95% CI, 0.83-1.01;<i>P</i>\u2009&lt;\u2009.001), adequacy was 3.81 (1.14) compared with 4.56 (0.70) (difference, 0.74; 95% CI, 0.65-0.83;<i>P</i>\u2009&lt;\u2009.001), meaning was 3.38 (1.15) compared with 4.28 (0.84) (difference, 0.90; 95% CI, 0.80-0.99;<i>P</i>\u2009&lt;\u2009.001), and error severity was 3.53 (1.28) compared with 4.48 (0.88) (difference, 0.95; 95% CI, 0.85-1.06;<i>P</i>\u2009&lt;\u2009.001). Compared with professional translations, the Spanish AI translations were noninferior in adequacy (difference, 0.08; 95% CI, \u22120.02 to 0.19) and error severity (difference, 0.03; 95% CI, \u22120.09 to 0.14) but inferior in fluency (difference, 0.38; 95% CI, 0.23-0.53) and just crossed the inferiority threshold in meaning (difference, 0.08; 95% CI, \u22120.04 to 0.20). The Chinese, Vietnamese, and Somali AI translations were inferior to the professional translations across all metrics, with the greatest differences for Somali.</p><h3>Conclusions and Relevance</h3><p>In this comparative effectiveness analysis of AI- vs professionally translated issued discharge instructions, AI-translated instructions performed similarly for Spanish but worse for other languages tested. Validation and clinical implementation of AI-based translation will require special attention to languages of lesser diffusion to prevent creating new inequities.</p>",
+            "date_published": "2025-09-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Chi Tak Lee, PhD"
+                    "name": "Melissa Martos, MD, MS"
                 }
             ],
             "tags": [
-                "antidepressive agents",
-                "cognitive therapy",
-                "depressive disorder",
-                "internet",
-                "machine learning",
-                "psychotherapy",
-                "quick inventory of depressive symptomatology"
+                "artificial intelligence",
+                "comparative effectiveness research",
+                "hospital discharge instructions (treatment)",
+                "somali language"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841041/lee_2025_oi_251137_1761850425.45909.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839035/martos_2025_oi_250911_1757519918.02934.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251137f1_1761850425.63909.png?Expires=2147483647&Signature=V9hZ-UOq36qF716kUzwLSDPPvQ56jqdBFrjc2z~Op~SRYKzgmeAUtBJVtFxnvwv~1UFu45SnajJMGiLDCWfKhBMkrWtfRxpPwsPw8q0y4qdmjUGeAiJ7jDMDsczNFWJArGdz-Z14FI1poZwavmts5MRh4KDovawI0wDcBRjN1Jv7I08zqX0oXwj699wWQzd1GhNhbt3-WXvnPw6RqrnzV5JEVuN6bCHrBXfStE4fO58t70tCOq4x3hBv70VUO1Zi2LiZhx11y8ry55I8OSmPxwFzllvjj~w0p7TRrcIxn60gifm84QrDnLTdhdQfPZIc1ag3rCCMXp8TGY9vvuGAtw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250911t1_1757519918.19076.png?Expires=2147483647&Signature=UBEvR4UyNh5NpgpSY7SqYjqdCi1toBWwnCPp~H4pUa~5jzHnhH5B9FBI-1eFTFk9Vvgg6GRttIXCRRiykMjgWhM-8fmLzSQEx7xVWvxTubHMkl1ecyno2M2AbS~HjC1j6A6mylRyjMut1wX1GGe8UZ-dm5OSCW0LoLdy9jehISDSpaI~7Mvkq6kbMzPjb5Y7BbcuCvLFOnBdneiN8RuVpViOu5FcKR1pFK3IruYBzBpE98gHsnPc12vB1RSZVBjbPZoKeteK3I3riTyAQq5CXS3Smkb2eWuWOnV5f-QyxH8v3jKOZAJRDWos9fKTH4hKv-lutWFaoVVbXnOpnesuxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
