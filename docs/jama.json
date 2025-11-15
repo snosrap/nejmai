@@ -4,49 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840704",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840704",
-            "title": "Artificial Intelligence and Diabetes Prevention",
-            "summary": "As of 2021, an estimated 38.4 million people in the US had diabetes, and 97.6 million with prediabetes were at increased risk of diabetes. 1 Approximately 70% of people with prediabetes develop diabetes over their lifetime. 2 , 3 Furthermore, there is evidence that people with prediabetes have increased risk of the microvascular and macrovascular complications of diabetes, even if they do not meet diagnostic criteria for diabetes. 4 , 5 Hence, the American Diabetes Association supports screening, diagnosis, and intervention for people with prediabetes. 6 These recommendations are the direct result of findings from landmark trials such as the US Diabetes Prevention Program (DPP) that enrolled participants with prediabetes and tested strategies to prevent or delay the progression to overt diabetes. Major findings included reduction of onset of type 2 diabetes by 58% with lifestyle modification and 31% with metformin compared with placebo during the 3-year DPP randomized trial, and durability of the initial interventions to prevent or delay diabetes for more than 20 years after randomization in the extension DPP Observational Study, as well as cost-effectiveness of intensive lifestyle modification and health care cost savings from metformin. 7",
-            "content_text": "As of 2021, an estimated 38.4 million people in the US had diabetes, and 97.6 million with prediabetes were at increased risk of diabetes. 1 Approximately 70% of people with prediabetes develop diabetes over their lifetime. 2 , 3 Furthermore, there is evidence that people with prediabetes have increased risk of the microvascular and macrovascular complications of diabetes, even if they do not meet diagnostic criteria for diabetes. 4 , 5 Hence, the American Diabetes Association supports screening, diagnosis, and intervention for people with prediabetes. 6 These recommendations are the direct result of findings from landmark trials such as the US Diabetes Prevention Program (DPP) that enrolled participants with prediabetes and tested strategies to prevent or delay the progression to overt diabetes. Major findings included reduction of onset of type 2 diabetes by 58% with lifestyle modification and 31% with metformin compared with placebo during the 3-year DPP randomized trial, and durability of the initial interventions to prevent or delay diabetes for more than 20 years after randomization in the extension DPP Observational Study, as well as cost-effectiveness of intensive lifestyle modification and health care cost savings from metformin. 7",
-            "date_published": "2025-10-27T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
+            "title": "Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults",
+            "summary": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
+            "content_text": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
+            "date_published": "2025-11-07T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Leigh Perreault, MD"
+                    "name": "Ryan K. McBain, PhD, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "diabetes prevention"
+                "adolescence",
+                "generative artificial intelligence",
+                "mental health",
+                "young adult"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840704/jama_perreault_2025_ed_250074_1761169535.18406.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841067/mcbain_2025_ld_250258_1761924421.38077.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250258t1_1761924421.60006.png?Expires=2147483647&Signature=Wunc0c-~vdLwim~dDFAavX6w1qURfxjkhDXZFgA7XijcVDHXeoJtGzKR-epy8h6UynsXMXU0JifyYcJZ-zHtwT3LZck~dOu8Dzy-BYPSTJ~p9PrFhQfUpOOPWwTtoXgJ7UmPUmYi4mBjek9KKiI7WPtJIKjW7OM6JyINsF3WLOk9BVAQmxPEP2xVi-cT~STBQtJLGNrIGD638X4jT71pmGNx6c-FsuBct5im9lGJh1C-zTaUo0Q4ScOFnMiXR~B-aXAH7iRqLm4gtpC1Qrxw2XkvH5nLhEKNSj8tiWzgibAsrjnUYusojNUYzpHlC1BJ~1pwr7l4vXZBZoCWrwuwnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
-            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "date_published": "2025-09-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
+            "title": "Clinical Integration of Local AI Assistants Into Emergency Department Discharge Documentation",
+            "summary": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
+            "content_text": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
+            "date_published": "2025-10-21T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sangwon Baek, BA"
+                    "name": "Jared Silberlust, MD, MPH"
                 }
             ],
             "tags": [
-                "gastroenterology (field)",
-                "hepatology (field)",
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
                 "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840384/silberlust_2025_ic_250266_1760473371.90391.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
