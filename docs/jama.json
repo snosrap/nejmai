@@ -4,59 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
-            "title": "FDA Approval of Artificial Intelligence and Machine Learning Devices in Radiology: A Systematic Review",
-            "summary": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
-            "content_text": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
-            "date_published": "2025-11-07T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "title": "Adolescent Vulnerability to Consumer Chatbots\u2014Artificial Agents and Genuine Risk",
+            "summary": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "content_text": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "date_published": "2025-10-23T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ram Sivakumar, MD"
+                    "name": "Alison Giovanelli, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "diagnostic imaging",
-                "diagnostic radiologic examination",
-                "drug approval",
-                "machine learning",
-                "radiology specialty",
-                "united states food and drug administration"
+                "adolescence",
+                "chatbots",
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841066/sivakumar_2025_ld_250259_1761924420.41873.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840497/giovanelli_2025_ic_250270_1760640354.83833.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250259f1_1761924420.63273.png?Expires=2147483647&Signature=G3HTsQCwJwaxkoKTjomcEAJlR1uodfW1nwDxfRDcFJcCLTOABskfna1DudmVkU~JcLRhSnls5Vg6ZIRKwrtvpWKShmM6LQsOrlEJcYWSyoWZdcK8dTiVeiXmGjxE~EU~ON-Bhob2c26NGhtRZTg1VVlB5inwkTmUh6ucX2i97PW20TdBc65zYR8sbaKVciA8zl8emEaLSCBgzrCRdpoOFk4vbe3fJc3~DZK4oH9A9BCOVnHglhGuJ~92Y3I~CEu3KunApWwm-kfLqvt2cfhuTGc-zBBz0~sIVYyM-EpDp-LvN~2zkdEuunQRWcr4RVr0XrrqnsS-GTybOrLas7v8Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
-            "title": "Accuracy of Artificial Intelligence vs Professionally Translated Discharge Instructions",
-            "summary": "This comparative effectiveness analysis describes the process of implementation for artificial intelligence\u2013based translation and investigates its accuracy for translating discharge instructions into Simplified Chinese, Somali, Spanish, and Vietnamese.",
-            "content_html": "<h3>Importance</h3><p>Patients using languages other than English are a group at risk of poor health outcomes and encounter barriers to access of translated written materials. Although artificial intelligence (AI) may offer an opportunity to improve access, few studies have evaluated the accuracy and safety of AI translation for clinical care under routine practice conditions.</p><h3>Objective</h3><p>To investigate the accuracy of AI translation compared with professional human translation of patient-specific issued pediatric inpatient discharge instructions.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness analysis compared translations by a neural machine translation model vs professional translators using patient-specific pediatric inpatient discharge instructions received by families between May 18, 2023, and May 18, 2024, at a single center academic pediatric hospital. Instructions were translated to Simplified Chinese, Somali, Spanish, and Vietnamese by professional translators and the Azure AI system and then broken into scoring sections. Two professional translators per language evaluated translations (blinded to source) on an established 5-point scale for fluency, adequacy, meaning, and error severity, with 1 indicating worst performance and 5 indicating best performance.</p><h3>Exposure</h3><p>AI vs professional translation.</p><h3>Main Outcome and Measure</h3><p>Quality of discharge instruction translation, including fluency, adequacy, meaning, and severity of errors.</p><h3>Results</h3><p>A total of 148 sections from 34 discharge instructions were analyzed. When considering all 4 languages together, average fluency, adequacy, and meaning were lower among AI compared with professional human translations. Among all tested languages, mean (SD) fluency for AI translations was 2.98 (1.12) compared with 3.90 (0.96) for professional translations (difference, 0.92; 95% CI, 0.83-1.01;<i>P</i>\u2009&lt;\u2009.001), adequacy was 3.81 (1.14) compared with 4.56 (0.70) (difference, 0.74; 95% CI, 0.65-0.83;<i>P</i>\u2009&lt;\u2009.001), meaning was 3.38 (1.15) compared with 4.28 (0.84) (difference, 0.90; 95% CI, 0.80-0.99;<i>P</i>\u2009&lt;\u2009.001), and error severity was 3.53 (1.28) compared with 4.48 (0.88) (difference, 0.95; 95% CI, 0.85-1.06;<i>P</i>\u2009&lt;\u2009.001). Compared with professional translations, the Spanish AI translations were noninferior in adequacy (difference, 0.08; 95% CI, \u22120.02 to 0.19) and error severity (difference, 0.03; 95% CI, \u22120.09 to 0.14) but inferior in fluency (difference, 0.38; 95% CI, 0.23-0.53) and just crossed the inferiority threshold in meaning (difference, 0.08; 95% CI, \u22120.04 to 0.20). The Chinese, Vietnamese, and Somali AI translations were inferior to the professional translations across all metrics, with the greatest differences for Somali.</p><h3>Conclusions and Relevance</h3><p>In this comparative effectiveness analysis of AI- vs professionally translated issued discharge instructions, AI-translated instructions performed similarly for Spanish but worse for other languages tested. Validation and clinical implementation of AI-based translation will require special attention to languages of lesser diffusion to prevent creating new inequities.</p>",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032",
+            "title": "Machine Learning\u2013Based Selection of Resection vs Transplant and Survival in Hepatocellular Carcinoma",
+            "summary": "This cohort study develops and validates a machine learning\u2013based decision-support model to assess whether it can be used for risk stratification to optimize individualized treatment selection between liver transplantation and surgical resection among patients with hepatocellular carcinoma.",
+            "content_html": "<h3>Importance</h3><p>Liver transplantation (LT) generally provides superior long-term survival compared with surgical resection (SR) for hepatocellular carcinoma (HCC), but optimal treatment selection remains challenging due to donor scarcity and patient heterogeneity.</p><h3>Objective</h3><p>To develop and validate a machine learning (ML)\u2013based decision-support model to estimate optimized individualized treatment selection between LT and SR in HCC.</p><h3>Design, Setting, and Participants</h3><p>This nationwide cohort study included patients with HCC who underwent either LT or SR between 2008 and 2018 from the Korea Central Cancer Registry as the derivation cohort. An independent cohort of patients with HCC treated between 2009 and 2020 at Seoul St Mary\u2019s Hospital was used for external validation. Data were analyzed from February to March 2025.</p><h3>Exposures</h3><p>Curative treatment with LT or SR for HCC.</p><h3>Main Outcomes and Measures</h3><p>Separate ML models estimating 3-year overall survival (OS) were developed for LT and SR. Patients were stratified into high- and low-risk groups for each treatment, identifying LT-favorable and LT-nonfavorable groups. Counterfactual analysis evaluated OS differences between ML-guided and clinical practice treatments.</p><h3>Results</h3><p>A total of 3915 patients (3137 [80.1%] male), 296 in the LT group (median [IQR] age, 54.0 [49.0-60.0] years) and 3619 in the SR group (median [IQR] age, 58.0 [51.0-66.0] years), were included in the derivation cohort, and 614 patients (497 [80.9%] male)\u2014314 in the LT group (median [IQR] age, 55.0 [51.0-60.0] years) and 300 in the SR group (median [IQR] age, 59.0 [52.0-66.0] years)\u2014were included in the external validation cohort. Across both cohorts, LT recipients were generally younger and had more advanced liver disease, with higher rates of cirrhosis (78 [26.4%] vs 699 [19.3%];<i>P</i>\u2009=\u2009.005), hepatic encephalopathy (20 [6.8%] vs 10 [0.3%];<i>P</i>\u2009&lt;\u2009.001), and ascites (50 [19.9%] vs 153 [4.2%];<i>P</i>\u2009&lt;\u2009.001). LT recipients also exhibited poorer liver function, with lower albumin levels (median [IQR], 3.4 [2.8-4.0] vs 4.2 [3.9-4.5] g/dL), higher bilirubin levels (median [IQR], 1.4 [0.9-2.5] vs 0.7 [0.5-1.0] mg/dL), and prolonged international normalized ratios (median [IQR], 1.2 [1.1-1.5] vs 1.1 [1.0-1.1]), and had smaller tumors (median [IQR], 2.3 [1.5-3.6] vs 3.2 [2.2-5.0] cm;<i>P</i>\u2009&lt;\u2009.001) but more tumors (mean [SD], 1.6 [1.0] vs 1.2 [0.7];<i>P</i>\u2009&lt;\u2009.001). The support vector machine model achieved the highest area under the receiver operating characteristic curve (AUROC) of 0.82 (95% CI, 0.78-0.86) in the LT cohort, whereas CatBoost performed best in the SR cohort (AUROC, 0.79 [95% CI, 0.78-0.80]). Counterfactual analysis estimated that ML-guided treatment decisions could improve survival compared with observed clinical practice decisions (HR, 0.46 [95% CI, 0.42-0.50];<i>P</i>\u2009&lt;\u2009.001). These findings were consistent in the independent cohort.</p><h3>Conclusions and Relevance</h3><p>Findings from this cohort study of patients with HCC indicated that an ML-based decision-support model estimated accurate risk stratification and identified the potential for improved survival through individualized, model-guided treatment selection. These findings suggest clinical utility in supplementing existing guidelines.</p>",
             "date_published": "2025-09-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Melissa Martos, MD, MS"
+                    "name": "Hyun Uk Kim"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "comparative effectiveness research",
-                "hospital discharge instructions (treatment)",
-                "somali language"
+                "excision",
+                "machine learning",
+                "neoplasms",
+                "primary carcinoma of the liver cells",
+                "transplantation",
+                "transplantation of liver"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839035/martos_2025_oi_250911_1757519918.02934.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839032/kim_2025_oi_250914_1757519911.88655.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250911t1_1757519918.19076.png?Expires=2147483647&Signature=UBEvR4UyNh5NpgpSY7SqYjqdCi1toBWwnCPp~H4pUa~5jzHnhH5B9FBI-1eFTFk9Vvgg6GRttIXCRRiykMjgWhM-8fmLzSQEx7xVWvxTubHMkl1ecyno2M2AbS~HjC1j6A6mylRyjMut1wX1GGe8UZ-dm5OSCW0LoLdy9jehISDSpaI~7Mvkq6kbMzPjb5Y7BbcuCvLFOnBdneiN8RuVpViOu5FcKR1pFK3IruYBzBpE98gHsnPc12vB1RSZVBjbPZoKeteK3I3riTyAQq5CXS3Smkb2eWuWOnV5f-QyxH8v3jKOZAJRDWos9fKTH4hKv-lutWFaoVVbXnOpnesuxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250914f1_1757519912.17655.png?Expires=2147483647&Signature=Lp68BFU2etj6K93nAM9WPFcEIoCh6vW66hfcrjqaDwjee9HfYfN33Qq0tZSoI7a4WHgT41ThD-eOaqu89Qc81ERDLTdm4FqDAdohL5ijkqieE6OEUvGtk-~6NAJ~pjtqPO1GAYlPqRAc5-ZySROCG0N3c2sFRfCwM7GZnWafyZ55sts2o-f8cuil7MjSsfV8xsZ8y-BO2LrPhMfbW-ZmrKuHwYIpACw-7oh32qY2y0HaQDWqWDrH7MHSCmO1dHq0XJaqRGOL1sOZOHW0832p78vfQSNw93PaznrN9cYXRnheBH~U8iWc6AcxxdkeE25-k0r8KilTSwqzuRC1y-4K4w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
