@@ -4,52 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
-            "title": "Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults",
-            "summary": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
-            "content_text": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "title": "FDA Approval of Artificial Intelligence and Machine Learning Devices in Radiology: A Systematic Review",
+            "summary": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "content_text": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
             "date_published": "2025-11-07T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ryan K. McBain, PhD, MPH"
+                    "name": "Ram Sivakumar, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "diagnostic imaging",
+                "diagnostic radiologic examination",
+                "drug approval",
+                "machine learning",
+                "radiology specialty",
+                "united states food and drug administration"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841066/sivakumar_2025_ld_250259_1761924420.41873.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250259f1_1761924420.63273.png?Expires=2147483647&Signature=G3HTsQCwJwaxkoKTjomcEAJlR1uodfW1nwDxfRDcFJcCLTOABskfna1DudmVkU~JcLRhSnls5Vg6ZIRKwrtvpWKShmM6LQsOrlEJcYWSyoWZdcK8dTiVeiXmGjxE~EU~ON-Bhob2c26NGhtRZTg1VVlB5inwkTmUh6ucX2i97PW20TdBc65zYR8sbaKVciA8zl8emEaLSCBgzrCRdpoOFk4vbe3fJc3~DZK4oH9A9BCOVnHglhGuJ~92Y3I~CEu3KunApWwm-kfLqvt2cfhuTGc-zBBz0~sIVYyM-EpDp-LvN~2zkdEuunQRWcr4RVr0XrrqnsS-GTybOrLas7v8Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840497",
+            "title": "Adolescent Vulnerability to Consumer Chatbots\u2014Artificial Agents and Genuine Risk",
+            "summary": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "content_text": "In their evaluation of consumer chatbots, Brewster et al 1 highlight critical gaps in how generative artificial intelligence (AI) platforms respond to simulated adolescent health crises, with companion chatbots performing especially poorly. These findings are particularly concerning given recent data showing that nearly three-fourths of US adolescents aged 13 to 17 years have used AI companions at least once, and 52% reported being regular users. 2 In the context of barriers to care, these tools offer the potential for democratization of mental health support, particularly as youth are often both difficult to engage in mental health interventions and hesitant to seek help from professionals or other adults. Yet, Brewster et al 1 demonstrate that the current systems are nowhere near ready to be safely used by adolescents. Their findings echo calls from experts and organizations including the American Psychological Association (APA) about the urgent need for stronger safety measures and regulatory oversight. 3 This issue is especially pressing because young people are uniquely vulnerable to unregulated AI platforms. Developmentally, they are more sensitive to social influence and less able to assess the reliability of information. Emerging evidence also suggests that youth already struggling with mental health challenges may be both more likely to turn to chatbots and more susceptible to harm from them. 4 Parents, educators, and health care professionals who support adolescent well-being are on the frontlines, navigating the consequences of these new platforms with minimal support and knowledge. We must push for regulatory action to ensure that the potential of these technologies can be realized with adolescent safety in mind.",
+            "date_published": "2025-10-23T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Alison Giovanelli, PhD"
                 }
             ],
             "tags": [
                 "adolescence",
-                "generative artificial intelligence",
-                "mental health",
-                "young adult"
+                "chatbots",
+                "pediatric discipline"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841067/mcbain_2025_ld_250258_1761924421.38077.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250258t1_1761924421.60006.png?Expires=2147483647&Signature=Wunc0c-~vdLwim~dDFAavX6w1qURfxjkhDXZFgA7XijcVDHXeoJtGzKR-epy8h6UynsXMXU0JifyYcJZ-zHtwT3LZck~dOu8Dzy-BYPSTJ~p9PrFhQfUpOOPWwTtoXgJ7UmPUmYi4mBjek9KKiI7WPtJIKjW7OM6JyINsF3WLOk9BVAQmxPEP2xVi-cT~STBQtJLGNrIGD638X4jT71pmGNx6c-FsuBct5im9lGJh1C-zTaUo0Q4ScOFnMiXR~B-aXAH7iRqLm4gtpC1Qrxw2XkvH5nLhEKNSj8tiWzgibAsrjnUYusojNUYzpHlC1BJ~1pwr7l4vXZBZoCWrwuwnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
-            "title": "Clinical Integration of Local AI Assistants Into Emergency Department Discharge Documentation",
-            "summary": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
-            "content_text": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
-            "date_published": "2025-10-21T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Jared Silberlust, MD, MPH"
-                }
-            ],
-            "tags": [
-                "emergency medicine (field)",
-                "emergency service",
-                "hospital",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840384/silberlust_2025_ic_250266_1760473371.90391.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840497/giovanelli_2025_ic_250270_1760640354.83833.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
