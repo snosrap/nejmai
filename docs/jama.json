@@ -4,24 +4,51 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "title": "Extracting Symptoms of Sepsis From Admission Notes With LLM\u2014Maybe AI Knows Something That We Do Not",
-            "summary": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "content_text": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "date_published": "2025-10-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840575",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840575",
+            "title": "The Need for Oversight Over Apps for Substance Use Reduction",
+            "summary": "This Viewpoint describes the substance use reduction app marketplace, highlights concerns related to integration of generative artificial intelligence into such apps, and suggests how oversight can be strengthened to protect public health.",
+            "content_text": "This Viewpoint describes the substance use reduction app marketplace, highlights concerns related to integration of generative artificial intelligence into such apps, and suggests how oversight can be strengthened to protect public health.",
+            "date_published": "2025-10-27T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Jonathan D. Baghdadi, MD, PhD"
+                    "name": "Alex M. Russell, PhD"
                 }
             ],
             "tags": [
-                "large language models",
-                "sepsis"
+                "generative artificial intelligence",
+                "mobile applications",
+                "substance use disorders"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840529/baghdadi_2025_ic_250272_1760718028.85344.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840575/jama_russell_2025_vp_250131_1761000470.59904.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840384",
+            "title": "Clinical Integration of Local AI Assistants Into Emergency Department Discharge Documentation",
+            "summary": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
+            "content_text": "Song et al 1 have reported the development and in silico evaluation of a locally hosted large language model (LLM) assistant for generating discharge documentation in the emergency department (ED). The system\u2014the Your Knowledgeable Navigator of Treatment ED discharge note generation assistant, or Y-KNOT-EDN\u2014was built on open-source Llama 3\u2013based architecture, fine-tuned using more than 500 representative cases from institutional data, and deployed entirely on premises. In blinded comparisons of 300 note triplets (manual, LLM-generated, and LLM-assisted), reviewers rated the artificial intelligence (AI)\u2013generated and AI-assisted notes as significantly more complete, correct, and clinically useful than their manually written counterparts. Additionally, documentation time dropped by more than 50% when clinicians revised model-generated drafts instead of starting from scratch. These results position Y-KNOT-EDN as a promising tool for improving ED documentation quality and efficiency, especially in environments where cloud-based AI models raise privacy or compliance concerns.",
+            "date_published": "2025-10-21T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Jared Silberlust, MD, MPH"
+                }
+            ],
+            "tags": [
+                "emergency medicine (field)",
+                "emergency service",
+                "hospital",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840384/silberlust_2025_ic_250266_1760473371.90391.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
@@ -715,37 +742,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
-            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
-            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
-            "date_published": "2024-08-20T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "infant health",
-                "iron",
-                "iron deficiency",
-                "iron deficiency anemia",
-                "iron deficiency anemia of pregnancy",
-                "mothers",
-                "pregnancy",
-                "screening procedure",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
