@@ -4,60 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
-            "title": "Applying Clinical Licensure Principles to Artificial Intelligence",
-            "summary": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
-            "content_text": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
-            "date_published": "2025-11-17T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Eve Rittenberg, MD, MA"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "licensure"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840945/jamainternal_rittenberg_2025_ed_250012_1762276265.63723.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840791",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840791",
-            "title": "Brief Digital Interventions for Psychological Distress: An AI-Enhanced Response-Adaptive Randomized Clinical",
-            "summary": "This randomized clinical trial compares the effectiveness of 3 brief smartphone app\u2013based interventions (physical activity, mindfulness, and sleep hygiene) or an active control (ecological momentary assessment) for reducing mild, moderate, and severe psychological distress among college students.",
-            "content_html": "<h3>Importance</h3><p>A large proportion of college students report experiencing psychological distress. Smartphone app\u2013based interventions may alleviate distress, but their effectiveness across severity levels is unclear. Artificial intelligence (AI)\u2013enhanced response-adaptive randomized clinical trials may offer an efficient method to evaluate competing interventions.</p><h3>Objective</h3><p>To compare the effectiveness of 3 brief, 2-week self-guided smartphone application\u2013based interventions (physical activity, mindfulness, sleep hygiene) or an active control (ecological momentary assessment [EMA]) for reducing psychological distress among college students with mild, moderate, or severe distress.</p><h3>Design, Setting, and Participants</h3><p>This population-based AI-enhanced response-adaptive randomized clinical trial included 1282 participants with distress scores of 20 or more on the 10-item Kessler Psychological Distress Scale in 12 minitrials from November 9, 2021, with final follow-up on February 17, 2023. Participants\u2019 distress was categorized as mild, moderate, or severe based on their normalized 21-item Depression Anxiety Stress Scale (DASS-21) scores at screening.</p><h3>Interventions</h3><p>After a 2-week onboarding period of daily EMA, participants were assigned by a contextual multi-armed bandit algorithm to 1 of 4 two-week self-guided app interventions: physical activity, mindfulness, sleep hygiene, or a control that continued EMA.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was change in psychological distress (DASS-21 total score) from week 2 (before intervention) to week 4 (after intervention). The primary end point was after the intervention (4 weeks). Secondary outcomes included DASS-21 subscale scores, self-reported physical activity, mindfulness, sleep quality, and app engagement, usability, and satisfaction. Analysis was performed on an intention-to-treat basis.</p><h3>Results</h3><p>A total of 1282 individuals (mean [SD] age, 23.5 [5.2] years; 950 women [74.1%]) participated: physical activity (n\u2009=\u2009305), mindfulness (n\u2009=\u2009453), sleep hygiene (n\u2009=\u2009431), or a control that continued EMA (n\u2009=\u200993). Among 349 participants with severe distress, physical activity (n\u2009=\u200979) and mindfulness (n\u2009=\u2009180) were significantly more effective than the EMA control (n\u2009=\u200929) in reducing DASS-21 total scores (physical activity vs control: standardized mean difference [SMD], 0.62 [95% CI, 0.23-1.02]; mindfulness vs control: SMD, 0.53 [95% CI, 0.19-0.87]) and sleep hygiene (n\u2009=\u200961) (physical activity vs sleep hygiene: SMD, 0.50 [95% CI, 0.16-0.84]; mindfulness vs sleep hygiene: SMD, 0.41 [95% CI, 0.13-0.69]). Among 494 participants with mild distress, physical activity (n\u2009=\u2009161) and sleep hygiene (n\u2009=\u2009224) were significantly more effective than control (n\u2009=\u200937) in reducing DASS-21 total scores (physical activity vs control: SMD, 0.58 [95% CI, 0.30-0.86]; sleep hygiene vs control: SMD, 0.47 [95% CI, 0.20-0.73]). No significant group differences were observed among participants with moderate distress (n\u2009=\u2009439).</p><h3>Conclusions and Relevance</h3><p>In this AI-enhanced response-adaptive randomized clinical trial among college students, physical activity and mindfulness were most effective for severe distress, while physical activity and sleep hygiene were most effective for mild distress. These findings can guide personalized mental health interventions for college students. This trial improved efficiency by minimizing control group allocation but had reduced power to detect significant group differences.</p><h3>Trial Registration</h3><p>http://anzctr.org.auIdentifier:ACTRN12621001223820</p>",
-            "date_published": "2025-10-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jill Newby, PhD"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "college student",
-                "ecological momentary assessment",
-                "mindfulness",
-                "mobile applications",
-                "physical activity",
-                "primary outcome measure",
-                "psychological distress",
-                "sleep hygiene",
-                "stress"
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840791/newby_2025_oi_251112_1761324844.41019.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251112t1_1761324844.75129.png?Expires=2147483647&Signature=VS1aORBaM2ptSB8ZvJXpeqO~ZniULL6BZDMNv71jxUrgS3oERNcDJgMS-FkQjzxiQW4nkacEJ8FWIhOa11UEJC7Bane61JFjIU~sWAE2TSyz~SY9dAYFvIk4~R1txm0XNT-~FVTy4i~0oqOnTl5JejhIQfu41DZ95tJgY0NREFr5h7iabU60Ix9zlz2g6bmTVWqyfi6UIA27Q2TyH7mwSV41efzoQMucqgcs6-uYxIz24SwHEcPpTwqqWbBbIsbnAJcDYCieDBpDQHu9QjQ2iUrXEDaSGBtkBR6KyGmARNO3ixocy9zaxUeS2eo44rLvw3RE8YtdwI-9gWlYbdWuFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
