@@ -4,63 +4,60 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
-            "title": "Digital Detection of Dementia in Primary Care: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial evaluates the effectiveness of an approach combining the Quick Dementia Rating System and Passive Digital Marker machine learning algorithm for the detection of Alzheimer disease and other related dementias in primary care.",
-            "content_html": "<h3>Importance</h3><p>Detection of Alzheimer disease and related dementias (ADRD) is a challenge in primary care settings. The Quick Dementia Rating System (QDRS) and the Passive Digital Marker (PDM) were developed as 2 scalable tools for early detection of ADRD. The QDRS is a patient-reported outcome measure, while the PDM is a machine learning algorithm that uses electronic health record (EHR) data. Both can be embedded in the EHR for ease of use.</p><h3>Objective</h3><p>To evaluate the effect of the combined approach of QDRS plus PDM in improving the annual rate of new documented ADRD diagnoses in primary care practices.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial was performed between July 2, 2022, and July 1, 2024. Nine federally qualified primary health care clinics in Indianapolis, Indiana, were randomized to usual care (no routine screening for ADRD), PDM only, or QDRS plus PDM. Participants were treated as per the randomization arm. Participants included adults 65 years and older, without a diagnosis of mild cognitive impairment, dementia, or severe mental illness. Data analysis was based on intention to treat and was performed between November 1, 2024, and August 20, 2025.</p><h3>Intervention</h3><p>Randomization of clinic to usual care, PDM only, or QDRS plus PDM.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was 12-month cumulative incidence of ADRD diagnoses; the secondary outcome was any ADRD diagnostic workup, such as laboratory tests, neuropsychological testing, or brain imaging.</p><h3>Results</h3><p>The study included 5325 patients (mean [SD] age, 71.1\u2009[5.9] years), 3312 (62.2%) of whom were female. Compared with the usual care clinics (12-month incidence, 213 of 1724 [12.4%]), the odds of an incident ADRD diagnosis were higher in the clinics randomized to QDRS plus PDM (12-month incidence, 355 of 2301 [15.4%]; adjusted odds ratio [AOR],\u20091.31; 95% CI, 1.05-1.64) but not the clinics randomized to PDM only (12-month incidence, 134 of 1300 [10.3%]; AOR,\u20090.84; 95% CI, 0.63-1.11]). Compared with the usual care clinics (12-month incidence, 500 of 1724 [29.0%]), the odds of ADRD diagnostic assessments were higher in the QDRS plus PDM clinics (12-month incidence, 844 of 2301 [36.7%]; AOR,\u20091.41; 95% CI, 1.12-1.77) but not the PDM clinics (12-month incidence, 362 of 1300 [27.8%]; AOR,\u20090.94; 95% CI, 0.72-1.22).</p><h3>Conclusions and Relevance</h3><p>This randomized clinical trial found that the combined approach was effective at scale for the early detection of ADRD in primary care settings. This is an important feature in busy primary care settings that can benefit both the health care system and patients.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05231954</p>",
-            "date_published": "2025-11-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "title": "Applying Clinical Licensure Principles to Artificial Intelligence",
+            "summary": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "content_text": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Malaz A. Boustani, MD, MPH"
+                    "name": "Eve Rittenberg, MD, MA"
                 }
             ],
             "tags": [
-                "alzheimer's disease",
-                "dementia",
-                "early diagnosis",
-                "machine learning algorithms",
-                "patient self-report",
-                "primary health care",
-                "screening procedure"
+                "artificial intelligence",
+                "licensure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841183/boustani_2025_oi_251152_1762199944.67884.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840945/jamainternal_rittenberg_2025_ed_250012_1762276265.63723.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251152f1_1762199944.89692.png?Expires=2147483647&Signature=DCmrf-JvUjZVwokvltqz1DFGNNRFW4v4Rd~UyhgGJQog5QYJDBeFoOD522x1sW6Kpi98vI5pQx7PulPhb-qeteTv~oGO-~UwmjAJLbx1NzStR1Oa4YrZysYvg2cw8sSAyEdg7hyrLr0ASJ20pR~40mcG4XpEaF5owF5CnEcj~PwSj8H0AD3ijvn4D6vcJvMuHs9pjdb69poVCc4OzKDjnAhs0UZyUgvGAXwemfH4A3o0psSssjKgwT2I6fYyCMegyfFlQ1TQ7QzXIw5~jawAhYFHQXfLjaqNRvg1YNcQsWkVWYgiIv4pVqdcfGhzs7bZii97RbyynQAITyDfiWsDrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840621",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840621",
-            "title": "Prediction of Cardiopulmonary Resuscitation Outcomes for Arrest in Surgical Settings",
-            "summary": "This prognostic study generates and internally validates predictive models for 30-day mortality and nonhome discharge using routinely available preoperative data.",
-            "content_html": "<h3>Importance</h3><p>Perioperative cardiac arrest and cardiopulmonary resuscitation (CPR) are associated with significant morbidity and mortality. Despite a growing focus on goal-concordant surgical care and longstanding emphasis on preoperative code status discussions, clinicians lack tools to individualize risk estimates and inform shared decision-making (SDM) regarding perioperative CPR.</p><h3>Objective</h3><p>To generate and internally validate predictive models for 30-day mortality and nonhome discharge using routinely available preoperative data.</p><h3>Design, Setting, and Participants</h3><p>A prospective, multicenter, prognostic study of patients within the American College of Surgeons (ACS)-National Surgical Quality Improvement Program (NSQIP), including nearly 700 participating hospitals in the US, from January 1, 2012, through December 31, 2023. Follow-up duration was 30 days. Seven machine learning models were developed using 10-fold cross validation. Participants were patients aged 18 years or older undergoing noncardiac surgery who underwent CPR on the day of surgery.</p><h3>Exposures</h3><p>Thirty-three preoperative sociodemographic, clinical, laboratory, and procedural variables were evaluated for their association with 30-day mortality and nonhome discharge.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was 30-day mortality following CPR. The secondary outcome was nonhome discharge among survivors admitted from home. Performance was evaluated using area under the receiver operating characteristic curve (AUROC), accuracy, sensitivity, specificity, positive predictive value, negative predictive value, and calibration (Brier score and calibration curves). Clinical utility was evaluated using Shapley additive values (SHAP) decision curve analysis (DCA).</p><h3>Results</h3><p>Among 6405 patients (median [IQR] age 69 [60-78], 3572 [55.8%] men, 860 [13.4%] Black, 4343 [67.8%] White, and 261 [4.1%] another racial category, including American Indian or Alaska Native, Asian, and Native Hawaiian or Other Pacific Islander), 3710 (57.9%) died within 30 days. The extreme gradient boosting model (CPR Outcome Prediction for Arrest in Surgical Settings [COMPASS]) achieved the best performance (AUROC for mortality\u2009=\u20090.80; 95 % CI, 0.78-0.82; accuracy\u2009=\u20090.73; 95% CI, 0.71-0.75; sensitivity\u2009=\u20090.77; 95% CI, 0.74-0.79; specificity\u2009=\u20090.68; 95% CI, 0.65-0.71; Brier score\u2009=\u20090.18). Among 2478 survivors admitted from home, 822 (33.2%) were discharged to a facility. For nonhome discharge, extreme gradient boosting demonstrated an AUROC of 0.78 (95 % CI, 0.74-0.82), accuracy of 0.76; and Brier score of 0.17. SHAP analysis identified American Society of Anesthesiologists status, case urgency, and frailty as key predictors. DCA indicated greater net benefit of extreme gradient boosting over default strategies (ie, treat all or treat none) across wide threshold ranges.</p><h3>Conclusions and Relevance</h3><p>In this prospective prognostic study of outcomes following perioperative CPR, extreme gradient boosting generated individualized predictions of outcomes following perioperative CPR that may inform prevention strategies and goal-concordant surgical care.</p>",
-            "date_published": "2025-10-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840791",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840791",
+            "title": "Brief Digital Interventions for Psychological Distress: An AI-Enhanced Response-Adaptive Randomized Clinical",
+            "summary": "This randomized clinical trial compares the effectiveness of 3 brief smartphone app\u2013based interventions (physical activity, mindfulness, and sleep hygiene) or an active control (ecological momentary assessment) for reducing mild, moderate, and severe psychological distress among college students.",
+            "content_html": "<h3>Importance</h3><p>A large proportion of college students report experiencing psychological distress. Smartphone app\u2013based interventions may alleviate distress, but their effectiveness across severity levels is unclear. Artificial intelligence (AI)\u2013enhanced response-adaptive randomized clinical trials may offer an efficient method to evaluate competing interventions.</p><h3>Objective</h3><p>To compare the effectiveness of 3 brief, 2-week self-guided smartphone application\u2013based interventions (physical activity, mindfulness, sleep hygiene) or an active control (ecological momentary assessment [EMA]) for reducing psychological distress among college students with mild, moderate, or severe distress.</p><h3>Design, Setting, and Participants</h3><p>This population-based AI-enhanced response-adaptive randomized clinical trial included 1282 participants with distress scores of 20 or more on the 10-item Kessler Psychological Distress Scale in 12 minitrials from November 9, 2021, with final follow-up on February 17, 2023. Participants\u2019 distress was categorized as mild, moderate, or severe based on their normalized 21-item Depression Anxiety Stress Scale (DASS-21) scores at screening.</p><h3>Interventions</h3><p>After a 2-week onboarding period of daily EMA, participants were assigned by a contextual multi-armed bandit algorithm to 1 of 4 two-week self-guided app interventions: physical activity, mindfulness, sleep hygiene, or a control that continued EMA.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was change in psychological distress (DASS-21 total score) from week 2 (before intervention) to week 4 (after intervention). The primary end point was after the intervention (4 weeks). Secondary outcomes included DASS-21 subscale scores, self-reported physical activity, mindfulness, sleep quality, and app engagement, usability, and satisfaction. Analysis was performed on an intention-to-treat basis.</p><h3>Results</h3><p>A total of 1282 individuals (mean [SD] age, 23.5 [5.2] years; 950 women [74.1%]) participated: physical activity (n\u2009=\u2009305), mindfulness (n\u2009=\u2009453), sleep hygiene (n\u2009=\u2009431), or a control that continued EMA (n\u2009=\u200993). Among 349 participants with severe distress, physical activity (n\u2009=\u200979) and mindfulness (n\u2009=\u2009180) were significantly more effective than the EMA control (n\u2009=\u200929) in reducing DASS-21 total scores (physical activity vs control: standardized mean difference [SMD], 0.62 [95% CI, 0.23-1.02]; mindfulness vs control: SMD, 0.53 [95% CI, 0.19-0.87]) and sleep hygiene (n\u2009=\u200961) (physical activity vs sleep hygiene: SMD, 0.50 [95% CI, 0.16-0.84]; mindfulness vs sleep hygiene: SMD, 0.41 [95% CI, 0.13-0.69]). Among 494 participants with mild distress, physical activity (n\u2009=\u2009161) and sleep hygiene (n\u2009=\u2009224) were significantly more effective than control (n\u2009=\u200937) in reducing DASS-21 total scores (physical activity vs control: SMD, 0.58 [95% CI, 0.30-0.86]; sleep hygiene vs control: SMD, 0.47 [95% CI, 0.20-0.73]). No significant group differences were observed among participants with moderate distress (n\u2009=\u2009439).</p><h3>Conclusions and Relevance</h3><p>In this AI-enhanced response-adaptive randomized clinical trial among college students, physical activity and mindfulness were most effective for severe distress, while physical activity and sleep hygiene were most effective for mild distress. These findings can guide personalized mental health interventions for college students. This trial improved efficiency by minimizing control group allocation but had reduced power to detect significant group differences.</p><h3>Trial Registration</h3><p>http://anzctr.org.auIdentifier:ACTRN12621001223820</p>",
+            "date_published": "2025-10-31T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Lucy Chen, MD, PhD"
+                    "name": "Jill Newby, PhD"
                 }
             ],
             "tags": [
-                "calibration",
-                "cardiopulmonary resuscitation",
-                "frailty",
-                "machine learning",
-                "operative surgical procedures",
-                "perioperative cardiac arrest",
-                "perioperative care",
-                "preoperative care"
+                "artificial intelligence",
+                "college student",
+                "ecological momentary assessment",
+                "mindfulness",
+                "mobile applications",
+                "physical activity",
+                "primary outcome measure",
+                "psychological distress",
+                "sleep hygiene",
+                "stress"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840621/chen_2025_oi_251095_1761061296.2962.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840791/newby_2025_oi_251112_1761324844.41019.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251095t1_1761061296.48807.png?Expires=2147483647&Signature=t2rDtas34Ymwd~KpTm7iK2ECFtIzov589m2yejfCQ1NLPIAy5qBaZDG8dJLDJGwhz1IUzJ7SSvJqdLWglmXGms4h662PPbSzgpKV8YwZJ8liNgkwBHBRXjnIwNaK15efF8uQbwXvVI6jXK5Hbwarqn0xROv-54gxMzdORSd8iks6unLoDZ-vrpQB2A3zcZTb5G8DQmodHlOixBgiwgFMAeocAPS5Zv~1bwhKSHvZsXaycgvuKlC9zknXQSllgXAbIdvC08IHZHX7gy4fWBMQy4fVfxEaWpn2iESYvtvr7lbRJgztcr8iqa5qUt4CX1ucZS~FZzSwTM4LBwjro-MU~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939703/zoi251112t1_1761324844.75129.png?Expires=2147483647&Signature=VS1aORBaM2ptSB8ZvJXpeqO~ZniULL6BZDMNv71jxUrgS3oERNcDJgMS-FkQjzxiQW4nkacEJ8FWIhOa11UEJC7Bane61JFjIU~sWAE2TSyz~SY9dAYFvIk4~R1txm0XNT-~FVTy4i~0oqOnTl5JejhIQfu41DZ95tJgY0NREFr5h7iabU60Ix9zlz2g6bmTVWqyfi6UIA27Q2TyH7mwSV41efzoQMucqgcs6-uYxIz24SwHEcPpTwqqWbBbIsbnAJcDYCieDBpDQHu9QjQ2iUrXEDaSGBtkBR6KyGmARNO3ixocy9zaxUeS2eo44rLvw3RE8YtdwI-9gWlYbdWuFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
