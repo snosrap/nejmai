@@ -4,33 +4,28 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "title": "Emerging Artificial Intelligence Technologies for Risk Assessment and Management in Acute Myeloid Leukemia: A",
-            "summary": "This review examines the use of artificial intelligence in managing acute myeloid leukemia.",
-            "content_html": "<h3>Importance</h3><p>Acute myeloid leukemia (AML) is a severe hematologic cancer with complex genetic heterogeneity necessitating personalized treatment approaches. Artificial intelligence (AI) technologies may revolutionize risk stratification, diagnosis enhancement, and treatment planning in addressing critical gaps in AML management, particularly in low-resource health care environments.</p><h3>Observations</h3><p>This narrative review synthesizes existing AI applications in 3 primary areas of AML management. Machine learning algorithms integrating clinical, cytogenetic, and molecular data demonstrate greater prognostic accuracy than conventional European LeukemiaNet (ELN) guidelines. Deep learning approaches to image analysis yield excellent results for AML subtype identification from bone marrow smears (area under the receiver operating characteristic curve [AUROC]: 0.97) and genetic variant prediction (eg,<i>NPM1</i>status [AUROC: 0.92]). AI-driven genomic analysis reveals novel prognostic signatures and therapeutic targets through advanced pattern recognition, with high-dimensional machine learning achieving greater than 99% accuracy in AML classification from transcriptomic data. Explainable AI models overcome the black box limitation through interpretable algorithms with Shapley Additive Explanations values and local interpretable model-agnostic explanation techniques. Federated learning approaches enable multi-institutional collaboration with protection of patient privacy, with 96.5% accuracy in leukemia classification on heterogeneous datasets.</p><h3>Conclusions and Relevance</h3><p>AI technologies hold potential to improve AML treatment through enhanced risk stratification, early detection capabilities, and individualized treatment optimization. The transition toward explainable AI models is essential to clinical readiness, with federated learning architectures resolving data scarcity concerns. Seamless integration requires harmonized data standards, robust regulatory frameworks, and equitable access to technology to fully realize the transformative potential of AI in improving outcomes for patients with AML globally.</p>",
-            "date_published": "2025-11-06T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
+            "title": "Extracting Symptoms of Sepsis From Admission Notes With LLM\u2014Maybe AI Knows Something That We Do Not",
+            "summary": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
+            "content_text": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
+            "date_published": "2025-10-24T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Mohammad Amin Ansarian, MBBS"
+                    "name": "Jonathan D. Baghdadi, MD, PhD"
                 }
             ],
             "tags": [
-                "acute",
-                "artificial intelligence",
-                "early diagnosis",
-                "leukemia",
-                "myelocytic",
-                "science of genetics",
-                "technology"
+                "large language models",
+                "sepsis"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2840876/jamaoncology_ansarian_2025_rv_250008_1762279386.30274.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840529/baghdadi_2025_ic_250272_1760718028.85344.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/crv250008t1_1762279386.46781.png?Expires=2147483647&Signature=LyVK5Bwm5jewTsfvZ1y0BAv97GGHSMxH2mimMbAHW9UjeyvHUjhtuvYdZBaPo1ayZe037C3-ioaNH0H61WH4eU-MmHNKx8HYOIH0CoDRLTSk-NoAcbmlU~KLzCcmAud6nuRSTbMWLiihFskHdmsT0iEfgsaUXg2CROhIgDW72Q-YtiKDpwBtrrdpHwLXTozXOI1eVjVw3GWfQ84RsGZrFo4kzIDOQW~5rnMcFLU1nS-oYuCDVHHmoMCKBh7O8L3bGIN3yMNAKP2GYaquXGY4F39G9M7-KfL6meUUID7KDMuaHXbyh3Y3QkYqpmMaR93Xr1aBA8~Wz2f495BTSe95VQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
