@@ -4,58 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "title": "Extracting Symptoms of Sepsis From Admission Notes With LLM\u2014Maybe AI Knows Something That We Do Not",
-            "summary": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "content_text": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "date_published": "2025-10-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jonathan D. Baghdadi, MD, PhD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "large language models",
-                "sepsis"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840529/baghdadi_2025_ic_250272_1760718028.85344.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
-            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
-            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
-            "date_published": "2025-05-08T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Robert N. Weinreb, MD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "delivery of health care",
-                "diagnostic imaging of retina",
-                "eye",
-                "health services accessibility",
-                "ophthalmic examination and evaluation",
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
                 "screening procedure",
-                "technology"
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -943,6 +919,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
