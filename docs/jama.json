@@ -4,63 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
-            "date_published": "2025-04-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "title": "Detecting Transthyretin Cardiac Amyloidosis With Artificial Intelligence: A Nonrandomized Clinical Trial",
+            "summary": "This nonrandomized clinical trial reports the development and evaluation of an artificial intelligence\u2013augmented screening program designed to detect transthyretin cardiac amyloidosis.",
+            "content_html": "<h3>Importance</h3><p>Transthyretin amyloid cardiomyopathy (ATTR-CM) is underdiagnosed despite expanding treatment options.</p><h3>Objective</h3><p>To develop and evaluate an artificial intelligence (AI)\u2013augmented clinical program for ATTR-CM detection.</p><h3>Design, Setting, and Participants</h3><p>This nonrandomized clinical trial involved constructing an AI model, ATTRACTnet, using electrocardiogram waveforms, echocardiographic measurements, demographics, and diagnosis codes for orthopedic manifestations of amyloidosis. A single-system, multisite, single-arm, open-label trial was conducted to evaluate its real-world performance. The model was trained and validated at a large academic referral site for ATTR-CM with external validation at an academic site. The trial was conducted as a single-system, multisite trial. Patients with left ventricular (LV) wall thickness 12 mm or more and an ATTRACTnet score 0.5 or higher were eligible. Exclusions included prior ATTR-CM testing, hypertrophic cardiomyopathy, expected life span less than 1 year, nursing home residence, advanced dementia, or LV wall thickness less than 14 mm explained by uncontrolled hypertension or moderate/severe aortic stenosis.</p><h3>Intervention</h3><p>Eligible patients were notified and offered nuclear scintigraphy testing, monoclonal protein testing, and follow-up care on agreement from the treating physician.</p><h3>Main Outcomes and Measure</h3><p>The primary outcome was a diagnosis of ATTR-CM by consensus criteria. ATTR-CM testing positivity was compared with historical and contemporary controls.</p><h3>Results</h3><p>ATTRACTnet was developed in an internal test set of 799 patients (mean [SD] age, 75.1 [11.1] years; 516 [64.7%] male and 283 [35.3%] female) using 5-fold cross-validation with an additional external test set of 422 patients. It had good discrimination for ATTR-CM detection with an area under the receiver operator characteristic curve of 0.85 (5-fold cross-validation, 0.77-0.85) in the internal set and 0.82 (95% CI, .81-0.83) in the external test set with similar performance in Hispanic, non-Hispanic Black, and non-Hispanic White patients. A total of 1471 patients were identified with positive AI model scores 0.5 or more during the study period, with 256 eligible patients who met study criteria. Of these patients, 50 underwent amyloidosis testing after physician and patient approval; 24 (48%) were diagnosed with ATTR-CM, and 21 (88%) initiated treatment within 3 months. The positivity rate was more than 2.8 times higher than historical controls (15.3%; 95% CI, 13.1%-17.9%;<i>P</i>\u2009&lt;\u2009.001), with an 18% relative increase in new diagnoses vs the prior year.</p><h3>Conclusions and Relevance</h3><p>AI-augmented screening may improve ATTR-CM detection and identify patients who are missed by usual care. Prospective randomized trials are needed to determine if outcomes are improved.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06469372</p>",
+            "date_published": "2025-11-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Sneha S. Jain, MD, MBA"
                 }
             ],
             "tags": [
-                "behavior therapy",
-                "counseling risk factor reduction and behavior change intervention",
-                "infant",
-                "patient referral",
-                "pregnancy",
-                "primary health care",
-                "united states preventive services task force"
+                "artificial intelligence",
+                "cardiac amyloidosis",
+                "prealbumin",
+                "radionuclide imaging",
+                "screening procedure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841169/jamacardiology_jain_2025_oi_250070_1762193484.23174.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250070f1_1762193484.45081.png?Expires=2147483647&Signature=QappskipclNFJYH~JwuvU36vkR298cgGAIGa5JuQuHQ4Usxvt4peXae8SbIjvYv~dq6GhUZnAYF84qeJLjujkmWHPpMEJuALPWVH5vAw7G914nrAltioUOg4rcNAsg9HzD-J8KYzKLqZPVSi2M~f55fJZnZ2zAENLs0-b~r8rtBB1PiVS310dUz7slH19DeJNpl5xLA932H2ZZqcj72NEq1IoGZjjv4ZMTpd~~kyBq8-iArs-1Y7DQG3cJZIxiUlp5iFTFnVn0cKGibkTlQHqFqzI1cHhBXDdXH9OnMZtawE3lmj-Mj~E4BnDm5mM~ZbUuQl4SwDYByFQH33II~GEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
+            "title": "Accuracy of Artificial Intelligence vs Professionally Translated Discharge Instructions",
+            "summary": "This comparative effectiveness analysis describes the process of implementation for artificial intelligence\u2013based translation and investigates its accuracy for translating discharge instructions into Simplified Chinese, Somali, Spanish, and Vietnamese.",
+            "content_html": "<h3>Importance</h3><p>Patients using languages other than English are a group at risk of poor health outcomes and encounter barriers to access of translated written materials. Although artificial intelligence (AI) may offer an opportunity to improve access, few studies have evaluated the accuracy and safety of AI translation for clinical care under routine practice conditions.</p><h3>Objective</h3><p>To investigate the accuracy of AI translation compared with professional human translation of patient-specific issued pediatric inpatient discharge instructions.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness analysis compared translations by a neural machine translation model vs professional translators using patient-specific pediatric inpatient discharge instructions received by families between May 18, 2023, and May 18, 2024, at a single center academic pediatric hospital. Instructions were translated to Simplified Chinese, Somali, Spanish, and Vietnamese by professional translators and the Azure AI system and then broken into scoring sections. Two professional translators per language evaluated translations (blinded to source) on an established 5-point scale for fluency, adequacy, meaning, and error severity, with 1 indicating worst performance and 5 indicating best performance.</p><h3>Exposure</h3><p>AI vs professional translation.</p><h3>Main Outcome and Measure</h3><p>Quality of discharge instruction translation, including fluency, adequacy, meaning, and severity of errors.</p><h3>Results</h3><p>A total of 148 sections from 34 discharge instructions were analyzed. When considering all 4 languages together, average fluency, adequacy, and meaning were lower among AI compared with professional human translations. Among all tested languages, mean (SD) fluency for AI translations was 2.98 (1.12) compared with 3.90 (0.96) for professional translations (difference, 0.92; 95% CI, 0.83-1.01;<i>P</i>\u2009&lt;\u2009.001), adequacy was 3.81 (1.14) compared with 4.56 (0.70) (difference, 0.74; 95% CI, 0.65-0.83;<i>P</i>\u2009&lt;\u2009.001), meaning was 3.38 (1.15) compared with 4.28 (0.84) (difference, 0.90; 95% CI, 0.80-0.99;<i>P</i>\u2009&lt;\u2009.001), and error severity was 3.53 (1.28) compared with 4.48 (0.88) (difference, 0.95; 95% CI, 0.85-1.06;<i>P</i>\u2009&lt;\u2009.001). Compared with professional translations, the Spanish AI translations were noninferior in adequacy (difference, 0.08; 95% CI, \u22120.02 to 0.19) and error severity (difference, 0.03; 95% CI, \u22120.09 to 0.14) but inferior in fluency (difference, 0.38; 95% CI, 0.23-0.53) and just crossed the inferiority threshold in meaning (difference, 0.08; 95% CI, \u22120.04 to 0.20). The Chinese, Vietnamese, and Somali AI translations were inferior to the professional translations across all metrics, with the greatest differences for Somali.</p><h3>Conclusions and Relevance</h3><p>In this comparative effectiveness analysis of AI- vs professionally translated issued discharge instructions, AI-translated instructions performed similarly for Spanish but worse for other languages tested. Validation and clinical implementation of AI-based translation will require special attention to languages of lesser diffusion to prevent creating new inequities.</p>",
+            "date_published": "2025-09-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Melissa Martos, MD, MS"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
-                "screening procedure",
-                "united states preventive services task force"
+                "artificial intelligence",
+                "comparative effectiveness research",
+                "hospital discharge instructions (treatment)",
+                "somali language"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839035/martos_2025_oi_250911_1757519918.02934.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250911t1_1757519918.19076.png?Expires=2147483647&Signature=UBEvR4UyNh5NpgpSY7SqYjqdCi1toBWwnCPp~H4pUa~5jzHnhH5B9FBI-1eFTFk9Vvgg6GRttIXCRRiykMjgWhM-8fmLzSQEx7xVWvxTubHMkl1ecyno2M2AbS~HjC1j6A6mylRyjMut1wX1GGe8UZ-dm5OSCW0LoLdy9jehISDSpaI~7Mvkq6kbMzPjb5Y7BbcuCvLFOnBdneiN8RuVpViOu5FcKR1pFK3IruYBzBpE98gHsnPc12vB1RSZVBjbPZoKeteK3I3riTyAQq5CXS3Smkb2eWuWOnV5f-QyxH8v3jKOZAJRDWos9fKTH4hKv-lutWFaoVVbXnOpnesuxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
