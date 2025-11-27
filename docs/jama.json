@@ -4,58 +4,55 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "title": "Emerging Artificial Intelligence Technologies for Risk Assessment and Management in Acute Myeloid Leukemia: A",
-            "summary": "This review examines the use of artificial intelligence in managing acute myeloid leukemia.",
-            "content_html": "<h3>Importance</h3><p>Acute myeloid leukemia (AML) is a severe hematologic cancer with complex genetic heterogeneity necessitating personalized treatment approaches. Artificial intelligence (AI) technologies may revolutionize risk stratification, diagnosis enhancement, and treatment planning in addressing critical gaps in AML management, particularly in low-resource health care environments.</p><h3>Observations</h3><p>This narrative review synthesizes existing AI applications in 3 primary areas of AML management. Machine learning algorithms integrating clinical, cytogenetic, and molecular data demonstrate greater prognostic accuracy than conventional European LeukemiaNet (ELN) guidelines. Deep learning approaches to image analysis yield excellent results for AML subtype identification from bone marrow smears (area under the receiver operating characteristic curve [AUROC]: 0.97) and genetic variant prediction (eg,<i>NPM1</i>status [AUROC: 0.92]). AI-driven genomic analysis reveals novel prognostic signatures and therapeutic targets through advanced pattern recognition, with high-dimensional machine learning achieving greater than 99% accuracy in AML classification from transcriptomic data. Explainable AI models overcome the black box limitation through interpretable algorithms with Shapley Additive Explanations values and local interpretable model-agnostic explanation techniques. Federated learning approaches enable multi-institutional collaboration with protection of patient privacy, with 96.5% accuracy in leukemia classification on heterogeneous datasets.</p><h3>Conclusions and Relevance</h3><p>AI technologies hold potential to improve AML treatment through enhanced risk stratification, early detection capabilities, and individualized treatment optimization. The transition toward explainable AI models is essential to clinical readiness, with federated learning architectures resolving data scarcity concerns. Seamless integration requires harmonized data standards, robust regulatory frameworks, and equitable access to technology to fully realize the transformative potential of AI in improving outcomes for patients with AML globally.</p>",
-            "date_published": "2025-11-06T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "title": "Detecting Transthyretin Cardiac Amyloidosis With Artificial Intelligence: A Nonrandomized Clinical Trial",
+            "summary": "This nonrandomized clinical trial reports the development and evaluation of an artificial intelligence\u2013augmented screening program designed to detect transthyretin cardiac amyloidosis.",
+            "content_html": "<h3>Importance</h3><p>Transthyretin amyloid cardiomyopathy (ATTR-CM) is underdiagnosed despite expanding treatment options.</p><h3>Objective</h3><p>To develop and evaluate an artificial intelligence (AI)\u2013augmented clinical program for ATTR-CM detection.</p><h3>Design, Setting, and Participants</h3><p>This nonrandomized clinical trial involved constructing an AI model, ATTRACTnet, using electrocardiogram waveforms, echocardiographic measurements, demographics, and diagnosis codes for orthopedic manifestations of amyloidosis. A single-system, multisite, single-arm, open-label trial was conducted to evaluate its real-world performance. The model was trained and validated at a large academic referral site for ATTR-CM with external validation at an academic site. The trial was conducted as a single-system, multisite trial. Patients with left ventricular (LV) wall thickness 12 mm or more and an ATTRACTnet score 0.5 or higher were eligible. Exclusions included prior ATTR-CM testing, hypertrophic cardiomyopathy, expected life span less than 1 year, nursing home residence, advanced dementia, or LV wall thickness less than 14 mm explained by uncontrolled hypertension or moderate/severe aortic stenosis.</p><h3>Intervention</h3><p>Eligible patients were notified and offered nuclear scintigraphy testing, monoclonal protein testing, and follow-up care on agreement from the treating physician.</p><h3>Main Outcomes and Measure</h3><p>The primary outcome was a diagnosis of ATTR-CM by consensus criteria. ATTR-CM testing positivity was compared with historical and contemporary controls.</p><h3>Results</h3><p>ATTRACTnet was developed in an internal test set of 799 patients (mean [SD] age, 75.1 [11.1] years; 516 [64.7%] male and 283 [35.3%] female) using 5-fold cross-validation with an additional external test set of 422 patients. It had good discrimination for ATTR-CM detection with an area under the receiver operator characteristic curve of 0.85 (5-fold cross-validation, 0.77-0.85) in the internal set and 0.82 (95% CI, .81-0.83) in the external test set with similar performance in Hispanic, non-Hispanic Black, and non-Hispanic White patients. A total of 1471 patients were identified with positive AI model scores 0.5 or more during the study period, with 256 eligible patients who met study criteria. Of these patients, 50 underwent amyloidosis testing after physician and patient approval; 24 (48%) were diagnosed with ATTR-CM, and 21 (88%) initiated treatment within 3 months. The positivity rate was more than 2.8 times higher than historical controls (15.3%; 95% CI, 13.1%-17.9%;<i>P</i>\u2009&lt;\u2009.001), with an 18% relative increase in new diagnoses vs the prior year.</p><h3>Conclusions and Relevance</h3><p>AI-augmented screening may improve ATTR-CM detection and identify patients who are missed by usual care. Prospective randomized trials are needed to determine if outcomes are improved.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06469372</p>",
+            "date_published": "2025-11-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Mohammad Amin Ansarian, MBBS"
+                    "name": "Sneha S. Jain, MD, MBA"
                 }
             ],
             "tags": [
-                "acute",
                 "artificial intelligence",
-                "early diagnosis",
-                "leukemia",
-                "myelocytic",
-                "science of genetics",
-                "technology"
+                "cardiac amyloidosis",
+                "prealbumin",
+                "radionuclide imaging",
+                "screening procedure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2840876/jamaoncology_ansarian_2025_rv_250008_1762279386.30274.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841169/jamacardiology_jain_2025_oi_250070_1762193484.23174.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/crv250008t1_1762279386.46781.png?Expires=2147483647&Signature=LyVK5Bwm5jewTsfvZ1y0BAv97GGHSMxH2mimMbAHW9UjeyvHUjhtuvYdZBaPo1ayZe037C3-ioaNH0H61WH4eU-MmHNKx8HYOIH0CoDRLTSk-NoAcbmlU~KLzCcmAud6nuRSTbMWLiihFskHdmsT0iEfgsaUXg2CROhIgDW72Q-YtiKDpwBtrrdpHwLXTozXOI1eVjVw3GWfQ84RsGZrFo4kzIDOQW~5rnMcFLU1nS-oYuCDVHHmoMCKBh7O8L3bGIN3yMNAKP2GYaquXGY4F39G9M7-KfL6meUUID7KDMuaHXbyh3Y3QkYqpmMaR93Xr1aBA8~Wz2f495BTSe95VQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250070f1_1762193484.45081.png?Expires=2147483647&Signature=QappskipclNFJYH~JwuvU36vkR298cgGAIGa5JuQuHQ4Usxvt4peXae8SbIjvYv~dq6GhUZnAYF84qeJLjujkmWHPpMEJuALPWVH5vAw7G914nrAltioUOg4rcNAsg9HzD-J8KYzKLqZPVSi2M~f55fJZnZ2zAENLs0-b~r8rtBB1PiVS310dUz7slH19DeJNpl5xLA932H2ZZqcj72NEq1IoGZjjv4ZMTpd~~kyBq8-iArs-1Y7DQG3cJZIxiUlp5iFTFnVn0cKGibkTlQHqFqzI1cHhBXDdXH9OnMZtawE3lmj-Mj~E4BnDm5mM~ZbUuQl4SwDYByFQH33II~GEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
-            "title": "Advancing Toward Clinical Deployment of AI-Generated Discharge Summaries\u2014Beyond the Bench",
-            "summary": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
-            "content_text": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
-            "date_published": "2025-08-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2841142",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2841142",
+            "title": "Responsible Development of Artificial Intelligence in Surgery",
+            "summary": "This Viewpoint advocates for action to ensure that the use of surgical artificial intelligence adheres to the same ethical principles of safety and transparency that guide surgical practice.",
+            "content_text": "This Viewpoint advocates for action to ensure that the use of surgical artificial intelligence adheres to the same ethical principles of safety and transparency that guide surgical practice.",
+            "date_published": "2025-11-05T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Charumathi Raghu Subramanian, MD"
+                    "name": "James Whitbread, MD"
                 }
             ],
             "tags": [
-                "human placental lactogen",
-                "informatics (discipline)",
-                "large language models"
+                "artificial intelligence",
+                "operative surgical procedures"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837488/raghu_subramanian_2025_ic_250185_1754331303.51111.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2841142/jamasurgery_whitbread_2025_vp_250013_1762283256.22622.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
