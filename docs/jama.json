@@ -4,28 +4,59 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
+            "title": "Development and Validation of a Hybrid Machine Learning Model to Predict Lung Transplant Outcomes",
+            "summary": "This prognostic study uses United Network for Organ Sharing data to develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.",
+            "content_html": "<h3>Importance</h3><p>Long-term survival after a lung transplant remains highly variable, and existing risk stratification tools have limited accuracy, clinical utility, and interpretability.</p><h3>Objective</h3><p>To develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model using United Network for Organ Sharing data to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study used data from a United Network for Organ Sharing\u2013Organ Procurement and Transplantation Network cohort that underwent lung transplants between October 16, 1987, and March 26, 2025. The study included 51\u202f933 adult patients (aged \u226518 years) undergoing their first lung transplant in the US. The data were temporally split into a development cohort (1987-2014; n\u2009=\u200926\u202f682) and a testing cohort (2015-2025; n\u2009=\u200925\u202f251). The development cohort was divided into a training set (n\u2009=\u200924\u202f014) and validation set (n\u2009=\u20092668) for model selection and hyperparameter tuning.</p><h3>Main Outcomes and Measures</h3><p>The outcome was the time to death or retransplant. The model was developed using the AutoScore-Survival framework, which uses a random survival forest for variable selection and Cox proportional hazards regression for scoring. Performance was assessed by discrimination (a time-dependent area under the curve [AUC], the Harrell C-index, and integrated AUC [iAUC]), calibration (plots, slope, observed-to-expected event ratio, and Brier score), and clinical utility (decision curve analysis).</p><h3>Results</h3><p>Among 51\u202f933 recipients (median age, 59 years [5th-95th percentile range, 27-71 years]; 57.6% men), the median follow-up was 8.97 years (95% CI, 8.93-8.99 years), and 31\u202f865 (61.4%) experienced an event. Nine predictors were selected for the final model: length of hospital stay, recipient age, single vs double transplant, posttransplant ventilation support, prior cardiac surgery, creatinine level at transplant, functional status, total bilirubin level, and donor age. In the unseen testing set, the model showed moderate discrimination with an iAUC of 0.61 (95% CI, 0.60-0.63) and a C-index of 0.64 (95% CI, 0.63-0.64). The time-dependent AUC was 0.61 (95% CI, 0.52-0.70) at 1 year, 0.59 (95% CI, 0.53-0.65) at 5 years, and 0.72 (95% CI, 0.55-0.85) at 10 years. The model was well calibrated, and the decision curve analysis demonstrated a consistent net benefit across threshold probabilities.</p><h3>Conclusions and Relevance</h3><p>In this large prognostic study, the interpretable hybrid model provided practical, personalized risk stratification for lung transplant outcomes. With moderate discrimination, good calibration, and clear clinical utility, the model supports shared decision-making and is accessible via a web-based calculator.</p>",
+            "date_published": "2025-11-25T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Gaurav Sharma, PhD, MBA"
+                }
+            ],
+            "tags": [
+                "calibration",
+                "lung transplantation",
+                "machine learning",
+                "organ procurement and transplantation network",
+                "retransplantation",
+                "united network for organ sharing"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841822/sharma_2025_oi_251228_1763504214.31251.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251228f1_1763504214.43895.png?Expires=2147483647&Signature=aky5OodlkWOc9Zx3cK6UJC0XNZIpJQqiFdtr5JYMUAlEk8cHgr~Ero1cpU6ZwZjWoUPZn7nrDRA1eQuwEFnNFVDMpzSOEh6sYSCnTtpO7LFXIjXEEUvJI7y-w0DHbOkVdujfpm-ctose9l3e7KV2SOvr9cSsOhMn6V2patzCI8CMo7p8VOf5Rr6RL7pEPzAEM1MgdHydYoZCTTtji0htME3JQLHmrVp~JkGe-g0MEoDICJ5EBjzM5~8x-MYY-lpuSgaQ9bOE6ndHmLj0jvs~jauwlaoXFHLvb~F3tdrhDrlG3G-0iZsiOHqtBf63eT4UcyRJ9tmeLZJsNplHk1ahZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
+            "title": "Detecting Transthyretin Cardiac Amyloidosis With Artificial Intelligence: A Nonrandomized Clinical Trial",
+            "summary": "This nonrandomized clinical trial reports the development and evaluation of an artificial intelligence\u2013augmented screening program designed to detect transthyretin cardiac amyloidosis.",
+            "content_html": "<h3>Importance</h3><p>Transthyretin amyloid cardiomyopathy (ATTR-CM) is underdiagnosed despite expanding treatment options.</p><h3>Objective</h3><p>To develop and evaluate an artificial intelligence (AI)\u2013augmented clinical program for ATTR-CM detection.</p><h3>Design, Setting, and Participants</h3><p>This nonrandomized clinical trial involved constructing an AI model, ATTRACTnet, using electrocardiogram waveforms, echocardiographic measurements, demographics, and diagnosis codes for orthopedic manifestations of amyloidosis. A single-system, multisite, single-arm, open-label trial was conducted to evaluate its real-world performance. The model was trained and validated at a large academic referral site for ATTR-CM with external validation at an academic site. The trial was conducted as a single-system, multisite trial. Patients with left ventricular (LV) wall thickness 12 mm or more and an ATTRACTnet score 0.5 or higher were eligible. Exclusions included prior ATTR-CM testing, hypertrophic cardiomyopathy, expected life span less than 1 year, nursing home residence, advanced dementia, or LV wall thickness less than 14 mm explained by uncontrolled hypertension or moderate/severe aortic stenosis.</p><h3>Intervention</h3><p>Eligible patients were notified and offered nuclear scintigraphy testing, monoclonal protein testing, and follow-up care on agreement from the treating physician.</p><h3>Main Outcomes and Measure</h3><p>The primary outcome was a diagnosis of ATTR-CM by consensus criteria. ATTR-CM testing positivity was compared with historical and contemporary controls.</p><h3>Results</h3><p>ATTRACTnet was developed in an internal test set of 799 patients (mean [SD] age, 75.1 [11.1] years; 516 [64.7%] male and 283 [35.3%] female) using 5-fold cross-validation with an additional external test set of 422 patients. It had good discrimination for ATTR-CM detection with an area under the receiver operator characteristic curve of 0.85 (5-fold cross-validation, 0.77-0.85) in the internal set and 0.82 (95% CI, .81-0.83) in the external test set with similar performance in Hispanic, non-Hispanic Black, and non-Hispanic White patients. A total of 1471 patients were identified with positive AI model scores 0.5 or more during the study period, with 256 eligible patients who met study criteria. Of these patients, 50 underwent amyloidosis testing after physician and patient approval; 24 (48%) were diagnosed with ATTR-CM, and 21 (88%) initiated treatment within 3 months. The positivity rate was more than 2.8 times higher than historical controls (15.3%; 95% CI, 13.1%-17.9%;<i>P</i>\u2009&lt;\u2009.001), with an 18% relative increase in new diagnoses vs the prior year.</p><h3>Conclusions and Relevance</h3><p>AI-augmented screening may improve ATTR-CM detection and identify patients who are missed by usual care. Prospective randomized trials are needed to determine if outcomes are improved.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06469372</p>",
+            "date_published": "2025-11-10T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Sneha S. Jain, MD, MBA"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "health policy"
+                "cardiac amyloidosis",
+                "prealbumin",
+                "radionuclide imaging",
+                "screening procedure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841169/jamacardiology_jain_2025_oi_250070_1762193484.23174.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250070f1_1762193484.45081.png?Expires=2147483647&Signature=QappskipclNFJYH~JwuvU36vkR298cgGAIGa5JuQuHQ4Usxvt4peXae8SbIjvYv~dq6GhUZnAYF84qeJLjujkmWHPpMEJuALPWVH5vAw7G914nrAltioUOg4rcNAsg9HzD-J8KYzKLqZPVSi2M~f55fJZnZ2zAENLs0-b~r8rtBB1PiVS310dUz7slH19DeJNpl5xLA932H2ZZqcj72NEq1IoGZjjv4ZMTpd~~kyBq8-iArs-1Y7DQG3cJZIxiUlp5iFTFnVn0cKGibkTlQHqFqzI1cHhBXDdXH9OnMZtawE3lmj-Mj~E4BnDm5mM~ZbUuQl4SwDYByFQH33II~GEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -913,33 +944,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
