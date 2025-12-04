@@ -4,29 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2841174",
-            "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2841174",
-            "title": "Generative Psychometrics\u2014An Emerging Frontier in Mental Health Measurement",
-            "summary": "This Viewpoint discusses the use of generative artificial intelligence to measure mental health.",
-            "content_text": "This Viewpoint discusses the use of generative artificial intelligence to measure mental health.",
-            "date_published": "2025-11-19T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Isaac R. Galatzer-Levy, PhD"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "generative artificial intelligence",
-                "mental health",
-                "psychometrics"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2841174/jamapsychiatry_galatzerlevy_2025_vp_250030_1762198846.49174.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Psychiatry.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
