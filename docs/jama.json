@@ -4,61 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
-            "title": "Software as a Medical Practitioner\u2014Is It Time to License Artificial Intelligence?",
-            "summary": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
-            "content_text": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
-            "date_published": "2025-11-17T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2841174",
+            "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2841174",
+            "title": "Generative Psychometrics\u2014An Emerging Frontier in Mental Health Measurement",
+            "summary": "This Viewpoint discusses the use of generative artificial intelligence to measure mental health.",
+            "content_text": "This Viewpoint discusses the use of generative artificial intelligence to measure mental health.",
+            "date_published": "2025-11-19T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Eric Bressman, MD, MSHP"
+                    "name": "Isaac R. Galatzer-Levy, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "computer software",
-                "licensure"
+                "generative artificial intelligence",
+                "mental health",
+                "psychometrics"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840933/jamainternal_bressman_2025_vp_250023_1762276252.53617.pdf",
+                    "url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2841174/jamapsychiatry_galatzerlevy_2025_vp_250030_1762198846.49174.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ivp250023t1_1762276252.75224.png?Expires=2147483647&Signature=jWfvRHpnPr6nTohX9-ElOwyIKZ6iisGrevmXsRUbX-iRbMbNpMPlk993xvVOr6y4~hFQeyXBc1Emugdx8CZ8jOK1JQsliX-qRWfEXGd3rI9S4AvTSbp6MIjAErypM7VudOj4rHPBr--RtS4k5QwKFnyUbLZcIdKJ4PaEkhDcBjfu3wrYc1mdxejxESX3~RHoE4Onh973US1j~cWD9shGYNFS8UcSalWlyXGHLiLVuVtuLeAt9I0cun3MjatyjPGIdLGHj-M0Hm8kGdAfIFHKk1fW449nEyrpjyj5XfaTftBNgG0JM0PPeM2b9oAby6PBFC8z4R-HoqN3YyquNd5AkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
-            "title": "AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence",
-            "summary": "This Special Communication discusses how health and health care artificial intelligence (AI) should be developed, evaluated, regulated, disseminated, and monitored.",
-            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored.</p><h3>Observations</h3><p>Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration\u2019s regulatory oversight. A major challenge in evaluation is that a tool\u2019s effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes.</p><h3>Conclusions and Relevance</h3><p>AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health.</p>",
-            "date_published": "2025-10-13T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Derek C. Angus, MD, MPH"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "clinical diagnostic instrument",
-                "computer software",
-                "delivery of health care",
-                "diabetic retinopathy screening",
-                "diagnostic imaging",
-                "health care systems",
-                "incentives",
-                "life cycle stages",
-                "sepsis"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840175/jama_angus_2025_sc_250012_1761928737.84917.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939726/jsc250012t1_1761928738.15098.png?Expires=2147483647&Signature=3Jo5hrUXpJNjR6AeBY5~63~7Bmb2tuV1RDwjjeULjn7j6QeongipwnXVHjz8iPFhjOFlPdPb~3rEQeSLf4279819E7S3JOdS6lrNxSQYdwE2wXppd7eI8194ppGWnqXWJPLpBhRlheY2CwNzX4HvKDpx~lSx5iONoO24bbsdINqujAOaAKfBepKYvwHkyDQz9RNk23blYLEyh7P6om-QGGUui6RprzSSR3qvc9jR1u1lFkGMX0Cx~pLzmAeeT9TRGwTBej5GTPJElLeFi8Idt-mHfBfrfvh06sUt99k0rBHctJUNlKfbD31ZP73k7di4mo9laeNWLpEGgr2C3-neOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Psychiatry.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -922,6 +890,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
+            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
+            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
+            "date_published": "2024-03-19T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "adolescence",
+                "child",
+                "child abuse behavior",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
