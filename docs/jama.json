@@ -4,53 +4,54 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
-            "title": "Adoption of Artificial Intelligence in the Health Care Sector",
-            "summary": "This cross-sectional study examines artificial intelligence use in health care and other industries according to US firms participating in the 2023 to 2025 Business Trends and Outlook Survey.",
-            "content_text": "This cross-sectional study examines artificial intelligence use in health care and other industries according to US firms participating in the 2023 to 2025 Business Trends and Outlook Survey.",
-            "date_published": "2025-11-21T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "title": "Applying Clinical Licensure Principles to Artificial Intelligence",
+            "summary": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "content_text": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Thuy D. Nguyen, PhD"
+                    "name": "Eve Rittenberg, MD, MA"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "health care sector"
+                "licensure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2841460/nguyen_2025_ld_250054_1762800967.6263.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840945/jamainternal_rittenberg_2025_ed_250012_1762276265.63723.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939721/ald250054f1_1762800967.7816.png?Expires=2147483647&Signature=lFFPuMArc~eBjYqSkC7N1EkHAv78lJ723rYZ0s0WjWOzaWCSqASENSsu9~Ki8UG7zvoZCvFvILEz6YyjdgHDqsfFNKh8KdKMboX3HiSBC8KJ0bwNrsG2CLuX-R4d040-PHdSyuJIM06kgb2p5Ws6fXHi8y3m6nUNW1R4Hixd~fFUG0cvyBC1YKK7VDdbR~CJiyswj1XSEFxsNvR05aV6FDIdFFUpZhXTMxORAY~lQdDqBh68iSoPOK~6x8tiyjw0RCIguiWorkZc~8~KHWcfqDe4h8izoef5fHUgB7vFaZjgsuMHlXBdd5q66Xn5woLml5oC1QTzA~-CaCf5s4mWbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2831307",
-            "title": "Screening for Food Insecurity: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting (I statement).",
-            "content_html": "<h3>Importance</h3><p>According to survey data, 12.8% of households experienced food insecurity in 2022, with 7.7% of households experiencing low food security and 5.1% experiencing very low food security. Nearly one-third of households with incomes below the federal poverty threshold are food insecure. Food insecurity is one among a multitude of medical, psychological, and social conditions common among economically disadvantaged households.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for food insecurity in the health care setting.</p><h3>Population</h3><p>Children, adolescents, and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for food insecurity on health outcomes in the primary care setting cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for food insecurity on health outcomes in the primary care setting. (I statement)</p>",
-            "date_published": "2025-03-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839035",
+            "title": "Accuracy of Artificial Intelligence vs Professionally Translated Discharge Instructions",
+            "summary": "This comparative effectiveness analysis describes the process of implementation for artificial intelligence\u2013based translation and investigates its accuracy for translating discharge instructions into Simplified Chinese, Somali, Spanish, and Vietnamese.",
+            "content_html": "<h3>Importance</h3><p>Patients using languages other than English are a group at risk of poor health outcomes and encounter barriers to access of translated written materials. Although artificial intelligence (AI) may offer an opportunity to improve access, few studies have evaluated the accuracy and safety of AI translation for clinical care under routine practice conditions.</p><h3>Objective</h3><p>To investigate the accuracy of AI translation compared with professional human translation of patient-specific issued pediatric inpatient discharge instructions.</p><h3>Design, Setting, and Participants</h3><p>This comparative effectiveness analysis compared translations by a neural machine translation model vs professional translators using patient-specific pediatric inpatient discharge instructions received by families between May 18, 2023, and May 18, 2024, at a single center academic pediatric hospital. Instructions were translated to Simplified Chinese, Somali, Spanish, and Vietnamese by professional translators and the Azure AI system and then broken into scoring sections. Two professional translators per language evaluated translations (blinded to source) on an established 5-point scale for fluency, adequacy, meaning, and error severity, with 1 indicating worst performance and 5 indicating best performance.</p><h3>Exposure</h3><p>AI vs professional translation.</p><h3>Main Outcome and Measure</h3><p>Quality of discharge instruction translation, including fluency, adequacy, meaning, and severity of errors.</p><h3>Results</h3><p>A total of 148 sections from 34 discharge instructions were analyzed. When considering all 4 languages together, average fluency, adequacy, and meaning were lower among AI compared with professional human translations. Among all tested languages, mean (SD) fluency for AI translations was 2.98 (1.12) compared with 3.90 (0.96) for professional translations (difference, 0.92; 95% CI, 0.83-1.01;<i>P</i>\u2009&lt;\u2009.001), adequacy was 3.81 (1.14) compared with 4.56 (0.70) (difference, 0.74; 95% CI, 0.65-0.83;<i>P</i>\u2009&lt;\u2009.001), meaning was 3.38 (1.15) compared with 4.28 (0.84) (difference, 0.90; 95% CI, 0.80-0.99;<i>P</i>\u2009&lt;\u2009.001), and error severity was 3.53 (1.28) compared with 4.48 (0.88) (difference, 0.95; 95% CI, 0.85-1.06;<i>P</i>\u2009&lt;\u2009.001). Compared with professional translations, the Spanish AI translations were noninferior in adequacy (difference, 0.08; 95% CI, \u22120.02 to 0.19) and error severity (difference, 0.03; 95% CI, \u22120.09 to 0.14) but inferior in fluency (difference, 0.38; 95% CI, 0.23-0.53) and just crossed the inferiority threshold in meaning (difference, 0.08; 95% CI, \u22120.04 to 0.20). The Chinese, Vietnamese, and Somali AI translations were inferior to the professional translations across all metrics, with the greatest differences for Somali.</p><h3>Conclusions and Relevance</h3><p>In this comparative effectiveness analysis of AI- vs professionally translated issued discharge instructions, AI-translated instructions performed similarly for Spanish but worse for other languages tested. Validation and clinical implementation of AI-based translation will require special attention to languages of lesser diffusion to prevent creating new inequities.</p>",
+            "date_published": "2025-09-17T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Melissa Martos, MD, MS"
                 }
             ],
             "tags": [
-                "primary health care",
-                "screening procedure",
-                "united states preventive services task force"
+                "artificial intelligence",
+                "comparative effectiveness research",
+                "hospital discharge instructions (treatment)",
+                "somali language"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2831307/jama_nicholson_2025_us_250002_1744209553.13086.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839035/martos_2025_oi_250911_1757519918.02934.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939594/jus250002fa_1744209553.32771.png?Expires=2147483647&Signature=A6CI4OrrClio-J8TML-cizYOKFK39RlLGEfhu6mc75B~Eh~P2xqE5zApmOJRG~QeyCsEejl-C9qn2ZkNwwRDa3r5-2AbV~xlvi1ORhYE5q2s4h7BJ5vklKMxXdK-cWvWfOZqo4vj~QgYqv6KcHRi9fp2DRAFudgyB95lnUbF-0dJAGKh79m7dclhYBb~WqsNK07pi3hkG3Lyk6YhJkKCskSgrt~H9zrG2bNmrIuBW1QlrHeuLxa~aTMoXN57w4Wl5Vdwqpm7O6XrAXmQbBvRDygREUZRSXnQxt1~mE82EF5uH0kyL-4~8NgxQ0VYLMk7gg09SUzPUG-gvsBdAsUqwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939686/zoi250911t1_1757519918.19076.png?Expires=2147483647&Signature=UBEvR4UyNh5NpgpSY7SqYjqdCi1toBWwnCPp~H4pUa~5jzHnhH5B9FBI-1eFTFk9Vvgg6GRttIXCRRiykMjgWhM-8fmLzSQEx7xVWvxTubHMkl1ecyno2M2AbS~HjC1j6A6mylRyjMut1wX1GGe8UZ-dm5OSCW0LoLdy9jehISDSpaI~7Mvkq6kbMzPjb5Y7BbcuCvLFOnBdneiN8RuVpViOu5FcKR1pFK3IruYBzBpE98gHsnPc12vB1RSZVBjbPZoKeteK3I3riTyAQq5CXS3Smkb2eWuWOnV5f-QyxH8v3jKOZAJRDWos9fKTH4hKv-lutWFaoVVbXnOpnesuxg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
