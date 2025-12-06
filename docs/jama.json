@@ -4,53 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
-            "title": "Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults",
-            "summary": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
-            "content_text": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
-            "date_published": "2025-11-07T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
+            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ryan K. McBain, PhD, MPH"
+                    "name": "R. Chris Jones, MD"
                 }
             ],
             "tags": [
-                "adolescence",
-                "generative artificial intelligence",
-                "mental health",
-                "young adult"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841067/mcbain_2025_ld_250258_1761924421.38077.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250258t1_1761924421.60006.png?Expires=2147483647&Signature=Wunc0c-~vdLwim~dDFAavX6w1qURfxjkhDXZFgA7XijcVDHXeoJtGzKR-epy8h6UynsXMXU0JifyYcJZ-zHtwT3LZck~dOu8Dzy-BYPSTJ~p9PrFhQfUpOOPWwTtoXgJ7UmPUmYi4mBjek9KKiI7WPtJIKjW7OM6JyINsF3WLOk9BVAQmxPEP2xVi-cT~STBQtJLGNrIGD638X4jT71pmGNx6c-FsuBct5im9lGJh1C-zTaUo0Q4ScOFnMiXR~B-aXAH7iRqLm4gtpC1Qrxw2XkvH5nLhEKNSj8tiWzgibAsrjnUYusojNUYzpHlC1BJ~1pwr7l4vXZBZoCWrwuwnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
-            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
-            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
-            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
-            "date_published": "2025-11-06T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828659",
+            "title": "Practical Guide to the Use of AI-Enabled Analytics in Research",
+            "summary": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "content_text": "This Guide to Statistics and Methods discusses approaches to incorporating artificial intelligence (AI)\u2013enabled analytics when working with big data and outlines AI-related considerations for data management and health equity.",
+            "date_published": "2025-01-08T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Anai N. Kothari, MD"
                 }
             ],
             "tags": [
-                "drug discovery"
+                "artificial intelligence",
+                "big data",
+                "health equity"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828659/jamasurgery_kothari_2025_gm_240010_1747170558.92607.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
