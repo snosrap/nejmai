@@ -4,30 +4,6 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
-            "title": "AI-Augmented Electron Microscopy for Glomerular Disease Diagnosis",
-            "summary": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
-            "content_text": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
-            "date_published": "2025-10-07T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Wisit Cheungpasitporn, MD"
-                }
-            ],
-            "tags": [
-                "nephrology speciality",
-                "renal glomerular disease"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839747/cheungpasitporn_2025_ic_250245_1759258684.10434.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
             "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
             "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
             "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
@@ -49,6 +25,35 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
+            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
+            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
+            "date_published": "2025-04-08T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "behavior therapy",
+                "counseling risk factor reduction and behavior change intervention",
+                "infant",
+                "patient referral",
+                "pregnancy",
+                "primary health care",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
