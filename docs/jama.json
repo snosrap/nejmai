@@ -4,56 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
+            "title": "Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults",
+            "summary": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
+            "content_text": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
+            "date_published": "2025-11-07T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "R. Chris Jones, MD"
+                    "name": "Ryan K. McBain, PhD, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "adolescence",
+                "generative artificial intelligence",
+                "mental health",
+                "young adult"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841067/mcbain_2025_ld_250258_1761924421.38077.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250258t1_1761924421.60006.png?Expires=2147483647&Signature=Wunc0c-~vdLwim~dDFAavX6w1qURfxjkhDXZFgA7XijcVDHXeoJtGzKR-epy8h6UynsXMXU0JifyYcJZ-zHtwT3LZck~dOu8Dzy-BYPSTJ~p9PrFhQfUpOOPWwTtoXgJ7UmPUmYi4mBjek9KKiI7WPtJIKjW7OM6JyINsF3WLOk9BVAQmxPEP2xVi-cT~STBQtJLGNrIGD638X4jT71pmGNx6c-FsuBct5im9lGJh1C-zTaUo0Q4ScOFnMiXR~B-aXAH7iRqLm4gtpC1Qrxw2XkvH5nLhEKNSj8tiWzgibAsrjnUYusojNUYzpHlC1BJ~1pwr7l4vXZBZoCWrwuwnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2832389",
-            "title": "Primary Care Behavioral Counseling Interventions to Support Breastfeeding: US Preventive Services Task Force",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>The association between breastfeeding and health benefits in children has been previously well established; health benefits have also been found for women who breastfeed. However, breastfeeding rates in the US are relatively modest; as of 2021, 59.8% of infants at age 6 months are breastfed and 27.2% of infants at that age are exclusively breastfed.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of primary care behavioral counseling interventions to support breastfeeding.</p><h3>Population</h3><p>Adolescents and adults who are pregnant or postpartum, and their infants and children.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that primary care behavioral counseling interventions to support breastfeeding have a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends providing interventions or referrals, during pregnancy and after birth, to support breastfeeding. (B recommendation)</p>",
-            "date_published": "2025-04-08T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "behavior therapy",
-                "counseling risk factor reduction and behavior change intervention",
-                "infant",
-                "patient referral",
-                "pregnancy",
-                "primary health care",
-                "united states preventive services task force"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2832389/jama_nicholson_2025_us_250004_1746037122.98582.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939606/jus250004fa_1746037123.2369.png?Expires=2147483647&Signature=uBUgro2xW0UsKxhUUUB6zBkQ09NPsSKjm2kUx7SX5W-Uqbk19sJticLkQxAbGkMne-JllkzJphYg1bQVUPX5BbIjlmPBgW6Ne4~BDwVMg~6TRDRn8ySkwnxikT0gTNLF95e6HZbYVwyfPcrLdpDifvnJQNQZnDz5VJhaCzBAk-88-4Tb0x1SnkLT6kDaP7NYcydvFg0dP0T3d9Vq-g3qvmJVCfTF~xotPq9LvYTSS~ybwxBNysuMN9nztWL8Vw7wIpJKBB92SuEsniSkQtDjuJZoYwPDHgvArYw8wDbwJb1hSU59XawL-pi67cJppdY-RHfQAo0g9dQrPIg4X6rkWw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
