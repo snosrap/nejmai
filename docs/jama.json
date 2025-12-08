@@ -27,27 +27,28 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250152t1_1764083387.6077.png?Expires=2147483647&Signature=nwu9rTprsO-LyhgtJguZ5Z3QmN0RJzcy9Ta2zXyj0dY5v9mitvUhuZrKpNNeTgrjplH6qMtCj58qo4qPHxWIsDaGxZp~S3CBeqOBIWw8RwutpzWWmeC1FkKbXHsjJeT6c3lnEz~hZvOeo2FnBdIlbYbUPy8TDGheJwMiT7W5QvX9HO9P~xaWrsv11lHIijhKYwblkEZ49Cd43KI~zSIp5guTP0TMK7HRe6ZPY2sGmIdyw67w4EOum8FVrP7q5c1Zsz-HP-0ege3rCsFeYdckqkc80TlsiGblPoEt1UlI5JwlFLRZZi0zjf1icL~RHqJ5RYx-PHmLYbJenzll1Uq7Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "title": "Applying Clinical Licensure Principles to Artificial Intelligence",
+            "summary": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "content_text": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "R. Chris Jones, MD"
+                    "name": "Eve Rittenberg, MD, MA"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "artificial intelligence",
+                "licensure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840945/jamainternal_rittenberg_2025_ed_250012_1762276265.63723.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
