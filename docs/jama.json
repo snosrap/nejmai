@@ -4,55 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
-            "title": "Development and Validation of a Hybrid Machine Learning Model to Predict Lung Transplant Outcomes",
-            "summary": "This prognostic study uses United Network for Organ Sharing data to develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.",
-            "content_html": "<h3>Importance</h3><p>Long-term survival after a lung transplant remains highly variable, and existing risk stratification tools have limited accuracy, clinical utility, and interpretability.</p><h3>Objective</h3><p>To develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model using United Network for Organ Sharing data to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study used data from a United Network for Organ Sharing\u2013Organ Procurement and Transplantation Network cohort that underwent lung transplants between October 16, 1987, and March 26, 2025. The study included 51\u202f933 adult patients (aged \u226518 years) undergoing their first lung transplant in the US. The data were temporally split into a development cohort (1987-2014; n\u2009=\u200926\u202f682) and a testing cohort (2015-2025; n\u2009=\u200925\u202f251). The development cohort was divided into a training set (n\u2009=\u200924\u202f014) and validation set (n\u2009=\u20092668) for model selection and hyperparameter tuning.</p><h3>Main Outcomes and Measures</h3><p>The outcome was the time to death or retransplant. The model was developed using the AutoScore-Survival framework, which uses a random survival forest for variable selection and Cox proportional hazards regression for scoring. Performance was assessed by discrimination (a time-dependent area under the curve [AUC], the Harrell C-index, and integrated AUC [iAUC]), calibration (plots, slope, observed-to-expected event ratio, and Brier score), and clinical utility (decision curve analysis).</p><h3>Results</h3><p>Among 51\u202f933 recipients (median age, 59 years [5th-95th percentile range, 27-71 years]; 57.6% men), the median follow-up was 8.97 years (95% CI, 8.93-8.99 years), and 31\u202f865 (61.4%) experienced an event. Nine predictors were selected for the final model: length of hospital stay, recipient age, single vs double transplant, posttransplant ventilation support, prior cardiac surgery, creatinine level at transplant, functional status, total bilirubin level, and donor age. In the unseen testing set, the model showed moderate discrimination with an iAUC of 0.61 (95% CI, 0.60-0.63) and a C-index of 0.64 (95% CI, 0.63-0.64). The time-dependent AUC was 0.61 (95% CI, 0.52-0.70) at 1 year, 0.59 (95% CI, 0.53-0.65) at 5 years, and 0.72 (95% CI, 0.55-0.85) at 10 years. The model was well calibrated, and the decision curve analysis demonstrated a consistent net benefit across threshold probabilities.</p><h3>Conclusions and Relevance</h3><p>In this large prognostic study, the interpretable hybrid model provided practical, personalized risk stratification for lung transplant outcomes. With moderate discrimination, good calibration, and clear clinical utility, the model supports shared decision-making and is accessible via a web-based calculator.</p>",
-            "date_published": "2025-11-25T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
+            "title": "AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence",
+            "summary": "This Special Communication discusses how health and health care artificial intelligence (AI) should be developed, evaluated, regulated, disseminated, and monitored.",
+            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored.</p><h3>Observations</h3><p>Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration\u2019s regulatory oversight. A major challenge in evaluation is that a tool\u2019s effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes.</p><h3>Conclusions and Relevance</h3><p>AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health.</p>",
+            "date_published": "2025-10-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Gaurav Sharma, PhD, MBA"
+                    "name": "Derek C. Angus, MD, MPH"
                 }
             ],
             "tags": [
-                "calibration",
-                "lung transplantation",
-                "machine learning",
-                "organ procurement and transplantation network",
-                "retransplantation",
-                "united network for organ sharing"
+                "artificial intelligence",
+                "clinical diagnostic instrument",
+                "computer software",
+                "delivery of health care",
+                "diabetic retinopathy screening",
+                "diagnostic imaging",
+                "health care systems",
+                "incentives",
+                "life cycle stages",
+                "sepsis"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841822/sharma_2025_oi_251228_1763504214.31251.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840175/jama_angus_2025_sc_250012_1761928737.84917.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251228f1_1763504214.43895.png?Expires=2147483647&Signature=aky5OodlkWOc9Zx3cK6UJC0XNZIpJQqiFdtr5JYMUAlEk8cHgr~Ero1cpU6ZwZjWoUPZn7nrDRA1eQuwEFnNFVDMpzSOEh6sYSCnTtpO7LFXIjXEEUvJI7y-w0DHbOkVdujfpm-ctose9l3e7KV2SOvr9cSsOhMn6V2patzCI8CMo7p8VOf5Rr6RL7pEPzAEM1MgdHydYoZCTTtji0htME3JQLHmrVp~JkGe-g0MEoDICJ5EBjzM5~8x-MYY-lpuSgaQ9bOE6ndHmLj0jvs~jauwlaoXFHLvb~F3tdrhDrlG3G-0iZsiOHqtBf63eT4UcyRJ9tmeLZJsNplHk1ahZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939726/jsc250012t1_1761928738.15098.png?Expires=2147483647&Signature=3Jo5hrUXpJNjR6AeBY5~63~7Bmb2tuV1RDwjjeULjn7j6QeongipwnXVHjz8iPFhjOFlPdPb~3rEQeSLf4279819E7S3JOdS6lrNxSQYdwE2wXppd7eI8194ppGWnqXWJPLpBhRlheY2CwNzX4HvKDpx~lSx5iONoO24bbsdINqujAOaAKfBepKYvwHkyDQz9RNk23blYLEyh7P6om-QGGUui6RprzSSR3qvc9jR1u1lFkGMX0Cx~pLzmAeeT9TRGwTBej5GTPJElLeFi8Idt-mHfBfrfvh06sUt99k0rBHctJUNlKfbD31ZP73k7di4mo9laeNWLpEGgr2C3-neOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "title": "AI Use for Injury Surveillance in Emergency Departments",
-            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
+            "title": "AI-Augmented Electron Microscopy for Glomerular Disease Diagnosis",
+            "summary": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
+            "content_text": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
+            "date_published": "2025-10-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                    "name": "Wisit Cheungpasitporn, MD"
                 }
             ],
             "tags": [
-                "emergency service",
-                "ethics",
-                "hospital",
-                "informatics (discipline)",
-                "privacy"
+                "nephrology speciality",
+                "renal glomerular disease"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839747/cheungpasitporn_2025_ic_250245_1759258684.10434.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
