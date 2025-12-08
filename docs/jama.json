@@ -4,60 +4,50 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2840175",
-            "title": "AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence",
-            "summary": "This Special Communication discusses how health and health care artificial intelligence (AI) should be developed, evaluated, regulated, disseminated, and monitored.",
-            "content_html": "<h3>Importance</h3><p>Artificial intelligence (AI) is changing health and health care on an unprecedented scale. Though the potential benefits are massive, so are the risks. The JAMA Summit on AI discussed how health and health care AI should be developed, evaluated, regulated, disseminated, and monitored.</p><h3>Observations</h3><p>Health and health care AI is wide-ranging, including clinical tools (eg, sepsis alerts or diabetic retinopathy screening software), technologies used by individuals with health concerns (eg, mobile health apps), tools used by health care systems to improve business operations (eg, revenue cycle management or scheduling), and hybrid tools supporting both business operations (eg, documentation and billing) and clinical activities (eg, suggesting diagnoses or treatment plans). Many AI tools are already widely adopted, especially for medical imaging, mobile health, health care business operations, and hybrid functions like scribing outpatient visits. All these tools can have important health effects (good or bad), but these effects are often not quantified because evaluations are extremely challenging or not required, in part because many are outside the US Food and Drug Administration\u2019s regulatory oversight. A major challenge in evaluation is that a tool\u2019s effects are highly dependent on the human-computer interface, user training, and setting in which the tool is used. Numerous efforts lay out standards for the responsible use of AI, but most focus on monitoring for safety (eg, detection of model hallucinations) or institutional compliance with various process measures, and do not address effectiveness (ie, demonstration of improved outcomes). Ensuring AI is deployed equitably and in a manner that improves health outcomes or, if improving efficiency of health care delivery, does so safely, requires progress in 4 areas. First, multistakeholder engagement throughout the total product life cycle is needed. This effort would include greater partnership of end users with developers in initial tool creation and greater partnership of developers, regulators, and health care systems in the evaluation of tools as they are deployed. Second, measurement tools for evaluation and monitoring should be developed and disseminated. Beyond proposed monitoring and certification initiatives, this will require new methods and expertise to allow health care systems to conduct or participate in rapid, efficient, and robust evaluations of effectiveness. The third priority is creation of a nationally representative data infrastructure and learning environment to support the generation of generalizable knowledge about health effects of AI tools across different settings. Fourth, an incentive structure should be promoted, using market forces and policy levers, to drive these changes.</p><h3>Conclusions and Relevance</h3><p>AI will disrupt every part of health and health care delivery in the coming years. Given the many long-standing problems in health care, this disruption represents an incredible opportunity. However, the odds that this disruption will improve health for all will depend heavily on the creation of an ecosystem capable of rapid, efficient, robust, and generalizable knowledge about the consequences of these tools on health.</p>",
-            "date_published": "2025-10-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2842278",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2842278",
+            "title": "New Guidance on Responsible Use of AI",
+            "summary": "This Viewpoint discusses new guidance on responsible use of artificial intelligence.",
+            "content_text": "This Viewpoint discusses new guidance on responsible use of artificial intelligence.",
+            "date_published": "2025-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Derek C. Angus, MD, MPH"
+                    "name": "Sofia Palmieri, PhD"
                 }
             ],
             "tags": [
-                "artificial intelligence",
-                "clinical diagnostic instrument",
-                "computer software",
-                "delivery of health care",
-                "diabetic retinopathy screening",
-                "diagnostic imaging",
-                "health care systems",
-                "incentives",
-                "life cycle stages",
-                "sepsis"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2840175/jama_angus_2025_sc_250012_1761928737.84917.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2842278/jama_palmieri_2025_vp_250152_1764083386.1851.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939726/jsc250012t1_1761928738.15098.png?Expires=2147483647&Signature=3Jo5hrUXpJNjR6AeBY5~63~7Bmb2tuV1RDwjjeULjn7j6QeongipwnXVHjz8iPFhjOFlPdPb~3rEQeSLf4279819E7S3JOdS6lrNxSQYdwE2wXppd7eI8194ppGWnqXWJPLpBhRlheY2CwNzX4HvKDpx~lSx5iONoO24bbsdINqujAOaAKfBepKYvwHkyDQz9RNk23blYLEyh7P6om-QGGUui6RprzSSR3qvc9jR1u1lFkGMX0Cx~pLzmAeeT9TRGwTBej5GTPJElLeFi8Idt-mHfBfrfvh06sUt99k0rBHctJUNlKfbD31ZP73k7di4mo9laeNWLpEGgr2C3-neOQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250152t1_1764083387.6077.png?Expires=2147483647&Signature=nwu9rTprsO-LyhgtJguZ5Z3QmN0RJzcy9Ta2zXyj0dY5v9mitvUhuZrKpNNeTgrjplH6qMtCj58qo4qPHxWIsDaGxZp~S3CBeqOBIWw8RwutpzWWmeC1FkKbXHsjJeT6c3lnEz~hZvOeo2FnBdIlbYbUPy8TDGheJwMiT7W5QvX9HO9P~xaWrsv11lHIijhKYwblkEZ49Cd43KI~zSIp5guTP0TMK7HRe6ZPY2sGmIdyw67w4EOum8FVrP7q5c1Zsz-HP-0ege3rCsFeYdckqkc80TlsiGblPoEt1UlI5JwlFLRZZi0zjf1icL~RHqJ5RYx-PHmLYbJenzll1Uq7Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
-            "title": "AI-Augmented Electron Microscopy for Glomerular Disease Diagnosis",
-            "summary": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
-            "content_text": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
-            "date_published": "2025-10-07T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
+            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Wisit Cheungpasitporn, MD"
+                    "name": "R. Chris Jones, MD"
                 }
             ],
             "tags": [
-                "nephrology speciality",
-                "renal glomerular disease"
+                "artificial intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839747/cheungpasitporn_2025_ic_250245_1759258684.10434.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
