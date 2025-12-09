@@ -4,27 +4,58 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841170",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841170",
-            "title": "Implementation Intelligence With AI\u2014Prospective Evaluations Needed",
-            "summary": "The publication of the first phase 3 randomized clinical trial in 2018 demonstrating benefit of a transthyretin stabilizer for the treatment of amyloid transthyretin cardiomyopathy (ATTR-CM) fueled a growing interest in improving detection of ATTR-CM. 1 Concurrently, the emergence of artificial intelligence (AI)\u2013based diagnostics has led to the development of a range of AI-based screening models, which leverage various combinations of structured data and unstructured data, such as electrocardiogram (ECG) waveforms and echocardiography images. These models have shown the potential to facilitate diagnosis of ATTR-CM, and the US Food and Drug Administration has cleared several AI-echo models for cardiac amyloidosis detection as Software as a Medical Device. However, prospective evaluation and clinical experience with these models remains limited and is critically needed prior to broad deployment.",
-            "content_text": "The publication of the first phase 3 randomized clinical trial in 2018 demonstrating benefit of a transthyretin stabilizer for the treatment of amyloid transthyretin cardiomyopathy (ATTR-CM) fueled a growing interest in improving detection of ATTR-CM. 1 Concurrently, the emergence of artificial intelligence (AI)\u2013based diagnostics has led to the development of a range of AI-based screening models, which leverage various combinations of structured data and unstructured data, such as electrocardiogram (ECG) waveforms and echocardiography images. These models have shown the potential to facilitate diagnosis of ATTR-CM, and the US Food and Drug Administration has cleared several AI-echo models for cardiac amyloidosis detection as Software as a Medical Device. However, prospective evaluation and clinical experience with these models remains limited and is critically needed prior to broad deployment.",
-            "date_published": "2025-11-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
+            "title": "Software as a Medical Practitioner\u2014Is It Time to License Artificial Intelligence?",
+            "summary": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
+            "content_text": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Faraz S. Ahmad, MD, MS"
+                    "name": "Eric Bressman, MD, MSHP"
                 }
             ],
             "tags": [
-                "intelligence"
+                "artificial intelligence",
+                "computer software",
+                "licensure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841170/jamacardiology_ahmad_2025_en_250006_1762193486.24748.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840933/jamainternal_bressman_2025_vp_250023_1762276252.53617.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ivp250023t1_1762276252.75224.png?Expires=2147483647&Signature=jWfvRHpnPr6nTohX9-ElOwyIKZ6iisGrevmXsRUbX-iRbMbNpMPlk993xvVOr6y4~hFQeyXBc1Emugdx8CZ8jOK1JQsliX-qRWfEXGd3rI9S4AvTSbp6MIjAErypM7VudOj4rHPBr--RtS4k5QwKFnyUbLZcIdKJ4PaEkhDcBjfu3wrYc1mdxejxESX3~RHoE4Onh973US1j~cWD9shGYNFS8UcSalWlyXGHLiLVuVtuLeAt9I0cun3MjatyjPGIdLGHj-M0Hm8kGdAfIFHKk1fW449nEyrpjyj5XfaTftBNgG0JM0PPeM2b9oAby6PBFC8z4R-HoqN3YyquNd5AkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "title": "FDA Approval of Artificial Intelligence and Machine Learning Devices in Radiology: A Systematic Review",
+            "summary": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "content_text": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "date_published": "2025-11-07T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Ram Sivakumar, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "diagnostic imaging",
+                "diagnostic radiologic examination",
+                "drug approval",
+                "machine learning",
+                "radiology specialty",
+                "united states food and drug administration"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841066/sivakumar_2025_ld_250259_1761924420.41873.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250259f1_1761924420.63273.png?Expires=2147483647&Signature=G3HTsQCwJwaxkoKTjomcEAJlR1uodfW1nwDxfRDcFJcCLTOABskfna1DudmVkU~JcLRhSnls5Vg6ZIRKwrtvpWKShmM6LQsOrlEJcYWSyoWZdcK8dTiVeiXmGjxE~EU~ON-Bhob2c26NGhtRZTg1VVlB5inwkTmUh6ucX2i97PW20TdBc65zYR8sbaKVciA8zl8emEaLSCBgzrCRdpoOFk4vbe3fJc3~DZK4oH9A9BCOVnHglhGuJ~92Y3I~CEu3KunApWwm-kfLqvt2cfhuTGc-zBBz0~sIVYyM-EpDp-LvN~2zkdEuunQRWcr4RVr0XrrqnsS-GTybOrLas7v8Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -912,33 +943,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
-            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
-            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
-            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
-            "date_published": "2024-01-23T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "child",
-                "language delay",
-                "screening procedure",
-                "speech",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
