@@ -4,59 +4,27 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2841811",
-            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2841811",
-            "title": "A Novel Tool for Predicting Malignant Disease in Adult Patients With Dermatomyositis",
-            "summary": "This cohort study validates the usefulness of a novel prediction model for cancer-associated likelihood in adult patients with dermatomyositis.",
-            "content_html": "<h3>Importance</h3><p>Cancer is a life-threatening complication of dermatomyositis (DM) and contributes significantly to mortality. A validated association-based tool is urgently needed to optimize early cancer detection and reduce diagnostic delays.</p><h3>Objective</h3><p>To develop and validate a practical prediction model for cancer-associated likelihood in adult patients with DM.</p><h3>Design, Setting, and Participants</h3><p>A retrospective multicenter cohort study including adults with DM or clinically amyopathic DM was carried out. Participants were recruited from the Department of Dermatology at Ruijin Hospital (training cohort) and the Department of Rheumatology at Renji Hospital (validation cohort) over the period from 2015 to 2022. Multivariate logistic regression and machine learning techniques were employed for model development and validation. The analysis took place in 2024.</p><h3>Exposure</h3><p>DM and clinically amyopathic DM.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the occurrence of cancer in patients with DM. Model performance was assessed using the area under the curve to evaluate predictive accuracy.</p><h3>Results</h3><p>A total of 546 adults with DM or clinically amyopathic DM were included, with a mean (SD) age of 49.8 (14.2) years, comprising 166 male individuals (30.4%) and 380 female individuals (69.6%). Five factors significantly associated with concomitant cancers in patients with DM were used to construct the TIP-CA model: anti\u2013transcriptional intermediary factor 1-\u03b3 (TIF1-\u03b3) antibody (positive scored as 1; negative scored as 0), interstitial lung disease (present scored as \u22121; absent scored as 0), poikiloderma (present scored as 1; absent scored as 0), DM subtypes (DM scored as 1; clinically amyopathic DM scored as 0), and anemia (present scored as 1; absent scored as 0). The model demonstrated good discriminatory capability, achieving an area under the curve of 0.809 and 0.808 in the derivation and validation cohorts, respectively.</p><h3>Conclusions and Relevance</h3><p>This cohort study found that the TIP-CA model effectively stratified cancer-associated likelihood in patients with DM using routinely available clinical data. By using data from multidisciplinary patient cohorts and incorporating machine learning techniques, the model minimized referral bias. This proposed model may have the potential to guide clinicians in implementing targeted cancer screening strategies and improve patient outcomes.</p>",
-            "date_published": "2025-12-03T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841170",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841170",
+            "title": "Implementation Intelligence With AI\u2014Prospective Evaluations Needed",
+            "summary": "The publication of the first phase 3 randomized clinical trial in 2018 demonstrating benefit of a transthyretin stabilizer for the treatment of amyloid transthyretin cardiomyopathy (ATTR-CM) fueled a growing interest in improving detection of ATTR-CM. 1 Concurrently, the emergence of artificial intelligence (AI)\u2013based diagnostics has led to the development of a range of AI-based screening models, which leverage various combinations of structured data and unstructured data, such as electrocardiogram (ECG) waveforms and echocardiography images. These models have shown the potential to facilitate diagnosis of ATTR-CM, and the US Food and Drug Administration has cleared several AI-echo models for cardiac amyloidosis detection as Software as a Medical Device. However, prospective evaluation and clinical experience with these models remains limited and is critically needed prior to broad deployment.",
+            "content_text": "The publication of the first phase 3 randomized clinical trial in 2018 demonstrating benefit of a transthyretin stabilizer for the treatment of amyloid transthyretin cardiomyopathy (ATTR-CM) fueled a growing interest in improving detection of ATTR-CM. 1 Concurrently, the emergence of artificial intelligence (AI)\u2013based diagnostics has led to the development of a range of AI-based screening models, which leverage various combinations of structured data and unstructured data, such as electrocardiogram (ECG) waveforms and echocardiography images. These models have shown the potential to facilitate diagnosis of ATTR-CM, and the US Food and Drug Administration has cleared several AI-echo models for cardiac amyloidosis detection as Software as a Medical Device. However, prospective evaluation and clinical experience with these models remains limited and is critically needed prior to broad deployment.",
+            "date_published": "2025-11-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jiaqi Ye, MD"
+                    "name": "Faraz S. Ahmad, MD, MS"
                 }
             ],
             "tags": [
-                "anemia",
-                "antibodies",
-                "dermatomyositis",
-                "interstitial",
-                "lung diseases",
-                "malignant neoplasms",
-                "poikiloderma",
-                "screening for cancer"
+                "intelligence"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2841811/jamadermatology_ye_2025_br_250013_1763660216.68941.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841170/jamacardiology_ahmad_2025_en_250006_1762193486.24748.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/dbr250013t1_1763660216.91941.png?Expires=2147483647&Signature=qoFPmSQ-O7iiIxjIy2J6MD6e0rBsvLCYBw7M54982oWSngLSrQpesogdn~aVHcLKZQwqkW-KUlEG4AVSDCJ4LtQtKxPbMaimIkG6wY13SHzPrjkUPA~en-mqpFJO0YPPBiI70j8JZDMzrGl98~ZuQbM3F9XPRaxD3-lVUVYzseOpNW42ukpTbwVBRZjWxc3JyCjLu9hvCFynwxzRzDGOgVsEMp-c3D2ucFl3LYMakV5m7ERLJffA-3hawls2YCemwYR0HO-pJTv28NQZyNDqcw6wwlPHUuyfJq0p5LIHaO475H2z~K~Cer9i8c51UKaDOkbCtuuljr9dTbYIEAtfeA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
-            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "date_published": "2025-09-24T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Sangwon Baek, BA"
-                }
-            ],
-            "tags": [
-                "gastroenterology (field)",
-                "hepatology (field)",
-                "large language models"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -944,6 +912,33 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2814124",
+            "title": "Screening for Speech and Language Delay and Disorders in Children: US Preventive Services Task Force",
+            "summary": "This 2023 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms (I statement).",
+            "content_html": "<h3>Importance</h3><p>Speech and language delays and disorders can pose significant problems for children and their families. Evidence suggests that school-aged children with speech or language delays may be at increased risk of learning and literacy disabilities, including difficulties with reading and writing.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of screening for speech and language delay and disorders in children 5 years or younger.</p><h3>Population</h3><p>Asymptomatic children 5 years or younger whose parents or clinicians do not have specific concerns about their speech, language, hearing, or development.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children who do not present with signs or symptoms or parent/caregiver concerns.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger without signs or symptoms. (I statement)</p>",
+            "date_published": "2024-01-23T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "child",
+                "language delay",
+                "screening procedure",
+                "speech",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2814124/jama_barry_2024_us_230025_1705010822.46265.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939306/jus230025fa_1705010822.63657.png?Expires=2147483647&Signature=tIs4ioBDd4b~XA00q5JE3XHAZwADW365BAW-qbNIPu0I5L7dGUij-gDhRiKUr~eG72kGF0XOr0xinb5TxrCTbIppr-jfFRjXv6Xce6SVUuLr2RPJM3mggYvvkeSuFORPIv50MGAJznTubSGz2gkTUBThPcI4Lf-oVqcvObNvHRhdRUO01JNmTvtLtZ1f9F6Gr4cOCv68bljj9XcWD7KKQhzk-iG9Gx1kZDoRT38s5vFXEw-PX8Sj5xdXzuz0nL8zHrjOyFJ1lrRG3h63QXzQm6YoKS0DzSde155wqlt-TR6tdEyRdb2IGk~M0c7L92j3GQY7-gjT26kJ3flrRDV1qA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2813425",
