@@ -4,51 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841170",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841170",
-            "title": "Implementation Intelligence With AI\u2014Prospective Evaluations Needed",
-            "summary": "The publication of the first phase 3 randomized clinical trial in 2018 demonstrating benefit of a transthyretin stabilizer for the treatment of amyloid transthyretin cardiomyopathy (ATTR-CM) fueled a growing interest in improving detection of ATTR-CM. 1 Concurrently, the emergence of artificial intelligence (AI)\u2013based diagnostics has led to the development of a range of AI-based screening models, which leverage various combinations of structured data and unstructured data, such as electrocardiogram (ECG) waveforms and echocardiography images. These models have shown the potential to facilitate diagnosis of ATTR-CM, and the US Food and Drug Administration has cleared several AI-echo models for cardiac amyloidosis detection as Software as a Medical Device. However, prospective evaluation and clinical experience with these models remains limited and is critically needed prior to broad deployment.",
-            "content_text": "The publication of the first phase 3 randomized clinical trial in 2018 demonstrating benefit of a transthyretin stabilizer for the treatment of amyloid transthyretin cardiomyopathy (ATTR-CM) fueled a growing interest in improving detection of ATTR-CM. 1 Concurrently, the emergence of artificial intelligence (AI)\u2013based diagnostics has led to the development of a range of AI-based screening models, which leverage various combinations of structured data and unstructured data, such as electrocardiogram (ECG) waveforms and echocardiography images. These models have shown the potential to facilitate diagnosis of ATTR-CM, and the US Food and Drug Administration has cleared several AI-echo models for cardiac amyloidosis detection as Software as a Medical Device. However, prospective evaluation and clinical experience with these models remains limited and is critically needed prior to broad deployment.",
-            "date_published": "2025-11-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Faraz S. Ahmad, MD, MS"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "intelligence"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841170/jamacardiology_ahmad_2025_en_250006_1762193486.24748.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840529",
-            "title": "Extracting Symptoms of Sepsis From Admission Notes With LLM\u2014Maybe AI Knows Something That We Do Not",
-            "summary": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "content_text": "Clinicians hate sepsis because it is common, associated with a high risk of mortality, and hard to define. Almost any symptom can be associated with sepsis, 1 which means no symptom can be used to rule the diagnosis in or out. Basically, if a clinician suspects a patient might have sepsis, then that is what they have.",
-            "date_published": "2025-10-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jonathan D. Baghdadi, MD, PhD"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "large language models",
-                "sepsis"
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2840529/baghdadi_2025_ic_250272_1760718028.85344.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
