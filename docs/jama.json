@@ -4,54 +4,63 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841183",
+            "title": "Digital Detection of Dementia in Primary Care: A Randomized Clinical Trial",
+            "summary": "This randomized clinical trial evaluates the effectiveness of an approach combining the Quick Dementia Rating System and Passive Digital Marker machine learning algorithm for the detection of Alzheimer disease and other related dementias in primary care.",
+            "content_html": "<h3>Importance</h3><p>Detection of Alzheimer disease and related dementias (ADRD) is a challenge in primary care settings. The Quick Dementia Rating System (QDRS) and the Passive Digital Marker (PDM) were developed as 2 scalable tools for early detection of ADRD. The QDRS is a patient-reported outcome measure, while the PDM is a machine learning algorithm that uses electronic health record (EHR) data. Both can be embedded in the EHR for ease of use.</p><h3>Objective</h3><p>To evaluate the effect of the combined approach of QDRS plus PDM in improving the annual rate of new documented ADRD diagnoses in primary care practices.</p><h3>Design, Setting, and Participants</h3><p>This randomized clinical trial was performed between July 2, 2022, and July 1, 2024. Nine federally qualified primary health care clinics in Indianapolis, Indiana, were randomized to usual care (no routine screening for ADRD), PDM only, or QDRS plus PDM. Participants were treated as per the randomization arm. Participants included adults 65 years and older, without a diagnosis of mild cognitive impairment, dementia, or severe mental illness. Data analysis was based on intention to treat and was performed between November 1, 2024, and August 20, 2025.</p><h3>Intervention</h3><p>Randomization of clinic to usual care, PDM only, or QDRS plus PDM.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was 12-month cumulative incidence of ADRD diagnoses; the secondary outcome was any ADRD diagnostic workup, such as laboratory tests, neuropsychological testing, or brain imaging.</p><h3>Results</h3><p>The study included 5325 patients (mean [SD] age, 71.1\u2009[5.9] years), 3312 (62.2%) of whom were female. Compared with the usual care clinics (12-month incidence, 213 of 1724 [12.4%]), the odds of an incident ADRD diagnosis were higher in the clinics randomized to QDRS plus PDM (12-month incidence, 355 of 2301 [15.4%]; adjusted odds ratio [AOR],\u20091.31; 95% CI, 1.05-1.64) but not the clinics randomized to PDM only (12-month incidence, 134 of 1300 [10.3%]; AOR,\u20090.84; 95% CI, 0.63-1.11]). Compared with the usual care clinics (12-month incidence, 500 of 1724 [29.0%]), the odds of ADRD diagnostic assessments were higher in the QDRS plus PDM clinics (12-month incidence, 844 of 2301 [36.7%]; AOR,\u20091.41; 95% CI, 1.12-1.77) but not the PDM clinics (12-month incidence, 362 of 1300 [27.8%]; AOR,\u20090.94; 95% CI, 0.72-1.22).</p><h3>Conclusions and Relevance</h3><p>This randomized clinical trial found that the combined approach was effective at scale for the early detection of ADRD in primary care settings. This is an important feature in busy primary care settings that can benefit both the health care system and patients.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT05231954</p>",
+            "date_published": "2025-11-10T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "R. Chris Jones, MD"
+                    "name": "Malaz A. Boustani, MD, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "alzheimer's disease",
+                "dementia",
+                "early diagnosis",
+                "machine learning algorithms",
+                "patient self-report",
+                "primary health care",
+                "screening procedure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841183/boustani_2025_oi_251152_1762199944.67884.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251152f1_1762199944.89692.png?Expires=2147483647&Signature=DCmrf-JvUjZVwokvltqz1DFGNNRFW4v4Rd~UyhgGJQog5QYJDBeFoOD522x1sW6Kpi98vI5pQx7PulPhb-qeteTv~oGO-~UwmjAJLbx1NzStR1Oa4YrZysYvg2cw8sSAyEdg7hyrLr0ASJ20pR~40mcG4XpEaF5owF5CnEcj~PwSj8H0AD3ijvn4D6vcJvMuHs9pjdb69poVCc4OzKDjnAhs0UZyUgvGAXwemfH4A3o0psSssjKgwT2I6fYyCMegyfFlQ1TQ7QzXIw5~jawAhYFHQXfLjaqNRvg1YNcQsWkVWYgiIv4pVqdcfGhzs7bZii97RbyynQAITyDfiWsDrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
-            "title": "AI Use for Injury Surveillance in Emergency Departments",
-            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
-            "date_published": "2025-07-31T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
+            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
+            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
+            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
+            "date_published": "2025-01-14T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                    "name": "US Preventive Services Task Force"
                 }
             ],
             "tags": [
-                "emergency service",
-                "ethics",
-                "hospital",
-                "informatics (discipline)",
-                "privacy"
+                "elderly",
+                "fracture",
+                "osteoporosis",
+                "osteoporotic fractures",
+                "postmenopause",
+                "screening for osteoporosis",
+                "screening procedure",
+                "united states preventive services task force"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
