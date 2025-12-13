@@ -4,58 +4,52 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
-            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
-            "title": "Software as a Medical Practitioner\u2014Is It Time to License Artificial Intelligence?",
-            "summary": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
-            "content_text": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
-            "date_published": "2025-11-17T09:00:00-05:00",
-            "authors": [
-                {
-                    "name": "Eric Bressman, MD, MSHP"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "computer software",
-                "licensure"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840933/jamainternal_bressman_2025_vp_250023_1762276252.53617.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ivp250023t1_1762276252.75224.png?Expires=2147483647&Signature=jWfvRHpnPr6nTohX9-ElOwyIKZ6iisGrevmXsRUbX-iRbMbNpMPlk993xvVOr6y4~hFQeyXBc1Emugdx8CZ8jOK1JQsliX-qRWfEXGd3rI9S4AvTSbp6MIjAErypM7VudOj4rHPBr--RtS4k5QwKFnyUbLZcIdKJ4PaEkhDcBjfu3wrYc1mdxejxESX3~RHoE4Onh973US1j~cWD9shGYNFS8UcSalWlyXGHLiLVuVtuLeAt9I0cun3MjatyjPGIdLGHj-M0Hm8kGdAfIFHKk1fW449nEyrpjyj5XfaTftBNgG0JM0PPeM2b9oAby6PBFC8z4R-HoqN3YyquNd5AkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "title": "Emerging Artificial Intelligence Technologies for Risk Assessment and Management in Acute Myeloid Leukemia: A",
-            "summary": "This review examines the use of artificial intelligence in managing acute myeloid leukemia.",
-            "content_html": "<h3>Importance</h3><p>Acute myeloid leukemia (AML) is a severe hematologic cancer with complex genetic heterogeneity necessitating personalized treatment approaches. Artificial intelligence (AI) technologies may revolutionize risk stratification, diagnosis enhancement, and treatment planning in addressing critical gaps in AML management, particularly in low-resource health care environments.</p><h3>Observations</h3><p>This narrative review synthesizes existing AI applications in 3 primary areas of AML management. Machine learning algorithms integrating clinical, cytogenetic, and molecular data demonstrate greater prognostic accuracy than conventional European LeukemiaNet (ELN) guidelines. Deep learning approaches to image analysis yield excellent results for AML subtype identification from bone marrow smears (area under the receiver operating characteristic curve [AUROC]: 0.97) and genetic variant prediction (eg,<i>NPM1</i>status [AUROC: 0.92]). AI-driven genomic analysis reveals novel prognostic signatures and therapeutic targets through advanced pattern recognition, with high-dimensional machine learning achieving greater than 99% accuracy in AML classification from transcriptomic data. Explainable AI models overcome the black box limitation through interpretable algorithms with Shapley Additive Explanations values and local interpretable model-agnostic explanation techniques. Federated learning approaches enable multi-institutional collaboration with protection of patient privacy, with 96.5% accuracy in leukemia classification on heterogeneous datasets.</p><h3>Conclusions and Relevance</h3><p>AI technologies hold potential to improve AML treatment through enhanced risk stratification, early detection capabilities, and individualized treatment optimization. The transition toward explainable AI models is essential to clinical readiness, with federated learning architectures resolving data scarcity concerns. Seamless integration requires harmonized data standards, robust regulatory frameworks, and equitable access to technology to fully realize the transformative potential of AI in improving outcomes for patients with AML globally.</p>",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2841059",
+            "title": "AI in the Lab\u2014Will It Really Change Drug Discovery?",
+            "summary": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
+            "content_text": "In this episode of JAMA+ AI Conversations, I interview Ajamete Kaykas, PhD, chief exploration officer at insitro, a biotech company aiming to combine machine learning with wet lab work to identify new treatments. We discuss everything from the future of scientists in the AI era to whether AI will really open the door to a new generation of therapeutics.",
             "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Mohammad Amin Ansarian, MBBS"
+                    "name": "Roy Perlis, MD, MSc"
                 }
             ],
             "tags": [
-                "acute",
-                "artificial intelligence",
-                "early diagnosis",
-                "leukemia",
-                "myelocytic",
-                "science of genetics",
-                "technology"
+                "drug discovery"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2840876/jamaoncology_ansarian_2025_rv_250008_1762279386.30274.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2841059/jama_perlis_2025_en_250013_1761874733.62801.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/crv250008t1_1762279386.46781.png?Expires=2147483647&Signature=LyVK5Bwm5jewTsfvZ1y0BAv97GGHSMxH2mimMbAHW9UjeyvHUjhtuvYdZBaPo1ayZe037C3-ioaNH0H61WH4eU-MmHNKx8HYOIH0CoDRLTSk-NoAcbmlU~KLzCcmAud6nuRSTbMWLiihFskHdmsT0iEfgsaUXg2CROhIgDW72Q-YtiKDpwBtrrdpHwLXTozXOI1eVjVw3GWfQ84RsGZrFo4kzIDOQW~5rnMcFLU1nS-oYuCDVHHmoMCKBh7O8L3bGIN3yMNAKP2GYaquXGY4F39G9M7-KfL6meUUID7KDMuaHXbyh3Y3QkYqpmMaR93Xr1aBA8~Wz2f495BTSe95VQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jen250013fa_1761874733.68802.png?Expires=2147483647&Signature=TIoNIbBt-cjC7a~n2GFcWqfJa9F-LXwe~Q6UnaDBQ3P1c0rXQ-1A4pGAeKjwcwET8AVu9SpJCjba8-Yrj3y9fG5NOzZiHMd6mVr8KL8zIMQCikGeUIb6RlUAJ2ps9l0SXettQZZtWZVLCL62j5bUq7dbC~8JJ-vr7qz-eMBsZoBeKQQOeXbycMN2lbq03L0ExPjJh9mihxeMx8W9y0WoXbqe93jDHst6lz5vUDT-gMnPy~JuzJLVuiW~YKq6y65cTw-oaoBMKW0HhM0~E1aoXIoepu5YV~Hty8vdudPb6j4~b92Yp4U8K5HEx7H~r9rCJpFeN2X69oLCvb3OvswRNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "title": "Advancing Toward Clinical Deployment of AI-Generated Discharge Summaries\u2014Beyond the Bench",
+            "summary": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "content_text": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "date_published": "2025-08-13T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Charumathi Raghu Subramanian, MD"
+                }
+            ],
+            "tags": [
+                "human placental lactogen",
+                "informatics (discipline)",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837488/raghu_subramanian_2025_ic_250185_1754331303.51111.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
