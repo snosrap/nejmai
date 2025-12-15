@@ -27,33 +27,32 @@
             "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jvp250152t1_1764083387.6077.png?Expires=2147483647&Signature=nwu9rTprsO-LyhgtJguZ5Z3QmN0RJzcy9Ta2zXyj0dY5v9mitvUhuZrKpNNeTgrjplH6qMtCj58qo4qPHxWIsDaGxZp~S3CBeqOBIWw8RwutpzWWmeC1FkKbXHsjJeT6c3lnEz~hZvOeo2FnBdIlbYbUPy8TDGheJwMiT7W5QvX9HO9P~xaWrsv11lHIijhKYwblkEZ49Cd43KI~zSIp5guTP0TMK7HRe6ZPY2sGmIdyw67w4EOum8FVrP7q5c1Zsz-HP-0ege3rCsFeYdckqkc80TlsiGblPoEt1UlI5JwlFLRZZi0zjf1icL~RHqJ5RYx-PHmLYbJenzll1Uq7Uw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "title": "Emerging Artificial Intelligence Technologies for Risk Assessment and Management in Acute Myeloid Leukemia: A",
-            "summary": "This review examines the use of artificial intelligence in managing acute myeloid leukemia.",
-            "content_html": "<h3>Importance</h3><p>Acute myeloid leukemia (AML) is a severe hematologic cancer with complex genetic heterogeneity necessitating personalized treatment approaches. Artificial intelligence (AI) technologies may revolutionize risk stratification, diagnosis enhancement, and treatment planning in addressing critical gaps in AML management, particularly in low-resource health care environments.</p><h3>Observations</h3><p>This narrative review synthesizes existing AI applications in 3 primary areas of AML management. Machine learning algorithms integrating clinical, cytogenetic, and molecular data demonstrate greater prognostic accuracy than conventional European LeukemiaNet (ELN) guidelines. Deep learning approaches to image analysis yield excellent results for AML subtype identification from bone marrow smears (area under the receiver operating characteristic curve [AUROC]: 0.97) and genetic variant prediction (eg,<i>NPM1</i>status [AUROC: 0.92]). AI-driven genomic analysis reveals novel prognostic signatures and therapeutic targets through advanced pattern recognition, with high-dimensional machine learning achieving greater than 99% accuracy in AML classification from transcriptomic data. Explainable AI models overcome the black box limitation through interpretable algorithms with Shapley Additive Explanations values and local interpretable model-agnostic explanation techniques. Federated learning approaches enable multi-institutional collaboration with protection of patient privacy, with 96.5% accuracy in leukemia classification on heterogeneous datasets.</p><h3>Conclusions and Relevance</h3><p>AI technologies hold potential to improve AML treatment through enhanced risk stratification, early detection capabilities, and individualized treatment optimization. The transition toward explainable AI models is essential to clinical readiness, with federated learning architectures resolving data scarcity concerns. Seamless integration requires harmonized data standards, robust regulatory frameworks, and equitable access to technology to fully realize the transformative potential of AI in improving outcomes for patients with AML globally.</p>",
-            "date_published": "2025-11-06T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
+            "title": "Development and Validation of a Hybrid Machine Learning Model to Predict Lung Transplant Outcomes",
+            "summary": "This prognostic study uses United Network for Organ Sharing data to develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.",
+            "content_html": "<h3>Importance</h3><p>Long-term survival after a lung transplant remains highly variable, and existing risk stratification tools have limited accuracy, clinical utility, and interpretability.</p><h3>Objective</h3><p>To develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model using United Network for Organ Sharing data to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study used data from a United Network for Organ Sharing\u2013Organ Procurement and Transplantation Network cohort that underwent lung transplants between October 16, 1987, and March 26, 2025. The study included 51\u202f933 adult patients (aged \u226518 years) undergoing their first lung transplant in the US. The data were temporally split into a development cohort (1987-2014; n\u2009=\u200926\u202f682) and a testing cohort (2015-2025; n\u2009=\u200925\u202f251). The development cohort was divided into a training set (n\u2009=\u200924\u202f014) and validation set (n\u2009=\u20092668) for model selection and hyperparameter tuning.</p><h3>Main Outcomes and Measures</h3><p>The outcome was the time to death or retransplant. The model was developed using the AutoScore-Survival framework, which uses a random survival forest for variable selection and Cox proportional hazards regression for scoring. Performance was assessed by discrimination (a time-dependent area under the curve [AUC], the Harrell C-index, and integrated AUC [iAUC]), calibration (plots, slope, observed-to-expected event ratio, and Brier score), and clinical utility (decision curve analysis).</p><h3>Results</h3><p>Among 51\u202f933 recipients (median age, 59 years [5th-95th percentile range, 27-71 years]; 57.6% men), the median follow-up was 8.97 years (95% CI, 8.93-8.99 years), and 31\u202f865 (61.4%) experienced an event. Nine predictors were selected for the final model: length of hospital stay, recipient age, single vs double transplant, posttransplant ventilation support, prior cardiac surgery, creatinine level at transplant, functional status, total bilirubin level, and donor age. In the unseen testing set, the model showed moderate discrimination with an iAUC of 0.61 (95% CI, 0.60-0.63) and a C-index of 0.64 (95% CI, 0.63-0.64). The time-dependent AUC was 0.61 (95% CI, 0.52-0.70) at 1 year, 0.59 (95% CI, 0.53-0.65) at 5 years, and 0.72 (95% CI, 0.55-0.85) at 10 years. The model was well calibrated, and the decision curve analysis demonstrated a consistent net benefit across threshold probabilities.</p><h3>Conclusions and Relevance</h3><p>In this large prognostic study, the interpretable hybrid model provided practical, personalized risk stratification for lung transplant outcomes. With moderate discrimination, good calibration, and clear clinical utility, the model supports shared decision-making and is accessible via a web-based calculator.</p>",
+            "date_published": "2025-11-25T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Mohammad Amin Ansarian, MBBS"
+                    "name": "Gaurav Sharma, PhD, MBA"
                 }
             ],
             "tags": [
-                "acute",
-                "artificial intelligence",
-                "early diagnosis",
-                "leukemia",
-                "myelocytic",
-                "science of genetics",
-                "technology"
+                "calibration",
+                "lung transplantation",
+                "machine learning",
+                "organ procurement and transplantation network",
+                "retransplantation",
+                "united network for organ sharing"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2840876/jamaoncology_ansarian_2025_rv_250008_1762279386.30274.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841822/sharma_2025_oi_251228_1763504214.31251.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/0/crv250008t1_1762279386.46781.png?Expires=2147483647&Signature=LyVK5Bwm5jewTsfvZ1y0BAv97GGHSMxH2mimMbAHW9UjeyvHUjhtuvYdZBaPo1ayZe037C3-ioaNH0H61WH4eU-MmHNKx8HYOIH0CoDRLTSk-NoAcbmlU~KLzCcmAud6nuRSTbMWLiihFskHdmsT0iEfgsaUXg2CROhIgDW72Q-YtiKDpwBtrrdpHwLXTozXOI1eVjVw3GWfQ84RsGZrFo4kzIDOQW~5rnMcFLU1nS-oYuCDVHHmoMCKBh7O8L3bGIN3yMNAKP2GYaquXGY4F39G9M7-KfL6meUUID7KDMuaHXbyh3Y3QkYqpmMaR93Xr1aBA8~Wz2f495BTSe95VQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251228f1_1763504214.43895.png?Expires=2147483647&Signature=aky5OodlkWOc9Zx3cK6UJC0XNZIpJQqiFdtr5JYMUAlEk8cHgr~Ero1cpU6ZwZjWoUPZn7nrDRA1eQuwEFnNFVDMpzSOEh6sYSCnTtpO7LFXIjXEEUvJI7y-w0DHbOkVdujfpm-ctose9l3e7KV2SOvr9cSsOhMn6V2patzCI8CMo7p8VOf5Rr6RL7pEPzAEM1MgdHydYoZCTTtji0htME3JQLHmrVp~JkGe-g0MEoDICJ5EBjzM5~8x-MYY-lpuSgaQ9bOE6ndHmLj0jvs~jauwlaoXFHLvb~F3tdrhDrlG3G-0iZsiOHqtBf63eT4UcyRJ9tmeLZJsNplHk1ahZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
