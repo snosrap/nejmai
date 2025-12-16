@@ -4,32 +4,34 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841774",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841774",
-            "title": "Chatbot-Delivered Real-Time Support to Improve HIV Self-Testing Rates: A Randomized Clinical Trial",
-            "summary": "This randomized clinical trial of men who have sex with men investigates whether a chatbot-delivered HIV self-testing service is similar to a self-testing service with online real-time support by human administrators in increasing self-testing uptake and counseling support.",
-            "content_html": "<h3>Importance</h3><p>HIV self-testing (HIVST) with online real-time support by human administrators (HIVST-OIC) is an evidence-based HIV intervention for men who have sex with men (MSM) but requires intensive resources to implement.</p><h3>Objective</h3><p>To investigate whether a novel HIVST service using a chatbot to deliver online real-time instruction and counseling support (HIVST-chatbot) is noninferior to the HIVST-OIC in increasing HIVST uptake and counseling support for MSM.</p><h3>Design, Setting, and Participants</h3><p>A partially blinded, parallel-group, and noninferiority randomized clinical trial was conducted between April 16, 2023, and May 31, 2024, in Hong Kong, China. Eligible participants were Hong Kong\u2013based, Chinese-speaking MSM 18 years or older who reported anal intercourse with men in the past 6 months and had access to WhatsApp. Participants were recruited via gay venues, online recruitment, and peer referrals and then randomized to the HIVST-chatbot or HIVST-OIC groups. Both intention-to-treat (ITT) and complete case analyses were performed. The noninferiority margin was set at 10 percentage points.</p><h3>Interventions</h3><p>Standard-of-care pretest and posttest counseling was delivered by a chatbot for the HIVST-chatbot group and by trained human administrators in the HIVST-OIC group. Both groups received free HIVST kits.</p><h3>Main Outcomes and Measures</h3><p>Primary outcomes included self-reported HIVST uptake and receiving any counseling support along with HIVST, validated by the research team.</p><h3>Results</h3><p>A total of 531 participants (mean [SD] age, 34.8 [9.3] years) were randomized to either the HIVST-chatbot (n\u2009=\u2009266) or HIVST-OIC (n\u2009=\u2009265) groups. In ITT analysis, the HIVST-chatbot was noninferior to the HIVST-OIC in increasing HIVST uptake (216 [81.2%] vs 227 [85.7%]; proportion difference, \u22124.5 percentage points; 95% CI, \u22129.8 to 0.8 percentage points; 1-sided<i>P</i>\u2009=\u2009.10) and proportion of HIVST users who received counseling support (197 [91.2%] vs 142 [62.6%]; proportion difference, 28.7 percentage points; 95% CI, 22.5 to 34.8 percentage points; 1-sided<i>P</i>\u2009&lt;\u2009.001) at month 6. The HIVST-chatbot was more cost-effective than HIVST-OIC.</p><h3>Conclusions and Relevance</h3><p>In this randomized clinical trial, the HIVST-chatbot was noninferior to the HIVST-OIC in increasing HIVST uptake and counseling among HIVST users. These results suggest that the HIVST-chatbot might be an alternative to the evidence-based HIVST-OIC service for MSM.</p><h3>Trial Registration</h3><p>ClinicalTrial.gov Identifier:NCT05796622</p>",
-            "date_published": "2025-11-24T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Siyu Chen, PhD"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
-                "chatbots",
-                "counseling",
-                "hiv",
-                "hong kong",
-                "opioid-induced constipation",
-                "self-testing"
+                "artificial intelligence",
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841774/chen_2025_oi_251214_1763396756.63724.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251214f1_1763396756.85696.png?Expires=2147483647&Signature=tgdoJGne1~Be-pjSLOrrBdDaX5~ACWdLjp5QfJ-ITq5L1fXUcbYIqvOjEshm-jJ1Gr09Ho98LQKA996ftDYv2v3iB2Ti7nu1FTlZ5EPncDkibll4nwT4C1JM49ha7fE8v-awPzc45TEfP5KcqzhGfuYD9eEEn25L0VXMYk9iF~-pLIF0MsOYxhrpMoXC64Zh9okj5nlbkkBGby6I-oVsk6Vj~5gITednQTx1peMHdF8YzQYfLptMIJFJ2CAPkS5UYUO5RWOh1lF-mRalQlYTo7-VgGO~RFdopnTAtr3VIZs7WBbjT7Z23pqH31bLumxwkr1ka8wRheZ7nndfLfWFHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -721,6 +723,37 @@
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2822559",
+            "title": "Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive",
+            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that current evidence is insufficient to assess the balance of benefits and harms of screening and routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes (I statement).",
+            "content_html": "<h3>Importance</h3><p>Iron deficiency is the leading cause of anemia during pregnancy. According to survey data from 1999 to 2006, overall estimated prevalence of iron deficiency during pregnancy is near 18% and increases across the 3 trimesters of pregnancy (from 6.9% to 14.3% to 28.4%). An estimated 5% of pregnant persons have iron deficiency anemia.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening and supplementation for iron deficiency with and without anemia on maternal and infant health outcomes in asymptomatic pregnant persons.</p><h3>Population</h3><p>Asymptomatic pregnant adolescents and adults.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the current evidence is insufficient, and the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined. The USPSTF also concludes that the current evidence is insufficient, and the balance of benefits and harms of iron supplementation in asymptomatic pregnant persons on maternal and infant health outcomes cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine supplementation for iron deficiency and iron deficiency anemia in pregnant persons to prevent adverse maternal and infant health outcomes. (I statement)</p>",
+            "date_published": "2024-08-20T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "US Preventive Services Task Force"
+                }
+            ],
+            "tags": [
+                "infant health",
+                "iron",
+                "iron deficiency",
+                "iron deficiency anemia",
+                "iron deficiency anemia of pregnancy",
+                "mothers",
+                "pregnancy",
+                "screening procedure",
+                "united states preventive services task force"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2822559/jama_nicholson_2024_us_240009_1725904420.11528.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939457/jus240009fa_1725904420.27333.png?Expires=2147483647&Signature=XmZbfwSNcX0pJhHv6QXNxS1IifHoUW8AUrl~rYl~~Ixym7jIe1pnikjMlcL9BlICtrJpwiMLanq6Z1bOeOMtmFG9oZhWqdTDg4EAmjBmjEaKhdkP97tlxeJCkxg4EAdKlOb5jo5TbubWNV69cErL~2I0RiDjShUDm1TFJoVQkhzQZ5DnLY1JNU4e0kinuQOkTisZi0ZdrVmANUcMfzSbfMJKIhDrTXC~6XnFr2jf94VsaMpEpFQXbU7p-CTpKUHvD~VUi-Z6jyzSf3O-TNYHiu-3mMq1g~D9bWcPHzmbheXwc-KXPfVb7j4X2YbFPPyqZ1rQ~2v1UL-bRfaTx5y-TA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2822033",
             "title": "Identifying and Addressing Bias in Artificial Intelligence",
@@ -817,36 +850,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2820244",
-            "title": "Interventions for High Body Mass Index in Children and Adolescents: US Preventive Services Task Force",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions (B recommendation).",
-            "content_html": "<h3>Importance</h3><p>Approximately 19.7% of children and adolescents aged 2 to 19 years in the US have a body mass index (BMI) at or above the 95th percentile for age and sex, based on Centers for Disease Control and Prevention growth charts from 2000. The prevalence of high BMI increases with age and is higher among Hispanic/Latino, Native American/Alaska Native, and non-Hispanic Black children and adolescents and children from lower-income families.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on interventions (behavioral counseling and pharmacotherapy) for weight loss or weight management in children and adolescents that can be provided in or referred from a primary care setting.</p><h3>Population</h3><p>Children and adolescents 6 years or older.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that providing or referring children and adolescents 6 years or older with a high BMI to comprehensive, intensive behavioral interventions has a moderate net benefit.</p><h3>Recommendation</h3><p>The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high BMI (\u226595th percentile for age and sex) to comprehensive, intensive behavioral interventions. (B recommendation)</p>",
-            "date_published": "2024-06-18T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "behavior therapy",
-                "behavioral health interventions",
-                "body weight decreased",
-                "child",
-                "increased body mass index",
-                "pharmacotherapy",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2820244/jama_nicholson_2024_us_240007_1720024496.81095.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939412/jus240007fa_1720024496.98904.png?Expires=2147483647&Signature=BTW-rzUWz2~-9NZqIInfqJirZt59nj-nvGZL0Er2BfLAw3xIKittBeAgxLoIeAp85aI-qY6P9O42ARVErDh36nVTuLYgDSWEMf5tdfCGtb8tT9E1a3YX85IST~7-Vnl4LguS~z2-12i4XxFCNSX947~QEclSvl5-rOlzPNjWMqAJaKL571sqs0oEcvLRAzzATW~AHzm9l-xnCJFvbCNMHa-oJ3D7wOnEj~Ac~CpSVAlyX9yQLWbedS35B7D6dQx484fy3sbf~GQE9LRv1JJaNDpo-ubapec3XNNiejmMoXjpI14p3tylacYjZCi2JfYo1i1CNgcjYqgjT7WwCKfzVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2817745",
