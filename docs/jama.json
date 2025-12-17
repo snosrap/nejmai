@@ -4,60 +4,57 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841067",
-            "title": "Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults",
-            "summary": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
-            "content_text": "This cross-sectional study surveyed US adolescents and young adults on their use of generative artificial intelligence (AI) for mental health advice, including frequency and perceived helpfulness.",
-            "date_published": "2025-11-07T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
+            "title": "Adoption of Artificial Intelligence in the Health Care Sector",
+            "summary": "This cross-sectional study examines artificial intelligence use in health care and other industries according to US firms participating in the 2023 to 2025 Business Trends and Outlook Survey.",
+            "content_text": "This cross-sectional study examines artificial intelligence use in health care and other industries according to US firms participating in the 2023 to 2025 Business Trends and Outlook Survey.",
+            "date_published": "2025-11-21T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Ryan K. McBain, PhD, MPH"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "generative artificial intelligence",
-                "mental health",
-                "young adult"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841067/mcbain_2025_ld_250258_1761924421.38077.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250258t1_1761924421.60006.png?Expires=2147483647&Signature=Wunc0c-~vdLwim~dDFAavX6w1qURfxjkhDXZFgA7XijcVDHXeoJtGzKR-epy8h6UynsXMXU0JifyYcJZ-zHtwT3LZck~dOu8Dzy-BYPSTJ~p9PrFhQfUpOOPWwTtoXgJ7UmPUmYi4mBjek9KKiI7WPtJIKjW7OM6JyINsF3WLOk9BVAQmxPEP2xVi-cT~STBQtJLGNrIGD638X4jT71pmGNx6c-FsuBct5im9lGJh1C-zTaUo0Q4ScOFnMiXR~B-aXAH7iRqLm4gtpC1Qrxw2XkvH5nLhEKNSj8tiWzgibAsrjnUYusojNUYzpHlC1BJ~1pwr7l4vXZBZoCWrwuwnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
-            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
-            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
-            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
-            "date_published": "2025-05-08T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Robert N. Weinreb, MD"
+                    "name": "Thuy D. Nguyen, PhD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "delivery of health care",
-                "diagnostic imaging of retina",
-                "eye",
-                "health services accessibility",
-                "ophthalmic examination and evaluation",
-                "screening procedure",
-                "technology"
+                "health care sector"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2841460/nguyen_2025_ld_250054_1762800967.6263.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939721/ald250054f1_1762800967.7816.png?Expires=2147483647&Signature=lFFPuMArc~eBjYqSkC7N1EkHAv78lJ723rYZ0s0WjWOzaWCSqASENSsu9~Ki8UG7zvoZCvFvILEz6YyjdgHDqsfFNKh8KdKMboX3HiSBC8KJ0bwNrsG2CLuX-R4d040-PHdSyuJIM06kgb2p5Ws6fXHi8y3m6nUNW1R4Hixd~fFUG0cvyBC1YKK7VDdbR~CJiyswj1XSEFxsNvR05aV6FDIdFFUpZhXTMxORAY~lQdDqBh68iSoPOK~6x8tiyjw0RCIguiWorkZc~8~KHWcfqDe4h8izoef5fHUgB7vFaZjgsuMHlXBdd5q66Xn5woLml5oC1QTzA~-CaCf5s4mWbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841066",
+            "title": "FDA Approval of Artificial Intelligence and Machine Learning Devices in Radiology: A Systematic Review",
+            "summary": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "content_text": "This sytematic review examines US Food and Drug Administration (FDA) premarket clearances for artificial intelligence and machine learning devices in radiology with emphasis on testing.",
+            "date_published": "2025-11-07T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Ram Sivakumar, MD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "diagnostic imaging",
+                "diagnostic radiologic examination",
+                "drug approval",
+                "machine learning",
+                "radiology specialty",
+                "united states food and drug administration"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841066/sivakumar_2025_ld_250259_1761924420.41873.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zld250259f1_1761924420.63273.png?Expires=2147483647&Signature=G3HTsQCwJwaxkoKTjomcEAJlR1uodfW1nwDxfRDcFJcCLTOABskfna1DudmVkU~JcLRhSnls5Vg6ZIRKwrtvpWKShmM6LQsOrlEJcYWSyoWZdcK8dTiVeiXmGjxE~EU~ON-Bhob2c26NGhtRZTg1VVlB5inwkTmUh6ucX2i97PW20TdBc65zYR8sbaKVciA8zl8emEaLSCBgzrCRdpoOFk4vbe3fJc3~DZK4oH9A9BCOVnHglhGuJ~92Y3I~CEu3KunApWwm-kfLqvt2cfhuTGc-zBBz0~sIVYyM-EpDp-LvN~2zkdEuunQRWcr4RVr0XrrqnsS-GTybOrLas7v8Kw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
