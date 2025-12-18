@@ -4,29 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842883",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842883",
-            "title": "Large Language Models and Communication of Medical Probabilities",
-            "summary": "This diagnostic study investigates how chatbots interpret probability terms, such as rare, common, and possible, when describing medical risk.",
-            "content_text": "This diagnostic study investigates how chatbots interpret probability terms, such as rare, common, and possible, when describing medical risk.",
-            "date_published": "2025-12-17T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840933",
+            "title": "Software as a Medical Practitioner\u2014Is It Time to License Artificial Intelligence?",
+            "summary": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
+            "content_text": "This Viewpoint explores the application of a licensure paradigm to clinical artificial intelligence systems.",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Nicholas J. Jackson, BS"
+                    "name": "Eric Bressman, MD, MSHP"
                 }
             ],
             "tags": [
-                "chatbots",
-                "informatics (discipline)",
-                "large language models"
+                "artificial intelligence",
+                "computer software",
+                "licensure"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2842883/jackson_2025_ld_250294_1765381159.44613.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840933/jamainternal_bressman_2025_vp_250023_1762276252.53617.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939740/zld250294t1_1765381159.60613.png?Expires=2147483647&Signature=i1xrgfzEr7K5ADt9tggop3ciCATCVY8VN5xS86GDOOqDFTWusNd2aSpBsP6JCB74gr2M1l2NyQ7U9dD8rG6v1IPP3fHlCn3l0vp3XsNXW9Lz4jU4bC8v5HQSWiAspwdB0VOC-1lILsVubPuuTH36hP6GF1D1j~ccncBwX~9fa3MPlT-RECJemrXW21boCCa5kGR04hL2ebavArCoP7Lu8D2GZDEyeW5iB6TbxU3F9F4EGxyZ17-HktVhi77cQb1hbkqFaFaluZXv-89WWZUpuyWNcUy-rxzzEq34AH1vrd3SwknoJFwgeoPqNjchk1CoHeLuKmi8ycbQb2DVHH98iA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ivp250023t1_1762276252.75224.png?Expires=2147483647&Signature=jWfvRHpnPr6nTohX9-ElOwyIKZ6iisGrevmXsRUbX-iRbMbNpMPlk993xvVOr6y4~hFQeyXBc1Emugdx8CZ8jOK1JQsliX-qRWfEXGd3rI9S4AvTSbp6MIjAErypM7VudOj4rHPBr--RtS4k5QwKFnyUbLZcIdKJ4PaEkhDcBjfu3wrYc1mdxejxESX3~RHoE4Onh973US1j~cWD9shGYNFS8UcSalWlyXGHLiLVuVtuLeAt9I0cun3MjatyjPGIdLGHj-M0Hm8kGdAfIFHKk1fW449nEyrpjyj5XfaTftBNgG0JM0PPeM2b9oAby6PBFC8z4R-HoqN3YyquNd5AkA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840945",
+            "title": "Applying Clinical Licensure Principles to Artificial Intelligence",
+            "summary": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "content_text": "In this issue of JAMA Internal Medicine , Bressman et al 1 propose a clever thought experiment: what if medical tools incorporating artificial intelligence (AI) were licensed as advanced practitioners, rather than solely regulated by the US Food and Drug Administration (FDA)? This strategy seeks to provide an alternative or complement to FDA clearance in regulation of medical software incorporating AI. The authors suggest this may allow the necessary flexibility to keep up with the pace of change in AI, the breadth of applications for a given model, and the need to ensure that such tools demonstrate clinical utility. 2",
+            "date_published": "2025-11-17T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Eve Rittenberg, MD, MA"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "licensure"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840945/jamainternal_rittenberg_2025_ed_250012_1762276265.63723.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -890,33 +914,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
