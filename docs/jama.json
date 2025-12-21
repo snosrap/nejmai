@@ -4,42 +4,44 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2840033",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2840033",
-            "title": "Derivation and Validation of Predictive Models for Early Pediatric Sepsis",
-            "summary": "This cohort study evaluates the use of a machine learning model to estimate the probability of sepsis development within 48 hours among pediatric patients.",
-            "content_html": "<h3>Importance</h3><p>Sepsis is a leading cause of death in children. Early recognition and treatment improve outcomes, but predictive models have not to date improved early diagnosis.</p><h3>Objective</h3><p>To develop machine learning models to estimate the probability of developing sepsis in the subsequent 48 hours.</p><h3>Design, Setting, and Participants</h3><p>This was a multisite registry for model derivation and validation using electronic health record (EHR) data from January 2016 through February 2020 and temporal validation from January 2021 through December 2022. The performance of machine learning algorithms was compared to predict development of sepsis and septic shock via logistic regression, specifically ridge regression and gradient tree boosting. Five health systems contributing to the Pediatric Emergency Care Applied Research Network were included. Emergency department (ED) visits for children aged 2 months or older to less than 18 years of age excluding patients with ED disposition of death or transfer, trauma diagnosis, or sepsis present during predictive features window. The TRIPOD-AI reporting guideline was followed, and data analysis was conducted from September 2023 to July 2025.</p><h3>Exposures</h3><p>Patient and physiologic characteristics within the first 4 hours of ED care.</p><h3>Main Outcomes and Measures</h3><p>Sepsis, defined as suspected infection with a Phoenix Sepsis Criteria (PSC) score of 2 or more or death within 48 hours of ED arrival.</p><h3>Results</h3><p>The dataset included 1\u202f604\u202f422 eligible visits in the training cohort and 719\u202f298 visits in the test cohort. Performance characteristics for the PSC sepsis prediction models were AUROC of 0.92 (95% CI, 0.92-0.93) for logistic regression and 0.94 (95% CI, 0.93-0.94) for gradient tree boosting. AUROCs for PSC shock models were 0.92 or greater. The gradient tree boosting models had positive likelihood ratios ranging from 4.67 (95% CI, 4.61-4.74) to 6.18 (95% CI, 6.08-6.28) for sepsis and from 4.16 (95% CI, 4.07-4.24) to 5.83 (95% CI, 5.67-5.99) for septic shock. Predictive features included emergency severity index, age-adjusted vital signs, and medical complexity. Assessment of model performance fairness was similar for all demographic characteristics except payor; AUROC for patients with Medicaid insurance was better than for those with commercial payers.</p><h3>Conclusions and Relevance</h3><p>Using a large multicenter population, models were developed and validated with high AUROC to predict the future development of sepsis based on EHR data collected in the ED. The models achieved positive likelihood ratios to predict sepsis and septic shock. The results highlight the opportunity for future studies that combine EHR-based models with clinical judgment to improve prediction.</p>",
-            "date_published": "2025-10-13T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
+            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
+            "title": "Emerging Artificial Intelligence Technologies for Risk Assessment and Management in Acute Myeloid Leukemia: A",
+            "summary": "This review examines the use of artificial intelligence in managing acute myeloid leukemia.",
+            "content_html": "<h3>Importance</h3><p>Acute myeloid leukemia (AML) is a severe hematologic cancer with complex genetic heterogeneity necessitating personalized treatment approaches. Artificial intelligence (AI) technologies may revolutionize risk stratification, diagnosis enhancement, and treatment planning in addressing critical gaps in AML management, particularly in low-resource health care environments.</p><h3>Observations</h3><p>This narrative review synthesizes existing AI applications in 3 primary areas of AML management. Machine learning algorithms integrating clinical, cytogenetic, and molecular data demonstrate greater prognostic accuracy than conventional European LeukemiaNet (ELN) guidelines. Deep learning approaches to image analysis yield excellent results for AML subtype identification from bone marrow smears (area under the receiver operating characteristic curve [AUROC]: 0.97) and genetic variant prediction (eg,<i>NPM1</i>status [AUROC: 0.92]). AI-driven genomic analysis reveals novel prognostic signatures and therapeutic targets through advanced pattern recognition, with high-dimensional machine learning achieving greater than 99% accuracy in AML classification from transcriptomic data. Explainable AI models overcome the black box limitation through interpretable algorithms with Shapley Additive Explanations values and local interpretable model-agnostic explanation techniques. Federated learning approaches enable multi-institutional collaboration with protection of patient privacy, with 96.5% accuracy in leukemia classification on heterogeneous datasets.</p><h3>Conclusions and Relevance</h3><p>AI technologies hold potential to improve AML treatment through enhanced risk stratification, early detection capabilities, and individualized treatment optimization. The transition toward explainable AI models is essential to clinical readiness, with federated learning architectures resolving data scarcity concerns. Seamless integration requires harmonized data standards, robust regulatory frameworks, and equitable access to technology to fully realize the transformative potential of AI in improving outcomes for patients with AML globally.</p>",
+            "date_published": "2025-11-06T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Elizabeth R. Alpern, MD, MSCE"
+                    "name": "Mohammad Amin Ansarian, MBBS"
                 }
             ],
             "tags": [
-                "child",
-                "machine learning",
-                "pediatric discipline",
-                "sepsis",
-                "trees (plant)"
+                "acute",
+                "artificial intelligence",
+                "early diagnosis",
+                "leukemia",
+                "myelocytic",
+                "science of genetics",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2840033/jamapediatrics_alpern_2025_oi_250055_1763487229.99079.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2840876/jamaoncology_ansarian_2025_rv_250008_1765564167.59864.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/939738/poi250055f1_1763487230.15022.png?Expires=2147483647&Signature=Doupxc5jnSuc30n78HMzN0qC3f0pirh0ulR9VwcpMEU6qQfcoo1rqABQ3e-fWetrHOXe6dU2te0SXDIWF4Ne5kHnqKwTxRJUzjarWO2hNH~U5S8VTgBHmEpwumvE8oX6V1m~jVz2gK8Gqbf-gIepBkGlVbPn5nUjm7J45R5rsEf6bmH0olwpkVRaXy0AEN5Jr18~0my-I7PIFOoEYe95h~5uOLP3vZMgpeprC6vY3jzTlbYs6Nq5lYJuFqThkGQY~GQ5pRlO962KNhuvif7mtOyc-yKOxEc~vSftUtPWg~M24TjZMgbNz~OVdDSYu3bQIEnIaAy9Fv32EOjeHVQvIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/939756/crv250008t1_1765564167.71492.png?Expires=2147483647&Signature=MZ2y1aRgXTQHU0jUzKGSG136I8PCkp9Cad7~sk5tAgzLNIIaiU1YejU-prKIZqPyGglRNesDYPDlqYrtsdHPBzi1z~CzrxbaCydkza523xMO9h0aLAz0IIFATTQ0hYKAWkMWd9NOYnOzltVyvHer-UhhLc3yqjl7mQivXOyUbUakWTKKKeKDsct5ZGEhpUU1LZMtHPWXPLbUjcA6LHeTdGjT4YzZ~qJzGg~LFPumuUFi7zHbojZ9isKoLrYFuRSMc0vvSuU~8rLioPXpglNPNOd5FATTjY1zCdkpKu1v5TPo18-hx68WWBkx-9Bp91vtGG4vdA2GbR1HNUYooNiyJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836897",
-            "title": "Clinicians Have Crucial Roles in Diagnosis in an AI World",
-            "summary": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "content_text": "This Viewpoint describes how clinicians can use artificial intelligence (AI) as a tool for support to give them the opportunity to focus on the interpersonal aspects of patient care.",
-            "date_published": "2025-07-28T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
+            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
+            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
+            "date_published": "2025-08-06T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Ellen Wright Clayton, MD, JD"
+                    "name": "R. Chris Jones, MD"
                 }
             ],
             "tags": [
@@ -47,11 +49,11 @@
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836897/jamapediatrics_clayton_2025_vp_250013_1755882466.95943.pdf",
+                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
