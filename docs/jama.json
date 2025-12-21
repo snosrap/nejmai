@@ -4,56 +4,65 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "url": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2840876",
-            "title": "Emerging Artificial Intelligence Technologies for Risk Assessment and Management in Acute Myeloid Leukemia: A",
-            "summary": "This review examines the use of artificial intelligence in managing acute myeloid leukemia.",
-            "content_html": "<h3>Importance</h3><p>Acute myeloid leukemia (AML) is a severe hematologic cancer with complex genetic heterogeneity necessitating personalized treatment approaches. Artificial intelligence (AI) technologies may revolutionize risk stratification, diagnosis enhancement, and treatment planning in addressing critical gaps in AML management, particularly in low-resource health care environments.</p><h3>Observations</h3><p>This narrative review synthesizes existing AI applications in 3 primary areas of AML management. Machine learning algorithms integrating clinical, cytogenetic, and molecular data demonstrate greater prognostic accuracy than conventional European LeukemiaNet (ELN) guidelines. Deep learning approaches to image analysis yield excellent results for AML subtype identification from bone marrow smears (area under the receiver operating characteristic curve [AUROC]: 0.97) and genetic variant prediction (eg,<i>NPM1</i>status [AUROC: 0.92]). AI-driven genomic analysis reveals novel prognostic signatures and therapeutic targets through advanced pattern recognition, with high-dimensional machine learning achieving greater than 99% accuracy in AML classification from transcriptomic data. Explainable AI models overcome the black box limitation through interpretable algorithms with Shapley Additive Explanations values and local interpretable model-agnostic explanation techniques. Federated learning approaches enable multi-institutional collaboration with protection of patient privacy, with 96.5% accuracy in leukemia classification on heterogeneous datasets.</p><h3>Conclusions and Relevance</h3><p>AI technologies hold potential to improve AML treatment through enhanced risk stratification, early detection capabilities, and individualized treatment optimization. The transition toward explainable AI models is essential to clinical readiness, with federated learning architectures resolving data scarcity concerns. Seamless integration requires harmonized data standards, robust regulatory frameworks, and equitable access to technology to fully realize the transformative potential of AI in improving outcomes for patients with AML globally.</p>",
-            "date_published": "2025-11-06T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2841811",
+            "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2841811",
+            "title": "A Novel Tool for Predicting Malignant Disease in Adult Patients With Dermatomyositis",
+            "summary": "This cohort study validates the usefulness of a novel prediction model for cancer-associated likelihood in adult patients with dermatomyositis.",
+            "content_html": "<h3>Importance</h3><p>Cancer is a life-threatening complication of dermatomyositis (DM) and contributes significantly to mortality. A validated association-based tool is urgently needed to optimize early cancer detection and reduce diagnostic delays.</p><h3>Objective</h3><p>To develop and validate a practical prediction model for cancer-associated likelihood in adult patients with DM.</p><h3>Design, Setting, and Participants</h3><p>A retrospective multicenter cohort study including adults with DM or clinically amyopathic DM was carried out. Participants were recruited from the Department of Dermatology at Ruijin Hospital (training cohort) and the Department of Rheumatology at Renji Hospital (validation cohort) over the period from 2015 to 2022. Multivariate logistic regression and machine learning techniques were employed for model development and validation. The analysis took place in 2024.</p><h3>Exposure</h3><p>DM and clinically amyopathic DM.</p><h3>Main Outcomes and Measures</h3><p>The primary outcome was the occurrence of cancer in patients with DM. Model performance was assessed using the area under the curve to evaluate predictive accuracy.</p><h3>Results</h3><p>A total of 546 adults with DM or clinically amyopathic DM were included, with a mean (SD) age of 49.8 (14.2) years, comprising 166 male individuals (30.4%) and 380 female individuals (69.6%). Five factors significantly associated with concomitant cancers in patients with DM were used to construct the TIP-CA model: anti\u2013transcriptional intermediary factor 1-\u03b3 (TIF1-\u03b3) antibody (positive scored as 1; negative scored as 0), interstitial lung disease (present scored as \u22121; absent scored as 0), poikiloderma (present scored as 1; absent scored as 0), DM subtypes (DM scored as 1; clinically amyopathic DM scored as 0), and anemia (present scored as 1; absent scored as 0). The model demonstrated good discriminatory capability, achieving an area under the curve of 0.809 and 0.808 in the derivation and validation cohorts, respectively.</p><h3>Conclusions and Relevance</h3><p>This cohort study found that the TIP-CA model effectively stratified cancer-associated likelihood in patients with DM using routinely available clinical data. By using data from multidisciplinary patient cohorts and incorporating machine learning techniques, the model minimized referral bias. This proposed model may have the potential to guide clinicians in implementing targeted cancer screening strategies and improve patient outcomes.</p>",
+            "date_published": "2025-12-03T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Mohammad Amin Ansarian, MBBS"
+                    "name": "Jiaqi Ye, MD"
                 }
             ],
             "tags": [
-                "acute",
-                "artificial intelligence",
-                "early diagnosis",
-                "leukemia",
-                "myelocytic",
-                "science of genetics",
-                "technology"
+                "anemia",
+                "antibodies",
+                "dermatomyositis",
+                "interstitial",
+                "lung diseases",
+                "malignant neoplasms",
+                "poikiloderma",
+                "screening for cancer"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2840876/jamaoncology_ansarian_2025_rv_250008_1765564167.59864.pdf",
+                    "url": "https://jamanetwork.com/journals/jamadermatology/articlepdf/2841811/jamadermatology_ye_2025_br_250013_1763660216.68941.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/oncology/939756/crv250008t1_1765564167.71492.png?Expires=2147483647&Signature=MZ2y1aRgXTQHU0jUzKGSG136I8PCkp9Cad7~sk5tAgzLNIIaiU1YejU-prKIZqPyGglRNesDYPDlqYrtsdHPBzi1z~CzrxbaCydkza523xMO9h0aLAz0IIFATTQ0hYKAWkMWd9NOYnOzltVyvHer-UhhLc3yqjl7mQivXOyUbUakWTKKKeKDsct5ZGEhpUU1LZMtHPWXPLbUjcA6LHeTdGjT4YzZ~qJzGg~LFPumuUFi7zHbojZ9isKoLrYFuRSMc0vvSuU~8rLioPXpglNPNOd5FATTjY1zCdkpKu1v5TPo18-hx68WWBkx-9Bp91vtGG4vdA2GbR1HNUYooNiyJg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/derm/0/dbr250013t1_1763660216.91941.png?Expires=2147483647&Signature=qoFPmSQ-O7iiIxjIy2J6MD6e0rBsvLCYBw7M54982oWSngLSrQpesogdn~aVHcLKZQwqkW-KUlEG4AVSDCJ4LtQtKxPbMaimIkG6wY13SHzPrjkUPA~en-mqpFJO0YPPBiI70j8JZDMzrGl98~ZuQbM3F9XPRaxD3-lVUVYzseOpNW42ukpTbwVBRZjWxc3JyCjLu9hvCFynwxzRzDGOgVsEMp-c3D2ucFl3LYMakV5m7ERLJffA-3hawls2YCemwYR0HO-pJTv28NQZyNDqcw6wwlPHUuyfJq0p5LIHaO475H2z~K~Cer9i8c51UKaDOkbCtuuljr9dTbYIEAtfeA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2837240",
-            "title": "The 3.5-Inch View\u2014On Perspective and the Medical Profession",
-            "summary": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "content_text": "This essay describes issues in contemporary medical practice that can distort perspective, including contrasting institutional priorities, artificial intelligence, and generational changes.",
-            "date_published": "2025-08-06T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840944",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840944",
+            "title": "Satisfaction in Writing",
+            "summary": "The Inside Story by Steiner 1 is a nice description of how and why many researchers find it difficult to write scientific articles and thus appreciate the help of artificial intelligence (AI). We also note that writing a scientific paper, as opposed to a short story, is a team effort that requires the lead author to harmoniously integrate various perspectives\u2014an important and sometimes demanding skill. While AI will never achieve the subtlety of the best scientific writers, we acknowledge that, when used appropriately, it may improve the quality of writing for people who find that process challenging.",
+            "content_text": "The Inside Story by Steiner 1 is a nice description of how and why many researchers find it difficult to write scientific articles and thus appreciate the help of artificial intelligence (AI). We also note that writing a scientific paper, as opposed to a short story, is a team effort that requires the lead author to harmoniously integrate various perspectives\u2014an important and sometimes demanding skill. While AI will never achieve the subtlety of the best scientific writers, we acknowledge that, when used appropriately, it may improve the quality of writing for people who find that process challenging.",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "R. Chris Jones, MD"
+                    "name": "Deborah Grady, MD, MPH"
                 }
             ],
             "tags": [
-                "artificial intelligence"
+                "artificial intelligence",
+                "chemistry",
+                "internal medicine specialty",
+                "love",
+                "mastery learning",
+                "organic",
+                "personal satisfaction",
+                "persuasive communication",
+                "rewards"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2837240/jamacardiology_jones_2025_po_250002_1758588889.26561.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840944/jamainternal_grady_2025_en_250021_1762276265.14767.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Cardiology.png"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
