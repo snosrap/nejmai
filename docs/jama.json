@@ -4,28 +4,60 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2836054",
-            "title": "Inaction on Artificial Intelligence Regulation in a Time of Upheaval",
-            "summary": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "content_text": "We are living in a disorienting time. At the quarter mark of the 21st century, several forces have conspired to transform a range of industries, how we go about our daily lives, and, of particular interest here, the conditions and structures that determine the health of individuals and populations. Perhaps nothing has been as disruptive as the arrival of widely available artificial intelligence (AI). Although research into AI has been happening for decades and AI has been similarly in use in specialized form for years, 1 the introduction by ChatGPT (OpenAI) in 2022, the first widely available large language model chatbot, dramatically changed global awareness of the potential of the technology and opened the floodgates for adoption of AI approaches throughout all sectors, including those related to health and health care.",
-            "date_published": "2025-07-11T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2833592",
+            "title": "Application of Artificial Intelligence to Deliver Healthcare From the Eye",
+            "summary": "This Special Communication discusses Healthcare From the Eye prescreening, a combination of artificial intelligence analysis of ocular data with automated technologies captured during routine eye examinations to transform health care delivery and improve early disease detection, improve access to care, and reduce costs.",
+            "content_html": "<h3>Importance</h3><p>Oculomics is the science of analyzing ocular data to identify, diagnose, and manage systemic disease. This article focuses on prescreening, its use with retinal images analyzed by artificial intelligence (AI), to identify ocular or systemic disease or potential disease in asymptomatic individuals. The implementation of prescreening in a coordinated care system, defined as<i>Healthcare From the Eye</i>prescreening, has the potential to improve access, affordability, equity, quality, and safety of health care on a global level. Stakeholders include physicians, payers, policymakers, regulators and representatives from industry, government, and data privacy sectors.</p><h3>Observations</h3><p>The combination of AI analysis of ocular data with automated technologies that capture images during routine eye examinations enables prescreening of large populations for chronic disease. Retinal images can be acquired during either a routine eye examination or in settings outside of eye care with readily accessible, safe, quick, and noninvasive retinal imaging devices. The outcome of such an examination can then be digitally communicated across relevant stakeholders in a coordinated fashion to direct a patient to screening and monitoring services. Such an approach offers the opportunity to transform health care delivery and improve early disease detection, improve access to care, enhance equity especially in rural and underserved communities, and reduce costs.</p><h3>Conclusions and Relevance</h3><p>With effective implementation and collaboration among key stakeholders, this approach has the potential to contribute to an equitable and effective health care system.</p>",
+            "date_published": "2025-05-08T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Sandro Galea, MD, DrPH"
+                    "name": "Robert N. Weinreb, MD"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "health policy"
+                "delivery of health care",
+                "diagnostic imaging of retina",
+                "eye",
+                "health services accessibility",
+                "ophthalmic examination and evaluation",
+                "screening procedure",
+                "technology"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2836054/galea_2025_ed_250008_1752004995.96616.pdf",
+                    "url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/2833592/jamaophthalmology_weinreb_2025_sc_250001_1749757315.14314.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/ophth/939638/esc250001f1_1749757315.26421.png?Expires=2147483647&Signature=TxG5YTJ3R~6tzm5l0PyZAZlQVwIK1ogxNO48xLGwjFe5TCIpC20dE-i-kMIOwgqeGCvm3w2Gf-Q0XUfuKpIfY-N~hp27WgFnYUtgsseYJxOVAuHhpHH8hg35RP4aFoaRlSbuis9rDbze7q8GhZhY~XclMNRy1LXOF2MmLQM3Ex8RRR2XNOz7r6Rf7xrrHPhuTwGWXZhSIYgGlyxzkoxxhDhZFQMBX7Jbkxpgg08p9QZfGiUYXFSaMaeH414~mJ0eSbZuPdA~VJHDFPekrSDPA56DHip1~JuIwfDKEhyTuW-vlKzlSOOtnepwqC9Kz2DGLZVk6Q1y2vqHqfPgcAbakw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/2828660",
+            "title": "Practical Guide to Artificial Intelligence, Chatbots, and Large Language Models in Conducting and Reporting",
+            "summary": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "content_text": "This Guide to Statistics and Methods provides an overview of the limitations and opportunities in applying large language models in such tasks as extracting surgical risk factors from clinical notes, learning from text inputs for decision support, and serving as educational tools.",
+            "date_published": "2025-01-08T09:00:00-05:00",
+            "authors": [
+                {
+                    "name": "Tyler J. Loftus, MD, PhD"
+                }
+            ],
+            "tags": [
+                "artificial intelligence",
+                "chatbots",
+                "knowledge acquisition",
+                "large language models"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamasurgery/articlepdf/2828660/jamasurgery_loftus_2025_gm_240009_1747170559.74371.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
@@ -889,33 +921,6 @@
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/Surgery.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2816230",
-            "title": "Primary Care Interventions to Prevent Child Maltreatment: US Preventive Services Task Force Recommendation",
-            "summary": "This 2024 Recommendation Statement from the US Preventive Services Task Force concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment (I statement).",
-            "content_html": "<h3>Importance</h3><p>Child maltreatment, which includes child abuse and neglect, can have profound effects on health, development, survival, and well-being throughout childhood and adulthood. The prevalence of child maltreatment in the US is uncertain and likely underestimated. In 2021, an estimated 600\u202f000 children were identified by Child Protective Services as experiencing abuse or neglect and an estimated 1820 children died of abuse and neglect.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate benefits and harms of primary care\u2013feasible or referable behavioral counseling interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of maltreatment.</p><h3>Population</h3><p>Children and adolescents younger than 18 years who do not have signs or symptoms of or known exposure to maltreatment.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes that the evidence is insufficient to determine the balance of benefits and harms of primary care interventions to prevent child maltreatment in children and adolescents younger than 18 years without signs or symptoms of or known exposure to maltreatment.</p><h3>Recommendation</h3><p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of primary care interventions to prevent child maltreatment. (I statement)</p>",
-            "date_published": "2024-03-19T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "US Preventive Services Task Force"
-                }
-            ],
-            "tags": [
-                "adolescence",
-                "child",
-                "child abuse behavior",
-                "primary health care",
-                "united states preventive services task force"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2816230/jama_barry_2024_us_240002_1710362778.90364.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939339/jus240002fa_1710362779.03864.png?Expires=2147483647&Signature=nKMpFUl4~MZJoKoFxgEbQ014aEeyAqZyiZhT3S1Yms2dNRg8gcdVDfEocs7h5USrIjF2~d-rZA-43vnWEVCOXUR-WopO2k7~FHe3IhPsqOAXVivyc9hvzwAjL92riDNYx0s8-aYPCWBe9IVnduach0wtvrTBeKROH54E3E35NfWfdOqpplHn70M9RURhgWj~hGfP0aUnV-MTNfg8l4NMpmh9qe6m~uz5kZO~sLFQQuFDGQjAb6tdoisiPmZWEsnAUeCFrAe~xOBasBJoL66r4VSttbRG95EzpoLZNskK2RORiOukM5UU646WejZCUupkMwwhb3eg3Wuo-ejaUXklSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815872",
