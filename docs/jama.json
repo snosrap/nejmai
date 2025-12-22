@@ -4,31 +4,35 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
-            "url": "https://jamanetwork.com/journals/jamacardiology/fullarticle/2841169",
-            "title": "Detecting Transthyretin Cardiac Amyloidosis With Artificial Intelligence: A Nonrandomized Clinical Trial",
-            "summary": "This nonrandomized clinical trial reports the development and evaluation of an artificial intelligence\u2013augmented screening program designed to detect transthyretin cardiac amyloidosis.",
-            "content_html": "<h3>Importance</h3><p>Transthyretin amyloid cardiomyopathy (ATTR-CM) is underdiagnosed despite expanding treatment options.</p><h3>Objective</h3><p>To develop and evaluate an artificial intelligence (AI)\u2013augmented clinical program for ATTR-CM detection.</p><h3>Design, Setting, and Participants</h3><p>This nonrandomized clinical trial involved constructing an AI model, ATTRACTnet, using electrocardiogram waveforms, echocardiographic measurements, demographics, and diagnosis codes for orthopedic manifestations of amyloidosis. A single-system, multisite, single-arm, open-label trial was conducted to evaluate its real-world performance. The model was trained and validated at a large academic referral site for ATTR-CM with external validation at an academic site. The trial was conducted as a single-system, multisite trial. Patients with left ventricular (LV) wall thickness 12 mm or more and an ATTRACTnet score 0.5 or higher were eligible. Exclusions included prior ATTR-CM testing, hypertrophic cardiomyopathy, expected life span less than 1 year, nursing home residence, advanced dementia, or LV wall thickness less than 14 mm explained by uncontrolled hypertension or moderate/severe aortic stenosis.</p><h3>Intervention</h3><p>Eligible patients were notified and offered nuclear scintigraphy testing, monoclonal protein testing, and follow-up care on agreement from the treating physician.</p><h3>Main Outcomes and Measure</h3><p>The primary outcome was a diagnosis of ATTR-CM by consensus criteria. ATTR-CM testing positivity was compared with historical and contemporary controls.</p><h3>Results</h3><p>ATTRACTnet was developed in an internal test set of 799 patients (mean [SD] age, 75.1 [11.1] years; 516 [64.7%] male and 283 [35.3%] female) using 5-fold cross-validation with an additional external test set of 422 patients. It had good discrimination for ATTR-CM detection with an area under the receiver operator characteristic curve of 0.85 (5-fold cross-validation, 0.77-0.85) in the internal set and 0.82 (95% CI, .81-0.83) in the external test set with similar performance in Hispanic, non-Hispanic Black, and non-Hispanic White patients. A total of 1471 patients were identified with positive AI model scores 0.5 or more during the study period, with 256 eligible patients who met study criteria. Of these patients, 50 underwent amyloidosis testing after physician and patient approval; 24 (48%) were diagnosed with ATTR-CM, and 21 (88%) initiated treatment within 3 months. The positivity rate was more than 2.8 times higher than historical controls (15.3%; 95% CI, 13.1%-17.9%;<i>P</i>\u2009&lt;\u2009.001), with an 18% relative increase in new diagnoses vs the prior year.</p><h3>Conclusions and Relevance</h3><p>AI-augmented screening may improve ATTR-CM detection and identify patients who are missed by usual care. Prospective randomized trials are needed to determine if outcomes are improved.</p><h3>Trial Registration</h3><p>ClinicalTrials.gov Identifier:NCT06469372</p>",
-            "date_published": "2025-11-10T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840944",
+            "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840944",
+            "title": "Satisfaction in Writing",
+            "summary": "The Inside Story by Steiner 1 is a nice description of how and why many researchers find it difficult to write scientific articles and thus appreciate the help of artificial intelligence (AI). We also note that writing a scientific paper, as opposed to a short story, is a team effort that requires the lead author to harmoniously integrate various perspectives\u2014an important and sometimes demanding skill. While AI will never achieve the subtlety of the best scientific writers, we acknowledge that, when used appropriately, it may improve the quality of writing for people who find that process challenging.",
+            "content_text": "The Inside Story by Steiner 1 is a nice description of how and why many researchers find it difficult to write scientific articles and thus appreciate the help of artificial intelligence (AI). We also note that writing a scientific paper, as opposed to a short story, is a team effort that requires the lead author to harmoniously integrate various perspectives\u2014an important and sometimes demanding skill. While AI will never achieve the subtlety of the best scientific writers, we acknowledge that, when used appropriately, it may improve the quality of writing for people who find that process challenging.",
+            "date_published": "2025-11-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Sneha S. Jain, MD, MBA"
+                    "name": "Deborah Grady, MD, MPH"
                 }
             ],
             "tags": [
                 "artificial intelligence",
-                "cardiac amyloidosis",
-                "prealbumin",
-                "radionuclide imaging",
-                "screening procedure"
+                "chemistry",
+                "internal medicine specialty",
+                "love",
+                "mastery learning",
+                "organic",
+                "personal satisfaction",
+                "persuasive communication",
+                "rewards"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2841169/jamacardiology_jain_2025_oi_250070_1765208277.02625.pdf",
+                    "url": "https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2840944/jamainternal_grady_2025_en_250021_1762276265.14767.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/cardiology/0/hoi250070f1_1765208277.31702.png?Expires=2147483647&Signature=pizgO68mWD91CN71GBPCJzE~wg5Gj3mGiX4~JulK0VnKeJoBQFMIu3Jjw29jbZeeKCtbw2sKVeFnTofytehQJt7LlsKPTPXD7ijeA~hZT3L0B-aUqixFoZPo9Qb~jNcBzMcY2qbRu0Rro0QZDDqlMMhAgzv2k2WMC4RRxgmkFe-~RkP5g2jMwYJ8U14Y1JZ4YrROGqcJsUma4dMxfmXK88wAFDwwdkWUv1Pid7y5jn3XEh0qY5b5m~66CIV~6rb9N~AJAp0IgVO0FjoZ7Fm9HB204eA9Bo5IHPVMI2fYIjuA92sI6nAGeQDfi5fEAafoTrBcY5RVdG9DhZzaGMzfCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/Internal Medicine.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2830246",
