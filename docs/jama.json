@@ -4,32 +4,29 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2843164",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2843164",
-            "title": "Mitigating Suicide Risk for Minors Involving AI Chatbots\u2014A First in the Nation Law",
-            "summary": "In this Viewpoint, a California artificial intelligence law is described, including its positive contributions to making these companion chatbots safer for minor and adult users and the limits of the law, and recommends further steps California and other states can adopt to improve protections for mental health and chatbot safety, especially for minors.",
-            "content_text": "In this Viewpoint, a California artificial intelligence law is described, including its positive contributions to making these companion chatbots safer for minor and adult users and the limits of the law, and recommends further steps California and other states can adopt to improve protections for mental health and chatbot safety, especially for minors.",
-            "date_published": "2025-12-22T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842883",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842883",
+            "title": "Large Language Models and Communication of Medical Probabilities",
+            "summary": "This diagnostic study investigates how chatbots interpret probability terms, such as rare, common, and possible, when describing medical risk.",
+            "content_text": "This diagnostic study investigates how chatbots interpret probability terms, such as rare, common, and possible, when describing medical risk.",
+            "date_published": "2025-12-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "I. Glenn Cohen, JD"
+                    "name": "Nicholas J. Jackson, BS"
                 }
             ],
             "tags": [
-                "artificial intelligence",
                 "chatbots",
-                "mental health",
-                "minors",
-                "suicidal behavior",
-                "suicide risk assessment"
+                "informatics (discipline)",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2843164/jama_cohen_2025_vp_250156_1765912058.25409.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2842883/jackson_2025_ld_250294_1765381159.44613.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939740/zld250294t1_1765381159.60613.png?Expires=2147483647&Signature=i1xrgfzEr7K5ADt9tggop3ciCATCVY8VN5xS86GDOOqDFTWusNd2aSpBsP6JCB74gr2M1l2NyQ7U9dD8rG6v1IPP3fHlCn3l0vp3XsNXW9Lz4jU4bC8v5HQSWiAspwdB0VOC-1lILsVubPuuTH36hP6GF1D1j~ccncBwX~9fa3MPlT-RECJemrXW21boCCa5kGR04hL2ebavArCoP7Lu8D2GZDEyeW5iB6TbxU3F9F4EGxyZ17-HktVhi77cQb1hbkqFaFaluZXv-89WWZUpuyWNcUy-rxzzEq34AH1vrd3SwknoJFwgeoPqNjchk1CoHeLuKmi8ycbQb2DVHH98iA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
