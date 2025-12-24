@@ -4,55 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842683",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842683",
-            "title": "Uptake of Generative AI Integrated With Electronic Health Records in US Hospitals",
-            "summary": "This survey study describes the current and planned implementation of generative artificial intelligence (AI) in nonfederal acute care US hospitals.",
-            "content_html": "<h3>Importance</h3><p>There is widespread enthusiasm about generative artificial intelligence (AI), but no systematic evidence on its implementation across health care organizations.</p><h3>Objective</h3><p>To describe adoption of generative AI integrated with the electronic health record (EHR) by nonfederal acute care hospitals, how adoption relates to experience using and evaluating predictive AI, and hospital characteristics.</p><h3>Design, Setting, and Participants</h3><p>This survey study of nonfederal acute care US hospitals used the 2024 American Hospital Association (AHA) Information Technology (IT) Supplement survey. The survey was completed by individuals most knowledgeable about health IT at the participating hospitals.</p><h3>Exposures</h3><p>Experience with predictive AI, source of predictive AI, local evaluation practices (evaluation for accuracy and bias as well as postdeployment evaluation), and EHR developer were collected from the 2024 AHA IT Supplement. Hospital characteristics, including critical access hospital status, multihospital system membership, and teaching status, were collected from the 2024 AHA Annual Survey. Hospital operating margins, uncompensated care burden, and percentage of discharges from Medicaid were collected from the 2022 Medicare Cost Report.</p><h3>Main Outcomes and Measures</h3><p>Whether the hospital was an early adopter of generative AI integrated with their EHR (currently used generative AI), fast follower (planned to use in the next year), or delayed adopter (planned to use in 5 years, no plans, or do not know).</p><h3>Results</h3><p>A total of 2174 hospitals (1003 [weighted percentage, 50.4%] small; 1382 [weighted percentage, 60.8%] urban core\u2013based; 1668 [weighted percentage, 68.8%] part of a multihospital system) responded to questions about their use of AI (51.5% response rate). Overall, 762 hospitals (weighted percentage, 31.5%) were early adopters of generative AI in 2024, 540 (weighted percentage, 24.7%) were fast followers, and 872 (weighted percentage, 43.7%) were delayed adopters. In unadjusted analyses, independent hospitals and critical access hospitals were less likely to be either early adopters or fast followers than delayed adopters. In adjusted analyses, hospitals that used predictive AI were more likely to be early adopters or fast followers than delayed adopters (difference, 26.2 [95% CI, 16.8-35.6] percentage points). Users of Epic were more likely to be early adopters and fast followers than users of other EHRs (eg, likelihood of being an early adopter or fast follower, Epic vs Oracle users: 21.9 [95% CI, 16.3-27.4] percentage points). Hospitals that reported conducting all local evaluation practices (accuracy, bias, postdeployment) were slower to adopt than hospitals that reported only 1 evaluation practice (all local evaluation processes: 12.1 [95% CI, 4.5-19.6] percentage points less likely to be early adopters than fast followers).</p><h3>Conclusions and Relevance</h3><p>In this survey study of US hospitals, more than half of US hospitals reported that they would likely implement generative AI by the end of 2025. Results indicate the value of providing support to ensure hospitals can adopt beneficial generative AI and the need for developing and disseminating best practices for generative AI evaluation across organizations.</p>",
-            "date_published": "2025-12-12T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama/fullarticle/2843164",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2843164",
+            "title": "Mitigating Suicide Risk for Minors Involving AI Chatbots\u2014A First in the Nation Law",
+            "summary": "In this Viewpoint, a California artificial intelligence law is described, including its positive contributions to making these companion chatbots safer for minor and adult users and the limits of the law, and recommends further steps California and other states can adopt to improve protections for mental health and chatbot safety, especially for minors.",
+            "content_text": "In this Viewpoint, a California artificial intelligence law is described, including its positive contributions to making these companion chatbots safer for minor and adult users and the limits of the law, and recommends further steps California and other states can adopt to improve protections for mental health and chatbot safety, especially for minors.",
+            "date_published": "2025-12-22T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Jordan Everson, PhD, MPP"
+                    "name": "I. Glenn Cohen, JD"
                 }
             ],
             "tags": [
-                ""
+                "artificial intelligence",
+                "chatbots",
+                "mental health",
+                "minors",
+                "suicidal behavior",
+                "suicide risk assessment"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2842683/everson_2025_oi_251329_1764969737.64763.pdf",
+                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2843164/jama_cohen_2025_vp_250156_1765912058.25409.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939740/zoi251329t1_1764969737.97263.png?Expires=2147483647&Signature=vInT1yMAGJ7y8M~fvV3WxlngbX7qrIPEs6Iu4ZZHLaSqHdqnwKiyprMP5iq4ddTpAK7-anyEfcn9p~1TPFmMPp2hQ5E0L4nbveJ3kr54R2rWQXm5GTfbLsUeW2XAuVpF0oprx7gnoL85s2pJXAf7VP0trdYUszBSU35Ljdqh~2cBx5HgrOblvtjtVDQrE6FQQSkHPrMp9zoYXh-3walL~0mUSqeSkqZ6Qj6x4Ef4ob-gbpFGdIbGUPiE1~tk5apXsWknpczMoVf2u14BoVTxafEK8fRmgURwTwwzRkqPUimdq0U9psydubaErrhGew68cg0MetRZ6hLNHC4~o65uZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/JAMA.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841822",
-            "title": "Development and Validation of a Hybrid Machine Learning Model to Predict Lung Transplant Outcomes",
-            "summary": "This prognostic study uses United Network for Organ Sharing data to develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.",
-            "content_html": "<h3>Importance</h3><p>Long-term survival after a lung transplant remains highly variable, and existing risk stratification tools have limited accuracy, clinical utility, and interpretability.</p><h3>Objective</h3><p>To develop, validate, and assess the clinical utility of an interpretable hybrid machine learning model using United Network for Organ Sharing data to predict time to death or retransplant at 1, 5, and 10 years after a lung transplant.</p><h3>Design, Setting, and Participants</h3><p>This prognostic study used data from a United Network for Organ Sharing\u2013Organ Procurement and Transplantation Network cohort that underwent lung transplants between October 16, 1987, and March 26, 2025. The study included 51\u202f933 adult patients (aged \u226518 years) undergoing their first lung transplant in the US. The data were temporally split into a development cohort (1987-2014; n\u2009=\u200926\u202f682) and a testing cohort (2015-2025; n\u2009=\u200925\u202f251). The development cohort was divided into a training set (n\u2009=\u200924\u202f014) and validation set (n\u2009=\u20092668) for model selection and hyperparameter tuning.</p><h3>Main Outcomes and Measures</h3><p>The outcome was the time to death or retransplant. The model was developed using the AutoScore-Survival framework, which uses a random survival forest for variable selection and Cox proportional hazards regression for scoring. Performance was assessed by discrimination (a time-dependent area under the curve [AUC], the Harrell C-index, and integrated AUC [iAUC]), calibration (plots, slope, observed-to-expected event ratio, and Brier score), and clinical utility (decision curve analysis).</p><h3>Results</h3><p>Among 51\u202f933 recipients (median age, 59 years [5th-95th percentile range, 27-71 years]; 57.6% men), the median follow-up was 8.97 years (95% CI, 8.93-8.99 years), and 31\u202f865 (61.4%) experienced an event. Nine predictors were selected for the final model: length of hospital stay, recipient age, single vs double transplant, posttransplant ventilation support, prior cardiac surgery, creatinine level at transplant, functional status, total bilirubin level, and donor age. In the unseen testing set, the model showed moderate discrimination with an iAUC of 0.61 (95% CI, 0.60-0.63) and a C-index of 0.64 (95% CI, 0.63-0.64). The time-dependent AUC was 0.61 (95% CI, 0.52-0.70) at 1 year, 0.59 (95% CI, 0.53-0.65) at 5 years, and 0.72 (95% CI, 0.55-0.85) at 10 years. The model was well calibrated, and the decision curve analysis demonstrated a consistent net benefit across threshold probabilities.</p><h3>Conclusions and Relevance</h3><p>In this large prognostic study, the interpretable hybrid model provided practical, personalized risk stratification for lung transplant outcomes. With moderate discrimination, good calibration, and clear clinical utility, the model supports shared decision-making and is accessible via a web-based calculator.</p>",
-            "date_published": "2025-11-25T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
+            "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2841460",
+            "title": "Adoption of Artificial Intelligence in the Health Care Sector",
+            "summary": "This cross-sectional study examines artificial intelligence use in health care and other industries according to US firms participating in the 2023 to 2025 Business Trends and Outlook Survey.",
+            "content_text": "This cross-sectional study examines artificial intelligence use in health care and other industries according to US firms participating in the 2023 to 2025 Business Trends and Outlook Survey.",
+            "date_published": "2025-11-21T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Gaurav Sharma, PhD, MBA"
+                    "name": "Thuy D. Nguyen, PhD"
                 }
             ],
             "tags": [
-                "calibration",
-                "lung transplantation",
-                "machine learning",
-                "organ procurement and transplantation network",
-                "retransplantation",
-                "united network for organ sharing"
+                "artificial intelligence",
+                "health care sector"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2841822/sharma_2025_oi_251228_1763504214.31251.pdf",
+                    "url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2841460/nguyen_2025_ld_250054_1762800967.6263.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939722/zoi251228f1_1763504214.43895.png?Expires=2147483647&Signature=aky5OodlkWOc9Zx3cK6UJC0XNZIpJQqiFdtr5JYMUAlEk8cHgr~Ero1cpU6ZwZjWoUPZn7nrDRA1eQuwEFnNFVDMpzSOEh6sYSCnTtpO7LFXIjXEEUvJI7y-w0DHbOkVdujfpm-ctose9l3e7KV2SOvr9cSsOhMn6V2patzCI8CMo7p8VOf5Rr6RL7pEPzAEM1MgdHydYoZCTTtji0htME3JQLHmrVp~JkGe-g0MEoDICJ5EBjzM5~8x-MYY-lpuSgaQ9bOE6ndHmLj0jvs~jauwlaoXFHLvb~F3tdrhDrlG3G-0iZsiOHqtBf63eT4UcyRJ9tmeLZJsNplHk1ahZw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama-health-forum/939721/ald250054f1_1762800967.7816.png?Expires=2147483647&Signature=lFFPuMArc~eBjYqSkC7N1EkHAv78lJ723rYZ0s0WjWOzaWCSqASENSsu9~Ki8UG7zvoZCvFvILEz6YyjdgHDqsfFNKh8KdKMboX3HiSBC8KJ0bwNrsG2CLuX-R4d040-PHdSyuJIM06kgb2p5Ws6fXHi8y3m6nUNW1R4Hixd~fFUG0cvyBC1YKK7VDdbR~CJiyswj1XSEFxsNvR05aV6FDIdFFUpZhXTMxORAY~lQdDqBh68iSoPOK~6x8tiyjw0RCIguiWorkZc~8~KHWcfqDe4h8izoef5fHUgB7vFaZjgsuMHlXBdd5q66Xn5woLml5oC1QTzA~-CaCf5s4mWbQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
