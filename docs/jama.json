@@ -4,58 +4,56 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839290",
-            "title": "Characterizing Clinical LLMs\u2014From Responses to Behavior",
-            "summary": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "content_text": "Picture an artificial intelligence\u2013powered clinical decision support system that evaluates 2 patients with identical abdominal pain symptoms. The first patient\u2019s case includes demographic information that indicates low socioeconomic status, while the second case contains no demographic identifiers. The system recommends mental health screening for the first patient and standard gastroenterological workup for the second. This scenario exemplifies the consistent bias patterns that Levartovsky et al 1 document in their investigation of clinical large language models (LLMs). The significance of their work, however, transcends bias detection; it provides empirical evidence for characterization of response patterns in clinical LLMs. Through comprehensive experimentation, the authors demonstrate that clinical LLM responses can be biased by sociodemographic information.",
-            "date_published": "2025-09-24T09:00:00-04:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842883",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842883",
+            "title": "Large Language Models and Communication of Medical Probabilities",
+            "summary": "This diagnostic study investigates how chatbots interpret probability terms, such as rare, common, and possible, when describing medical risk.",
+            "content_text": "This diagnostic study investigates how chatbots interpret probability terms, such as rare, common, and possible, when describing medical risk.",
+            "date_published": "2025-12-17T09:00:00-05:00",
             "authors": [
                 {
-                    "name": "Sangwon Baek, BA"
+                    "name": "Nicholas J. Jackson, BS"
                 }
             ],
             "tags": [
-                "gastroenterology (field)",
-                "hepatology (field)",
+                "chatbots",
+                "informatics (discipline)",
                 "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839290/baek_2025_ic_250231_1758058622.82033.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2842883/jackson_2025_ld_250294_1765381159.44613.pdf",
+                    "mime_type": "application/pdf"
+                }
+            ],
+            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/939740/zld250294t1_1765381159.60613.png?Expires=2147483647&Signature=i1xrgfzEr7K5ADt9tggop3ciCATCVY8VN5xS86GDOOqDFTWusNd2aSpBsP6JCB74gr2M1l2NyQ7U9dD8rG6v1IPP3fHlCn3l0vp3XsNXW9Lz4jU4bC8v5HQSWiAspwdB0VOC-1lILsVubPuuTH36hP6GF1D1j~ccncBwX~9fa3MPlT-RECJemrXW21boCCa5kGR04hL2ebavArCoP7Lu8D2GZDEyeW5iB6TbxU3F9F4EGxyZ17-HktVhi77cQb1hbkqFaFaluZXv-89WWZUpuyWNcUy-rxzzEq34AH1vrd3SwknoJFwgeoPqNjchk1CoHeLuKmi8ycbQb2DVHH98iA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+        },
+        {
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063",
+            "title": "AI Use for Injury Surveillance in Emergency Departments",
+            "summary": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "content_text": "Artificial Intelligence (AI) can significantly enhance the efficiency and accuracy of injury surveillance systems by automating manual tasks. Singh et al 1 demonstrate the successful deployment of natural language processing (NLP) algorithms using transformer models to automate the detection of injured patients presenting to emergency departments (EDs) and generate summaries of injury events from triage notes. This automation was demonstrated to reduce the previously largely manual medical record screening workload by 83%, allowing health care professionals to focus on higher-value tasks. Singh et al 1 show the use of AI to automate injury surveillance tasks has significant potential to improve efficiency and thereby reduce costs. Their model, developed using the DistilBERT-base-uncased architecture, reduced the number of medical records requiring manual review across different datasets. This reduction in manual effort enables health care systems to allocate resources more effectively, potentially leading to faster injury reporting and improved public health responses. In the ED setting particularly, this can give back time to clinicians who are increasingly overburdened with rising presentation numbers and increasingly complex caseloads.",
+            "date_published": "2025-07-31T09:00:00-04:00",
+            "authors": [
+                {
+                    "name": "Lisa N. Sharwood, PhD, GradDip Hlth Data Sci, MPH, GradDip Adv Nsg (Critical Care), BN, RN"
+                }
+            ],
+            "tags": [
+                "emergency service",
+                "ethics",
+                "hospital",
+                "informatics (discipline)",
+                "privacy"
+            ],
+            "attachments": [
+                {
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837063/sharwood_2025_ic_250171_1753367778.77486.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
             "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
-        },
-        {
-            "id": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2836028",
-            "title": "FDA Draft Guidelines for AI and the Need for Ethical Frameworks",
-            "summary": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "content_text": "This Viewpoint discusses the US Food and Drug Administration (FDA) guidance on the role of artificial intelligence (AI) in the drug and biological product life cycle, including the consideration of questions of uncertainty, accuracy, reliability, fit for purpose, and the facilitation of responsible use of AI in drug and biological product development.",
-            "date_published": "2025-07-07T09:00:00-04:00",
-            "authors": [
-                {
-                    "name": "Anjali D. Deshmukh, MD, JD"
-                }
-            ],
-            "tags": [
-                "artificial intelligence",
-                "biological products",
-                "ethics",
-                "facilitation",
-                "guidelines",
-                "life cycle stages",
-                "united states food and drug administration"
-            ],
-            "attachments": [
-                {
-                    "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2836028/jamapediatrics_deshmukh_2025_vp_250010_1755882468.77106.pdf",
-                    "mime_type": "application/pdf"
-                }
-            ],
-            "image": "https://cdn.jamanetwork.com/Images/Logos/Pediatrics.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
