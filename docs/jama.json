@@ -4,57 +4,53 @@
     "home_page_url": "https://jamanetwork.com/channels/ai",
     "items": [
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2842978",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2842978",
-            "title": "AI and Health\u2014The Year in Review",
-            "summary": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, spoke with JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, for JAMA+ AI Conversations.",
-            "content_text": "JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, spoke with JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, for JAMA+ AI Conversations.",
-            "date_published": "2025-12-18T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839747",
+            "title": "AI-Augmented Electron Microscopy for Glomerular Disease Diagnosis",
+            "summary": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
+            "content_text": "Accurate diagnosis of glomerular diseases remains essential for guiding patient treatment yet remains challenging in many complex cases. This study by Ma et al 1 presents a promising digital pathology tool using transmission electron microscopy (TEM) images, known as TEM-AID. This system directly addresses a longstanding limitation in glomerular disease diagnostics: the dependence on expert interpretation of electron microscopy (EM) images. Developed using 160 727 images from 31 670 patients across 6 centers, with model training and internal validation performed using data from a single center and independent external validation conducted across 5 additional institutions, Ma et al 1 developed a multicomponent artificial intelligence (AI) system integrating segmentation, measurement, and classification modules to identify ultrastructural abnormalities and classify 7 distinct glomerulonephritis subtypes.",
+            "date_published": "2025-10-07T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "Roy Perlis, MD, MSc"
+                    "name": "Wisit Cheungpasitporn, MD"
                 }
             ],
             "tags": [
-                "mesenchymal stem cells"
+                "nephrology speciality",
+                "renal glomerular disease"
             ],
             "attachments": [
                 {
-                    "url": null,
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2839747/cheungpasitporn_2025_ic_250245_1759258684.10434.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jmm250003fa_1765495077.05952.png?Expires=2147483647&Signature=42IIRmyZUx4c5EJqYNFBAq~ASzMwGqrfFq9PDhIAgqtNDBElx5n3pz8TnItukkScvnkg5SCUabdGLtCI7JMbOdsmVtGC3Qiaiwh6-7UHq0CJ-XT2Tl7M7EwS0yZeRO-8UO15l8GkbekusioUPBEmYr-BIIwuEp48fdVKj3Zw2QKdm3FhSz3BpJdXYk5kiOccpuo6GMA~CEMIFDs7dsV8bBNlfchzeFQzV~e4-maptgORVtYmCbblUOwvwd0yp2NnzUXFpZeBAs--CDyF3KRvUIWe0rvz6yU~s4kxQX4HkKuaFXF~A3vFCS8x3iTsS6pihEtmdxnXbrHiLB1DrnTGjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
-            "id": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "url": "https://jamanetwork.com/journals/jama/fullarticle/2829238",
-            "title": "Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement",
-            "summary": "This 2025 Recommendation Statement from the US Preventive Services Task Force recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older (B recommendation) and postmenopausal women younger than 65 years at increased risk for an osteoporotic fracture (B recommendation) and concludes that current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men (I statement).",
-            "content_html": "<h3>Importance</h3><p>Osteoporotic fractures are associated with psychological distress, subsequent fractures, loss of independence, reduced ability to perform activities of daily living, and death.</p><h3>Objective</h3><p>The US Preventive Services Task Force (USPSTF) commissioned a systematic review to evaluate the evidence on the benefits and harms of screening for osteoporosis to prevent fractures in adults 40 years or older with no known diagnosis of osteoporosis or history of fragility fracture.</p><h3>Population</h3><p>Adults 40 years or older without known osteoporosis or history of fragility fractures.</p><h3>Evidence Assessment</h3><p>The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older has moderate net benefit. The USPSTF concludes with moderate certainty that screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years at increased risk has moderate net benefit. The USPSTF concludes that the evidence is insufficient and the balance of benefits and harms for screening for osteoporosis to prevent osteoporotic fractures in men cannot be determined.</p><h3>Recommendation</h3><p>The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in women 65 years or older. (B recommendation) The USPSTF recommends screening for osteoporosis to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk for an osteoporotic fracture as estimated by clinical risk assessment. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for osteoporosis to prevent osteoporotic fractures in men. (I statement)</p>",
-            "date_published": "2025-01-14T09:00:00-05:00",
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837488",
+            "title": "Advancing Toward Clinical Deployment of AI-Generated Discharge Summaries\u2014Beyond the Bench",
+            "summary": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "content_text": "The hospital discharge summary is a crucial document in a patient\u2019s safe transition of care to the community, serving as the primary communication tool for a diverse array of individuals, including primary care physicians, skilled nursing facility clinicians, consulting physicians, and increasingly, patients themselves. However, generating the hospital course (HC) (ie, the narrative portion of the discharge summary) can be time consuming and detract from face-to-face clinical care. With the rapid advancement of large language models (LLMs) in health care, there is growing interest in their potential to draft HCs for physician review and editing. While artificial intelligence (AI) ambient scribing technology is witnessing widespread adoption in the outpatient setting, summarizing a full set of hospital encounter notes is a substantially more complex task.",
+            "date_published": "2025-08-13T09:00:00-04:00",
             "authors": [
                 {
-                    "name": "US Preventive Services Task Force"
+                    "name": "Charumathi Raghu Subramanian, MD"
                 }
             ],
             "tags": [
-                "elderly",
-                "fracture",
-                "osteoporosis",
-                "osteoporotic fractures",
-                "postmenopause",
-                "screening for osteoporosis",
-                "screening procedure",
-                "united states preventive services task force"
+                "human placental lactogen",
+                "informatics (discipline)",
+                "large language models"
             ],
             "attachments": [
                 {
-                    "url": "https://jamanetwork.com/journals/jama/articlepdf/2829238/jama_nicholson_2025_us_240012_1738701754.05636.pdf",
+                    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2837488/raghu_subramanian_2025_ic_250185_1754331303.51111.pdf",
                     "mime_type": "application/pdf"
                 }
             ],
-            "image": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/939551/jus240012fa_1738701754.22136.png?Expires=2147483647&Signature=lgv-edKudkkxCjEz5x4Z8ZBjlxKAPwskM3g0NrCeOw7mdFjFF~FLSqBN5vjRH6VjbgFuTIMRpDyT-KdJR5T8sA2zWOs-HCUVtzqhs8ZuVLXKjzctLenbV5HD407j2h-cl4r9z7zSEJcMDNYM-r8twqIedqR-NLqKLEgPIABQP4xVtHf46WzUZvSgkEc2BDAbL5XD4s1xIsFJuVWN9tL7dFjD5gHezzo1Ro5Lwq8ApZB40OQrw8Cro-BJ~64CDeI~wY2QAM0L~WF-rDNB3QkFbsdynHOm2H3cOtRbxOsGSKF2PLFJc3cp27jxKaWppP8rjy11~TbQAOalwScNDbZM9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+            "image": "https://cdn.jamanetwork.com/Images/Logos/.png"
         },
         {
             "id": "https://jamanetwork.com/journals/jama/fullarticle/2827434",
